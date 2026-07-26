@@ -1,0 +1,57 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import { t, type Locale, type LocalizedText } from "../i18n";
+
+interface Headline {
+  text: LocalizedText;
+  sourceName: string;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  headlines: Headline[];
+}
+
+const { locale, headlines } = Astro.props;
+const [latest, ...previous] = headlines;
+---
+
+{
+  latest && (
+    <div class="headline--latest card">
+      <p class="headline__badge">{t(locale, "history.latestBadge")}</p>
+      <p>{latest.text[locale]}</p>
+      <SourceMeta
+        locale={locale}
+        sourceUrl={latest.sourceUrl}
+        verifiedAt={latest.verifiedAt}
+        sourceName={latest.sourceName}
+      />
+    </div>
+  )
+}
+
+{
+  previous.length > 0 && (
+    <details class="disclosure">
+      <summary>{t(locale, "history.previousUpdates", { n: String(previous.length) })}</summary>
+      <div class="disclosure__body">
+        <ul class="headline-list">
+          {previous.map((headline) => (
+            <li class="card">
+              <p>{headline.text[locale]}</p>
+              <SourceMeta
+                locale={locale}
+                sourceUrl={headline.sourceUrl}
+                verifiedAt={headline.verifiedAt}
+                sourceName={headline.sourceName}
+              />
+            </li>
+          ))}
+        </ul>
+      </div>
+    </details>
+  )
+}

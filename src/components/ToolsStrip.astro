@@ -1,0 +1,39 @@
+---
+import { t, type Locale, type LocalizedText } from "../i18n";
+import { externalLinkAttrs, tierLabel, type SourceTier } from "../lib/links";
+
+interface Tool {
+  id: string;
+  label: LocalizedText;
+  hint: LocalizedText;
+  url: string;
+  tier: SourceTier;
+}
+
+interface Props {
+  locale: Locale;
+  tools: Tool[];
+}
+
+const { locale, tools } = Astro.props;
+---
+
+{
+  tools.length > 0 && (
+    <section class="tools-strip" aria-labelledby="tools-heading">
+      <h2 id="tools-heading">{t(locale, "tools.title")}</h2>
+      <p class="tools-strip__disclaimer">{t(locale, "tools.disclaimer")}</p>
+      <ul class="tools-strip__list">
+        {tools.map((tool) => (
+          <li>
+            <a href={tool.url} {...externalLinkAttrs}>
+              <span class="tools-strip__label">{tool.label[locale]}</span>
+              <span class="tools-strip__hint">{tool.hint[locale]}</span>
+              <span class="tools-strip__tier">{tierLabel(tool.tier, locale)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

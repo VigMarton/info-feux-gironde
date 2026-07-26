@@ -1,0 +1,28 @@
+---
+import { formatDateTime, t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+  sourceUrl: string;
+  verifiedAt: string;
+  sourceName?: string;
+}
+
+const { locale, sourceUrl, verifiedAt, sourceName } = Astro.props;
+
+let hostname = sourceUrl;
+try {
+  hostname = new URL(sourceUrl).hostname;
+} catch {
+  // Keep the raw string if it isn't a valid absolute URL.
+}
+---
+
+<p class="source-meta">
+  {t(locale, "sourceMeta.source")}:
+  <a href={sourceUrl} target="_blank" rel="noopener noreferrer">{sourceName ?? hostname}</a>
+  · {t(locale, "sourceMeta.verifiedAt")} <time datetime={verifiedAt}>{formatDateTime(locale, verifiedAt)}</time><span
+    class="source-meta__relative"
+    data-verified-at={verifiedAt}
+  />
+</p>

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2026-07-26-ars-smoke-advice",
+    "date": "2026-07-26T19:52:00+02:00",
+    "summary": {
+      "fr": "Ajout des recommandations sanitaires de l'ARS sur les fumées et la qualité de l'air ; précision sur les nombreuses routes et pistes cyclables fermées au-delà de l'A63.",
+      "en": "Added the ARS health agency's smoke/air-quality advice for the public; clarified that many roads and cycling paths beyond the A63 are also closed.",
+      "es": "Se añadieron las recomendaciones sanitarias de la ARS sobre el humo y la calidad del aire; se aclaró que, además de la A63, hay numerosas carreteras y carriles bici cerrados.",
+      "de": "Die Rauch-/Luftqualitätsempfehlungen der Gesundheitsbehörde ARS wurden hinzugefügt; klargestellt, dass neben der A63 auch zahlreiche weitere Straßen und Radwege gesperrt sind.",
+      "nl": "De gezondheidsadviezen van de ARS over rook en luchtkwaliteit zijn toegevoegd; verduidelijkt dat naast de A63 ook talrijke andere wegen en fietspaden gesloten zijn."
+    }
+  },
+  {
+    "id": "2026-07-26-bordeaux-metropole-recheck",
+    "date": "2026-07-26T19:41:00+02:00",
+    "summary": {
+      "fr": "Re-vérification de la page Bordeaux Métropole (accueil des évacués) : contenu toujours à jour ; ajout du numéro d'information incendies 06 70 80 90 40 (9h-17h30).",
+      "en": "Re-checked the Bordeaux Métropole reception-centre page: content still accurate; added the fire-info line 06 70 80 90 40 (9am-5:30pm).",
+      "es": "Se volvió a verificar la página de Bordeaux Métropole (acogida de evacuados): el contenido sigue vigente; se añadió la línea de información sobre incendios 06 70 80 90 40 (9h-17h30).",
+      "de": "Die Seite von Bordeaux Métropole (Aufnahme von Evakuierten) wurde erneut geprüft: Inhalt weiterhin aktuell; Info-Hotline Brände 06 70 80 90 40 (9-17:30 Uhr) hinzugefügt.",
+      "nl": "De pagina van Bordeaux Métropole (opvang van geëvacueerden) is opnieuw gecontroleerd: inhoud nog steeds actueel; infolijn branden 06 70 80 90 40 (9-17.30 uur) toegevoegd."
+    }
+  },
+  {
+    "id": "2026-07-26-trust-about",
+    "date": "2026-07-26T18:15:00+02:00",
+    "summary": {
+      "fr": "Ajout d'un avertissement plus clair sur notre statut de site citoyen indépendant, d'un historique des mises à jour et d'une section « À propos ».",
+      "en": "Added a clearer independent-citizen-site disclaimer, a visible update history, and an About section.",
+      "es": "Se añadió un aviso más claro sobre nuestro estatus de sitio ciudadano independiente, un historial de actualizaciones y una sección «Acerca de».",
+      "de": "Ein klarerer Hinweis auf unseren Status als unabhängige Bürgerseite, ein sichtbarer Änderungsverlauf und ein Abschnitt „Über uns\" wurden hinzugefügt.",
+      "nl": "Een duidelijkere disclaimer over onze status als onafhankelijk burgerinitiatief, een zichtbare updategeschiedenis en een 'Over ons'-sectie zijn toegevoegd."
+    }
+  },
+  {
+    "id": "2026-07-26-content-refresh",
+    "date": "2026-07-26T17:10:00+02:00",
+    "summary": {
+      "fr": "Zones évacuées, centres d'accueil, chiffres et contacts officiels mis à jour avec les derniers communiqués de la préfecture et de Bordeaux Métropole.",
+      "en": "Updated evacuated areas, reception centres, figures and official contacts with the latest préfecture and Bordeaux Métropole press releases.",
+      "es": "Se actualizaron las zonas evacuadas, los centros de acogida, las cifras y los contactos oficiales con los últimos comunicados de la préfecture y de Bordeaux Métropole.",
+      "de": "Evakuierte Gebiete, Aufnahmezentren, Zahlen und offizielle Kontakte wurden mit den neuesten Pressemitteilungen der Präfektur und der Bordeaux Métropole aktualisiert.",
+      "nl": "Geëvacueerde gebieden, opvangcentra, cijfers en officiële contactgegevens zijn bijgewerkt met de nieuwste persberichten van de prefectuur en Bordeaux Métropole."
+    }
+  },
+  {
+    "id": "2026-07-26-launch",
+    "date": "2026-07-26T13:00:00+02:00",
+    "summary": {
+      "fr": "Mise en ligne initiale du site : situation, évacuation, aide et autres besoins, avec liens exclusivement vers des sources officielles.",
+      "en": "Initial launch of the site: situation, evacuation, help and other needs, linking exclusively to official sources.",
+      "es": "Lanzamiento inicial del sitio: situación, evacuación, ayuda y otras necesidades, con enlaces exclusivamente a fuentes oficiales.",
+      "de": "Erster Start der Website: Lage, Evakuierung, Hilfe und weitere Anliegen, ausschließlich mit Links zu offiziellen Quellen.",
+      "nl": "Eerste lancering van de site: situatie, evacuatie, hulp en overige behoeften, met links uitsluitend naar officiële bronnen."
+    }
+  }
+]

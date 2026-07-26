@@ -1,0 +1,20 @@
+[
+  {
+    "id": "parc-expo-bordeaux-lac",
+    "name": "Parc des Expositions de Bordeaux-Lac",
+    "commune": "Bordeaux",
+    "address": "Porte M, cours Jules Ladoumègue, Bordeaux-Lac",
+    "lat": 44.894736,
+    "lon": -0.578519,
+    "notes": {
+      "fr": "Site conçu pour accueillir jusqu'à 10 000 personnes (chiffre officiel de capacité maximale, pas un indicateur de disponibilité en temps réel). Accueil réservé aux personnes évacuées (pas de dons ni de bénévoles sur place) — privilégier la sortie 4. Douches disponibles au complexe sportif Colette Besson à proximité ; un espace est dédié à l'accueil des animaux.",
+      "en": "Site designed to hold up to 10,000 people (an official maximum-capacity figure, not a real-time availability indicator). Reserved for evacuees (no donations or walk-in volunteers on site) — use exit 4. Showers are available at the nearby Colette Besson sports complex; a dedicated area exists for pets.",
+      "es": "Recinto diseñado para acoger hasta 10.000 personas (cifra oficial de capacidad máxima, no un indicador de disponibilidad en tiempo real). Reservado para personas evacuadas (sin donaciones ni voluntarios sin cita en el lugar) — utilice la salida 4. Hay duchas disponibles en el cercano complejo deportivo Colette Besson; existe un espacio dedicado a los animales.",
+      "de": "Standort ausgelegt für bis zu 10.000 Personen (offizielle Höchstkapazität, kein Echtzeit-Verfügbarkeitsindikator). Reserviert für Evakuierte (keine Spenden oder spontanen Freiwilligen vor Ort) — bitte Ausgang 4 nutzen. Duschen sind im nahegelegenen Sportkomplex Colette Besson verfügbar; ein eigener Bereich ist für Tiere vorgesehen.",
+      "nl": "Locatie ontworpen voor maximaal 10.000 mensen (officieel maximum, geen realtime beschikbaarheidsindicator). Uitsluitend voor geëvacueerden (geen donaties of spontane vrijwilligers ter plaatse) — gebruik uitgang 4. Douches zijn beschikbaar in het nabijgelegen sportcomplex Colette Besson; er is een aparte ruimte voor huisdieren."
+    },
+    "officialUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  }
+]

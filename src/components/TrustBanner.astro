@@ -1,0 +1,20 @@
+---
+import { formatDateTime, t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+  lastFullCheck: string;
+}
+
+const { locale, lastFullCheck } = Astro.props;
+---
+
+<div class="trust-banner" role="note">
+  <div class="trust-banner__inner">
+    <p class="trust-banner__message">{t(locale, "banner.unofficial")}</p>
+    <p class="trust-banner__submessage">{t(locale, "banner.infoMayChange")}</p>
+    <p class="trust-banner__timestamp">
+      {t(locale, "banner.lastCheck", { date: formatDateTime(locale, lastFullCheck) })}
+    </p>
+  </div>
+</div>

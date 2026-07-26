@@ -1,0 +1,97 @@
+[
+  {
+    "id": "tool-fr-alert",
+    "label": {
+      "fr": "FR-Alert",
+      "en": "FR-Alert",
+      "es": "FR-Alert",
+      "de": "FR-Alert",
+      "nl": "FR-Alert"
+    },
+    "hint": {
+      "fr": "Comment recevoir les alertes d'urgence",
+      "en": "How emergency alerts work on your phone",
+      "es": "Cómo recibir las alertas de emergencia",
+      "de": "So funktionieren Notfall-Alerts auf dem Telefon",
+      "nl": "Hoe noodmeldingen op uw telefoon werken"
+    },
+    "url": "https://www.fr-alert.gouv.fr/",
+    "tier": 0
+  },
+  {
+    "id": "tool-meteo-forets",
+    "label": {
+      "fr": "Météo des forêts",
+      "en": "Forest fire risk",
+      "es": "Riesgo de incendio forestal",
+      "de": "Waldbrandrisiko",
+      "nl": "Bosbrandrisico"
+    },
+    "hint": {
+      "fr": "Niveau de danger officiel par département",
+      "en": "Official danger level by département",
+      "es": "Nivel de peligro oficial por departamento",
+      "de": "Offizielle Gefahrenstufe nach Département",
+      "nl": "Officieel gevaar niveau per département"
+    },
+    "url": "https://meteofrance.com/meteo-des-forets",
+    "tier": 0
+  },
+  {
+    "id": "tool-inforoutes",
+    "label": {
+      "fr": "Inforoutes Gironde",
+      "en": "Gironde road info",
+      "es": "Inforoutes Gironde",
+      "de": "Inforoutes Gironde",
+      "nl": "Inforoutes Gironde"
+    },
+    "hint": {
+      "fr": "Routes et pistes cyclables fermées",
+      "en": "Closed roads and cycling paths",
+      "es": "Carreteras y carriles bici cerrados",
+      "de": "Gesperrte Straßen und Radwege",
+      "nl": "Afgesloten wegen en fietspaden"
+    },
+    "url": "https://www.gironde.fr/deplacements/inforoutes",
+    "tier": 1
+  },
+  {
+    "id": "tool-centres-accueil",
+    "label": {
+      "fr": "Centres d'accueil",
+      "en": "Reception centres",
+      "es": "Centros de acogida",
+      "de": "Aufnahmezentren",
+      "nl": "Opvangcentra"
+    },
+    "hint": {
+      "fr": "Liste et adresses (PDF préfecture)",
+      "en": "List and addresses (préfecture PDF)",
+      "es": "Lista y direcciones (PDF de la prefectura)",
+      "de": "Liste und Adressen (PDF der Präfektur)",
+      "nl": "Lijst en adressen (pdf van de prefectuur)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
+    "tier": 0
+  },
+  {
+    "id": "tool-prefecture",
+    "label": {
+      "fr": "Communiqués préfecture",
+      "en": "Préfecture updates",
+      "es": "Comunicados de la prefectura",
+      "de": "Mitteilungen der Präfektur",
+      "nl": "Persberichten prefectuur"
+    },
+    "hint": {
+      "fr": "Derniers points de situation officiels",
+      "en": "Latest official situation briefings",
+      "es": "Últimos puntos de situación oficiales",
+      "de": "Neueste offizielle Lageberichte",
+      "nl": "Laatste officiële situatieberichten"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
+    "tier": 0
+  }
+]

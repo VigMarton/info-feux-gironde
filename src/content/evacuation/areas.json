@@ -1,0 +1,54 @@
+[
+  {
+    "id": "marcheprime-le-barp-biganos-mios-cestas",
+    "commune": "Marcheprime, Le Barp, Biganos, Mios, Cestas",
+    "description": {
+      "fr": "Évacuation immédiate ordonnée le 25 juillet au soir pour de nouveaux secteurs menacés par la reprise de l'incendie dans ces cinq communes (environ 55 000 personnes concernées cette nuit-là).",
+      "en": "Immediate evacuation ordered on the evening of 25 July for newly threatened sectors in these five communes as the fire flared up again (around 55,000 people affected that night).",
+      "es": "Evacuación inmediata ordenada la noche del 25 de julio para nuevos sectores amenazados por la reactivación del incendio en estos cinco municipios (unas 55.000 personas afectadas esa noche).",
+      "de": "Am Abend des 25. Juli wurde die sofortige Evakuierung neu bedrohter Gebiete in diesen fünf Gemeinden angeordnet, da der Brand erneut aufgelodert war (etwa 55.000 betroffene Personen in dieser Nacht).",
+      "nl": "Op de avond van 25 juli werd onmiddellijke evacuatie bevolen voor nieuw bedreigde sectoren in deze vijf gemeenten doordat de brand weer oplaaide (ongeveer 55.000 mensen die nacht getroffen)."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "st-aubin-st-medard-martignas-st-jean-dillac",
+    "commune": "Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle, Saint-Jean-d'Illac",
+    "description": {
+      "fr": "Évacuation immédiate ordonnée par FR-Alert le 25 juillet pour les secteurs menacés de ces quatre communes.",
+      "en": "Immediate evacuation ordered via FR-Alert on 25 July for threatened sectors in these four communes.",
+      "es": "Evacuación inmediata ordenada mediante FR-Alert el 25 de julio para los sectores amenazados de estos cuatro municipios.",
+      "de": "Am 25. Juli wurde per FR-Alert die sofortige Evakuierung bedrohter Gebiete in diesen vier Gemeinden angeordnet.",
+      "nl": "Op 25 juli werd via FR-Alert onmiddellijke evacuatie bevolen voor bedreigde sectoren in deze vier gemeenten."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "cap-ferret-peninsula-villages",
+    "commune": "Claouey, Le Four, Les Jacquets, Petit Piquey, Grand Piquey (presqu'île du Cap-Ferret)",
+    "description": {
+      "fr": "Évacuation immédiate ordonnée par FR-Alert pour ces villages de la presqu'île, à rejoindre par la D106 en direction de Bordeaux uniquement.",
+      "en": "Immediate evacuation ordered via FR-Alert for these peninsula villages, to be reached only via the D106 towards Bordeaux.",
+      "es": "Evacuación inmediata ordenada mediante FR-Alert para estos pueblos de la península, a los que solo se puede acceder por la D106 en dirección a Burdeos.",
+      "de": "Per FR-Alert wurde die sofortige Evakuierung dieser Dörfer auf der Halbinsel angeordnet; die Anfahrt erfolgt ausschließlich über die D106 in Richtung Bordeaux.",
+      "nl": "Via FR-Alert werd onmiddellijke evacuatie bevolen voor deze dorpen op het schiereiland, alleen te bereiken via de D106 in de richting van Bordeaux."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-foret-declenchement-de-FR-Alert",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "le-porge-saumos-le-temple-lege-cap-ferret",
+    "commune": "Le Porge, Saumos, Le Temple, Lège-Cap-Ferret",
+    "description": {
+      "fr": "Évacuations préventives décidées à partir du 23 juillet pour ces communes proches du feu de Saumos (près de 20 000 personnes concernées au 24 juillet).",
+      "en": "Preventive evacuations ordered from 23 July for these communes near the Saumos fire (close to 20,000 people affected as of 24 July).",
+      "es": "Evacuaciones preventivas decididas a partir del 23 de julio para estos municipios cercanos al incendio de Saumos (cerca de 20.000 personas afectadas el 24 de julio).",
+      "de": "Ab dem 23. Juli wurden vorsorgliche Evakuierungen für diese Gemeinden in der Nähe des Brandes von Saumos angeordnet (rund 20.000 betroffene Personen zum 24. Juli).",
+      "nl": "Vanaf 23 juli werden preventieve evacuaties bevolen voor deze gemeenten nabij de brand van Saumos (bijna 20.000 mensen getroffen op 24 juli)."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-cours-point-de-situation-a-21h30",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  }
+]

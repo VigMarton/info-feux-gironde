@@ -1,0 +1,17 @@
+---
+import { t, type Locale } from "../i18n";
+import SectionIcon from "./SectionIcon.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+---
+
+<section id="about" aria-labelledby="about-heading">
+  <h2 id="about-heading"><SectionIcon name="about" />{t(locale, "about.title")}</h2>
+  <p>{t(locale, "about.body1")}</p>
+  <p>{t(locale, "about.body2")}</p>
+  <p>{t(locale, "about.body3")}</p>
+</section>

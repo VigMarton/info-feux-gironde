@@ -1,0 +1,36 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import { mapUrl } from "../lib/links";
+import { t, type Locale, type LocalizedText } from "../i18n";
+
+interface Shelter {
+  name: string;
+  commune: string;
+  address: string;
+  lat?: number;
+  lon?: number;
+  notes?: LocalizedText;
+  officialUrl: string;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  shelter: Shelter;
+  /** Kill switch mode: hide free-text notes, keep the stable address/link/map. */
+  hideNotes?: boolean;
+}
+
+const { locale, shelter, hideNotes = false } = Astro.props;
+const map = mapUrl(shelter);
+---
+
+<div class="shelter-card card">
+  <h3>{shelter.name}</h3>
+  <p class="shelter-card__address">{shelter.address}, {shelter.commune}</p>
+  <p><a href={map} target="_blank" rel="noopener noreferrer">{t(locale, "shelter.viewMap")}</a></p>
+  {!hideNotes && shelter.notes && <p>{shelter.notes[locale]}</p>}
+  <p><a href={shelter.officialUrl} target="_blank" rel="noopener noreferrer">{t(locale, "shelter.officialLink")}</a></p>
+  <SourceMeta locale={locale} sourceUrl={shelter.sourceUrl} verifiedAt={shelter.verifiedAt} />
+</div>

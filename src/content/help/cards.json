@@ -1,0 +1,112 @@
+[
+  {
+    "id": "donate-goods",
+    "title": {
+      "fr": "Faire un don de matériel",
+      "en": "Donate goods",
+      "es": "Hacer una donación de material",
+      "de": "Sachspende leisten",
+      "nl": "Materiaal doneren"
+    },
+    "description": {
+      "fr": "Les dons sont centralisés par votre mairie, qui les achemine directement. Ne déposez rien au Parc des Expositions.",
+      "en": "Donations are centralised by your local town hall, which forwards them on. Do not drop anything off at the Exhibition Centre.",
+      "es": "Las donaciones se centralizan en su ayuntamiento, que las hace llegar directamente. No deje nada en el Parque de Exposiciones.",
+      "de": "Spenden werden zentral über Ihr Rathaus gesammelt und von dort weitergeleitet. Bringen Sie nichts zum Ausstellungszentrum.",
+      "nl": "Donaties worden gecentraliseerd via uw gemeentehuis, dat ze rechtstreeks doorstuurt. Breng niets naar het beursgebouw."
+    },
+    "actionLabel": {
+      "fr": "Voir les besoins prioritaires et contacter sa mairie",
+      "en": "See priority needs and contact your town hall",
+      "es": "Ver las necesidades prioritarias y contactar con su ayuntamiento",
+      "de": "Vorrangigen Bedarf ansehen und Rathaus kontaktieren",
+      "nl": "Bekijk de prioritaire behoeften en neem contact op met uw gemeentehuis"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "phone": "0 800 006 090",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  },
+  {
+    "id": "volunteer",
+    "title": {
+      "fr": "Devenir bénévole",
+      "en": "Volunteer",
+      "es": "Ser voluntario",
+      "de": "Freiwillig helfen",
+      "nl": "Vrijwilliger worden"
+    },
+    "description": {
+      "fr": "Les besoins en bénévoles sont coordonnés uniquement par les mairies. Ne vous présentez pas directement au Parc des Expositions.",
+      "en": "Volunteer needs are coordinated only through town halls. Do not show up directly at the Exhibition Centre.",
+      "es": "Las necesidades de voluntariado se coordinan únicamente a través de los ayuntamientos. No se presente directamente en el Parque de Exposiciones.",
+      "de": "Der Freiwilligenbedarf wird ausschließlich über die Rathäuser koordiniert. Erscheinen Sie nicht direkt am Ausstellungszentrum.",
+      "nl": "De behoefte aan vrijwilligers wordt uitsluitend via de gemeentehuizen gecoördineerd. Meld u niet rechtstreeks bij het beursgebouw."
+    },
+    "actionLabel": {
+      "fr": "Contacter sa mairie ou remplir le formulaire",
+      "en": "Contact your town hall or fill in the form",
+      "es": "Contactar con su ayuntamiento o rellenar el formulario",
+      "de": "Rathaus kontaktieren oder Formular ausfüllen",
+      "nl": "Neem contact op met uw gemeentehuis of vul het formulier in"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "phone": "0 800 006 090",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  },
+  {
+    "id": "offer-housing",
+    "title": {
+      "fr": "Proposer un hébergement",
+      "en": "Offer housing",
+      "es": "Ofrecer alojamiento",
+      "de": "Unterkunft anbieten",
+      "nl": "Onderdak aanbieden"
+    },
+    "description": {
+      "fr": "Bordeaux Métropole recueille les offres d'hébergement via un formulaire dédié. Héberger quelqu'un engage votre responsabilité (accès digne aux sanitaires et aux repas).",
+      "en": "Bordeaux Métropole collects housing offers through a dedicated form. Hosting someone is your responsibility (dignified access to sanitation and meals).",
+      "es": "Bordeaux Métropole recoge las ofertas de alojamiento a través de un formulario específico. Alojar a alguien es su responsabilidad (acceso digno a servicios sanitarios y comidas).",
+      "de": "Bordeaux Métropole erfasst Unterkunftsangebote über ein eigenes Formular. Die Aufnahme einer Person liegt in Ihrer Verantwortung (würdiger Zugang zu Sanitäranlagen und Mahlzeiten).",
+      "nl": "Bordeaux Métropole verzamelt aanbiedingen voor onderdak via een speciaal formulier. Iemand onderdak bieden is uw eigen verantwoordelijkheid (waardige toegang tot sanitair en maaltijden)."
+    },
+    "actionLabel": {
+      "fr": "Remplir le formulaire d'hébergement",
+      "en": "Fill in the housing offer form",
+      "es": "Rellenar el formulario de alojamiento",
+      "de": "Formular für Unterkunftsangebote ausfüllen",
+      "nl": "Vul het formulier voor onderdak in"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  },
+  {
+    "id": "red-cross-support",
+    "title": {
+      "fr": "Soutien de la Croix-Rouge française",
+      "en": "Red Cross France support",
+      "es": "Apoyo de la Cruz Roja Francesa",
+      "de": "Unterstützung durch das Französische Rote Kreuz",
+      "nl": "Steun van het Franse Rode Kruis"
+    },
+    "description": {
+      "fr": "La Croix-Rouge arme des centres d'hébergement d'urgence et apporte un soutien psychologique aux personnes évacuées.",
+      "en": "Red Cross France staffs emergency shelters and provides psychological support to evacuees.",
+      "es": "La Cruz Roja gestiona centros de alojamiento de emergencia y ofrece apoyo psicológico a las personas evacuadas.",
+      "de": "Das Rote Kreuz betreibt Notunterkünfte und bietet den Evakuierten psychologische Unterstützung.",
+      "nl": "Het Rode Kruis bemant noodopvangcentra en biedt psychologische ondersteuning aan geëvacueerden."
+    },
+    "actionLabel": {
+      "fr": "En savoir plus sur leur mobilisation",
+      "en": "Learn more about their response",
+      "es": "Más información sobre su despliegue",
+      "de": "Mehr über ihren Einsatz erfahren",
+      "nl": "Meer weten over hun inzet"
+    },
+    "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
+    "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  }
+]

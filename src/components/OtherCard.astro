@@ -1,0 +1,35 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import { t, type Locale, type LocalizedText } from "../i18n";
+
+interface Card {
+  category: "pets" | "medical" | "transport" | "tourists" | "documents";
+  title: LocalizedText;
+  description: LocalizedText;
+  actionLabel: LocalizedText;
+  url?: string;
+  phone?: string;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  card: Card;
+  /** Hide the category label when already shown by a grouping heading. */
+  showCategory?: boolean;
+}
+
+const { locale, card, showCategory = true } = Astro.props;
+---
+
+<div class="other-card card">
+  {showCategory && <p class="other-card__category">{t(locale, `other.category.${card.category}`)}</p>}
+  <h3>{card.title[locale]}</h3>
+  <p>{card.description[locale]}</p>
+  {card.url && (
+    <p><a href={card.url} target="_blank" rel="noopener noreferrer">{card.actionLabel[locale]}</a></p>
+  )}
+  {card.phone && <p><a href={`tel:${card.phone.replace(/\s+/g, "")}`}>{card.phone}</a></p>}
+  <SourceMeta locale={locale} sourceUrl={card.sourceUrl} verifiedAt={card.verifiedAt} />
+</div>

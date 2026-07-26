@@ -1,0 +1,22 @@
+---
+import { t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+// Only render the mailto link once a real, monitored mailbox is configured.
+// The repo ships with a placeholder value so an unmonitored/fake address
+// never reaches production — see .env.example and docs/EDITORS.md.
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const hasRealContact = Boolean(contactEmail) && contactEmail !== "corrections@example.org";
+---
+
+<footer class="site-footer">
+  <h2>{t(locale, "footer.howWeVerify.title")}</h2>
+  <p>{t(locale, "footer.howWeVerify.body")}</p>
+  <p><a href="#about">{t(locale, "footer.aboutLink")}</a></p>
+  {hasRealContact && <p><a href={`mailto:${contactEmail}`}>{t(locale, "footer.report")}</a></p>}
+</footer>

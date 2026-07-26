@@ -1,0 +1,30 @@
+---
+import { formatDateTime, t, type Locale, type LocalizedText } from "../i18n";
+
+interface Entry {
+  id: string;
+  date: string;
+  summary: LocalizedText;
+}
+
+interface Props {
+  locale: Locale;
+  entries: Entry[];
+}
+
+const { locale, entries } = Astro.props;
+---
+
+<details class="disclosure updates-log">
+  <summary>{t(locale, "updatesLog.toggle", { n: String(entries.length) })}</summary>
+  <div class="disclosure__body">
+    <ul class="updates-log__list">
+      {entries.map((entry) => (
+        <li>
+          <time datetime={entry.date}>{formatDateTime(locale, entry.date)}</time>
+          <p>{entry.summary[locale]}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</details>

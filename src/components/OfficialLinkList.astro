@@ -1,0 +1,48 @@
+---
+import { tierLabel, type SourceTier } from "../lib/links";
+import { t, type Locale, type LocalizedText } from "../i18n";
+
+interface LinkItem {
+  label: LocalizedText;
+  url: string;
+  tier: SourceTier;
+}
+
+interface Props {
+  locale: Locale;
+  links: LinkItem[];
+  /** How many links to show before collapsing the rest behind a disclosure. */
+  visibleCount?: number;
+}
+
+const { locale, links, visibleCount = 3 } = Astro.props;
+const primary = links.slice(0, visibleCount);
+const secondary = links.slice(visibleCount);
+---
+
+<ul class="official-link-list">
+  {primary.map((link) => (
+    <li>
+      <a href={link.url} target="_blank" rel="noopener noreferrer">{link.label[locale]}</a>
+      <span class="official-link-list__tier">{tierLabel(link.tier, locale)}</span>
+    </li>
+  ))}
+</ul>
+
+{
+  secondary.length > 0 && (
+    <details class="disclosure">
+      <summary>{t(locale, "links.seeAll", { n: String(links.length) })}</summary>
+      <div class="disclosure__body">
+        <ul class="official-link-list">
+          {secondary.map((link) => (
+            <li>
+              <a href={link.url} target="_blank" rel="noopener noreferrer">{link.label[locale]}</a>
+              <span class="official-link-list__tier">{tierLabel(link.tier, locale)}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </details>
+  )
+}

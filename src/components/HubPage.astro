@@ -1,0 +1,142 @@
+---
+import { getCollection } from "astro:content";
+import AboutSection from "./AboutSection.astro";
+import AreaList from "./AreaList.astro";
+import HeadlineList from "./HeadlineList.astro";
+import HelpCard from "./HelpCard.astro";
+import KeyFacts from "./KeyFacts.astro";
+import OfficialLinkList from "./OfficialLinkList.astro";
+import OtherCard from "./OtherCard.astro";
+import SectionIcon from "./SectionIcon.astro";
+import ShelterCard from "./ShelterCard.astro";
+import StatCard from "./StatCard.astro";
+import ToolsStrip from "./ToolsStrip.astro";
+import UpdatesLog from "./UpdatesLog.astro";
+import meta from "../content/site/meta.json";
+import { t, type Locale } from "../i18n";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { filterFresh } from "../lib/freshness";
+import { groupByCategory } from "../lib/group";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const killSwitch = meta.killSwitch;
+
+const statEntries = await getCollection("stats");
+const freshStats = killSwitch ? [] : filterFresh(statEntries.map((entry) => entry.data));
+
+const headlineEntries = killSwitch ? [] : await getCollection("headlines");
+const headlines = headlineEntries.map((entry) => entry.data);
+
+const officialLinkEntries = await getCollection("officialLinks");
+const officialLinks = officialLinkEntries.map((entry) => entry.data);
+
+const areaEntries = killSwitch ? [] : await getCollection("areas");
+const areas = areaEntries.map((entry) => entry.data);
+
+const shelterEntries = await getCollection("shelters");
+const shelters = shelterEntries.map((entry) => entry.data);
+
+const helpEntries = await getCollection("helpCards");
+const helpCards = helpEntries.map((entry) => entry.data);
+
+const otherEntries = await getCollection("otherCards");
+const otherCards = otherEntries.map((entry) => entry.data);
+const otherGroups = groupByCategory(otherCards);
+
+const changelogEntries = await getCollection("changelog");
+const changelog = changelogEntries
+  .map((entry) => entry.data)
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+const toolEntries = await getCollection("tools");
+const tools = toolEntries.map((entry) => entry.data);
+
+const alertStat = freshStats.find((stat) => stat.id === "alert-level");
+---
+
+<BaseLayout locale={locale} title={t(locale, "site.title")} description={t(locale, "meta.description")}>
+  <KeyFacts locale={locale} alertStat={alertStat} latestHeadline={headlines[0]} killSwitch={killSwitch} />
+
+  <ToolsStrip locale={locale} tools={tools} />
+
+  <section id="situation" aria-labelledby="situation-heading">
+    <h2 id="situation-heading"><SectionIcon name="situation" />{t(locale, "section.situation.title")}</h2>
+    <p>{t(locale, "section.situation.intro")}</p>
+    {killSwitch && <p class="confirm-notice">{t(locale, "banner.killSwitchNotice")}</p>}
+
+    {
+      freshStats.length > 0 ? (
+        <Fragment>
+          <h3>{t(locale, "section.situation.statsHeading")}</h3>
+          <div class="stat-grid">
+            {freshStats.map((stat) => <StatCard locale={locale} stat={stat} />)}
+          </div>
+        </Fragment>
+      ) : (
+        !killSwitch && <p>{t(locale, "section.situation.staleNotice")}</p>
+      )
+    }
+
+    {
+      headlines.length > 0 && (
+        <Fragment>
+          <h3>{t(locale, "section.situation.headlinesHeading")}</h3>
+          <HeadlineList locale={locale} headlines={headlines} />
+        </Fragment>
+      )
+    }
+
+    <h3>{t(locale, "section.situation.linksHeading")}</h3>
+    <OfficialLinkList locale={locale} links={officialLinks} />
+  </section>
+
+  <section id="evacuation" aria-labelledby="evacuation-heading">
+    <h2 id="evacuation-heading"><SectionIcon name="evacuation" />{t(locale, "section.evacuation.title")}</h2>
+    <p>{t(locale, "section.evacuation.intro")}</p>
+    <p class="confirm-notice">{t(locale, "section.evacuation.confirmNotice")}</p>
+
+    {
+      areas.length > 0 && (
+        <Fragment>
+          <h3>{t(locale, "section.evacuation.areasHeading")}</h3>
+          <AreaList locale={locale} areas={areas} />
+        </Fragment>
+      )
+    }
+
+    <h3>{t(locale, "section.evacuation.sheltersHeading")}</h3>
+    <p class="confirm-notice">{t(locale, "section.evacuation.noCapacityNotice")}</p>
+    <div class="card-list">
+      {shelters.map((shelter) => <ShelterCard locale={locale} shelter={shelter} hideNotes={killSwitch} />)}
+    </div>
+  </section>
+
+  <section id="help" aria-labelledby="help-heading">
+    <h2 id="help-heading"><SectionIcon name="help" />{t(locale, "section.help.title")}</h2>
+    <p>{t(locale, "section.help.intro")}</p>
+    <div class="card-list">
+      {helpCards.map((card) => <HelpCard locale={locale} card={card} />)}
+    </div>
+  </section>
+
+  <section id="other" aria-labelledby="other-heading">
+    <h2 id="other-heading"><SectionIcon name="other" />{t(locale, "section.other.title")}</h2>
+    <p>{t(locale, "section.other.intro")}</p>
+    {otherGroups.map((group, index) => (
+      <details class="category-group" open={index === 0}>
+        <summary>{t(locale, `other.category.${group.category}`)} ({group.items.length})</summary>
+        <div class="category-group__body">
+          {group.items.map((card) => <OtherCard locale={locale} card={card} showCategory={false} />)}
+        </div>
+      </details>
+    ))}
+  </section>
+
+  <AboutSection locale={locale} />
+
+  {changelog.length > 0 && <UpdatesLog locale={locale} entries={changelog} />}
+</BaseLayout>

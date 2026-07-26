@@ -1,0 +1,73 @@
+---
+import { t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+const items = [
+  { href: "#situation", key: "triage.situation" },
+  { href: "#evacuation", key: "triage.evacuation" },
+  { href: "#help", key: "triage.help" },
+  { href: "#other", key: "triage.other" },
+] as const;
+---
+
+<nav class="triage-nav" aria-label={t(locale, "triage.ariaLabel")}>
+  <p class="triage-nav__prompt">{t(locale, "triage.title")}</p>
+  <ul>
+    {items.map((item) => (
+      <li>
+        <a href={item.href}>{t(locale, item.key)}</a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<script>
+  // Progressive enhancement only: without JS the nav still works as plain
+  // anchor links, it just won't get the shadow-on-stick or active-section
+  // highlighting.
+  const nav = document.querySelector<HTMLElement>(".triage-nav");
+  const header = document.querySelector<HTMLElement>(".site-header");
+  if (nav) {
+    if (header) {
+      // The nav sticks at top:0 right below the header; once the header has
+      // fully scrolled out of view, the nav is "stuck" and gets a shadow.
+      new IntersectionObserver(([entry]) => nav.classList.toggle("is-stuck", !entry.isIntersecting), {
+        threshold: 0,
+      }).observe(header);
+    }
+
+    const links = new Map(
+      [...nav.querySelectorAll<HTMLAnchorElement>("a[href^='#']")].map((a) => [a.getAttribute("href")?.slice(1), a]),
+    );
+    const sections = [...links.keys()]
+      .map((id) => (id ? document.getElementById(id) : null))
+      .filter((el): el is HTMLElement => el !== null);
+
+    if (sections.length > 0) {
+      const sectionObserver = new IntersectionObserver(
+        (entries) => {
+          const visible = entries
+            .filter((entry) => entry.isIntersecting)
+            .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+          if (!visible) return;
+          for (const link of links.values()) {
+            link.removeAttribute("aria-current");
+            link.classList.remove("is-active");
+          }
+          const active = links.get(visible.target.id);
+          if (active) {
+            active.classList.add("is-active");
+            active.setAttribute("aria-current", "true");
+          }
+        },
+        { rootMargin: "-40% 0px -50% 0px", threshold: [0, 0.5, 1] },
+      );
+      for (const section of sections) sectionObserver.observe(section);
+    }
+  }
+</script>

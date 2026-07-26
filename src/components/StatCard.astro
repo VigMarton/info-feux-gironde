@@ -1,0 +1,24 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import type { Locale, LocalizedText } from "../i18n";
+
+interface Stat {
+  label: LocalizedText;
+  value: LocalizedText;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  stat: Stat;
+}
+
+const { locale, stat } = Astro.props;
+---
+
+<div class="stat-card card">
+  <p class="stat-card__value">{stat.value[locale]}</p>
+  <p class="stat-card__label">{stat.label[locale]}</p>
+  <SourceMeta locale={locale} sourceUrl={stat.sourceUrl} verifiedAt={stat.verifiedAt} />
+</div>

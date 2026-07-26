@@ -1,0 +1,28 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import type { Locale, LocalizedText } from "../i18n";
+
+interface Area {
+  commune: string;
+  description: LocalizedText;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  areas: Area[];
+}
+
+const { locale, areas } = Astro.props;
+---
+
+<ul class="area-list">
+  {areas.map((area) => (
+    <li class="card">
+      <p class="area-list__commune">{area.commune}</p>
+      <p>{area.description[locale]}</p>
+      <SourceMeta locale={locale} sourceUrl={area.sourceUrl} verifiedAt={area.verifiedAt} />
+    </li>
+  ))}
+</ul>

@@ -1,0 +1,43 @@
+---
+/**
+ * Small line icons for section headings. Stroke-based so they stay calm
+ * and inherit the section accent via `currentColor`.
+ */
+interface Props {
+  name: "situation" | "evacuation" | "help" | "other" | "about";
+}
+
+const { name } = Astro.props;
+
+/** Path data for a 24×24 viewBox, stroke icons. */
+const paths: Record<Props["name"], string> = {
+  // Flame outline
+  situation:
+    "M12 3c1 3 4 4 4 8a4 4 0 1 1-8 0c0-2 1.5-3.5 2.5-5 .5 2 2 3 2.5 3.5.3-.8.8-2.2.8-3.5 0-1 .2-2 .7-3z",
+  // Map pin
+  evacuation:
+    "M12 21s-7-5.5-7-11a7 7 0 1 1 14 0c0 5.5-7 11-7 11zm0-9a2 2 0 1 0 0-4 2 2 0 0 0 0 4z",
+  // Heart
+  help: "M12 20s-7-4.2-7-9.5A4.5 4.5 0 0 1 12 7a4.5 4.5 0 0 1 7 3.5C19 15.8 12 20 12 20z",
+  // Three lines / list
+  other: "M5 7h14M5 12h10M5 17h12",
+  // Info circle
+  about: "M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18zm0-12v5m0 3h.01",
+};
+---
+
+<svg
+  class="section-icon"
+  width="22"
+  height="22"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.75"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  focusable="false"
+>
+  <path d={paths[name]} />
+</svg>

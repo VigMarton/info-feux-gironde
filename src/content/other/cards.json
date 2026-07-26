@@ -1,0 +1,170 @@
+[
+  {
+    "id": "pets-parc-expo",
+    "category": "pets",
+    "title": {
+      "fr": "Animaux de compagnie",
+      "en": "Pets",
+      "es": "Animales de compañía",
+      "de": "Haustiere",
+      "nl": "Huisdieren"
+    },
+    "description": {
+      "fr": "Un espace dédié aux animaux a été mis en place au Parc des Expositions de Bordeaux-Lac pour les personnes évacuées avec leurs animaux.",
+      "en": "A dedicated pet area has been set up at the Bordeaux-Lac Exhibition Centre for evacuees travelling with animals.",
+      "es": "Se ha habilitado un espacio específico para animales en el Parque de Exposiciones de Bordeaux-Lac para las personas evacuadas con sus animales.",
+      "de": "Im Ausstellungszentrum Bordeaux-Lac wurde ein eigener Bereich für Tiere eingerichtet, für Evakuierte, die mit ihren Tieren unterwegs sind.",
+      "nl": "In het beursgebouw van Bordeaux-Lac is een speciale ruimte ingericht voor huisdieren, voor geëvacueerden die met hun dieren reizen."
+    },
+    "actionLabel": {
+      "fr": "Voir les informations d'accueil",
+      "en": "See reception information",
+      "es": "Ver la información de acogida",
+      "de": "Informationen zur Aufnahme ansehen",
+      "nl": "Bekijk de opvanginformatie"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  },
+  {
+    "id": "vulnerable-medical",
+    "category": "medical",
+    "title": {
+      "fr": "Personnes vulnérables, EHPAD, soins",
+      "en": "Vulnerable people, care homes, medical needs",
+      "es": "Personas vulnerables, residencias, atención médica",
+      "de": "Schutzbedürftige Personen, Pflegeheime, medizinische Versorgung",
+      "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
+    },
+    "description": {
+      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire des établissements de soins et médico-sociaux.",
+      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and is coordinating the medical evacuation of care facilities.",
+      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria departamental y coordina la evacuación sanitaria de los centros médicos y sociosanitarios.",
+      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan („plan blanc\") ausgelöst und koordiniert die medizinische Evakuierung von Pflege- und Sozialeinrichtungen.",
+      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan voor ziekenhuizen geactiveerd en coördineert de medische evacuatie van zorginstellingen."
+    },
+    "actionLabel": {
+      "fr": "Lire le communiqué de l'ARS",
+      "en": "Read the ARS press release",
+      "es": "Leer el comunicado de la ARS",
+      "de": "Pressemitteilung der ARS lesen",
+      "nl": "Lees het persbericht van de ARS"
+    },
+    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
+    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "smoke-air-quality-advice",
+    "category": "medical",
+    "title": {
+      "fr": "Fumées et qualité de l'air",
+      "en": "Smoke and air quality",
+      "es": "Humo y calidad del aire",
+      "de": "Rauch und Luftqualität",
+      "nl": "Rook en luchtkwaliteit"
+    },
+    "description": {
+      "fr": "La qualité de l'air en Nouvelle-Aquitaine dépasse le seuil d'alerte pollution à cause des fumées. L'ARS recommande de limiter le temps passé à l'extérieur, de garder portes et fenêtres fermées, d'éviter les efforts physiques et de surveiller les personnes âgées, jeunes enfants et personnes souffrant de maladies cardio-respiratoires chroniques. Des masques FFP2 sont distribués gratuitement aux personnes vulnérables dans les pharmacies de garde près des zones touchées.",
+      "en": "Air quality across Nouvelle-Aquitaine has passed the pollution alert threshold because of the smoke. The regional health agency (ARS) recommends limiting time outdoors, keeping doors and windows closed, avoiding physical exertion, and watching over elderly people, young children and those with chronic cardio-respiratory conditions. Free FFP2 masks are being distributed to vulnerable people at on-duty pharmacies near the affected areas.",
+      "es": "La calidad del aire en Nouvelle-Aquitaine ha superado el umbral de alerta por contaminación debido al humo. La agencia sanitaria regional (ARS) recomienda limitar el tiempo al aire libre, mantener puertas y ventanas cerradas, evitar el esfuerzo físico y vigilar a las personas mayores, los niños pequeños y quienes padecen enfermedades cardiorrespiratorias crónicas. Se están distribuyendo mascarillas FFP2 gratuitas a las personas vulnerables en las farmacias de guardia cercanas a las zonas afectadas.",
+      "de": "Die Luftqualität in Nouvelle-Aquitaine hat wegen des Rauchs die Alarmschwelle für Luftverschmutzung überschritten. Die regionale Gesundheitsbehörde (ARS) empfiehlt, die Zeit im Freien zu begrenzen, Türen und Fenster geschlossen zu halten, körperliche Anstrengung zu vermeiden und auf ältere Menschen, kleine Kinder und Personen mit chronischen Herz-Lungen-Erkrankungen zu achten. Gefährdete Personen erhalten kostenlose FFP2-Masken in den diensthabenden Apotheken nahe den betroffenen Gebieten.",
+      "nl": "De luchtkwaliteit in Nouvelle-Aquitaine overschrijdt door de rook de vervuilingsalarmdrempel. De regionale gezondheidsdienst (ARS) adviseert om minder tijd buiten door te brengen, deuren en ramen gesloten te houden, fysieke inspanning te vermijden en op ouderen, jonge kinderen en mensen met chronische hart- en longaandoeningen te letten. Kwetsbare personen krijgen gratis FFP2-maskers bij de dienstdoende apotheken nabij de getroffen gebieden."
+    },
+    "actionLabel": {
+      "fr": "Lire les recommandations sanitaires de l'ARS",
+      "en": "Read the ARS health recommendations",
+      "es": "Leer las recomendaciones sanitarias de la ARS",
+      "de": "Gesundheitsempfehlungen der ARS lesen",
+      "nl": "Lees de gezondheidsadviezen van de ARS"
+    },
+    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-recommandations-sanitaires-aux",
+    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-recommandations-sanitaires-aux",
+    "verifiedAt": "2026-07-26T19:52:00+02:00"
+  },
+  {
+    "id": "psychological-support",
+    "category": "medical",
+    "title": {
+      "fr": "Soutien psychologique d'urgence",
+      "en": "Emergency psychological support",
+      "es": "Apoyo psicológico de emergencia",
+      "de": "Psychologische Notfallunterstützung",
+      "nl": "Psychologische noodhulp"
+    },
+    "description": {
+      "fr": "Une cellule d'urgence médico-psychologique (CUMP) est ouverte pour les personnes affectées par les incendies.",
+      "en": "An emergency medical-psychological support line (CUMP) is open for people affected by the fires.",
+      "es": "Se ha abierto una unidad de emergencia médico-psicológica (CUMP) para las personas afectadas por los incendios.",
+      "de": "Für die von den Bränden betroffenen Menschen steht eine medizinisch-psychologische Notfalleinheit (CUMP) zur Verfügung.",
+      "nl": "Er is een medisch-psychologische noodeenheid (CUMP) geopend voor mensen die getroffen zijn door de branden."
+    },
+    "actionLabel": {
+      "fr": "Appeler le 0 800 719 812",
+      "en": "Call 0 800 719 812",
+      "es": "Llamar al 0 800 719 812",
+      "de": "0 800 719 812 anrufen",
+      "nl": "Bel 0 800 719 812"
+    },
+    "phone": "0 800 719 812",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "transport-road-info",
+    "category": "transport",
+    "title": {
+      "fr": "Routes et déplacements",
+      "en": "Roads & travel",
+      "es": "Carreteras y desplazamientos",
+      "de": "Straßen und Verkehr",
+      "nl": "Wegen en verkeer"
+    },
+    "description": {
+      "fr": "L'A63 est partiellement fermée près de Cestas et Marcheprime (dans les deux sens), ainsi que de nombreuses routes départementales et pistes cyclables autour de Saumos, Le Porge et la presqu'île de Lège-Cap-Ferret. La liste évolue régulièrement : consultez la carte officielle Inforoutes Gironde avant tout déplacement dans le secteur.",
+      "en": "The A63 motorway is partially closed near Cestas and Marcheprime (both directions), along with numerous secondary roads and cycling paths around Saumos, Le Porge and the Lège-Cap-Ferret peninsula. This list changes regularly: check the official Gironde Inforoutes map before travelling in the area.",
+      "es": "La autopista A63 está parcialmente cerrada cerca de Cestas y Marcheprime (en ambos sentidos), junto con numerosas carreteras secundarias y carriles bici alrededor de Saumos, Le Porge y la península de Lège-Cap-Ferret. Esta lista cambia con frecuencia: consulte el mapa oficial de Inforoutes Gironde antes de desplazarse por la zona.",
+      "de": "Die Autobahn A63 ist bei Cestas und Marcheprime in beide Richtungen teilweise gesperrt, ebenso wie zahlreiche Nebenstraßen und Radwege rund um Saumos, Le Porge und die Halbinsel Lège-Cap-Ferret. Diese Liste ändert sich regelmäßig: Informieren Sie sich vor jeder Fahrt in dem Gebiet auf der offiziellen Karte von Inforoutes Gironde.",
+      "nl": "De autosnelweg A63 is bij Cestas en Marcheprime in beide richtingen deels afgesloten, net als talrijke secundaire wegen en fietspaden rond Saumos, Le Porge en het schiereiland Lège-Cap-Ferret. Deze lijst verandert regelmatig: raadpleeg de officiële kaart van Inforoutes Gironde voordat u in het gebied reist."
+    },
+    "actionLabel": {
+      "fr": "Consulter Inforoutes Gironde",
+      "en": "Check Gironde Inforoutes",
+      "es": "Consultar Inforoutes Gironde",
+      "de": "Inforoutes Gironde aufrufen",
+      "nl": "Raadpleeg Inforoutes Gironde"
+    },
+    "url": "https://www.gironde.fr/deplacements/inforoutes",
+    "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
+    "verifiedAt": "2026-07-26T19:52:00+02:00"
+  },
+  {
+    "id": "tourists-info",
+    "category": "tourists",
+    "title": {
+      "fr": "Touristes et vacanciers",
+      "en": "Tourists and holidaymakers",
+      "es": "Turistas y visitantes",
+      "de": "Touristen und Urlauber",
+      "nl": "Toeristen en vakantiegangers"
+    },
+    "description": {
+      "fr": "En vacances ou en déplacement dans une zone menacée : gardez votre téléphone allumé et hors mode avion pour recevoir FR-Alert (diffusion automatique, sans application à installer), repérez la commune exacte de votre hébergement, évacuez sans délai si on vous le demande, et ne vous fiez pas uniquement aux réseaux sociaux. Le centre de Bordeaux-Lac est une solution de dernier recours si vous n'avez pas d'autre endroit où aller.",
+      "en": "On holiday or travelling through a threatened area: keep your phone on and off airplane mode to receive FR-Alert (automatic broadcast, no app needed), know the exact commune your accommodation is in, evacuate immediately if asked, and don't rely on social media alone. The Bordeaux-Lac centre is a last resort if you have nowhere else to go.",
+      "es": "Si está de vacaciones o de paso por una zona amenazada: mantenga el teléfono encendido y sin modo avión para recibir FR-Alert (difusión automática, sin necesidad de aplicación), sepa en qué municipio exacto se encuentra su alojamiento, evacúe sin demora si se lo indican, y no confíe únicamente en las redes sociales. El centro de Bordeaux-Lac es un último recurso si no tiene otro lugar adonde ir.",
+      "de": "Im Urlaub oder auf der Durchreise in einem bedrohten Gebiet: Lassen Sie Ihr Telefon eingeschaltet und den Flugmodus ausgeschaltet, um FR-Alert zu empfangen (automatische Übertragung, keine App nötig), kennen Sie die genaue Gemeinde Ihrer Unterkunft, evakuieren Sie ohne Verzögerung, wenn Sie dazu aufgefordert werden, und verlassen Sie sich nicht allein auf soziale Medien. Das Zentrum in Bordeaux-Lac ist eine letzte Möglichkeit, wenn Sie sonst nirgendwohin können.",
+      "nl": "Op vakantie of op doorreis in een bedreigd gebied: laat uw telefoon aan staan en de vliegtuigmodus uit om FR-Alert te ontvangen (automatische uitzending, geen app nodig), weet in welke exacte gemeente uw accommodatie ligt, evacueer zonder uitstel als dat wordt gevraagd, en vertrouw niet alleen op sociale media. Het centrum in Bordeaux-Lac is een laatste redmiddel als u nergens anders heen kunt."
+    },
+    "actionLabel": {
+      "fr": "Voir la page Bordeaux Métropole (anglais disponible)",
+      "en": "See the Bordeaux Métropole page (English available)",
+      "es": "Ver la página de Bordeaux Métropole (disponible en inglés)",
+      "de": "Seite von Bordeaux Métropole ansehen (auch auf Englisch verfügbar)",
+      "nl": "Bekijk de pagina van Bordeaux Métropole (ook in het Engels beschikbaar)"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-26T19:41:00+02:00"
+  }
+]

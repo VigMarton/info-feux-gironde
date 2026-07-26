@@ -1,0 +1,35 @@
+---
+import { t, type Locale, type LocalizedText } from "../i18n";
+
+interface Stat {
+  value: LocalizedText;
+}
+
+interface Headline {
+  text: LocalizedText;
+}
+
+interface Props {
+  locale: Locale;
+  alertStat?: Stat;
+  latestHeadline?: Headline;
+  killSwitch: boolean;
+}
+
+const { locale, alertStat, latestHeadline, killSwitch } = Astro.props;
+const hasContent = !killSwitch && (alertStat || latestHeadline);
+---
+
+{
+  hasContent && (
+    <div class="key-facts" role="note" aria-label={t(locale, "keyFacts.ariaLabel")}>
+      <p class="key-facts__eyebrow">{t(locale, "keyFacts.eyebrow")}</p>
+      {alertStat && <p class="key-facts__alert">{alertStat.value[locale]}</p>}
+      {latestHeadline && <p class="key-facts__headline">{latestHeadline.text[locale]}</p>}
+      <div class="key-facts__actions">
+        <a href="#evacuation">{t(locale, "keyFacts.jumpEvacuation")}</a>
+        <a href="#help">{t(locale, "keyFacts.jumpHelp")}</a>
+      </div>
+    </div>
+  )
+}

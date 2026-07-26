@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prefecture-communiques",
+    "label": {
+      "fr": "Communiqués de presse de la préfecture de la Gironde",
+      "en": "Gironde préfecture press releases",
+      "es": "Comunicados de prensa de la prefectura de la Gironda",
+      "de": "Pressemitteilungen der Präfektur der Gironde",
+      "nl": "Persberichten van de prefectuur van de Gironde"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
+    "tier": 0
+  },
+  {
+    "id": "fr-alert",
+    "label": {
+      "fr": "FR-Alert — comment ça marche",
+      "en": "FR-Alert — how it works",
+      "es": "FR-Alert: cómo funciona",
+      "de": "FR-Alert – wie es funktioniert",
+      "nl": "FR-Alert: hoe het werkt"
+    },
+    "url": "https://www.fr-alert.gouv.fr/",
+    "tier": 0
+  },
+  {
+    "id": "centres-accueil-liste",
+    "label": {
+      "fr": "Liste et adresses des centres d'accueil (préfecture, PDF mis à jour régulièrement)",
+      "en": "List and addresses of reception centres (préfecture, regularly updated PDF)",
+      "es": "Lista y direcciones de los centros de acogida (prefectura, PDF actualizado regularmente)",
+      "de": "Liste und Adressen der Aufnahmezentren (Präfektur, regelmäßig aktualisiertes PDF)",
+      "nl": "Lijst en adressen van de opvangcentra (prefectuur, regelmatig bijgewerkte pdf)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
+    "tier": 0
+  },
+  {
+    "id": "cellule-information-public",
+    "label": {
+      "fr": "Cellule d'information du public — 09 70 80 90 40 (24h/24, tapez 1 pour la Gironde)",
+      "en": "Public information line — 09 70 80 90 40 (24/7, press 1 for Gironde)",
+      "es": "Línea de información al público — 09 70 80 90 40 (24 horas, pulse 1 para la Gironda)",
+      "de": "Bürgertelefon — 09 70 80 90 40 (24 Stunden, Taste 1 für die Gironde)",
+      "nl": "Publieksinformatielijn — 09 70 80 90 40 (24/7, toets 1 voor de Gironde)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Cellule-d-information-du-public",
+    "tier": 0
+  },
+  {
+    "id": "bordeaux-metropole-accueil",
+    "label": {
+      "fr": "Bordeaux Métropole — accueil des évacués et dons — infos incendies : 06 70 80 90 40 (9h-17h30)",
+      "en": "Bordeaux Métropole — shelter for evacuees and donations — fire info line: 06 70 80 90 40 (9am-5:30pm)",
+      "es": "Bordeaux Métropole: acogida de evacuados y donaciones — línea de información sobre incendios: 06 70 80 90 40 (9h-17h30)",
+      "de": "Bordeaux Métropole – Unterbringung von Evakuierten und Spenden – Info-Hotline Brände: 06 70 80 90 40 (9-17:30 Uhr)",
+      "nl": "Bordeaux Métropole: opvang van geëvacueerden en donaties — infolijn branden: 06 70 80 90 40 (9-17.30 uur)"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "tier": 1
+  },
+  {
+    "id": "meteo-des-forets",
+    "label": {
+      "fr": "Météo des forêts (risque de feu)",
+      "en": "Météo des forêts (fire risk)",
+      "es": "Météo des forêts (riesgo de incendio)",
+      "de": "Météo des forêts (Waldbrandrisiko)",
+      "nl": "Météo des forêts (brandrisico)"
+    },
+    "url": "https://meteofrance.com/meteo-des-forets",
+    "tier": 0
+  }
+]

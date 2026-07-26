@@ -1,0 +1,67 @@
+[
+  {
+    "id": "point-situation-26-juillet-13h",
+    "text": {
+      "fr": "26 juillet (13h) : après une nuit difficile marquée par une reprise du feu, la préfète indique que la météo du jour est moins défavorable et permet aux secours de reprendre l'offensive. L'incendie a parcouru 42 000 hectares depuis le 22 juillet.",
+      "en": "26 July (1pm): after a difficult night with the fire flaring up again, the préfète reports today's weather is less unfavourable, allowing firefighters to go back on the offensive. The fire has burned 42,000 hectares since 22 July.",
+      "es": "26 de julio (13:00): tras una noche difícil marcada por una reactivación del fuego, la préfète indica que el tiempo de hoy es menos desfavorable y permite a los servicios de emergencia retomar la ofensiva. El incendio ha arrasado 42.000 hectáreas desde el 22 de julio.",
+      "de": "26. Juli (13 Uhr): Nach einer schwierigen Nacht mit erneutem Auflodern des Feuers teilt die Präfektin mit, dass das Wetter heute weniger ungünstig ist und den Einsatzkräften erlaubt, wieder in die Offensive zu gehen. Der Brand hat seit dem 22. Juli 42.000 Hektar verwüstet.",
+      "nl": "26 juli (13.00 uur): na een moeilijke nacht waarin het vuur weer oplaaide, meldt de prefecte dat het weer vandaag minder ongunstig is, waardoor de hulpdiensten het offensief kunnen hervatten. De brand heeft sinds 22 juli 42.000 hectare verwoest."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "evacuation-marcheprime-cestas-25-juillet",
+    "text": {
+      "fr": "25 juillet (soir) : face à la reprise du feu, la préfète a ordonné l'évacuation immédiate de nouveaux secteurs menacés à Marcheprime, Le Barp, Biganos, Mios et Cestas.",
+      "en": "25 July (evening): as the fire flared up again, the préfète ordered the immediate evacuation of newly threatened sectors in Marcheprime, Le Barp, Biganos, Mios and Cestas.",
+      "es": "25 de julio (noche): ante la reactivación del fuego, la préfète ordenó la evacuación inmediata de nuevos sectores amenazados en Marcheprime, Le Barp, Biganos, Mios y Cestas.",
+      "de": "25. Juli (abends): Angesichts des erneut auflodernden Feuers ordnete die Präfektin die sofortige Evakuierung neu bedrohter Gebiete in Marcheprime, Le Barp, Biganos, Mios und Cestas an.",
+      "nl": "25 juli (avond): omdat het vuur weer oplaaide, gaf de prefecte opdracht tot onmiddellijke evacuatie van nieuw bedreigde sectoren in Marcheprime, Le Barp, Biganos, Mios en Cestas."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "vigilance-noire",
+    "text": {
+      "fr": "La Gironde reste en vigilance noire feux de forêt, le niveau d'alerte maximal.",
+      "en": "Gironde remains under vigilance noire, the maximum wildfire alert level.",
+      "es": "La Gironda permanece en vigilance noire por incendios forestales, el nivel de alerta máximo.",
+      "de": "Die Gironde bleibt in der höchsten Waldbrand-Warnstufe „Vigilance noire\".",
+      "nl": "De Gironde blijft onder 'vigilance noire' voor bosbranden, het hoogste waarschuwingsniveau."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "fr-alert-25-juillet",
+    "text": {
+      "fr": "25 juillet : la préfète a déclenché FR-Alert pour l'évacuation immédiate de secteurs de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle et Saint-Jean-d'Illac.",
+      "en": "25 July: the préfète triggered FR-Alert ordering the immediate evacuation of sectors in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle and Saint-Jean-d'Illac.",
+      "es": "25 de julio: la préfète activó FR-Alert para ordenar la evacuación inmediata de sectores de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle y Saint-Jean-d'Illac.",
+      "de": "25. Juli: Die Präfektin löste FR-Alert aus und ordnete die sofortige Evakuierung von Gebieten in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle und Saint-Jean-d'Illac an.",
+      "nl": "25 juli: de prefecte activeerde FR-Alert voor de onmiddellijke evacuatie van sectoren in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle en Saint-Jean-d'Illac."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  },
+  {
+    "id": "centres-accueil-26-juillet",
+    "text": {
+      "fr": "26 juillet : 9 centres d'accueil sont actifs en Gironde, plus un centre de 1 500 places ouvert au Parc des Expositions d'Agen (Lot-et-Garonne) en appui. Liste et adresses via le lien officiel ci-contre.",
+      "en": "26 July: 9 reception centres are active in Gironde, plus a 1,500-bed centre opened at the Agen Exhibition Centre (Lot-et-Garonne) in support. List and addresses via the official link alongside.",
+      "es": "26 de julio: hay 9 centros de acogida activos en la Gironda, además de un centro de 1.500 plazas abierto en el Parque de Exposiciones de Agen (Lot-et-Garonne) como apoyo. Lista y direcciones a través del enlace oficial junto a esta información.",
+      "de": "26. Juli: In der Gironde sind 9 Aufnahmezentren aktiv, zusätzlich wurde als Unterstützung ein Zentrum mit 1.500 Plätzen im Ausstellungszentrum von Agen (Lot-et-Garonne) eröffnet. Liste und Adressen über den offiziellen Link daneben.",
+      "nl": "26 juli: er zijn 9 opvangcentra actief in de Gironde, plus een centrum met 1.500 plaatsen dat ter ondersteuning is geopend in het beursgebouw van Agen (Lot-et-Garonne). Lijst en adressen via de officiële link hiernaast."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-26T17:10:00+02:00"
+  }
+]

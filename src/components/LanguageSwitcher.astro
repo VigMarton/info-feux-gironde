@@ -1,0 +1,32 @@
+---
+import { localeName, locales, t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const others = locales.filter((candidate) => candidate !== locale);
+---
+
+<nav class="lang-switch" aria-label={t(locale, "language.ariaLabel")}>
+  <ul>
+    {others.map((candidate) => (
+      <li>
+        <a class="lang-switch__link" data-locale={candidate} href={`/${candidate}/`}>
+          {localeName[candidate]}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<script>
+  // Progressive enhancement: preserve the current section anchor (e.g.
+  // #evacuation) when switching languages, so readers land on the same
+  // section rather than back at the top of the other locale's page.
+  for (const link of document.querySelectorAll<HTMLAnchorElement>(".lang-switch__link")) {
+    const base = link.getAttribute("href") ?? "/";
+    link.href = base + window.location.hash;
+  }
+</script>

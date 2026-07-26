@@ -1,0 +1,31 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import type { Locale, LocalizedText } from "../i18n";
+
+interface Card {
+  title: LocalizedText;
+  description: LocalizedText;
+  actionLabel: LocalizedText;
+  url?: string;
+  phone?: string;
+  sourceUrl: string;
+  verifiedAt: string;
+}
+
+interface Props {
+  locale: Locale;
+  card: Card;
+}
+
+const { locale, card } = Astro.props;
+---
+
+<div class="help-card card">
+  <h3>{card.title[locale]}</h3>
+  <p>{card.description[locale]}</p>
+  {card.url && (
+    <p><a href={card.url} target="_blank" rel="noopener noreferrer">{card.actionLabel[locale]}</a></p>
+  )}
+  {card.phone && <p><a href={`tel:${card.phone.replace(/\s+/g, "")}`}>{card.phone}</a></p>}
+  <SourceMeta locale={locale} sourceUrl={card.sourceUrl} verifiedAt={card.verifiedAt} />
+</div>
