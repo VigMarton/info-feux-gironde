@@ -2,76 +2,81 @@
   "https://www.gironde.gouv.fr/": {
     "hash": "b670e41abfca50ee",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:35.435Z"
+    "checkedAt": "2026-07-26T19:52:27.190Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet": {
     "hash": "cc1ac12c6909a682",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:35.633Z"
+    "checkedAt": "2026-07-26T19:52:27.360Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas": {
     "hash": "2ce62c9759339047",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:35.923Z"
+    "checkedAt": "2026-07-26T19:52:27.568Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes": {
     "hash": "3499f2b0500cb1e4",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:36.097Z"
+    "checkedAt": "2026-07-26T19:52:27.719Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026": {
     "hash": "d564a3a2673ba2b1",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:36.313Z"
+    "checkedAt": "2026-07-26T19:52:27.916Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil": {
     "hash": "2c0a4a86e684a8f4",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:36.551Z"
+    "checkedAt": "2026-07-26T19:52:28.140Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Cellule-d-information-du-public": {
     "hash": "bba5fbfc25fb407b",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:36.758Z"
+    "checkedAt": "2026-07-26T19:52:28.330Z"
   },
   "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees": {
-    "hash": "df51a4d35c709b4e",
+    "hash": "5ae41e8d6b4a2a21",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:36.998Z"
+    "checkedAt": "2026-07-26T19:52:29.761Z"
   },
   "https://meteofrance.com/meteo-des-forets": {
     "hash": "ae94316cd73bd3ce",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.096Z"
+    "checkedAt": "2026-07-26T19:52:29.877Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-foret-declenchement-de-FR-Alert": {
     "hash": "dc055e07d3c952f9",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.327Z"
+    "checkedAt": "2026-07-26T19:52:30.586Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-cours-point-de-situation-a-21h30": {
     "hash": "dc257c3ff551c57a",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.533Z"
+    "checkedAt": "2026-07-26T19:52:30.745Z"
+  },
+  "https://www.gironde.gouv.fr/contenu/telechargement/87709/660090/file/Centres%20d'accueil%20MAJ%202026-07-26.pdf": {
+    "hash": "930dc689556db981",
+    "status": 200,
+    "checkedAt": "2026-07-26T19:52:30.908Z"
   },
   "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes": {
     "hash": "f52e51fbb090b246",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.761Z"
+    "checkedAt": "2026-07-26T19:52:31.157Z"
   },
   "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations": {
     "hash": "aad60d3b442a0c28",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.821Z"
+    "checkedAt": "2026-07-26T19:52:31.220Z"
   },
   "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-recommandations-sanitaires-aux": {
     "hash": "8e62e7badf1e089e",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.844Z"
+    "checkedAt": "2026-07-26T19:52:31.240Z"
   },
   "https://www.gironde.fr/deplacements/inforoutes": {
     "hash": "a8531b5014a48ed1",
     "status": 200,
-    "checkedAt": "2026-07-26T18:42:37.994Z"
+    "checkedAt": "2026-07-26T19:52:31.390Z"
   }
 }

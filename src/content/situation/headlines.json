@@ -1,5 +1,18 @@
 [
   {
+    "id": "ne-pas-retourner-sinistres-26-juillet",
+    "text": {
+      "fr": "26 juillet (13h) : la préfète appelle à ne pas se rendre ni retourner dans les secteurs sinistrés, afin de ne pas gêner les secours. Suivez FR-Alert et les communiqués officiels.",
+      "en": "26 July (1pm): the préfète asks people not to enter or return to the disaster-affected areas, so as not to hinder emergency services. Follow FR-Alert and official briefings.",
+      "es": "26 de julio (13:00): la préfète pide no acudir ni regresar a las zonas afectadas, para no obstaculizar a los servicios de emergencia. Siga FR-Alert y los comunicados oficiales.",
+      "de": "26. Juli (13 Uhr): Die Präfektin bittet, die betroffenen Gebiete nicht aufzusuchen und nicht zurückzukehren, um die Einsatzkräfte nicht zu behindern. FR-Alert und offizielle Mitteilungen beachten.",
+      "nl": "26 juli (13.00 uur): de prefecte vraagt om niet naar de getroffen gebieden te gaan of terug te keren, zodat hulpdiensten niet gehinderd worden. Volg FR-Alert en officiële berichten."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
+  },
+  {
     "id": "point-situation-26-juillet-13h",
     "text": {
       "fr": "26 juillet (13h) : après une nuit difficile marquée par une reprise du feu, la préfète indique que la météo du jour est moins défavorable et permet aux secours de reprendre l'offensive. L'incendie a parcouru 42 000 hectares depuis le 22 juillet.",
@@ -10,7 +23,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T20:42:00+02:00"
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
   },
   {
     "id": "evacuation-marcheprime-cestas-25-juillet",
@@ -23,7 +36,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-26T20:42:00+02:00"
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
   },
   {
     "id": "vigilance-noire",
@@ -36,7 +49,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-26T20:42:00+02:00"
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
   },
   {
     "id": "fr-alert-25-juillet",
@@ -49,7 +62,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-26T20:42:00+02:00"
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
   },
   {
     "id": "centres-accueil-26-juillet",
@@ -62,6 +75,6 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T20:42:00+02:00"
+    "verifiedAt": "2026-07-26T21:55:00+02:00"
   }
 ]

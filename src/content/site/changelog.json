@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-26-evening-full-check",
+    "date": "2026-07-26T21:55:00+02:00",
+    "summary": {
+      "fr": "Contrôle complet du soir : chiffres du point 13h toujours valides ; précision des fermetures A63 d'après la préfecture ; rappel de ne pas retourner dans les secteurs sinistrés ; liste des centres d'accueil inchangée.",
+      "en": "Evening full check: 1pm briefing figures still valid; A63 closures aligned with the préfecture text; reminder not to return to disaster areas; reception-centre list unchanged.",
+      "es": "Comprobación completa de la noche: las cifras del parte de las 13:00 siguen vigentes; cierres de la A63 alineados con el texto de la prefectura; recordatorio de no volver a las zonas afectadas; lista de centros sin cambios.",
+      "de": "Abendliche Vollprüfung: Zahlen aus dem 13-Uhr-Lagebericht weiterhin gültig; A63-Sperrungen an Präfekturtext angepasst; Hinweis, nicht in betroffene Gebiete zurückzukehren; Aufnahmezentren-Liste unverändert.",
+      "nl": "Volledige avondcontrole: cijfers van het 13.00-uurbericht nog geldig; A63-afsluitingen afgestemd op de prefectuurtekst; herinnering niet terug te keren naar getroffen gebieden; lijst opvangcentra ongewijzigd."
+    }
+  },
+  {
     "id": "2026-07-26-housing-wording",
     "date": "2026-07-26T20:42:00+02:00",
     "summary": {
