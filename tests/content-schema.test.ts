@@ -4,6 +4,7 @@ import {
   helpCardSchema,
   officialLinkSchema,
   otherCardSchema,
+  shelterDirectorySchema,
   shelterSchema,
   statSchema,
   toolSchema,
@@ -43,6 +44,40 @@ describe("shelterSchema (mode A — no capacity claims)", () => {
 
   it("rejects a shelter with an invalid officialUrl", () => {
     expect(() => shelterSchema.parse({ ...validShelter, officialUrl: "not-a-url" })).toThrow();
+  });
+});
+
+describe("shelterDirectorySchema (mode A list from préfecture PDF)", () => {
+  const validDirectory = {
+    sourceUrl: "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
+    pdfUrl:
+      "https://www.gironde.gouv.fr/contenu/telechargement/87709/660090/file/Centres%20d'accueil%20MAJ%202026-07-26.pdf",
+    officialAsOf: {
+      fr: "Liste préfecture actualisée le dimanche 26 juillet 2026 à 15h",
+      en: "Préfecture list updated Sunday 26 July 2026 at 15:00",
+      es: "Lista actualizada el domingo 26 de julio de 2026 a las 15:00",
+      de: "Liste aktualisiert am Sonntag, 26. Juli 2026, 15:00 Uhr",
+      nl: "Lijst bijgewerkt op zondag 26 juli 2026 om 15:00",
+    },
+    verifiedAt: "2026-07-26T21:12:00+02:00",
+    entries: [{ id: "lacanau", commune: "LACANAU", place: "21 Rue Albert François" }],
+  };
+
+  it("accepts place + address rows with no status field", () => {
+    expect(() => shelterDirectorySchema.parse(validDirectory)).not.toThrow();
+  });
+
+  it("rejects directory entries that try to add status", () => {
+    expect(() =>
+      shelterDirectorySchema.parse({
+        ...validDirectory,
+        entries: [{ id: "x", commune: "X", place: "Y", status: "open" }],
+      }),
+    ).toThrow();
+  });
+
+  it("rejects an empty entries list", () => {
+    expect(() => shelterDirectorySchema.parse({ ...validDirectory, entries: [] })).toThrow();
   });
 });
 

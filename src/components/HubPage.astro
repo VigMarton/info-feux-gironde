@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import AboutSection from "./AboutSection.astro";
 import AreaList from "./AreaList.astro";
+import EmergencyStrip from "./EmergencyStrip.astro";
 import HeadlineList from "./HeadlineList.astro";
 import HelpCard from "./HelpCard.astro";
 import KeyFacts from "./KeyFacts.astro";
@@ -9,10 +10,13 @@ import OfficialLinkList from "./OfficialLinkList.astro";
 import OtherCard from "./OtherCard.astro";
 import SectionIcon from "./SectionIcon.astro";
 import ShelterCard from "./ShelterCard.astro";
+import ShelterDirectory from "./ShelterDirectory.astro";
 import StatCard from "./StatCard.astro";
 import ToolsStrip from "./ToolsStrip.astro";
 import UpdatesLog from "./UpdatesLog.astro";
 import meta from "../content/site/meta.json";
+import shelterDirectoryRaw from "../content/evacuation/shelter-directory.json";
+import { shelterDirectorySchema } from "../content/schemas";
 import { t, type Locale } from "../i18n";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { filterFresh } from "../lib/freshness";
@@ -55,10 +59,14 @@ const changelog = changelogEntries
 const toolEntries = await getCollection("tools");
 const tools = toolEntries.map((entry) => entry.data);
 
+const shelterDirectory = shelterDirectorySchema.parse(shelterDirectoryRaw);
+
 const alertStat = freshStats.find((stat) => stat.id === "alert-level");
 ---
 
 <BaseLayout locale={locale} title={t(locale, "site.title")} description={t(locale, "meta.description")}>
+  <EmergencyStrip locale={locale} />
+
   <KeyFacts locale={locale} alertStat={alertStat} latestHeadline={headlines[0]} killSwitch={killSwitch} />
 
   <ToolsStrip locale={locale} tools={tools} />
@@ -113,6 +121,7 @@ const alertStat = freshStats.find((stat) => stat.id === "alert-level");
     <div class="card-list">
       {shelters.map((shelter) => <ShelterCard locale={locale} shelter={shelter} hideNotes={killSwitch} />)}
     </div>
+    <ShelterDirectory locale={locale} directory={shelterDirectory} />
   </section>
 
   <section id="help" aria-labelledby="help-heading">

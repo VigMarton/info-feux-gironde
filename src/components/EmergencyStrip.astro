@@ -1,0 +1,35 @@
+---
+import { t, type Locale } from "../i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+
+/** Stable national emergency numbers + the verified Gironde public-info line (Tier-0). */
+const numbers = [
+  { tel: "18", labelKey: "emergency.fire" as const },
+  { tel: "15", labelKey: "emergency.medical" as const },
+  { tel: "112", labelKey: "emergency.eu" as const },
+  { tel: "114", labelKey: "emergency.deaf" as const },
+  { tel: "0970809040", display: "09 70 80 90 40", labelKey: "emergency.infoLine" as const },
+];
+---
+
+<section class="emergency-strip" aria-labelledby="emergency-heading">
+  <h2 id="emergency-heading" class="emergency-strip__title">{t(locale, "emergency.title")}</h2>
+  <p class="emergency-strip__note">{t(locale, "emergency.note")}</p>
+  <ul class="emergency-strip__list">
+    {
+      numbers.map((item) => (
+        <li>
+          <a class="emergency-strip__link" href={`tel:${item.tel}`}>
+            <span class="emergency-strip__number">{item.display ?? item.tel}</span>
+            <span class="emergency-strip__label">{t(locale, item.labelKey)}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>

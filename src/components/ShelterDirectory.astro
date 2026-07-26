@@ -1,0 +1,57 @@
+---
+import SourceMeta from "./SourceMeta.astro";
+import { shelterDirectorySchema, type ShelterDirectory } from "../content/schemas";
+import { t, type Locale } from "../i18n";
+import { isFresh } from "../lib/freshness";
+import { externalLinkAttrs } from "../lib/links";
+
+interface Props {
+  locale: Locale;
+  directory: ShelterDirectory;
+}
+
+const { locale, directory } = Astro.props;
+// Re-parse so a bad JSON edit fails the page build instead of rendering.
+shelterDirectorySchema.parse(directory);
+const fresh = isFresh(directory);
+---
+
+<details class="disclosure shelter-directory">
+  <summary>{t(locale, "section.evacuation.fullListSummary")}</summary>
+  <div class="disclosure__body">
+    <p class="shelter-directory__as-of">{directory.officialAsOf[locale]}</p>
+    <p class="confirm-notice">{t(locale, "section.evacuation.fullListNotice")}</p>
+
+    {
+      fresh ? (
+        <div class="shelter-directory__table-wrap">
+          <table class="shelter-directory__table">
+            <thead>
+              <tr>
+                <th scope="col">{t(locale, "section.evacuation.fullListPlace")}</th>
+                <th scope="col">{t(locale, "section.evacuation.fullListAddress")}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {directory.entries.map((entry) => (
+                <tr>
+                  <th scope="row">{entry.commune}</th>
+                  <td>{entry.place}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      ) : (
+        <p class="confirm-notice">{t(locale, "section.evacuation.fullListStale")}</p>
+      )
+    }
+
+    <p>
+      <a href={directory.pdfUrl} {...externalLinkAttrs}>{t(locale, "section.evacuation.fullListPdf")}</a>
+      {" · "}
+      <a href={directory.sourceUrl} {...externalLinkAttrs}>{t(locale, "section.evacuation.fullListOfficialPage")}</a>
+    </p>
+    <SourceMeta locale={locale} sourceUrl={directory.sourceUrl} verifiedAt={directory.verifiedAt} />
+  </div>
+</details>

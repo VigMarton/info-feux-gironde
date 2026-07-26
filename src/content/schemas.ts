@@ -104,6 +104,30 @@ export const shelterSchema = z
   })
   .strict();
 
+/**
+ * Full préfecture directory (PDF) as place + address rows only — never
+ * open/full/capacity. Shown behind a disclosure; re-checked against the
+ * Tier-0 PDF on every freshness pass.
+ */
+export const shelterDirectoryEntrySchema = z
+  .object({
+    id: z.string(),
+    commune: z.string().min(1),
+    place: z.string().min(1),
+  })
+  .strict();
+
+export const shelterDirectorySchema = z
+  .object({
+    pdfUrl: z.string().url(),
+    officialAsOf: localizedText,
+    entries: z.array(shelterDirectoryEntrySchema).min(1),
+    ...verifiable,
+  })
+  .strict();
+
+export type ShelterDirectory = z.infer<typeof shelterDirectorySchema>;
+
 export const helpCardSchema = z
   .object({
     id: z.string(),

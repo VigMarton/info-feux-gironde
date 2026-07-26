@@ -38,6 +38,15 @@ const collections: { name: string; items: VerifiableItem[] }[] = [
   { name: "situation/headlines.json", items: readJson("situation/headlines.json") },
   { name: "evacuation/areas.json", items: readJson("evacuation/areas.json") },
   { name: "evacuation/shelters.json", items: readJson("evacuation/shelters.json") },
+  {
+    name: "evacuation/shelter-directory.json",
+    items: [
+      {
+        id: "shelter-directory",
+        verifiedAt: readJson<{ verifiedAt: string }>("evacuation/shelter-directory.json").verifiedAt,
+      },
+    ],
+  },
   { name: "help/cards.json", items: readJson("help/cards.json") },
   { name: "other/cards.json", items: readJson("other/cards.json") },
 ];
@@ -90,6 +99,13 @@ function main(): void {
 
   console.log(
     `Summary: ${itemCount} verifiable items — ${expiredCount} expired, ${dueSoonCount} expiring within 1h.`,
+  );
+
+  console.log(
+    "\nManual checklist — shelter directory:\n" +
+      "  Open the préfecture PDF linked in evacuation/shelter-directory.json and compare\n" +
+      "  every Lieu / Adresse row to `entries`. If anything differs, update the JSON\n" +
+      "  (and pdfUrl if a new PDF was published), then bump verifiedAt. Do not invent rows.",
   );
 
   if (expiredCount > 0) {

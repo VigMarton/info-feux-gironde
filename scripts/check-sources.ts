@@ -27,6 +27,7 @@ interface UrlBearing {
   id?: string;
   sourceUrl?: string;
   officialUrl?: string;
+  pdfUrl?: string;
   url?: string;
 }
 
@@ -36,6 +37,7 @@ const files = [
   "situation/official-links.json",
   "evacuation/areas.json",
   "evacuation/shelters.json",
+  "evacuation/shelter-directory.json",
   "help/cards.json",
   "other/cards.json",
 ] as const;
@@ -50,6 +52,13 @@ function collectUrls(): Map<string, Set<string>> {
   };
 
   for (const file of files) {
+    if (file === "evacuation/shelter-directory.json") {
+      const directory = readJson<UrlBearing & { entries?: { id: string }[] }>(file);
+      addRef(directory.sourceUrl, `${file}#directory`);
+      addRef(directory.pdfUrl, `${file}#pdf`);
+      continue;
+    }
+
     const items = readJson<(UrlBearing & { label?: LocalizedText })[]>(file);
     for (const item of items) {
       const label = item.id ?? item.label?.en ?? "?";

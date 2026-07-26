@@ -22,7 +22,8 @@ rule for what counts as Tier‑0/1/2/3.
 | `src/content/situation/headlines.json` | "Latest situation updates" bullets | `headlineSchema` |
 | `src/content/situation/official-links.json` | "Follow the latest developments" link pack | `officialLinkSchema` |
 | `src/content/evacuation/areas.json` | Evacuated-area list | `areaSchema` |
-| `src/content/evacuation/shelters.json` | Reception-centre cards | `shelterSchema` |
+| `src/content/evacuation/shelters.json` | Featured reception-centre cards | `shelterSchema` |
+| `src/content/evacuation/shelter-directory.json` | Full préfecture PDF list (disclosure table) | `shelterDirectorySchema` |
 | `src/content/help/cards.json` | "I want to help" cards | `helpCardSchema` |
 | `src/content/other/cards.json` | "Other needs" cards | `otherCardSchema` |
 
@@ -71,21 +72,25 @@ Almost every item needs:
 `tests/content-schema.test.ts` for the tests that lock this in). This is
 "mode A": address + official link + map, no "open/full/closed" badge.
 
-- `lat`/`lon` are **optional**. Only fill them in when an official source
-  explicitly publishes exact coordinates (as the préfecture did for the
-  Parc des Expositions: `GPS : 44.894736, -0.578519`). **Never geocode or
+- Featured detail cards live in `shelters.json` (currently Bordeaux-Lac).
+- The **full directory** is `shelter-directory.json`: place + address rows
+  copied from the Tier‑0 préfecture PDF only. UI: collapsible “See full
+  list” table. No status, no capacity, no geocoding.
+- On every `npm run freshness:check`, open the PDF linked as `pdfUrl` and
+  compare **every** Lieu / Adresse row to `entries`. If the préfecture
+  published a new PDF, update `pdfUrl`, rewrite `entries` to match, update
+  `officialAsOf`, and bump `verifiedAt`. If you cannot verify → let the
+  table expire (fail closed); the official PDF/page links stay.
+- Landing page for the current PDF:
+  `https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil`
+- `lat`/`lon` on featured cards are **optional**. Only fill them when an
+  official source explicitly publishes exact coordinates (as for the Parc
+  des Expositions: `GPS : 44.894736, -0.578519`). **Never geocode or
   estimate coordinates yourself.** If you don't have official coordinates,
   leave `lat`/`lon` unset — the UI builds a map search link from the
   verified `address` text instead (see `mapUrl` in `src/lib/links.ts`).
-- `notes` (optional, bilingual) should only hold facts you can verify — e.g.
+- `notes` (optional) should only hold facts you can verify — e.g.
   "showers available at X", not anything about current occupancy.
-- Shipping a new shelter beyond Parc des Expositions? The préfecture
-  publishes a downloadable directory of CCAS/reception facilities at
-  `https://www.gironde.gouv.fr/content/download/25456/160967/file/Liste` —
-  it's Tier‑0 but comes as a dense PDF export; cross-check each address
-  against another official page (or by phone with the mairie) before
-  publishing it as a shelter address, since PDF-to-text extraction is easy
-  to misread.
 
 ## The kill switch
 
