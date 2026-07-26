@@ -1,9 +1,11 @@
 # Info Feux Gironde
 
-A multilingual (FR/EN), static civic hub that routes people affected by the
-Gironde wildfires to verified official sources — current situation,
+A multilingual (FR/EN/ES/DE/NL), static civic hub that routes people affected
+by the Gironde wildfires to verified official sources — current situation,
 evacuation & shelters, how to help, and other needs — without ever
 publishing an unverifiable crisis fact as certain.
+
+**Live:** [https://info-feux-gironde.com](https://info-feux-gironde.com)
 
 **This is an unofficial, non-commercial citizen tool.** In an emergency,
 follow FR-Alert and préfecture instructions, not this site.

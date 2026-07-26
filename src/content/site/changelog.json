@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-26-housing-wording",
+    "date": "2026-07-26T20:42:00+02:00",
+    "summary": {
+      "fr": "Alignement de la fiche hébergement sur le libellé officiel Bordeaux Métropole (sanitaires et cuisine) ; re-vérification des sources préfecture et Métropole.",
+      "en": "Aligned the housing card with Bordeaux Métropole’s official wording (sanitation and a kitchen); re-checked préfecture and Métropole sources.",
+      "es": "Se alineó la ficha de alojamiento con el texto oficial de Bordeaux Métropole (sanitarios y cocina); se volvieron a verificar las fuentes de la prefectura y de la Métropole.",
+      "de": "Die Unterkunftskarte wurde an den offiziellen Wortlaut von Bordeaux Métropole angepasst (Sanitäranlagen und Küche); Präfektur- und Métropole-Quellen erneut geprüft.",
+      "nl": "De kaart over onderdak is afgestemd op de officiële formulering van Bordeaux Métropole (sanitair en keuken); bronnen van prefectuur en Métropole opnieuw gecontroleerd."
+    }
+  },
+  {
     "id": "2026-07-26-ars-smoke-advice",
     "date": "2026-07-26T19:52:00+02:00",
     "summary": {

@@ -25,7 +25,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-26T19:41:00+02:00"
+    "verifiedAt": "2026-07-26T20:42:00+02:00"
   },
   {
     "id": "volunteer",
@@ -53,7 +53,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-26T19:41:00+02:00"
+    "verifiedAt": "2026-07-26T20:42:00+02:00"
   },
   {
     "id": "offer-housing",
@@ -65,11 +65,11 @@
       "nl": "Onderdak aanbieden"
     },
     "description": {
-      "fr": "Bordeaux Métropole recueille les offres d'hébergement via un formulaire dédié. Héberger quelqu'un engage votre responsabilité (accès digne aux sanitaires et aux repas).",
-      "en": "Bordeaux Métropole collects housing offers through a dedicated form. Hosting someone is your responsibility (dignified access to sanitation and meals).",
-      "es": "Bordeaux Métropole recoge las ofertas de alojamiento a través de un formulario específico. Alojar a alguien es su responsabilidad (acceso digno a servicios sanitarios y comidas).",
-      "de": "Bordeaux Métropole erfasst Unterkunftsangebote über ein eigenes Formular. Die Aufnahme einer Person liegt in Ihrer Verantwortung (würdiger Zugang zu Sanitäranlagen und Mahlzeiten).",
-      "nl": "Bordeaux Métropole verzamelt aanbiedingen voor onderdak via een speciaal formulier. Iemand onderdak bieden is uw eigen verantwoordelijkheid (waardige toegang tot sanitair en maaltijden)."
+      "fr": "Bordeaux Métropole recueille les offres d'hébergement via un formulaire dédié. Héberger quelqu'un engage votre responsabilité (accès digne aux sanitaires et à une cuisine).",
+      "en": "Bordeaux Métropole collects housing offers through a dedicated form. Hosting someone is your responsibility (dignified access to sanitation and a kitchen).",
+      "es": "Bordeaux Métropole recoge las ofertas de alojamiento a través de un formulario específico. Alojar a alguien es su responsabilidad (acceso digno a servicios sanitarios y a una cocina).",
+      "de": "Bordeaux Métropole erfasst Unterkunftsangebote über ein eigenes Formular. Die Aufnahme einer Person liegt in Ihrer Verantwortung (würdiger Zugang zu Sanitäranlagen und einer Küche).",
+      "nl": "Bordeaux Métropole verzamelt aanbiedingen voor onderdak via een speciaal formulier. Iemand onderdak bieden is uw eigen verantwoordelijkheid (waardige toegang tot sanitair en een keuken)."
     },
     "actionLabel": {
       "fr": "Remplir le formulaire d'hébergement",
@@ -80,7 +80,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-26T19:41:00+02:00"
+    "verifiedAt": "2026-07-26T20:42:00+02:00"
   },
   {
     "id": "red-cross-support",
@@ -107,6 +107,6 @@
     },
     "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
     "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
-    "verifiedAt": "2026-07-26T17:10:00+02:00"
+    "verifiedAt": "2026-07-26T20:42:00+02:00"
   }
 ]
