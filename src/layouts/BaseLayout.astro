@@ -15,6 +15,8 @@ interface Props {
 
 const { locale, title, description } = Astro.props;
 const siteUrl = Astro.site?.toString().replace(/\/$/, "") ?? "";
+const canonicalUrl = siteUrl ? `${siteUrl}/${locale}/` : `/${locale}/`;
+const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string | undefined;
 ---
 
 <!doctype html>
@@ -24,6 +26,7 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, "") ?? "";
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
     {siteUrl && locales.map((loc) => (
       <link rel="alternate" hreflang={loc} href={`${siteUrl}/${loc}/`} />
     ))}
@@ -49,6 +52,16 @@ const siteUrl = Astro.site?.toString().replace(/\/$/, "") ?? "";
       <slot />
     </main>
     <SiteFooter locale={locale} />
+    {
+      cfAnalyticsToken && (
+        <script
+          is:inline
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon={JSON.stringify({ token: cfAnalyticsToken })}
+        />
+      )
+    }
     <script>
       // Progressive enhancement: adds "(12 min ago)" next to the absolute
       // verified timestamp already rendered server-side, so staleness is

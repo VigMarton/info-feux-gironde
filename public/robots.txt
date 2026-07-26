@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://info-feux-gironde.com/sitemap.xml
