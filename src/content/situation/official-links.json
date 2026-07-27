@@ -70,5 +70,17 @@
     },
     "url": "https://meteofrance.com/meteo-des-forets",
     "tier": 0
+  },
+  {
+    "id": "atmo-nouvelle-aquitaine",
+    "label": {
+      "fr": "Atmo Nouvelle-Aquitaine — qualité de l'air",
+      "en": "Atmo Nouvelle-Aquitaine — air quality",
+      "es": "Atmo Nouvelle-Aquitaine — calidad del aire",
+      "de": "Atmo Nouvelle-Aquitaine — Luftqualität",
+      "nl": "Atmo Nouvelle-Aquitaine — luchtkwaliteit"
+    },
+    "url": "https://www.atmo-nouvelleaquitaine.org/",
+    "tier": 2
   }
 ]

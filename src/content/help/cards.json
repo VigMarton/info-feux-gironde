@@ -9,11 +9,11 @@
       "nl": "Materiaal doneren"
     },
     "description": {
-      "fr": "Les dons sont centralisés par votre mairie, qui les achemine directement. Ne déposez rien au Parc des Expositions.",
-      "en": "Donations are centralised by your local town hall, which forwards them on. Do not drop anything off at the Exhibition Centre.",
-      "es": "Las donaciones se centralizan en su ayuntamiento, que las hace llegar directamente. No deje nada en el Parque de Exposiciones.",
-      "de": "Spenden werden zentral über Ihr Rathaus gesammelt und von dort weitergeleitet. Bringen Sie nichts zum Ausstellungszentrum.",
-      "nl": "Donaties worden gecentraliseerd via uw gemeentehuis, dat ze rechtstreeks doorstuurt. Breng niets naar het beursgebouw."
+      "fr": "Les dons sont centralisés par votre mairie, qui les achemine. Ne déposez rien au Parc des Expositions. Collecte principale aussi au Gymnase Janine Toulouse Salaïgoty (35 rue Pierre Trébod, Bordeaux Grand Parc, 9h–19h). Numéro vert Bordeaux Métropole : 0 800 006 090 (8h30–21h).",
+      "en": "Donations are centralised by your local town hall, which forwards them. Do not drop anything off at the Exhibition Centre. Main collection is also at Gymnase Janine Toulouse Salaïgoty (35 rue Pierre Trébod, Bordeaux Grand Parc, 9am–7pm). Bordeaux Métropole green line: 0 800 006 090 (8:30am–9pm).",
+      "es": "Las donaciones se centralizan en su ayuntamiento, que las hace llegar. No deje nada en el Parque de Exposiciones. Recogida principal también en el Gymnase Janine Toulouse Salaïgoty (35 rue Pierre Trébod, Bordeaux Grand Parc, 9h–19h). Número verde Bordeaux Métropole: 0 800 006 090 (8:30–21:00).",
+      "de": "Spenden werden zentral über Ihr Rathaus gesammelt und weitergeleitet. Bringen Sie nichts zum Ausstellungszentrum. Hauptannahmestelle auch Gymnase Janine Toulouse Salaïgoty (35 rue Pierre Trébod, Bordeaux Grand Parc, 9–19 Uhr). Grüne Hotline Bordeaux Métropole: 0 800 006 090 (8:30–21:00 Uhr).",
+      "nl": "Donaties worden gecentraliseerd via uw gemeentehuis, dat ze doorstuurt. Breng niets naar het beursgebouw. Hoofdcollecte ook bij Gymnase Janine Toulouse Salaïgoty (35 rue Pierre Trébod, Bordeaux Grand Parc, 9–19 uur). Groen nummer Bordeaux Métropole: 0 800 006 090 (8.30–21.00 uur)."
     },
     "actionLabel": {
       "fr": "Voir les besoins prioritaires et contacter sa mairie",
@@ -25,7 +25,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "volunteer",
@@ -37,11 +37,11 @@
       "nl": "Vrijwilliger worden"
     },
     "description": {
-      "fr": "Les besoins en bénévoles sont coordonnés uniquement par les mairies. Ne vous présentez pas directement au Parc des Expositions.",
-      "en": "Volunteer needs are coordinated only through town halls. Do not show up directly at the Exhibition Centre.",
-      "es": "Las necesidades de voluntariado se coordinan únicamente a través de los ayuntamientos. No se presente directamente en el Parque de Exposiciones.",
-      "de": "Der Freiwilligenbedarf wird ausschließlich über die Rathäuser koordiniert. Erscheinen Sie nicht direkt am Ausstellungszentrum.",
-      "nl": "De behoefte aan vrijwilligers wordt uitsluitend via de gemeentehuizen gecoördineerd. Meld u niet rechtstreeks bij het beursgebouw."
+      "fr": "Les besoins en bénévoles sont coordonnés uniquement par les mairies. Ne vous présentez pas directement au Parc des Expositions. Numéro vert : 0 800 006 090 (8h30–21h).",
+      "en": "Volunteer needs are coordinated only through town halls. Do not show up directly at the Exhibition Centre. Green line: 0 800 006 090 (8:30am–9pm).",
+      "es": "Las necesidades de voluntariado se coordinan únicamente a través de los ayuntamientos. No se presente directamente en el Parque de Exposiciones. Número verde: 0 800 006 090 (8:30–21:00).",
+      "de": "Der Freiwilligenbedarf wird ausschließlich über die Rathäuser koordiniert. Erscheinen Sie nicht direkt am Ausstellungszentrum. Grüne Hotline: 0 800 006 090 (8:30–21:00 Uhr).",
+      "nl": "De behoefte aan vrijwilligers wordt uitsluitend via de gemeentehuizen gecoördineerd. Meld u niet rechtstreeks bij het beursgebouw. Groen nummer: 0 800 006 090 (8.30–21.00 uur)."
     },
     "actionLabel": {
       "fr": "Contacter sa mairie ou remplir le formulaire",
@@ -53,7 +53,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "offer-housing",
@@ -80,7 +80,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "red-cross-support",
@@ -107,6 +107,6 @@
     },
     "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
     "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   }
 ]

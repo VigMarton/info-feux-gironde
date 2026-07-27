@@ -59,7 +59,7 @@ export const officialLinkSchema = z
 
 /**
  * Compact "official tools" strip entries — navigational deep-links only
- * (Tier 0/1). Not crisis facts, so no verifiedAt; keep the list short.
+ * (Tier 0/1/2). Not crisis facts, so no verifiedAt; keep the list short.
  */
 export const toolSchema = z
   .object({
@@ -67,7 +67,7 @@ export const toolSchema = z
     label: localizedText,
     hint: localizedText,
     url: z.string().url(),
-    tier: z.union([z.literal(0), z.literal(1)]),
+    tier: z.union([z.literal(0), z.literal(1), z.literal(2)]),
   })
   .strict();
 

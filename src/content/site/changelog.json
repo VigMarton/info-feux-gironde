@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-07-27-evening-freshness",
+    "date": "2026-07-27T19:55:00+02:00",
+    "summary": {
+      "fr": "Contrôle complet du soir : chiffres du point 14h toujours le dernier communiqué préfecture ; correction d’imprécisions (55 000, FFP2 pharmacies, sortie 4) ; ajout Haillan/Eysines/Mérignac, mesures assurances, point collecte Grand Parc ; lien Atmo.",
+      "en": "Evening full check: 2pm briefing still the latest préfecture communiqué; fixed imprecise claims (55,000, pharmacy FFP2, exit 4); added Haillan/Eysines/Mérignac, insurance measures, Grand Parc donation point; Atmo link.",
+      "es": "Comprobación completa de la noche: el parte de las 14:00 sigue siendo el último comunicado de la prefectura; corrección de imprecisiones; añadidos Haillan/Eysines/Mérignac, medidas de seguros, punto de recogida Grand Parc; enlace Atmo.",
+      "de": "Abendliche Vollprüfung: 14-Uhr-Lagebericht weiterhin jüngstes Präfektur-Kommuniqué; Ungenauigkeiten korrigiert; Haillan/Eysines/Mérignac, Versicherungsmaßnahmen, Sammelstelle Grand Parc und Atmo-Link ergänzt.",
+      "nl": "Volledige avondcontrole: 14.00-uurbericht nog steeds het laatste prefectuurcommuniqué; onnauwkeurigheden gecorrigeerd; Haillan/Eysines/Mérignac, verzekeringsmaatregelen, inzamelpunt Grand Parc en Atmo-link toegevoegd."
+    }
+  },
+  {
+    "id": "2026-07-27-point-14h-multipage",
+    "date": "2026-07-27T17:50:00+02:00",
+    "summary": {
+      "fr": "Point préfecture 14h (27/07) : 88 pompiers blessés, moyens actualisés ; liste centres d'accueil PDF du matin ; site découpé en pages Situation / Évacuation / Aide / Autres besoins.",
+      "en": "Préfecture 2pm briefing (27/07): 88 firefighters injured, updated resources; morning reception-centre PDF; site split into Situation / Evacuation / Help / Other needs pages.",
+      "es": "Parte de la prefectura a las 14:00 (27/07): 88 bomberos heridos y medios actualizados; PDF matinal de centros; el sitio se divide en páginas Situación / Evacuación / Ayuda / Otros.",
+      "de": "Präfektur-Lagebericht 14 Uhr (27.07.): 88 verletzte Feuerwehrleute, aktualisierte Mittel; PDF der Aufnahmezentren vom Morgen; Website in Seiten Lage / Evakuierung / Hilfe / Sonstiges aufgeteilt.",
+      "nl": "Prefectuurbericht 14.00 uur (27/07): 88 gewonde brandweerlieden, bijgewerkte middelen; ochtend-pdf opvangcentra; site opgesplitst in pagina's Situatie / Evacuatie / Hulp / Overig."
+    }
+  },
+  {
     "id": "2026-07-27-point-22h",
     "date": "2026-07-27T02:22:00+02:00",
     "summary": {

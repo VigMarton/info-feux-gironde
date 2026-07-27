@@ -33,7 +33,7 @@
   "section.evacuation.noCapacityNotice": "We do not show live availability: confirm on site or by phone.",
   "section.evacuation.fullListSummary": "See full list of reception centres",
   "section.evacuation.fullListNotice": "Addresses only — no open/full status. Confirm on the official préfecture PDF before travelling.",
-  "section.evacuation.fullListStale": "Our copy of this list is no longer freshly verified. Use the official préfecture PDF below.",
+  "section.evacuation.fullListStale": "Our copy is no longer freshly verified — the list below may be outdated. Before travelling, confirm on the official PDF:",
   "section.evacuation.fullListPlace": "Place",
   "section.evacuation.fullListAddress": "Address / venue",
   "section.evacuation.fullListPdf": "Official PDF (préfecture)",

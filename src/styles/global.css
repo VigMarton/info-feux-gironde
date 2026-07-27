@@ -972,3 +972,7 @@ h3 {
     display: block !important;
   }
 }
+
+.shelter-directory__stale {
+  margin-bottom: var(--space-3);
+}

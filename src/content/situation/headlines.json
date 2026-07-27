@@ -1,5 +1,31 @@
 [
   {
+    "id": "point-situation-27-juillet-14h",
+    "text": {
+      "fr": "27 juillet (14h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, 88 sapeurs-pompiers blessés. Aucune nouvelle évacuation cette nuit. Aucune victime parmi la population.",
+      "en": "27 July (2pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, 88 firefighters injured. No new overnight evacuations. No civilian fatalities.",
+      "es": "27 de julio (14:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 88 bomberos heridos. Ninguna evacuación nueva esta noche. Ninguna víctima mortal entre la población.",
+      "de": "27. Juli (14 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 88 verletzte Feuerwehrleute. Keine neuen Evakuierungen in der Nacht. Keine Todesopfer unter der Bevölkerung.",
+      "nl": "27 juli (14.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 88 gewonde brandweerlieden. Geen nieuwe evacuaties vannacht. Geen dodelijke burgerslachtoffers."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
+  },
+  {
+    "id": "assurances-mesures-27-juillet",
+    "text": {
+      "fr": "27 juillet (14h) : le ministre de l'Économie a annoncé un délai de déclaration de sinistre prolongé jusqu'au 31 août, et une prise en charge possible des frais de relogement (jusqu'à trois semaines) pour les personnes ayant dû évacuer leur résidence principale — dans les conditions du contrat d'assurance.",
+      "en": "27 July (2pm): the Economy minister announced an extended claims deadline until 31 August, and possible cover for temporary housing costs (up to three weeks) for people ordered to evacuate their main residence — subject to insurance contract terms.",
+      "es": "27 de julio (14:00): el ministro de Economía anunció un plazo ampliado para declarar siniestros hasta el 31 de agosto, y una posible cobertura de gastos de realojo (hasta tres semanas) para quienes debieron evacuar su residencia principal — según las condiciones del seguro.",
+      "de": "27. Juli (14 Uhr): Der Wirtschaftsminister kündigte eine verlängerte Schadenmeldefrist bis 31. August sowie eine mögliche Übernahme von Umsiedlungskosten (bis zu drei Wochen) für Evakuierte aus der Hauptwohnung an — gemäß Versicherungsbedingungen.",
+      "nl": "27 juli (14.00 uur): de minister van Economie kondigde een verlengde schadeaangiftetermijn tot 31 augustus aan, plus mogelijke dekking van herhuisvestingskosten (tot drie weken) voor wie de hoofdverblijfplaats moest verlaten — volgens de polisvoorwaarden."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
+  },
+  {
     "id": "point-situation-26-juillet-22h",
     "text": {
       "fr": "26 juillet (22h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, et 84 sapeurs-pompiers blessés. Aucune victime parmi la population.",
@@ -10,20 +36,20 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "pas-de-retour-avant-feu-fixe",
     "text": {
-      "fr": "26 juillet (22h) : il n'y aura pas de retour possible dans les communes évacuées avant que le feu ne soit fixé. Ne vous rendez pas dans les secteurs sinistrés.",
-      "en": "26 July (10pm): there will be no return to evacuated communes until the fire is contained. Do not go into the disaster-affected areas.",
-      "es": "26 de julio (22:00): no habrá retorno posible a los municipios evacuados hasta que el fuego esté estabilizado. No acuda a las zonas afectadas.",
-      "de": "26. Juli (22 Uhr): Eine Rückkehr in die evakuierten Gemeinden ist erst möglich, wenn das Feuer unter Kontrolle ist. Betreten Sie die betroffenen Gebiete nicht.",
-      "nl": "26 juli (22.00 uur): terugkeer naar geëvacueerde gemeenten is pas mogelijk als het vuur onder controle is. Ga niet naar de getroffen gebieden."
+      "fr": "27 juillet (14h) : il n'y aura pas de retour possible dans les communes évacuées avant que le feu ne soit fixé. Ne vous rendez pas dans les secteurs sinistrés.",
+      "en": "27 July (2pm): there will be no return to evacuated communes until the fire is contained. Do not go into the disaster-affected areas.",
+      "es": "27 de julio (14:00): no habrá retorno posible a los municipios evacuados hasta que el fuego esté estabilizado. No acuda a las zonas afectadas.",
+      "de": "27. Juli (14 Uhr): Eine Rückkehr in die evakuierten Gemeinden ist erst möglich, wenn das Feuer unter Kontrolle ist. Betreten Sie die betroffenen Gebiete nicht.",
+      "nl": "27 juli (14.00 uur): terugkeer naar geëvacueerde gemeenten is pas mogelijk als het vuur onder controle is. Ga niet naar de getroffen gebieden."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "arretes-interdiction-27-juillet",
@@ -36,7 +62,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "point-situation-26-juillet-13h",
@@ -49,7 +75,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "evacuation-marcheprime-cestas-25-juillet",
@@ -62,7 +88,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "vigilance-noire",
@@ -75,7 +101,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "fr-alert-25-juillet",
@@ -88,19 +114,19 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
-    "id": "centres-accueil-26-juillet",
+    "id": "centres-accueil-27-juillet",
     "text": {
-      "fr": "26 juillet : centres d'accueil ouverts en Gironde, plus un centre de 1 500 places au Parc des Expositions d'Agen (Lot-et-Garonne) en appui. Liste et adresses via le lien officiel.",
-      "en": "26 July: reception centres open in Gironde, plus a 1,500-bed centre at the Agen Exhibition Centre (Lot-et-Garonne) in support. List and addresses via the official link.",
-      "es": "26 de julio: centros de acogida abiertos en la Gironda, además de un centro de 1.500 plazas en el Parque de Exposiciones de Agen (Lot-et-Garonne) como apoyo. Lista y direcciones a través del enlace oficial.",
-      "de": "26. Juli: Aufnahmezentren in der Gironde geöffnet, zusätzlich ein Zentrum mit 1.500 Plätzen im Ausstellungszentrum von Agen (Lot-et-Garonne) als Unterstützung. Liste und Adressen über den offiziellen Link.",
-      "nl": "26 juli: opvangcentra open in de Gironde, plus een centrum met 1.500 plaatsen in het beursgebouw van Agen (Lot-et-Garonne) ter ondersteuning. Lijst en adressen via de officiële link."
+      "fr": "27 juillet : la préfecture a publié une liste actualisée des centres d'accueil (PDF du matin).",
+      "en": "27 July: the préfecture published an updated list of reception centres (morning PDF).",
+      "es": "27 de julio: la prefectura publicó una lista actualizada de centros de acogida (PDF de la mañana).",
+      "de": "27. Juli: Die Präfektur veröffentlichte eine aktualisierte Liste der Aufnahmezentren (PDF vom Morgen).",
+      "nl": "27 juli: de prefectuur publiceerde een bijgewerkte lijst van opvangcentra (pdf van de ochtend)."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   }
 ]

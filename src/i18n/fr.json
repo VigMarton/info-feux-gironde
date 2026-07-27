@@ -33,7 +33,7 @@
   "section.evacuation.noCapacityNotice": "Nous n'affichons pas la disponibilité en temps réel : confirmez sur place ou par téléphone.",
   "section.evacuation.fullListSummary": "Voir la liste complète des centres d'accueil",
   "section.evacuation.fullListNotice": "Adresses uniquement — pas de statut ouvert/complet. Confirmez sur le PDF officiel de la préfecture avant de vous déplacer.",
-  "section.evacuation.fullListStale": "Notre copie de cette liste n'est plus fraîchement vérifiée. Utilisez le PDF officiel de la préfecture ci-dessous.",
+  "section.evacuation.fullListStale": "Notre copie n'est plus fraîchement vérifiée — la liste ci-dessous peut être dépassée. Avant de vous déplacer, confirmez sur le PDF officiel :",
   "section.evacuation.fullListPlace": "Lieu",
   "section.evacuation.fullListAddress": "Adresse / lieu",
   "section.evacuation.fullListPdf": "PDF officiel (préfecture)",

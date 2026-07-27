@@ -33,7 +33,7 @@
   "section.evacuation.noCapacityNotice": "Wir zeigen keine Echtzeit-Verfügbarkeit: bitte vor Ort oder telefonisch bestätigen.",
   "section.evacuation.fullListSummary": "Vollständige Liste der Aufnahmezentren anzeigen",
   "section.evacuation.fullListNotice": "Nur Adressen — kein Status offen/voll. Vor der Anreise im offiziellen PDF der Präfektur bestätigen.",
-  "section.evacuation.fullListStale": "Unsere Kopie dieser Liste ist nicht mehr frisch geprüft. Nutzen Sie das offizielle PDF der Präfektur unten.",
+  "section.evacuation.fullListStale": "Unsere Kopie ist nicht mehr frisch geprüft — die Liste unten kann veraltet sein. Bestätigen Sie vor der Anreise im offiziellen PDF:",
   "section.evacuation.fullListPlace": "Ort",
   "section.evacuation.fullListAddress": "Adresse / Ort",
   "section.evacuation.fullListPdf": "Offizielles PDF (Präfektur)",

@@ -23,29 +23,35 @@ const fresh = isFresh(directory);
     <p class="confirm-notice">{t(locale, "section.evacuation.fullListNotice")}</p>
 
     {
-      fresh ? (
-        <div class="shelter-directory__table-wrap">
-          <table class="shelter-directory__table">
-            <thead>
-              <tr>
-                <th scope="col">{t(locale, "section.evacuation.fullListPlace")}</th>
-                <th scope="col">{t(locale, "section.evacuation.fullListAddress")}</th>
-              </tr>
-            </thead>
-            <tbody>
-              {directory.entries.map((entry) => (
-                <tr>
-                  <th scope="row">{entry.commune}</th>
-                  <td>{entry.place}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      ) : (
-        <p class="confirm-notice">{t(locale, "section.evacuation.fullListStale")}</p>
+      !fresh && (
+        <p class="confirm-notice shelter-directory__stale">
+          {t(locale, "section.evacuation.fullListStale")}
+          {" "}
+          <a href={directory.pdfUrl} {...externalLinkAttrs}>{t(locale, "section.evacuation.fullListPdf")}</a>
+          {" · "}
+          <a href={directory.sourceUrl} {...externalLinkAttrs}>{t(locale, "section.evacuation.fullListOfficialPage")}</a>
+        </p>
       )
     }
+
+    <div class="shelter-directory__table-wrap">
+      <table class="shelter-directory__table">
+        <thead>
+          <tr>
+            <th scope="col">{t(locale, "section.evacuation.fullListPlace")}</th>
+            <th scope="col">{t(locale, "section.evacuation.fullListAddress")}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {directory.entries.map((entry) => (
+            <tr>
+              <th scope="row">{entry.commune}</th>
+              <td>{entry.place}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
 
     <p>
       <a href={directory.pdfUrl} {...externalLinkAttrs}>{t(locale, "section.evacuation.fullListPdf")}</a>

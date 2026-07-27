@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,14 +28,14 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (au 26/07, 22h00)",
-      "en": "42,000 hectares (as of 26/07, 10pm)",
-      "es": "42.000 hectáreas (a 26/07, 22:00)",
-      "de": "42.000 Hektar (Stand 26.07., 22:00 Uhr)",
-      "nl": "42.000 hectare (op 26/07, 22:00 uur)"
+      "fr": "42 000 hectares (au 27/07, 14h00)",
+      "en": "42,000 hectares (as of 27/07, 2pm)",
+      "es": "42.000 hectáreas (a 27/07, 14:00)",
+      "de": "42.000 Hektar (Stand 27.07., 14:00 Uhr)",
+      "nl": "42.000 hectare (op 27/07, 14:00 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,14 +47,14 @@
       "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
     },
     "value": {
-      "fr": "Près de 220 000, dans 23 communes (dont 55 000 dans la nuit du 25 au 26 juillet)",
-      "en": "Nearly 220,000, across 23 communes (including 55,000 overnight on 25–26 July)",
-      "es": "Cerca de 220.000, en 23 municipios (de los cuales 55.000 durante la noche del 25 al 26 de julio)",
-      "de": "Fast 220.000, in 23 Gemeinden (davon 55.000 in der Nacht vom 25. auf den 26. Juli)",
-      "nl": "Bijna 220.000, in 23 gemeenten (waarvan 55.000 in de nacht van 25 op 26 juli)"
+      "fr": "Près de 220 000, dans 23 communes",
+      "en": "Nearly 220,000, across 23 communes",
+      "es": "Cerca de 220.000, en 23 municipios",
+      "de": "Fast 220.000, in 23 Gemeinden",
+      "nl": "Bijna 220.000, in 23 gemeenten"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -66,14 +66,14 @@
       "nl": "Ingezette hulpmiddelen"
     },
     "value": {
-      "fr": "2 500 sapeurs-pompiers, 18 moyens aériens, 1 500 militaires, 1 200 forces de sécurité intérieure",
-      "en": "2,500 firefighters, 18 aircraft, 1,500 soldiers, 1,200 internal security forces",
-      "es": "2.500 bomberos, 18 medios aéreos, 1.500 militares, 1.200 fuerzas de seguridad interior",
-      "de": "2.500 Feuerwehrleute, 18 Luftfahrzeuge, 1.500 Soldaten, 1.200 innere Sicherheitskräfte",
-      "nl": "2.500 brandweerlieden, 18 luchtmiddelen, 1.500 militairen, 1.200 interne veiligheidstroepen"
+      "fr": "2 750 sapeurs-pompiers, 18 moyens aériens, 1 500 militaires, 1 440 forces de sécurité intérieure",
+      "en": "2,750 firefighters, 18 aircraft, 1,500 soldiers, 1,440 internal security forces",
+      "es": "2.750 bomberos, 18 medios aéreos, 1.500 militares, 1.440 fuerzas de seguridad interior",
+      "de": "2.750 Feuerwehrleute, 18 Luftfahrzeuge, 1.500 Soldaten, 1.440 innere Sicherheitskräfte",
+      "nl": "2.750 brandweerlieden, 18 luchtmiddelen, 1.500 militairen, 1.440 interne veiligheidstroepen"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -85,13 +85,13 @@
       "nl": "Voorlopige balans (mensen en materieel)"
     },
     "value": {
-      "fr": "84 sapeurs-pompiers blessés depuis le début ; aucune victime parmi la population ; 240 habitations détruites",
-      "en": "84 firefighters injured since the start; no civilian fatalities; 240 homes destroyed",
-      "es": "84 bomberos heridos desde el inicio; ninguna víctima mortal entre la población; 240 viviendas destruidas",
-      "de": "84 verletzte Feuerwehrleute seit Beginn; keine Todesopfer unter der Bevölkerung; 240 Wohnhäuser zerstört",
-      "nl": "84 gewonde brandweerlieden sinds het begin; geen dodelijke burgerslachtoffers; 240 woningen verwoest"
+      "fr": "88 sapeurs-pompiers blessés depuis le début ; aucune victime parmi la population ; 240 habitations détruites",
+      "en": "88 firefighters injured since the start; no civilian fatalities; 240 homes destroyed",
+      "es": "88 bomberos heridos desde el inicio; ninguna víctima mortal entre la población; 240 viviendas destruidas",
+      "de": "88 verletzte Feuerwehrleute seit Beginn; keine Todesopfer unter der Bevölkerung; 240 Wohnhäuser zerstört",
+      "nl": "88 gewonde brandweerlieden sinds het begin; geen dodelijke burgerslachtoffers; 240 woningen verwoest"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   }
 ]

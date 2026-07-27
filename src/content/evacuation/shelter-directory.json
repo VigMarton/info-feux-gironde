@@ -1,26 +1,28 @@
 {
   "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-  "pdfUrl": "https://www.gironde.gouv.fr/contenu/telechargement/87709/660090/file/Centres%20d'accueil%20MAJ%202026-07-26.pdf",
+  "pdfUrl": "https://www.gironde.gouv.fr/contenu/telechargement/87723/660193/file/Centres%20d'accueil%20MAJ%202026-07-27.pdf",
   "officialAsOf": {
-    "fr": "Liste préfecture actualisée le dimanche 26 juillet 2026 à 15h",
-    "en": "Préfecture list updated Sunday 26 July 2026 at 15:00",
-    "es": "Lista de la prefectura actualizada el domingo 26 de julio de 2026 a las 15:00",
-    "de": "Präfekturliste aktualisiert am Sonntag, 26. Juli 2026, 15:00 Uhr",
-    "nl": "Prefectuurlijst bijgewerkt op zondag 26 juli 2026 om 15:00"
+    "fr": "Liste préfecture actualisée le lundi 27 juillet 2026 matin",
+    "en": "Préfecture list updated Monday 27 July 2026 morning",
+    "es": "Lista de la prefectura actualizada el lunes 27 de julio de 2026 por la mañana",
+    "de": "Präfekturliste aktualisiert am Montag, 27. Juli 2026, morgens",
+    "nl": "Prefectuurlijst bijgewerkt op maandag 27 juli 2026 's ochtends"
   },
-  "verifiedAt": "2026-07-27T02:22:00+02:00",
+  "verifiedAt": "2026-07-27T19:55:00+02:00",
   "entries": [
-    { "id": "lacanau-albert-francois", "commune": "LACANAU", "place": "21 Rue Albert François" },
-    { "id": "bordeaux-parc-expositions", "commune": "BORDEAUX", "place": "Parc des expositions hall 1,2,3" },
-    { "id": "arcachon-palais-congres", "commune": "ARCACHON", "place": "Palais des Congrès" },
-    { "id": "la-teste-parc-expositions", "commune": "LA TESTE DE BUCH", "place": "Parc des Expositions" },
     { "id": "la-teste-salle-turpin", "commune": "LA TESTE DE BUCH", "place": "Salle Turpin" },
     { "id": "la-teste-salle-cather", "commune": "LA TESTE DE BUCH", "place": "Salle Cather" },
     { "id": "la-teste-salle-coubertin", "commune": "LA TESTE DE BUCH", "place": "Salle Coubertin" },
+    { "id": "la-teste-parc-expositions", "commune": "LA TESTE DE BUCH", "place": "Parc des Expositions" },
+    { "id": "la-teste-salle-fetes-cazaux", "commune": "LA TESTE DE BUCH", "place": "Salle des fêtes Cazaux" },
+    { "id": "lacanau-albert-francois", "commune": "LACANAU", "place": "21 Rue Albert François (lieu de transit)" },
+    { "id": "bordeaux-parc-expositions", "commune": "BORDEAUX", "place": "Parc des expositions hall 1, 2 et 3" },
     { "id": "lormont-accueil-communal", "commune": "LORMONT", "place": "Centre d'accueil communal - centre d'accueil de jour" },
-    { "id": "gujan-mestras-lycee-mer", "commune": "GUJAN-MESTRAS", "place": "Lycée de la mer" },
+    { "id": "gujan-mestras-lycee-mer", "commune": "GUJAN-MESTRAS", "place": "Lycée" },
+    { "id": "agen-parc-expositions", "commune": "AGEN", "place": "Parc des Expositions" },
+    { "id": "salles-place-mairie", "commune": "SALLES", "place": "1 place de la mairie" },
+    { "id": "arcachon-palais-congres", "commune": "ARCACHON", "place": "Palais des Congrès" },
     { "id": "louchats-salle-fetes", "commune": "LOUCHATS", "place": "Salle des fêtes" },
-    { "id": "salles-place-mairie", "commune": "SALLES", "place": "1, place de la mairie" },
-    { "id": "agen-parc-expositions", "commune": "AGEN", "place": "Parc des Expositions" }
+    { "id": "hostens-la-bergerie", "commune": "HOSTENS", "place": "La Bergerie" }
   ]
 }

@@ -33,7 +33,7 @@
   "section.evacuation.noCapacityNotice": "Wij tonen geen realtime beschikbaarheid: bevestig ter plaatse of telefonisch.",
   "section.evacuation.fullListSummary": "Volledige lijst van opvangcentra bekijken",
   "section.evacuation.fullListNotice": "Alleen adressen — geen status open/vol. Bevestig via de officiële pdf van de prefectuur vóór vertrek.",
-  "section.evacuation.fullListStale": "Onze kopie van deze lijst is niet meer vers geverifieerd. Gebruik de officiële pdf van de prefectuur hieronder.",
+  "section.evacuation.fullListStale": "Onze kopie is niet meer vers geverifieerd — de lijst hieronder kan verouderd zijn. Bevestig vóór vertrek via het officiële pdf:",
   "section.evacuation.fullListPlace": "Plaats",
   "section.evacuation.fullListAddress": "Adres / locatie",
   "section.evacuation.fullListPdf": "Officiële pdf (prefectuur)",

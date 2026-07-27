@@ -38,6 +38,25 @@
     "tier": 0
   },
   {
+    "id": "tool-atmo",
+    "label": {
+      "fr": "Atmo Nouvelle-Aquitaine",
+      "en": "Atmo Nouvelle-Aquitaine",
+      "es": "Atmo Nouvelle-Aquitaine",
+      "de": "Atmo Nouvelle-Aquitaine",
+      "nl": "Atmo Nouvelle-Aquitaine"
+    },
+    "hint": {
+      "fr": "Qualité de l'air et indices de pollution",
+      "en": "Air quality and pollution indices",
+      "es": "Calidad del aire e índices de contaminación",
+      "de": "Luftqualität und Verschmutzungsindizes",
+      "nl": "Luchtkwaliteit en vervuilingsindexen"
+    },
+    "url": "https://www.atmo-nouvelleaquitaine.org/",
+    "tier": 2
+  },
+  {
     "id": "tool-inforoutes",
     "label": {
       "fr": "Inforoutes Gironde",

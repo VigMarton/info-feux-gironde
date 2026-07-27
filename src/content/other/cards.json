@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -66,11 +66,11 @@
       "nl": "Rook en luchtkwaliteit"
     },
     "description": {
-      "fr": "La qualité de l'air en Nouvelle-Aquitaine dépasse le seuil d'alerte pollution à cause des fumées. L'ARS recommande de limiter le temps passé à l'extérieur, de garder portes et fenêtres fermées, d'éviter les efforts physiques et de surveiller les personnes âgées, jeunes enfants et personnes souffrant de maladies cardio-respiratoires chroniques. Des masques FFP2 sont distribués gratuitement aux personnes vulnérables dans les pharmacies de garde près des zones touchées.",
-      "en": "Air quality across Nouvelle-Aquitaine has passed the pollution alert threshold because of the smoke. The regional health agency (ARS) recommends limiting time outdoors, keeping doors and windows closed, avoiding physical exertion, and watching over elderly people, young children and those with chronic cardio-respiratory conditions. Free FFP2 masks are being distributed to vulnerable people at on-duty pharmacies near the affected areas.",
-      "es": "La calidad del aire en Nouvelle-Aquitaine ha superado el umbral de alerta por contaminación debido al humo. La agencia sanitaria regional (ARS) recomienda limitar el tiempo al aire libre, mantener puertas y ventanas cerradas, evitar el esfuerzo físico y vigilar a las personas mayores, los niños pequeños y quienes padecen enfermedades cardiorrespiratorias crónicas. Se están distribuyendo mascarillas FFP2 gratuitas a las personas vulnerables en las farmacias de guardia cercanas a las zonas afectadas.",
-      "de": "Die Luftqualität in Nouvelle-Aquitaine hat wegen des Rauchs die Alarmschwelle für Luftverschmutzung überschritten. Die regionale Gesundheitsbehörde (ARS) empfiehlt, die Zeit im Freien zu begrenzen, Türen und Fenster geschlossen zu halten, körperliche Anstrengung zu vermeiden und auf ältere Menschen, kleine Kinder und Personen mit chronischen Herz-Lungen-Erkrankungen zu achten. Gefährdete Personen erhalten kostenlose FFP2-Masken in den diensthabenden Apotheken nahe den betroffenen Gebieten.",
-      "nl": "De luchtkwaliteit in Nouvelle-Aquitaine overschrijdt door de rook de vervuilingsalarmdrempel. De regionale gezondheidsdienst (ARS) adviseert om minder tijd buiten door te brengen, deuren en ramen gesloten te houden, fysieke inspanning te vermijden en op ouderen, jonge kinderen en mensen met chronische hart- en longaandoeningen te letten. Kwetsbare personen krijgen gratis FFP2-maskers bij de dienstdoende apotheken nabij de getroffen gebieden."
+      "fr": "Un épisode de pollution aux particules PM10 lié aux fumées est en cours (suivi Atmo Nouvelle-Aquitaine). L'ARS recommande de limiter le temps à l'extérieur, de garder portes et fenêtres fermées, d'éviter les efforts physiques en plein air et de surveiller les personnes vulnérables ; le port d'un masque FFP2/FFP3 est fortement recommandé en cas d'exposition aux fumées.",
+      "en": "A PM10 particle pollution episode linked to the smoke is ongoing (Atmo Nouvelle-Aquitaine monitoring). The ARS recommends limiting time outdoors, keeping doors and windows closed, avoiding outdoor physical exertion and watching over vulnerable people; an FFP2/FFP3 mask is strongly recommended when exposed to smoke.",
+      "es": "Hay un episodio de contaminación por partículas PM10 vinculado al humo (seguimiento de Atmo Nouvelle-Aquitaine). La ARS recomienda limitar el tiempo al aire libre, mantener puertas y ventanas cerradas, evitar el esfuerzo físico al aire libre y vigilar a las personas vulnerables; se recomienda encarecidamente una mascarilla FFP2/FFP3 en caso de exposición al humo.",
+      "de": "Ein mit dem Rauch verbundenes PM10-Partikelverschmutzungsepisode läuft (Überwachung durch Atmo Nouvelle-Aquitaine). Die ARS empfiehlt, die Zeit im Freien zu begrenzen, Türen und Fenster geschlossen zu halten, körperliche Anstrengung im Freien zu vermeiden und auf gefährdete Personen zu achten; bei Rauchbelastung wird eine FFP2/FFP3-Maske dringend empfohlen.",
+      "nl": "Er is een PM10-fijnstofvervuilingsepisode door de rook gaande (opvolging Atmo Nouvelle-Aquitaine). De ARS adviseert minder tijd buiten, deuren en ramen dicht, geen zware inspanning in de open lucht en extra aandacht voor kwetsbare personen; bij blootstelling aan rook wordt een FFP2/FFP3-masker sterk aangeraden."
     },
     "actionLabel": {
       "fr": "Lire les recommandations sanitaires de l'ARS",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -108,8 +108,8 @@
       "nl": "Bel 0 800 719 912"
     },
     "phone": "0 800 719 912",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "Selon le communiqué préfecture du 26 juillet (13h) : A63 partiellement fermée — sens Sud→Nord entre l'échangeur 17 (Liposthey) et l'échangeur 24 (Cestas) ; sens Nord→Sud entre la rocade et l'échangeur 23 (Marcheprime). De nombreuses routes départementales et pistes cyclables évoluent aussi : consultez Inforoutes Gironde avant tout déplacement.",
-      "en": "Per the préfecture briefing of 26 July (1pm): the A63 is partially closed — south→north between junction 17 (Liposthey) and junction 24 (Cestas); north→south between the ring road and junction 23 (Marcheprime). Many secondary roads and cycle paths also change: check Gironde Inforoutes before travelling.",
-      "es": "Según el comunicado de la prefectura del 26 de julio (13:00): la A63 está parcialmente cerrada — sentido sur→norte entre el intercambio 17 (Liposthey) y el 24 (Cestas); sentido norte→sur entre la circunvalación y el intercambio 23 (Marcheprime). También cambian muchas carreteras secundarias y carriles bici: consulte Inforoutes Gironde antes de desplazarse.",
-      "de": "Laut Präfektur-Lagebericht vom 26. Juli (13 Uhr): A63 teilweise gesperrt — Süd→Nord zwischen Anschlussstelle 17 (Liposthey) und 24 (Cestas); Nord→Süd zwischen Ringstraße und Anschlussstelle 23 (Marcheprime). Auch zahlreiche Nebenstraßen und Radwege ändern sich: vor der Fahrt Inforoutes Gironde prüfen.",
-      "nl": "Volgens het prefectuurbericht van 26 juli (13.00 uur): A63 deels afgesloten — zuid→noord tussen afrit 17 (Liposthey) en 24 (Cestas); noord→zuid tussen de ringweg en afrit 23 (Marcheprime). Ook veel secundaire wegen en fietspaden wijzigen: raadpleeg Inforoutes Gironde vóór vertrek."
+      "fr": "Selon le communiqué préfecture du 27 juillet (14h) : A63 partiellement fermée — sens Sud→Nord entre l'échangeur 17 (Liposthey) et l'échangeur 24 (Cestas) ; sens Nord→Sud entre la rocade et l'échangeur 23 (Marcheprime). De nombreuses routes départementales et pistes cyclables évoluent aussi : consultez Inforoutes Gironde avant tout déplacement.",
+      "en": "Per the préfecture briefing of 27 July (2pm): the A63 is partially closed — south→north between junction 17 (Liposthey) and junction 24 (Cestas); north→south between the ring road and junction 23 (Marcheprime). Many secondary roads and cycle paths also change: check Gironde Inforoutes before travelling.",
+      "es": "Según el comunicado de la prefectura del 27 de julio (14:00): la A63 está parcialmente cerrada — sentido sur→norte entre el intercambio 17 (Liposthey) y el 24 (Cestas); sentido norte→sur entre la circunvalación y el intercambio 23 (Marcheprime). También cambian muchas carreteras secundarias y carriles bici: consulte Inforoutes Gironde antes de desplazarse.",
+      "de": "Laut Präfektur-Lagebericht vom 27. Juli (14 Uhr): A63 teilweise gesperrt — Süd→Nord zwischen Anschlussstelle 17 (Liposthey) und 24 (Cestas); Nord→Süd zwischen Ringstraße und Anschlussstelle 23 (Marcheprime). Auch zahlreiche Nebenstraßen und Radwege ändern sich: vor der Fahrt Inforoutes Gironde prüfen.",
+      "nl": "Volgens het prefectuurbericht van 27 juli (14.00 uur): A63 deels afgesloten — zuid→noord tussen afrit 17 (Liposthey) en 24 (Cestas); noord→zuid tussen de ringweg en afrit 23 (Marcheprime). Ook veel secundaire wegen en fietspaden wijzigen: raadpleeg Inforoutes Gironde vóór vertrek."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T02:22:00+02:00"
+    "verifiedAt": "2026-07-27T19:55:00+02:00"
   }
 ]

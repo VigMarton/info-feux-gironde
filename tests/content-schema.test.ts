@@ -177,14 +177,26 @@ describe("toolSchema", () => {
     ).not.toThrow();
   });
 
-  it("rejects Tier-2 tools in the official-tools strip", () => {
+  it("accepts Tier-2 tools for accredited monitoring orgs", () => {
+    expect(() =>
+      toolSchema.parse({
+        id: "tool-atmo",
+        label: toolLabel,
+        hint: toolHint,
+        url: "https://www.atmo-nouvelleaquitaine.org/",
+        tier: 2,
+      }),
+    ).not.toThrow();
+  });
+
+  it("rejects Tier-3 tools in the official-tools strip", () => {
     expect(() =>
       toolSchema.parse({
         id: "tool-ngo",
         label: toolLabel,
         hint: toolHint,
-        url: "https://www.croix-rouge.fr/",
-        tier: 2,
+        url: "https://example.com/",
+        tier: 3,
       }),
     ).toThrow();
   });
