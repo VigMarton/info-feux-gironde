@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Info Feux Gironde">
+  <rect width="32" height="32" rx="7" fill="#1e40af"/>
+  <!-- Geometric IF monogram  stays legible at 16×16 -->
+  <path fill="#ffffff" d="M7.5 8h4.2v16H7.5V8zm7.3 0H25v3.4h-6.8v3.2H24V18h-5.8v6H14.8V8z"/>
+</svg>

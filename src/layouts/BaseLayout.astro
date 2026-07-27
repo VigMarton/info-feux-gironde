@@ -26,6 +26,9 @@ const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="theme-color" content="#1e40af" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.svg" />
     <link rel="canonical" href={canonicalUrl} />
     {siteUrl && locales.map((loc) => (
       <link rel="alternate" hreflang={loc} href={`${siteUrl}/${loc}/`} />
