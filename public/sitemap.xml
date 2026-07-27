@@ -11,6 +11,42 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/" />
   </url>
   <url>
+    <loc>https://info-feux-gironde.com/fr/situation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/situation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/situation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/situation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/situation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/situation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/situation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/fr/evacuation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/evacuation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/fr/help/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/help/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/help/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/help/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/help/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/help/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/help/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/fr/other/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/other/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/other/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/other/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/other/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/other/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/other/" />
+  </url>
+  <url>
     <loc>https://info-feux-gironde.com/en/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/" />
@@ -18,6 +54,42 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/" />
     <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/en/situation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/situation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/situation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/situation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/situation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/situation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/situation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/en/evacuation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/evacuation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/en/help/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/help/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/help/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/help/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/help/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/help/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/help/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/en/other/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/other/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/other/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/other/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/other/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/other/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/other/" />
   </url>
   <url>
     <loc>https://info-feux-gironde.com/es/</loc>
@@ -29,6 +101,42 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/" />
   </url>
   <url>
+    <loc>https://info-feux-gironde.com/es/situation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/situation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/situation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/situation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/situation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/situation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/situation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/es/evacuation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/evacuation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/es/help/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/help/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/help/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/help/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/help/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/help/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/help/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/es/other/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/other/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/other/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/other/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/other/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/other/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/other/" />
+  </url>
+  <url>
     <loc>https://info-feux-gironde.com/de/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/" />
@@ -38,6 +146,42 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/" />
   </url>
   <url>
+    <loc>https://info-feux-gironde.com/de/situation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/situation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/situation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/situation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/situation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/situation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/situation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/de/evacuation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/evacuation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/de/help/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/help/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/help/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/help/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/help/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/help/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/help/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/de/other/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/other/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/other/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/other/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/other/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/other/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/other/" />
+  </url>
+  <url>
     <loc>https://info-feux-gironde.com/nl/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/" />
@@ -45,5 +189,41 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/" />
     <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/nl/situation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/situation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/situation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/situation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/situation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/situation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/situation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/nl/evacuation/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/evacuation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/evacuation/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/nl/help/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/help/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/help/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/help/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/help/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/help/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/help/" />
+  </url>
+  <url>
+    <loc>https://info-feux-gironde.com/nl/other/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://info-feux-gironde.com/fr/other/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://info-feux-gironde.com/en/other/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://info-feux-gironde.com/es/other/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://info-feux-gironde.com/de/other/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://info-feux-gironde.com/nl/other/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://info-feux-gironde.com/fr/other/" />
   </url>
 </urlset>

@@ -1,0 +1,37 @@
+---
+import AboutSection from "../AboutSection.astro";
+import EmergencyStrip from "../EmergencyStrip.astro";
+import KeyFacts from "../KeyFacts.astro";
+import ToolsStrip from "../ToolsStrip.astro";
+import UpdatesLog from "../UpdatesLog.astro";
+import { t, type Locale } from "../../i18n";
+import { loadHubData } from "../../lib/hub-data";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const data = await loadHubData();
+---
+
+<BaseLayout locale={locale} pathSegment="" title={t(locale, "site.title")} description={t(locale, "meta.description")}>
+  <script is:inline define:vars={{ locale }}>
+    const map = { situation: "situation", evacuation: "evacuation", help: "help", other: "other" };
+    const raw = window.location.hash.replace(/^#/, "");
+    const segment = map[raw];
+    if (segment) window.location.replace(`/${locale}/${segment}/`);
+  </script>
+
+  <EmergencyStrip locale={locale} />
+  <KeyFacts
+    locale={locale}
+    alertStat={data.alertStat}
+    latestHeadline={data.headlines[0]}
+    killSwitch={data.killSwitch}
+  />
+  <ToolsStrip locale={locale} tools={data.tools} />
+  <AboutSection locale={locale} />
+  {data.changelog.length > 0 && <UpdatesLog locale={locale} entries={data.changelog} />}
+</BaseLayout>

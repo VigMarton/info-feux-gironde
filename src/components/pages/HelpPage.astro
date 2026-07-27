@@ -1,0 +1,25 @@
+---
+import HelpCard from "../HelpCard.astro";
+import SectionIcon from "../SectionIcon.astro";
+import { t, type Locale } from "../../i18n";
+import { loadHubData } from "../../lib/hub-data";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const data = await loadHubData();
+const title = `${t(locale, "section.help.title")} — ${t(locale, "site.title")}`;
+---
+
+<BaseLayout locale={locale} pathSegment="help" title={title} description={t(locale, "meta.description")}>
+  <section id="help" aria-labelledby="help-heading">
+    <h2 id="help-heading"><SectionIcon name="help" />{t(locale, "section.help.title")}</h2>
+    <p>{t(locale, "section.help.intro")}</p>
+    <div class="card-list">
+      {data.helpCards.map((card) => <HelpCard locale={locale} card={card} />)}
+    </div>
+  </section>
+</BaseLayout>

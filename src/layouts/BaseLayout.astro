@@ -5,17 +5,20 @@ import TriageNav from "../components/TriageNav.astro";
 import TrustBanner from "../components/TrustBanner.astro";
 import meta from "../content/site/meta.json";
 import { locales, t, type Locale } from "../i18n";
+import { localePath, type PageSegment } from "../lib/routes";
 import "../styles/global.css";
 
 interface Props {
   locale: Locale;
   title: string;
   description: string;
+  pathSegment?: PageSegment;
 }
 
-const { locale, title, description } = Astro.props;
+const { locale, title, description, pathSegment = "" } = Astro.props;
 const siteUrl = Astro.site?.toString().replace(/\/$/, "") ?? "";
-const canonicalUrl = siteUrl ? `${siteUrl}/${locale}/` : `/${locale}/`;
+const path = localePath(locale, pathSegment);
+const canonicalUrl = siteUrl ? `${siteUrl}${path}` : path;
 const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string | undefined;
 ---
 
@@ -30,10 +33,13 @@ const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.svg" />
     <link rel="canonical" href={canonicalUrl} />
-    {siteUrl && locales.map((loc) => (
-      <link rel="alternate" hreflang={loc} href={`${siteUrl}/${loc}/`} />
-    ))}
-    {siteUrl && <link rel="alternate" hreflang="x-default" href={`${siteUrl}/fr/`} />}
+    {
+      siteUrl &&
+        locales.map((loc) => (
+          <link rel="alternate" hreflang={loc} href={`${siteUrl}${localePath(loc, pathSegment)}`} />
+        ))
+    }
+    {siteUrl && <link rel="alternate" hreflang="x-default" href={`${siteUrl}${localePath("fr", pathSegment)}`} />}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -46,11 +52,11 @@ const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string
     <header class="site-header">
       <TrustBanner locale={locale} lastFullCheck={meta.lastFullCheck} />
       <div class="site-header__row">
-        <a class="brand" href={`/${locale}/`}>{t(locale, "site.title")}</a>
-        <LanguageSwitcher locale={locale} />
+        <a class="brand" href={localePath(locale)}>{t(locale, "site.title")}</a>
+        <LanguageSwitcher locale={locale} pathSegment={pathSegment} />
       </div>
     </header>
-    <TriageNav locale={locale} />
+    <TriageNav locale={locale} pathSegment={pathSegment} />
     <main id="main-content">
       <slot />
     </main>
@@ -66,10 +72,6 @@ const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN as string
       )
     }
     <script>
-      // Progressive enhancement: adds "(12 min ago)" next to the absolute
-      // verified timestamp already rendered server-side, so staleness is
-      // obvious to readers too, not just editors. Never the only signal —
-      // the absolute time and source link always remain.
       type RelativeLabels = {
         justNow: string;
         minutesAgo: (n: number) => string;

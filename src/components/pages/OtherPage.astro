@@ -1,0 +1,36 @@
+---
+import OtherCard from "../OtherCard.astro";
+import SectionIcon from "../SectionIcon.astro";
+import { t, type Locale } from "../../i18n";
+import { loadHubData } from "../../lib/hub-data";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const data = await loadHubData();
+const title = `${t(locale, "section.other.title")} — ${t(locale, "site.title")}`;
+---
+
+<BaseLayout locale={locale} pathSegment="other" title={title} description={t(locale, "meta.description")}>
+  <section id="other" aria-labelledby="other-heading">
+    <h2 id="other-heading"><SectionIcon name="other" />{t(locale, "section.other.title")}</h2>
+    <p>{t(locale, "section.other.intro")}</p>
+    {
+      data.otherGroups.map((group, index) => (
+        <details class="category-group" open={index === 0}>
+          <summary>
+            {t(locale, `other.category.${group.category}`)} ({group.items.length})
+          </summary>
+          <div class="category-group__body">
+            {group.items.map((card) => (
+              <OtherCard locale={locale} card={card} showCategory={false} />
+            ))}
+          </div>
+        </details>
+      ))
+    }
+  </section>
+</BaseLayout>

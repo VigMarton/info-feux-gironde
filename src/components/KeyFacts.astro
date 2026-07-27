@@ -1,5 +1,6 @@
 ---
 import { t, type Locale, type LocalizedText } from "../i18n";
+import { localePath } from "../lib/routes";
 
 interface Stat {
   value: LocalizedText;
@@ -27,8 +28,8 @@ const hasContent = !killSwitch && (alertStat || latestHeadline);
       {alertStat && <p class="key-facts__alert">{alertStat.value[locale]}</p>}
       {latestHeadline && <p class="key-facts__headline">{latestHeadline.text[locale]}</p>}
       <div class="key-facts__actions">
-        <a href="#evacuation">{t(locale, "keyFacts.jumpEvacuation")}</a>
-        <a href="#help">{t(locale, "keyFacts.jumpHelp")}</a>
+        <a href={localePath(locale, "evacuation")}>{t(locale, "keyFacts.jumpEvacuation")}</a>
+        <a href={localePath(locale, "help")}>{t(locale, "keyFacts.jumpHelp")}</a>
       </div>
     </div>
   )

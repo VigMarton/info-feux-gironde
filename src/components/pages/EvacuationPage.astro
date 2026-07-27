@@ -1,0 +1,45 @@
+---
+import AreaList from "../AreaList.astro";
+import SectionIcon from "../SectionIcon.astro";
+import ShelterCard from "../ShelterCard.astro";
+import ShelterDirectory from "../ShelterDirectory.astro";
+import { t, type Locale } from "../../i18n";
+import { loadHubData } from "../../lib/hub-data";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const data = await loadHubData();
+const title = `${t(locale, "section.evacuation.title")} — ${t(locale, "site.title")}`;
+---
+
+<BaseLayout locale={locale} pathSegment="evacuation" title={title} description={t(locale, "meta.description")}>
+  <section id="evacuation" aria-labelledby="evacuation-heading">
+    <h2 id="evacuation-heading"><SectionIcon name="evacuation" />{t(locale, "section.evacuation.title")}</h2>
+    <p>{t(locale, "section.evacuation.intro")}</p>
+    <p class="confirm-notice">{t(locale, "section.evacuation.confirmNotice")}</p>
+
+    {
+      data.areas.length > 0 && (
+        <Fragment>
+          <h3>{t(locale, "section.evacuation.areasHeading")}</h3>
+          <AreaList locale={locale} areas={data.areas} />
+        </Fragment>
+      )
+    }
+
+    <h3>{t(locale, "section.evacuation.sheltersHeading")}</h3>
+    <p class="confirm-notice">{t(locale, "section.evacuation.noCapacityNotice")}</p>
+    <div class="card-list">
+      {
+        data.shelters.map((shelter) => (
+          <ShelterCard locale={locale} shelter={shelter} hideNotes={data.killSwitch} />
+        ))
+      }
+    </div>
+    <ShelterDirectory locale={locale} directory={data.shelterDirectory} />
+  </section>
+</BaseLayout>

@@ -1,0 +1,52 @@
+---
+import HeadlineList from "../HeadlineList.astro";
+import OfficialLinkList from "../OfficialLinkList.astro";
+import SectionIcon from "../SectionIcon.astro";
+import StatCard from "../StatCard.astro";
+import { t, type Locale } from "../../i18n";
+import { loadHubData } from "../../lib/hub-data";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const data = await loadHubData();
+const title = `${t(locale, "section.situation.title")} — ${t(locale, "site.title")}`;
+---
+
+<BaseLayout locale={locale} pathSegment="situation" title={title} description={t(locale, "meta.description")}>
+  <section id="situation" aria-labelledby="situation-heading">
+    <h2 id="situation-heading"><SectionIcon name="situation" />{t(locale, "section.situation.title")}</h2>
+    <p>{t(locale, "section.situation.intro")}</p>
+    {data.killSwitch && <p class="confirm-notice">{t(locale, "banner.killSwitchNotice")}</p>}
+
+    {
+      data.freshStats.length > 0 ? (
+        <Fragment>
+          <h3>{t(locale, "section.situation.statsHeading")}</h3>
+          <div class="stat-grid">
+            {data.freshStats.map((stat) => (
+              <StatCard locale={locale} stat={stat} />
+            ))}
+          </div>
+        </Fragment>
+      ) : (
+        !data.killSwitch && <p>{t(locale, "section.situation.staleNotice")}</p>
+      )
+    }
+
+    {
+      data.headlines.length > 0 && (
+        <Fragment>
+          <h3>{t(locale, "section.situation.headlinesHeading")}</h3>
+          <HeadlineList locale={locale} headlines={data.headlines} />
+        </Fragment>
+      )
+    }
+
+    <h3>{t(locale, "section.situation.linksHeading")}</h3>
+    <OfficialLinkList locale={locale} links={data.officialLinks} />
+  </section>
+</BaseLayout>
