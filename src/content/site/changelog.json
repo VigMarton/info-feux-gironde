@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-27-point-22h",
+    "date": "2026-07-27T02:22:00+02:00",
+    "summary": {
+      "fr": "Mise à jour sur le point préfecture de 22h (26/07) : 84 pompiers blessés, pas de retour avant feu fixé, numéro CUMP 0 800 719 912, arrêtés du 27/07 sur les séjours collectifs.",
+      "en": "Updated from the préfecture 10pm briefing (26/07): 84 firefighters injured, no return until the fire is contained, CUMP line 0 800 719 912, and 27/07 bans on collective holiday stays.",
+      "es": "Actualización con el parte de las 22:00 de la prefectura (26/07): 84 bomberos heridos, sin retorno hasta que el fuego esté estabilizado, línea CUMP 0 800 719 912 y prohibiciones del 27/07 sobre estancias colectivas.",
+      "de": "Aktualisiert anhand des Präfektur-Lageberichts 22 Uhr (26.07.): 84 verletzte Feuerwehrleute, keine Rückkehr vor Brandkontrolle, CUMP 0 800 719 912, Verbote vom 27.07. für kollektive Ferienaufenthalte.",
+      "nl": "Bijgewerkt met het prefectuurbericht van 22.00 uur (26/07): 84 gewonde brandweerlieden, geen terugkeer tot het vuur onder controle is, CUMP 0 800 719 912, en verboden van 27/07 voor collectieve vakantieverblijven."
+    }
+  },
+  {
     "id": "2026-07-26-evening-full-check",
     "date": "2026-07-26T21:55:00+02:00",
     "summary": {

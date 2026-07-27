@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -79,9 +79,9 @@
       "de": "Gesundheitsempfehlungen der ARS lesen",
       "nl": "Lees de gezondheidsadviezen van de ARS"
     },
-    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-recommandations-sanitaires-aux",
-    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-recommandations-sanitaires-aux",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
+    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -101,15 +101,15 @@
       "nl": "Er is een medisch-psychologische noodeenheid (CUMP) geopend voor mensen die getroffen zijn door de branden."
     },
     "actionLabel": {
-      "fr": "Appeler le 0 800 719 812",
-      "en": "Call 0 800 719 812",
-      "es": "Llamar al 0 800 719 812",
-      "de": "0 800 719 812 anrufen",
-      "nl": "Bel 0 800 719 812"
+      "fr": "Appeler le 0 800 719 912",
+      "en": "Call 0 800 719 912",
+      "es": "Llamar al 0 800 719 912",
+      "de": "0 800 719 912 anrufen",
+      "nl": "Bel 0 800 719 912"
     },
-    "phone": "0 800 719 812",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "phone": "0 800 719 912",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   }
 ]

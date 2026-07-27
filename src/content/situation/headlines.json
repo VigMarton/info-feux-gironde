@@ -1,16 +1,42 @@
 [
   {
-    "id": "ne-pas-retourner-sinistres-26-juillet",
+    "id": "point-situation-26-juillet-22h",
     "text": {
-      "fr": "26 juillet (13h) : la préfète appelle à ne pas se rendre ni retourner dans les secteurs sinistrés, afin de ne pas gêner les secours. Suivez FR-Alert et les communiqués officiels.",
-      "en": "26 July (1pm): the préfète asks people not to enter or return to the disaster-affected areas, so as not to hinder emergency services. Follow FR-Alert and official briefings.",
-      "es": "26 de julio (13:00): la préfète pide no acudir ni regresar a las zonas afectadas, para no obstaculizar a los servicios de emergencia. Siga FR-Alert y los comunicados oficiales.",
-      "de": "26. Juli (13 Uhr): Die Präfektin bittet, die betroffenen Gebiete nicht aufzusuchen und nicht zurückzukehren, um die Einsatzkräfte nicht zu behindern. FR-Alert und offizielle Mitteilungen beachten.",
-      "nl": "26 juli (13.00 uur): de prefecte vraagt om niet naar de getroffen gebieden te gaan of terug te keren, zodat hulpdiensten niet gehinderd worden. Volg FR-Alert en officiële berichten."
+      "fr": "26 juillet (22h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, et 84 sapeurs-pompiers blessés. Aucune victime parmi la population.",
+      "en": "26 July (10pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, and 84 firefighters injured. No civilian fatalities.",
+      "es": "26 de julio (22:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 84 bomberos heridos. Ninguna víctima mortal entre la población.",
+      "de": "26. Juli (22 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 84 verletzte Feuerwehrleute. Keine Todesopfer unter der Bevölkerung.",
+      "nl": "26 juli (22.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 84 gewonde brandweerlieden. Geen dodelijke burgerslachtoffers."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
+  },
+  {
+    "id": "pas-de-retour-avant-feu-fixe",
+    "text": {
+      "fr": "26 juillet (22h) : il n'y aura pas de retour possible dans les communes évacuées avant que le feu ne soit fixé. Ne vous rendez pas dans les secteurs sinistrés.",
+      "en": "26 July (10pm): there will be no return to evacuated communes until the fire is contained. Do not go into the disaster-affected areas.",
+      "es": "26 de julio (22:00): no habrá retorno posible a los municipios evacuados hasta que el fuego esté estabilizado. No acuda a las zonas afectadas.",
+      "de": "26. Juli (22 Uhr): Eine Rückkehr in die evakuierten Gemeinden ist erst möglich, wenn das Feuer unter Kontrolle ist. Betreten Sie die betroffenen Gebiete nicht.",
+      "nl": "26 juli (22.00 uur): terugkeer naar geëvacueerde gemeenten is pas mogelijk als het vuur onder controle is. Ga niet naar de getroffen gebieden."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
+  },
+  {
+    "id": "arretes-interdiction-27-juillet",
+    "text": {
+      "fr": "27 juillet : la préfète a interdit les séjours de vacances adaptées pour personnes handicapées et les accueils collectifs de mineurs avec hébergement / nuitée, au regard des incendies.",
+      "en": "27 July: the préfète has banned adapted holiday stays for disabled people and collective children’s stays with overnight accommodation, because of the fires.",
+      "es": "27 de julio: la préfète ha prohibido las estancias de vacaciones adaptadas para personas con discapacidad y los acogimientos colectivos de menores con pernocta, debido a los incendios.",
+      "de": "27. Juli: Die Präfektin hat angepasste Ferienaufenthalte für Menschen mit Behinderung sowie kollektive Kinderbetreuung mit Übernachtung wegen der Brände untersagt.",
+      "nl": "27 juli: de prefecte heeft aangepaste vakantieverblijven voor personen met een handicap en collectieve kinderopvang met overnachting verboden vanwege de branden."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "point-situation-26-juillet-13h",
@@ -23,7 +49,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "evacuation-marcheprime-cestas-25-juillet",
@@ -36,7 +62,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "vigilance-noire",
@@ -49,7 +75,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "fr-alert-25-juillet",
@@ -62,19 +88,19 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   },
   {
     "id": "centres-accueil-26-juillet",
     "text": {
-      "fr": "26 juillet : 9 centres d'accueil sont actifs en Gironde, plus un centre de 1 500 places ouvert au Parc des Expositions d'Agen (Lot-et-Garonne) en appui. Liste et adresses via le lien officiel ci-contre.",
-      "en": "26 July: 9 reception centres are active in Gironde, plus a 1,500-bed centre opened at the Agen Exhibition Centre (Lot-et-Garonne) in support. List and addresses via the official link alongside.",
-      "es": "26 de julio: hay 9 centros de acogida activos en la Gironda, además de un centro de 1.500 plazas abierto en el Parque de Exposiciones de Agen (Lot-et-Garonne) como apoyo. Lista y direcciones a través del enlace oficial junto a esta información.",
-      "de": "26. Juli: In der Gironde sind 9 Aufnahmezentren aktiv, zusätzlich wurde als Unterstützung ein Zentrum mit 1.500 Plätzen im Ausstellungszentrum von Agen (Lot-et-Garonne) eröffnet. Liste und Adressen über den offiziellen Link daneben.",
-      "nl": "26 juli: er zijn 9 opvangcentra actief in de Gironde, plus een centrum met 1.500 plaatsen dat ter ondersteuning is geopend in het beursgebouw van Agen (Lot-et-Garonne). Lijst en adressen via de officiële link hiernaast."
+      "fr": "26 juillet : centres d'accueil ouverts en Gironde, plus un centre de 1 500 places au Parc des Expositions d'Agen (Lot-et-Garonne) en appui. Liste et adresses via le lien officiel.",
+      "en": "26 July: reception centres open in Gironde, plus a 1,500-bed centre at the Agen Exhibition Centre (Lot-et-Garonne) in support. List and addresses via the official link.",
+      "es": "26 de julio: centros de acogida abiertos en la Gironda, además de un centro de 1.500 plazas en el Parque de Exposiciones de Agen (Lot-et-Garonne) como apoyo. Lista y direcciones a través del enlace oficial.",
+      "de": "26. Juli: Aufnahmezentren in der Gironde geöffnet, zusätzlich ein Zentrum mit 1.500 Plätzen im Ausstellungszentrum von Agen (Lot-et-Garonne) als Unterstützung. Liste und Adressen über den offiziellen Link.",
+      "nl": "26 juli: opvangcentra open in de Gironde, plus een centrum met 1.500 plaatsen in het beursgebouw van Agen (Lot-et-Garonne) ter ondersteuning. Lijst en adressen via de officiële link."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-26T21:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-27T02:22:00+02:00"
   }
 ]
