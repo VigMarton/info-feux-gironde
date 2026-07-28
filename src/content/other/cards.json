@@ -10,11 +10,11 @@
       "nl": "Huisdieren"
     },
     "description": {
-      "fr": "Un espace dédié aux animaux a été mis en place au Parc des Expositions de Bordeaux-Lac pour les personnes évacuées avec leurs animaux.",
-      "en": "A dedicated pet area has been set up at the Bordeaux-Lac Exhibition Centre for evacuees travelling with animals.",
-      "es": "Se ha habilitado un espacio específico para animales en el Parque de Exposiciones de Bordeaux-Lac para las personas evacuadas con sus animales.",
-      "de": "Im Ausstellungszentrum Bordeaux-Lac wurde ein eigener Bereich für Tiere eingerichtet, für Evakuierte, die mit ihren Tieren unterwegs sind.",
-      "nl": "In het beursgebouw van Bordeaux-Lac is een speciale ruimte ingericht voor huisdieren, voor geëvacueerden die met hun dieren reizen."
+      "fr": "Un espace dédié aux animaux existe au Parc des Expositions de Bordeaux-Lac. Pour besoins de prise en charge non satisfaits ou offres d'aide (animaux de compagnie / élevage), la préfecture indique : incendie33.animaux@gironde.gouv.fr.",
+      "en": "A dedicated pet area exists at the Bordeaux-Lac Exhibition Centre. For unmet care needs or offers of help (pets / livestock), the préfecture gives: incendie33.animaux@gironde.gouv.fr.",
+      "es": "Hay un espacio dedicado a animales en el Parque de Exposiciones de Bordeaux-Lac. Para necesidades de acogida no cubiertas u ofertas de ayuda (compañía / ganado), la prefectura indica: incendie33.animaux@gironde.gouv.fr.",
+      "de": "Im Ausstellungszentrum Bordeaux-Lac gibt es einen eigenen Tierbereich. Für ungedeckten Betreuungsbedarf oder Hilfeangebote (Haustiere / Nutztiere) nennt die Präfektur: incendie33.animaux@gironde.gouv.fr.",
+      "nl": "Er is een speciale ruimte voor dieren in het beursgebouw van Bordeaux-Lac. Voor ongedekte opvangbehoeften of hulpaanbiedingen (huisdieren / vee) geeft de prefectuur: incendie33.animaux@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Voir les informations d'accueil",
@@ -24,8 +24,8 @@
       "nl": "Bekijk de opvanginformatie"
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -108,8 +108,8 @@
       "nl": "Bel 0 800 719 912"
     },
     "phone": "0 800 719 912",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "Selon le communiqué préfecture du 27 juillet (14h) : A63 partiellement fermée — sens Sud→Nord entre l'échangeur 17 (Liposthey) et l'échangeur 24 (Cestas) ; sens Nord→Sud entre la rocade et l'échangeur 23 (Marcheprime). De nombreuses routes départementales et pistes cyclables évoluent aussi : consultez Inforoutes Gironde avant tout déplacement.",
-      "en": "Per the préfecture briefing of 27 July (2pm): the A63 is partially closed — south→north between junction 17 (Liposthey) and junction 24 (Cestas); north→south between the ring road and junction 23 (Marcheprime). Many secondary roads and cycle paths also change: check Gironde Inforoutes before travelling.",
-      "es": "Según el comunicado de la prefectura del 27 de julio (14:00): la A63 está parcialmente cerrada — sentido sur→norte entre el intercambio 17 (Liposthey) y el 24 (Cestas); sentido norte→sur entre la circunvalación y el intercambio 23 (Marcheprime). También cambian muchas carreteras secundarias y carriles bici: consulte Inforoutes Gironde antes de desplazarse.",
-      "de": "Laut Präfektur-Lagebericht vom 27. Juli (14 Uhr): A63 teilweise gesperrt — Süd→Nord zwischen Anschlussstelle 17 (Liposthey) und 24 (Cestas); Nord→Süd zwischen Ringstraße und Anschlussstelle 23 (Marcheprime). Auch zahlreiche Nebenstraßen und Radwege ändern sich: vor der Fahrt Inforoutes Gironde prüfen.",
-      "nl": "Volgens het prefectuurbericht van 27 juli (14.00 uur): A63 deels afgesloten — zuid→noord tussen afrit 17 (Liposthey) en 24 (Cestas); noord→zuid tussen de ringweg en afrit 23 (Marcheprime). Ook veel secundaire wegen en fietspaden wijzigen: raadpleeg Inforoutes Gironde vóór vertrek."
+      "fr": "La circulation est fortement perturbée dans les zones touchées. Consultez Inforoutes Gironde avant tout déplacement (fermetures et déviations évoluent).",
+      "en": "Traffic is heavily disrupted in the affected areas. Check Gironde Inforoutes before travelling (closures and diversions change).",
+      "es": "La circulación está muy perturbada en las zonas afectadas. Consulte Inforoutes Gironde antes de desplazarse (cierres y desvíos cambian).",
+      "de": "Der Verkehr in den betroffenen Gebieten ist stark gestört. Prüfen Sie vor der Fahrt Inforoutes Gironde (Sperrungen und Umleitungen ändern sich).",
+      "nl": "Het verkeer is zwaar verstoord in de getroffen gebieden. Raadpleeg Inforoutes Gironde vóór vertrek (afsluitingen en omleidingen wijzigen)."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -150,11 +150,11 @@
       "nl": "Toeristen en vakantiegangers"
     },
     "description": {
-      "fr": "En vacances ou en déplacement dans une zone menacée : gardez votre téléphone allumé et hors mode avion pour recevoir FR-Alert (diffusion automatique, sans application à installer), repérez la commune exacte de votre hébergement, évacuez sans délai si on vous le demande, et ne vous fiez pas uniquement aux réseaux sociaux. Le centre de Bordeaux-Lac est une solution de dernier recours si vous n'avez pas d'autre endroit où aller.",
-      "en": "On holiday or travelling through a threatened area: keep your phone on and off airplane mode to receive FR-Alert (automatic broadcast, no app needed), know the exact commune your accommodation is in, evacuate immediately if asked, and don't rely on social media alone. The Bordeaux-Lac centre is a last resort if you have nowhere else to go.",
-      "es": "Si está de vacaciones o de paso por una zona amenazada: mantenga el teléfono encendido y sin modo avión para recibir FR-Alert (difusión automática, sin necesidad de aplicación), sepa en qué municipio exacto se encuentra su alojamiento, evacúe sin demora si se lo indican, y no confíe únicamente en las redes sociales. El centro de Bordeaux-Lac es un último recurso si no tiene otro lugar adonde ir.",
-      "de": "Im Urlaub oder auf der Durchreise in einem bedrohten Gebiet: Lassen Sie Ihr Telefon eingeschaltet und den Flugmodus ausgeschaltet, um FR-Alert zu empfangen (automatische Übertragung, keine App nötig), kennen Sie die genaue Gemeinde Ihrer Unterkunft, evakuieren Sie ohne Verzögerung, wenn Sie dazu aufgefordert werden, und verlassen Sie sich nicht allein auf soziale Medien. Das Zentrum in Bordeaux-Lac ist eine letzte Möglichkeit, wenn Sie sonst nirgendwohin können.",
-      "nl": "Op vakantie of op doorreis in een bedreigd gebied: laat uw telefoon aan staan en de vliegtuigmodus uit om FR-Alert te ontvangen (automatische uitzending, geen app nodig), weet in welke exacte gemeente uw accommodatie ligt, evacueer zonder uitstel als dat wordt gevraagd, en vertrouw niet alleen op sociale media. Het centrum in Bordeaux-Lac is een laatste redmiddel als u nergens anders heen kunt."
+      "fr": "En vacances ou en camping (ex. Lacanau le 28/07) : gardez votre téléphone allumé pour FR-Alert, suivez les consignes, évacuez sans délai si demandé, et ne vous fiez pas uniquement aux réseaux sociaux. Le Parc des Expositions de Bordeaux-Lac est une solution de dernier recours si vous n'avez pas d'autre endroit où aller.",
+      "en": "On holiday or camping (e.g. Lacanau on 28/07): keep your phone on for FR-Alert, follow instructions, evacuate immediately if asked, and don't rely on social media alone. The Bordeaux-Lac Exhibition Centre is a last resort if you have nowhere else to go.",
+      "es": "Si está de vacaciones o en camping (p. ej. Lacanau el 28/07): mantenga el teléfono encendido para FR-Alert, siga las consignas, evacúe sin demora si se lo indican, y no confíe solo en las redes. El Parque de Exposiciones de Bordeaux-Lac es un último recurso si no tiene otro lugar.",
+      "de": "Im Urlaub oder auf dem Campingplatz (z. B. Lacanau am 28.07.): Telefon für FR-Alert eingeschaltet lassen, Anweisungen befolgen, bei Aufforderung sofort evakuieren und sich nicht allein auf soziale Medien verlassen. Das Ausstellungszentrum Bordeaux-Lac ist eine letzte Möglichkeit.",
+      "nl": "Op vakantie of op de camping (bijv. Lacanau op 28/07): laat uw telefoon aan voor FR-Alert, volg de instructies, evacueer meteen als dat wordt gevraagd, en vertrouw niet alleen op sociale media. Het beursgebouw Bordeaux-Lac is een laatste redmiddel."
     },
     "actionLabel": {
       "fr": "Voir la page Bordeaux Métropole (anglais disponible)",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   }
 ]

@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,14 +28,14 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (au 27/07, 14h00)",
-      "en": "42,000 hectares (as of 27/07, 2pm)",
-      "es": "42.000 hectáreas (a 27/07, 14:00)",
-      "de": "42.000 Hektar (Stand 27.07., 14:00 Uhr)",
-      "nl": "42.000 hectare (op 27/07, 14:00 uur)"
+      "fr": "42 000 hectares (au 28/07, 13h)",
+      "en": "42,000 hectares (as of 28/07, 1pm)",
+      "es": "42.000 hectáreas (a 28/07, 13:00)",
+      "de": "42.000 Hektar (Stand 28.07., 13 Uhr)",
+      "nl": "42.000 hectare (op 28/07, 13.00 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,14 +47,14 @@
       "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
     },
     "value": {
-      "fr": "Près de 220 000, dans 23 communes",
-      "en": "Nearly 220,000, across 23 communes",
-      "es": "Cerca de 220.000, en 23 municipios",
-      "de": "Fast 220.000, in 23 Gemeinden",
-      "nl": "Bijna 220.000, in 23 gemeenten"
+      "fr": "Plus de 220 000, dans 24 communes",
+      "en": "More than 220,000, across 24 communes",
+      "es": "Más de 220.000, en 24 municipios",
+      "de": "Mehr als 220.000, in 24 Gemeinden",
+      "nl": "Meer dan 220.000, in 24 gemeenten"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -72,8 +72,8 @@
       "de": "2.750 Feuerwehrleute, 18 Luftfahrzeuge, 1.500 Soldaten, 1.440 innere Sicherheitskräfte",
       "nl": "2.750 brandweerlieden, 18 luchtmiddelen, 1.500 militairen, 1.440 interne veiligheidstroepen"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -85,13 +85,13 @@
       "nl": "Voorlopige balans (mensen en materieel)"
     },
     "value": {
-      "fr": "88 sapeurs-pompiers blessés depuis le début ; aucune victime parmi la population ; 240 habitations détruites",
-      "en": "88 firefighters injured since the start; no civilian fatalities; 240 homes destroyed",
-      "es": "88 bomberos heridos desde el inicio; ninguna víctima mortal entre la población; 240 viviendas destruidas",
-      "de": "88 verletzte Feuerwehrleute seit Beginn; keine Todesopfer unter der Bevölkerung; 240 Wohnhäuser zerstört",
-      "nl": "88 gewonde brandweerlieden sinds het begin; geen dodelijke burgerslachtoffers; 240 woningen verwoest"
+      "fr": "93 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
+      "en": "93 firefighters injured since the start; 240 homes destroyed",
+      "es": "93 bomberos heridos desde el inicio; 240 viviendas destruidas",
+      "de": "93 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
+      "nl": "93 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-27T19:55:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   }
 ]

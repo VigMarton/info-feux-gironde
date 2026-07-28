@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-07-28-afternoon-point-13h",
+    "date": "2026-07-28T15:05:00+02:00",
+    "summary": {
+      "fr": "Contrôle après ~14h : point préfecture 13h (feu stabilisé, 93 blessés, 24 communes) ; évacuation Lacanau (tourisme/camping uniquement) ; BM : collecte de dons et besoins bénévoles immédiats couverts/suspendus ; e-mail animaux préfecture.",
+      "en": "Check after ~14h gap: préfecture 1pm briefing (fire stabilised, 93 injured, 24 communes); Lacanau tourism/camping-only evacuation; BM: goods collection suspended / immediate volunteer needs covered; préfecture animal email.",
+      "es": "Comprobación tras ~14 h: parte de las 13:00 (fuego estabilizado, 93 heridos, 24 municipios); evacuación Lacanau (solo turismo/camping); BM: recogida suspendida / voluntariado inmediato cubierto; e-mail animales prefectura.",
+      "de": "Prüfung nach ~14 Std.: Präfektur 13-Uhr-Lagebericht (Feuer stabilisiert, 93 Verletzte, 24 Gemeinden); Evakuierung Lacanau (nur Tourismus/Camping); BM: Sachspenden ausgesetzt / Sofortbedarf Freiwillige gedeckt; Präfektur-E-Mail Tiere.",
+      "nl": "Controle na ~14 u: prefectuurbericht 13.00 uur (vuur gestabiliseerd, 93 gewonden, 24 gemeenten); evacuatie Lacanau (alleen toerisme/camping); BM: goederencollecte opgeschort / acute vrijwilligersbehoefte gedekt; prefectuur-e-mail dieren."
+    }
+  },
+  {
+    "id": "2026-07-28-night-point-22h30",
+    "date": "2026-07-28T01:10:00+02:00",
+    "summary": {
+      "fr": "Mise à jour sur le point préfecture 22h30 (27/07) : feu sans gain de terrain sur 24h ; nouveaux arrêtés (manifestations sportives/culturelles ; navigation Cazaux-Sanguinet) ; chiffres clés inchangés ; centres d'accueil PDF du matin toujours en vigueur.",
+      "en": "Updated from the préfecture 10:30pm briefing (27/07): no ground gained in 24h; new bans (sports/cultural events; navigation on Cazaux-Sanguinet); key figures unchanged; morning reception-centre PDF still current.",
+      "es": "Actualización con el parte de las 22:30 de la prefectura (27/07): el fuego no avanzó en 24 h; nuevas prohibiciones (eventos deportivos/culturales; navegación en Cazaux-Sanguinet); cifras clave sin cambios; PDF matinal de centros aún vigente.",
+      "de": "Aktualisiert anhand des Präfektur-Lageberichts 22:30 (27.07.): kein Geländegewinn in 24 Std.; neue Verbote (Sport-/Kulturveranstaltungen; Schifffahrt Cazaux-Sanguinet); Kernzahlen unverändert; Morgen-PDF der Aufnahmezentren weiterhin gültig.",
+      "nl": "Bijgewerkt met het prefectuurbericht van 22.30 uur (27/07): vuur won geen terrein in 24 uur; nieuwe verboden (sport-/culturele evenementen; navigatie Cazaux-Sanguinet); kerncijfers ongewijzigd; ochtend-pdf opvangcentra nog geldig."
+    }
+  },
+  {
     "id": "2026-07-27-evening-freshness",
     "date": "2026-07-27T19:55:00+02:00",
     "summary": {

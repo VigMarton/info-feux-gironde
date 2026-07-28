@@ -21,6 +21,7 @@ export async function loadHubData() {
   const areaEntries = killSwitch ? [] : await getCollection("areas");
   /** Newest first — matches préfecture evacuation timeline (reversed). */
   const areaTimelineOrder = [
+    "lacanau-campings-tourisme",
     "marcheprime-le-barp-biganos-mios-cestas",
     "haillan-eysines-merignac-extra-rocade",
     "st-aubin-st-medard-martignas-st-jean-dillac",

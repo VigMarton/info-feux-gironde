@@ -50,11 +50,11 @@
   {
     "id": "bordeaux-metropole-accueil",
     "label": {
-      "fr": "Bordeaux Métropole — accueil des évacués et dons — infos incendies : 06 70 80 90 40 (9h-17h30)",
-      "en": "Bordeaux Métropole — shelter for evacuees and donations — fire info line: 06 70 80 90 40 (9am-5:30pm)",
-      "es": "Bordeaux Métropole: acogida de evacuados y donaciones — línea de información sobre incendios: 06 70 80 90 40 (9h-17h30)",
-      "de": "Bordeaux Métropole – Unterbringung von Evakuierten und Spenden – Info-Hotline Brände: 06 70 80 90 40 (9-17:30 Uhr)",
-      "nl": "Bordeaux Métropole: opvang van geëvacueerden en donaties — infolijn branden: 06 70 80 90 40 (9-17.30 uur)"
+      "fr": "Bordeaux Métropole — accueil des évacués (collecte de dons suspendue au 28/07) — infos : 09 70 80 90 40",
+      "en": "Bordeaux Métropole — shelter for evacuees (goods collection suspended as of 28/07) — info: 09 70 80 90 40",
+      "es": "Bordeaux Métropole — acogida de evacuados (recogida de donaciones suspendida a 28/07) — info: 09 70 80 90 40",
+      "de": "Bordeaux Métropole – Unterbringung Evakuierter (Sachspendenannahme ausgesetzt Stand 28.07.) – Info: 09 70 80 90 40",
+      "nl": "Bordeaux Métropole — opvang geëvacueerden (goederencollecte opgeschort per 28/07) — info: 09 70 80 90 40"
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "tier": 1

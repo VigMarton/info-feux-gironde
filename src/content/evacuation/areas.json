@@ -1,5 +1,18 @@
 [
   {
+    "id": "lacanau-campings-tourisme",
+    "commune": "Lacanau (campings, résidences de tourisme, villages vacances, parcs de loisirs)",
+    "description": {
+      "fr": "Évacuation ordonnée le 28 juillet pour les campings, résidences de tourisme, villages vacances et parcs de loisirs de Lacanau Océan et des deux rives (~4 000 personnes) — pas toute la population communale. Emprunter les axes vers Carcans et Castelnau-Médoc.",
+      "en": "Evacuation ordered on 28 July for campsites, tourist residences, holiday villages and leisure parks in Lacanau Océan and both shores (~4,000 people) — not the whole commune. Use routes toward Carcans and Castelnau-Médoc.",
+      "es": "Evacuación ordenada el 28 de julio para campings, residencias turísticas, pueblos de vacaciones y parques de ocio de Lacanau Océan y ambas orillas (~4.000 personas) — no toda la población municipal. Usar los ejes hacia Carcans y Castelnau-Médoc.",
+      "de": "Am 28. Juli wurde die Evakuierung von Campingplätzen, Ferienwohnanlagen, Feriendörfern und Freizeitparks in Lacanau Océan und an beiden Ufern angeordnet (~4.000 Personen) — nicht die gesamte Gemeindebevölkerung. Achsen Richtung Carcans und Castelnau-Médoc nutzen.",
+      "nl": "Op 28 juli werd evacuatie bevolen voor campings, toeristische residences, vakantiedorpen en pretparken in Lacanau Océan en beide oevers (~4.000 personen) — niet de hele gemeentelijke bevolking. Gebruik de assen richting Carcans en Castelnau-Médoc."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
+  },
+  {
     "id": "marcheprime-le-barp-biganos-mios-cestas",
     "commune": "Marcheprime, Le Barp, Biganos, Mios, Cestas",
     "description": {
@@ -10,7 +23,7 @@
       "nl": "Op de avond van 25 juli werd onmiddellijke evacuatie bevolen voor nieuw bedreigde sectoren in deze vijf gemeenten doordat de brand weer oplaaide."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-27T20:05:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "haillan-eysines-merignac-extra-rocade",
@@ -23,7 +36,7 @@
       "nl": "Op 25 juli werd via FR-Alert onmiddellijke evacuatie bevolen voor bedreigde sectoren in Le Haillan, Eysines (buiten de ringweg) en Mérignac (buiten de ringweg)."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/FR-Alert-pour-l-evacuation-des-communes-du-Haillan-Eysines-ext-rocade-et-Merignac-ext-rocade",
-    "verifiedAt": "2026-07-27T20:05:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "st-aubin-st-medard-martignas-st-jean-dillac",
@@ -36,7 +49,7 @@
       "nl": "Op 25 juli werd via FR-Alert onmiddellijke evacuatie bevolen voor bedreigde sectoren in deze vier gemeenten."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-27T20:05:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "cap-ferret-peninsula-villages",
@@ -49,7 +62,7 @@
       "nl": "Op 24 juli werd via FR-Alert onmiddellijke evacuatie bevolen voor deze dorpen op het schiereiland, alleen te bereiken via de D106 in de richting van Bordeaux."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-foret-declenchement-de-FR-Alert",
-    "verifiedAt": "2026-07-27T20:05:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   },
   {
     "id": "le-porge-saumos-le-temple-lege-cap-ferret",
@@ -62,6 +75,6 @@
       "nl": "Vanaf 23 juli werden preventieve evacuaties bevolen voor deze gemeenten nabij de brand van Saumos (bijna 20.000 mensen getroffen op 24 juli)."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-cours-point-de-situation-a-21h30",
-    "verifiedAt": "2026-07-27T20:05:00+02:00"
+    "verifiedAt": "2026-07-28T15:05:00+02:00"
   }
 ]
