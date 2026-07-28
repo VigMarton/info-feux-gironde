@@ -54,7 +54,9 @@ Almost every item needs:
   headline (dated, in prose) over a stat card (which reads as "current").
 - **Headlines** (`headlines.json`): 2-4 short, dated bullets. Always name
   the date/time the event happened inside the text itself (e.g. "25
-  juillet : ...") so readers know it's historical, not live.
+  juillet : ...") so readers know it's historical, not live. Set
+  `occurredAt` to that event time — the Situation page sorts newest-first
+  on it (separate from `verifiedAt`).
 - **Official links** (`official-links.json`): stable navigational links
   only (préfecture, FR-Alert, Bordeaux Métropole, Météo des forêts, etc).
   Pick `tier` 0 (state), 1 (local authority ops), or 2 (accredited aid org).

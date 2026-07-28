@@ -43,6 +43,12 @@ export const headlineSchema = z
     id: z.string(),
     text: localizedText,
     sourceName: z.string().min(1),
+    /**
+     * When the underlying official update happened — used to sort
+     * “previous updates” newest-first. Distinct from `verifiedAt`
+     * (when we last checked the claim).
+     */
+    occurredAt: z.string().datetime({ offset: true }),
     ...verifiable,
   })
   .strict();

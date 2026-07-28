@@ -13,7 +13,9 @@ export async function loadHubData() {
   const freshStats = killSwitch ? [] : filterFresh(statEntries.map((entry) => entry.data));
 
   const headlineEntries = killSwitch ? [] : await getCollection("headlines");
-  const headlines = headlineEntries.map((entry) => entry.data);
+  const headlines = headlineEntries
+    .map((entry) => entry.data)
+    .sort((a, b) => new Date(b.occurredAt).getTime() - new Date(a.occurredAt).getTime());
 
   const officialLinkEntries = await getCollection("officialLinks");
   const officialLinks = officialLinkEntries.map((entry) => entry.data);

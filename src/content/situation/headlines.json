@@ -1,5 +1,33 @@
 [
   {
+    "id": "point-situation-28-juillet-22h30",
+    "text": {
+      "fr": "28 juillet (22h30) : feu stabilisé mais toujours actif ; 14 reprises traitées dans la journée ; 121 km de coupes tactiques. Surface 42 000 ha ; plus de 220 000 évacués ; 110 pompiers blessés ; 2 700 pompiers et 23 moyens aériens. En soirée, foyers encore actifs au camp de Souge, Grand Crohot et Lanton. Météo du 29 défavorable (canicule orange dès 12h, vents ~40 km/h O→E).",
+      "en": "28 July (10:30pm): fire stabilised but still active; 14 flare-ups treated during the day; 121 km of tactical firebreaks. Area 42,000 ha; more than 220,000 evacuated; 110 firefighters injured; 2,700 firefighters and 23 aircraft. Evening: still active at Camp de Souge, Grand Crohot and Lanton. 29 July weather unfavourable (orange heatwave from noon, ~40 km/h W→E winds).",
+      "es": "28 de julio (22:30): fuego estabilizado pero aún activo; 14 rebrotes tratados en el día; 121 km de cortafuegos tácticos. Superficie 42.000 ha; más de 220.000 evacuados; 110 bomberos heridos; 2.700 bomberos y 23 medios aéreos. Por la noche, aún activo en camp de Souge, Grand Crohot y Lanton. Tiempo del 29 desfavorable (ola de calor naranja desde las 12h, vientos ~40 km/h O→E).",
+      "de": "28. Juli (22:30): Feuer stabilisiert, aber noch aktiv; 14 Wiederaufflammungen am Tag behandelt; 121 km taktische Schneisen. Fläche 42.000 ha; mehr als 220.000 Evakuierte; 110 verletzte Feuerwehrleute; 2.700 Feuerwehrleute und 23 Luftmittel. Abends noch aktiv am Camp de Souge, Grand Crohot und Lanton. Wetter am 29. ungünstig (Orangene Hitzewarnung ab 12 Uhr, Wind ~40 km/h W→O).",
+      "nl": "28 juli (22.30 uur): vuur gestabiliseerd maar nog actief; 14 heropvlammingen overdag behandeld; 121 km tactische brandgangen. Oppervlak 42.000 ha; meer dan 220.000 geëvacueerden; 110 gewonde brandweerlieden; 2.700 brandweerlieden en 23 luchtmiddelen. 's Avonds nog actief bij kamp Souge, Grand Crohot en Lanton. Weer op 29 ongunstig (oranje hittegolf vanaf 12.00 uur, wind ~40 km/u W→O)."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T22:30:00+02:00"
+  },
+  {
+    "id": "manifestations-nord-sud-garonne-28-juillet",
+    "text": {
+      "fr": "28 juillet (22h30) : manifestations culturelles, sportives et festivals autorisés au nord de la Garonne ; au sud, autorisation au cas par cas. Pas dans des espaces végétalisés, et sans mobiliser les secours.",
+      "en": "28 July (10:30pm): cultural/sports events and festivals authorised north of the Garonne; south of it, case-by-case. Not in vegetated areas, and must not draw on emergency services.",
+      "es": "28 de julio (22:30): eventos culturales, deportivos y festivales autorizados al norte del Garona; al sur, caso por caso. No en espacios vegetados ni consumiendo medios de socorro.",
+      "de": "28. Juli (22:30): Kultur-/Sportveranstaltungen und Festivals nördlich der Garonne erlaubt; südlich Einzelfallgenehmigung. Nicht in bewachsenen Flächen und ohne Inanspruchnahme der Rettungsdienste.",
+      "nl": "28 juli (22.30 uur): culturele/sportieve evenementen en festivals toegestaan ten noorden van de Garonne; ten zuiden geval per geval. Niet in begroeide zones en zonder inzet van hulpdiensten."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T22:25:00+02:00"
+  },
+  {
     "id": "retour-eysines-merignac-haillan-28-juillet",
     "text": {
       "fr": "28 juillet : la préfète autorise le retour des habitants d'Eysines, Mérignac et Le Haillan. Rester vigilants, respecter les zones interdites, et se préparer à une éventuelle nouvelle évacuation.",
@@ -9,8 +37,23 @@
       "nl": "28 juli: de prefecte staat terugkeer toe voor inwoners van Eysines, Mérignac en Le Haillan. Blijf waakzaam, respecteer verboden zones en bereid u voor op een mogelijke nieuwe evacuatie."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-les-habitants-d-Eysines-Merignac-Le-Haillan",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T22:20:00+02:00"
+  },
+  {
+    "id": "pas-de-retour-avant-feu-fixe",
+    "text": {
+      "fr": "28 juillet : retour autorisé pour Eysines, Mérignac et Le Haillan ; pour les autres communes évacuées, attendre l'autorisation explicite de la préfecture.",
+      "en": "28 July: return authorised for Eysines, Mérignac and Le Haillan; for other evacuated communes, wait for explicit préfecture authorisation.",
+      "es": "28 de julio: retorno autorizado para Eysines, Mérignac y Le Haillan; en los demás municipios evacuados, esperar la autorización explícita de la prefectura.",
+      "de": "28. Juli: Rückkehr für Eysines, Mérignac und Le Haillan erlaubt; in den übrigen evakuierten Gemeinden auf ausdrückliche Präfekturgenehmigung warten.",
+      "nl": "28 juli: terugkeer toegestaan voor Eysines, Mérignac en Le Haillan; voor andere geëvacueerde gemeenten wachten op expliciete toestemming van de prefectuur."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T22:15:00+02:00"
   },
   {
     "id": "point-situation-28-juillet-13h",
@@ -23,72 +66,8 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "evacuation-lacanau-28-juillet",
-    "text": {
-      "fr": "28 juillet : évacuation à Lacanau limitée aux campings, résidences de tourisme, villages vacances et parcs de loisirs (~4 000 personnes) — pas toute la commune. Axes vers Carcans et Castelnau-Médoc.",
-      "en": "28 July: Lacanau evacuation limited to campsites, tourist residences, holiday villages and leisure parks (~4,000 people) — not the whole commune. Routes toward Carcans and Castelnau-Médoc.",
-      "es": "28 de julio: evacuación en Lacanau limitada a campings, residencias turísticas, pueblos de vacaciones y parques de ocio (~4.000 personas) — no todo el municipio. Ejes hacia Carcans y Castelnau-Médoc.",
-      "de": "28. Juli: Evakuierung in Lacanau beschränkt auf Campingplätze, Ferienwohnanlagen, Feriendörfer und Freizeitparks (~4.000 Personen) — nicht die ganze Gemeinde. Achsen Richtung Carcans und Castelnau-Médoc.",
-      "nl": "28 juli: evacuatie in Lacanau beperkt tot campings, toeristische residences, vakantiedorpen en pretparken (~4.000 personen) — niet de hele gemeente. Assen richting Carcans en Castelnau-Médoc."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "point-situation-27-juillet-22h30",
-    "text": {
-      "fr": "27 juillet (22h30) : le feu n'a pas gagné de terrain sur les dernières 24h malgré de nombreuses reprises. Surface toujours estimée à 42 000 ha ; près de 220 000 personnes évacuées dans 23 communes ; 88 pompiers blessés. Vigilance avant une forte hausse des températures.",
-      "en": "27 July (10:30pm): the fire gained no ground over the last 24 hours despite many flare-ups. Area still estimated at 42,000 ha; nearly 220,000 people evacuated across 23 communes; 88 firefighters injured. Caution ahead of a sharp rise in temperatures.",
-      "es": "27 de julio (22:30): el fuego no avanzó en las últimas 24 h pese a numerosos rebrotes. Superficie aún estimada en 42.000 ha; cerca de 220.000 personas evacuadas en 23 municipios; 88 bomberos heridos. Prudencia ante una fuerte subida de temperaturas.",
-      "de": "27. Juli (22:30): Das Feuer hat in den letzten 24 Stunden trotz zahlreicher Wiederaufflammungen kein Gelände gewonnen. Fläche weiter auf 42.000 ha geschätzt; fast 220.000 Evakuierte in 23 Gemeinden; 88 verletzte Feuerwehrleute. Vorsicht vor stark steigenden Temperaturen.",
-      "nl": "27 juli (22.30 uur): het vuur won de afgelopen 24 uur geen terrein ondanks veel heropvlammingen. Oppervlak nog geschat op 42.000 ha; bijna 220.000 geëvacueerden in 23 gemeenten; 88 gewonde brandweerlieden. Voorzichtigheid voor een sterke temperatuurstijging."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "arretes-sport-culture-navigation-27-juillet",
-    "text": {
-      "fr": "27 juillet (après-midi) : la préfète a interdit les manifestations sportives et culturelles dans tout le département, ainsi que la navigation et les activités nautiques sur le plan d'eau de Cazaux-Sanguinet.",
-      "en": "27 July (afternoon): the préfète banned sports and cultural events across the whole département, and navigation / water activities on the Cazaux-Sanguinet lake.",
-      "es": "27 de julio (tarde): la préfète prohibió las manifestaciones deportivas y culturales en todo el departamento, así como la navegación y las actividades náuticas en el embalse de Cazaux-Sanguinet.",
-      "de": "27. Juli (nachmittags): Die Präfektin verbot Sport- und Kulturveranstaltungen im gesamten Département sowie Schifffahrt und Wassersport auf dem Gewässer Cazaux-Sanguinet.",
-      "nl": "27 juli (namiddag): de prefecte verbood sport- en culturele evenementen in het hele departement, alsook navigatie en watersport op het meer van Cazaux-Sanguinet."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "pas-de-retour-avant-feu-fixe",
-    "text": {
-      "fr": "28 juillet : retour autorisé pour Eysines, Mérignac et Le Haillan ; pour les autres communes évacuées, attendre l'autorisation explicite de la préfecture.",
-      "en": "28 July: return authorised for Eysines, Mérignac and Le Haillan; for other evacuated communes, wait for explicit préfecture authorisation.",
-      "es": "28 de julio: retorno autorizado para Eysines, Mérignac y Le Haillan; en los demás municipios evacuados, esperar la autorización explícita de la prefectura.",
-      "de": "28. Juli: Rückkehr für Eysines, Mérignac und Le Haillan erlaubt; in den übrigen evakuierten Gemeinden auf ausdrückliche Präfekturgenehmigung warten.",
-      "nl": "28 juli: terugkeer toegestaan voor Eysines, Mérignac en Le Haillan; voor andere geëvacueerde gemeenten wachten op expliciete toestemming van de prefectuur."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-les-habitants-d-Eysines-Merignac-Le-Haillan",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "point-situation-27-juillet-14h",
-    "text": {
-      "fr": "27 juillet (14h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, 88 sapeurs-pompiers blessés. Aucune nouvelle évacuation cette nuit. Aucune victime parmi la population.",
-      "en": "27 July (2pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, 88 firefighters injured. No new overnight evacuations. No civilian fatalities.",
-      "es": "27 de julio (14:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 88 bomberos heridos. Ninguna evacuación nueva esta noche. Ninguna víctima mortal entre la población.",
-      "de": "27. Juli (14 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 88 verletzte Feuerwehrleute. Keine neuen Evakuierungen in der Nacht. Keine Todesopfer unter der Bevölkerung.",
-      "nl": "27 juli (14.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 88 gewonde brandweerlieden. Geen nieuwe evacuaties vannacht. Geen dodelijke burgerslachtoffers."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T13:00:00+02:00"
   },
   {
     "id": "assurances-mesures-27-juillet",
@@ -101,59 +80,22 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T12:55:00+02:00"
   },
   {
-    "id": "point-situation-26-juillet-22h",
+    "id": "evacuation-lacanau-28-juillet",
     "text": {
-      "fr": "26 juillet (22h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, et 84 sapeurs-pompiers blessés. Aucune victime parmi la population.",
-      "en": "26 July (10pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, and 84 firefighters injured. No civilian fatalities.",
-      "es": "26 de julio (22:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 84 bomberos heridos. Ninguna víctima mortal entre la población.",
-      "de": "26. Juli (22 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 84 verletzte Feuerwehrleute. Keine Todesopfer unter der Bevölkerung.",
-      "nl": "26 juli (22.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 84 gewonde brandweerlieden. Geen dodelijke burgerslachtoffers."
+      "fr": "28 juillet : évacuation à Lacanau limitée aux campings, résidences de tourisme, villages vacances et parcs de loisirs (~4 000 personnes) — pas toute la commune. Axes vers Carcans et Castelnau-Médoc.",
+      "en": "28 July: Lacanau evacuation limited to campsites, tourist residences, holiday villages and leisure parks (~4,000 people) — not the whole commune. Routes toward Carcans and Castelnau-Médoc.",
+      "es": "28 de julio: evacuación en Lacanau limitada a campings, residencias turísticas, pueblos de vacaciones y parques de ocio (~4.000 personas) — no todo el municipio. Ejes hacia Carcans y Castelnau-Médoc.",
+      "de": "28. Juli: Evakuierung in Lacanau beschränkt auf Campingplätze, Ferienwohnanlagen, Feriendörfer und Freizeitparks (~4.000 Personen) — nicht die ganze Gemeinde. Achsen Richtung Carcans und Castelnau-Médoc.",
+      "nl": "28 juli: evacuatie in Lacanau beperkt tot campings, toeristische residences, vakantiedorpen en pretparken (~4.000 personen) — niet de hele gemeente. Assen richting Carcans en Castelnau-Médoc."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "arretes-interdiction-27-juillet",
-    "text": {
-      "fr": "27 juillet : la préfète a interdit les séjours de vacances adaptées pour personnes handicapées et les accueils collectifs de mineurs avec hébergement / nuitée, au regard des incendies.",
-      "en": "27 July: the préfète has banned adapted holiday stays for disabled people and collective children’s stays with overnight accommodation, because of the fires.",
-      "es": "27 de julio: la préfète ha prohibido las estancias de vacaciones adaptadas para personas con discapacidad y los acogimientos colectivos de menores con pernocta, debido a los incendios.",
-      "de": "27. Juli: Die Präfektin hat angepasste Ferienaufenthalte für Menschen mit Behinderung sowie kollektive Kinderbetreuung mit Übernachtung wegen der Brände untersagt.",
-      "nl": "27 juli: de prefecte heeft aangepaste vakantieverblijven voor personen met een handicap en collectieve kinderopvang met overnachting verboden vanwege de branden."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "point-situation-26-juillet-13h",
-    "text": {
-      "fr": "26 juillet (13h) : après une nuit difficile marquée par une reprise du feu, la préfète indique que la météo du jour est moins défavorable et permet aux secours de reprendre l'offensive. L'incendie a parcouru 42 000 hectares depuis le 22 juillet.",
-      "en": "26 July (1pm): after a difficult night with the fire flaring up again, the préfète reports today's weather is less unfavourable, allowing firefighters to go back on the offensive. The fire has burned 42,000 hectares since 22 July.",
-      "es": "26 de julio (13:00): tras una noche difícil marcada por una reactivación del fuego, la préfète indica que el tiempo de hoy es menos desfavorable y permite a los servicios de emergencia retomar la ofensiva. El incendio ha arrasado 42.000 hectáreas desde el 22 de julio.",
-      "de": "26. Juli (13 Uhr): Nach einer schwierigen Nacht mit erneutem Auflodern des Feuers teilt die Präfektin mit, dass das Wetter heute weniger ungünstig ist und den Einsatzkräften erlaubt, wieder in die Offensive zu gehen. Der Brand hat seit dem 22. Juli 42.000 Hektar verwüstet.",
-      "nl": "26 juli (13.00 uur): na een moeilijke nacht waarin het vuur weer oplaaide, meldt de prefecte dat het weer vandaag minder ongunstig is, waardoor de hulpdiensten het offensief kunnen hervatten. De brand heeft sinds 22 juli 42.000 hectare verwoest."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
-  },
-  {
-    "id": "evacuation-marcheprime-cestas-25-juillet",
-    "text": {
-      "fr": "25 juillet (soir) : face à la reprise du feu, la préfète a ordonné l'évacuation immédiate de nouveaux secteurs menacés à Marcheprime, Le Barp, Biganos, Mios et Cestas.",
-      "en": "25 July (evening): as the fire flared up again, the préfète ordered the immediate evacuation of newly threatened sectors in Marcheprime, Le Barp, Biganos, Mios and Cestas.",
-      "es": "25 de julio (noche): ante la reactivación del fuego, la préfète ordenó la evacuación inmediata de nuevos sectores amenazados en Marcheprime, Le Barp, Biganos, Mios y Cestas.",
-      "de": "25. Juli (abends): Angesichts des erneut auflodernden Feuers ordnete die Präfektin die sofortige Evakuierung neu bedrohter Gebiete in Marcheprime, Le Barp, Biganos, Mios und Cestas an.",
-      "nl": "25 juli (avond): omdat het vuur weer oplaaide, gaf de prefecte opdracht tot onmiddellijke evacuatie van nieuw bedreigde sectoren in Marcheprime, Le Barp, Biganos, Mios en Cestas."
-    },
-    "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T11:00:00+02:00"
   },
   {
     "id": "vigilance-noire",
@@ -166,20 +108,50 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-28T08:00:00+02:00"
   },
   {
-    "id": "fr-alert-25-juillet",
+    "id": "point-situation-27-juillet-22h30",
     "text": {
-      "fr": "25 juillet : la préfète a déclenché FR-Alert pour l'évacuation immédiate de secteurs de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle et Saint-Jean-d'Illac.",
-      "en": "25 July: the préfète triggered FR-Alert ordering the immediate evacuation of sectors in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle and Saint-Jean-d'Illac.",
-      "es": "25 de julio: la préfète activó FR-Alert para ordenar la evacuación inmediata de sectores de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle y Saint-Jean-d'Illac.",
-      "de": "25. Juli: Die Präfektin löste FR-Alert aus und ordnete die sofortige Evakuierung von Gebieten in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle und Saint-Jean-d'Illac an.",
-      "nl": "25 juli: de prefecte activeerde FR-Alert voor de onmiddellijke evacuatie van sectoren in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle en Saint-Jean-d'Illac."
+      "fr": "27 juillet (22h30) : le feu n'a pas gagné de terrain sur les dernières 24h malgré de nombreuses reprises. Surface toujours estimée à 42 000 ha ; près de 220 000 personnes évacuées dans 23 communes ; 88 pompiers blessés. Vigilance avant une forte hausse des températures.",
+      "en": "27 July (10:30pm): the fire gained no ground over the last 24 hours despite many flare-ups. Area still estimated at 42,000 ha; nearly 220,000 people evacuated across 23 communes; 88 firefighters injured. Caution ahead of a sharp rise in temperatures.",
+      "es": "27 de julio (22:30): el fuego no avanzó en las últimas 24 h pese a numerosos rebrotes. Superficie aún estimada en 42.000 ha; cerca de 220.000 personas evacuadas en 23 municipios; 88 bomberos heridos. Prudencia ante una fuerte subida de temperaturas.",
+      "de": "27. Juli (22:30): Das Feuer hat in den letzten 24 Stunden trotz zahlreicher Wiederaufflammungen kein Gelände gewonnen. Fläche weiter auf 42.000 ha geschätzt; fast 220.000 Evakuierte in 23 Gemeinden; 88 verletzte Feuerwehrleute. Vorsicht vor stark steigenden Temperaturen.",
+      "nl": "27 juli (22.30 uur): het vuur won de afgelopen 24 uur geen terrein ondanks veel heropvlammingen. Oppervlak nog geschat op 42.000 ha; bijna 220.000 geëvacueerden in 23 gemeenten; 88 gewonde brandweerlieden. Voorzichtigheid voor een sterke temperatuurstijging."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-27T22:30:00+02:00"
+  },
+  {
+    "id": "arretes-sport-culture-navigation-27-juillet",
+    "text": {
+      "fr": "27 juillet : la préfète avait interdit les manifestations sportives et culturelles dans tout le département, ainsi que la navigation sur Cazaux-Sanguinet. (Assouplissement partiel le 28/07 au nord de la Garonne — voir point 22h30.)",
+      "en": "27 July: the préfète had banned sports and cultural events across the département, and navigation on Cazaux-Sanguinet. (Partial easing on 28/07 north of the Garonne — see 10:30pm briefing.)",
+      "es": "27 de julio: la préfète había prohibido las manifestaciones deportivas y culturales en todo el departamento, y la navegación en Cazaux-Sanguinet. (Alivio parcial el 28/07 al norte del Garona — ver parte 22:30.)",
+      "de": "27. Juli: Die Präfektin hatte Sport- und Kulturveranstaltungen im gesamten Département sowie Schifffahrt auf Cazaux-Sanguinet verboten. (Teilweise Lockerung am 28.07. nördlich der Garonne — siehe Lagebericht 22:30.)",
+      "nl": "27 juli: de prefecte had sport- en culturele evenementen in het hele departement verboden, alsook navigatie op Cazaux-Sanguinet. (Gedeeltelijke versoepeling op 28/07 ten noorden van de Garonne — zie bericht 22.30 uur.)"
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-27T16:00:00+02:00"
+  },
+  {
+    "id": "point-situation-27-juillet-14h",
+    "text": {
+      "fr": "27 juillet (14h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, 88 sapeurs-pompiers blessés. Aucune nouvelle évacuation cette nuit. Aucune victime parmi la population.",
+      "en": "27 July (2pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, 88 firefighters injured. No new overnight evacuations. No civilian fatalities.",
+      "es": "27 de julio (14:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 88 bomberos heridos. Ninguna evacuación nueva esta noche. Ninguna víctima mortal entre la población.",
+      "de": "27. Juli (14 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 88 verletzte Feuerwehrleute. Keine neuen Evakuierungen in der Nacht. Keine Todesopfer unter der Bevölkerung.",
+      "nl": "27 juli (14.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 88 gewonde brandweerlieden. Geen nieuwe evacuaties vannacht. Geen dodelijke burgerslachtoffers."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-27T14:00:00+02:00"
   },
   {
     "id": "centres-accueil-27-juillet",
@@ -192,6 +164,77 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-27T09:00:00+02:00"
+  },
+  {
+    "id": "arretes-interdiction-27-juillet",
+    "text": {
+      "fr": "27 juillet : la préfète a interdit les séjours de vacances adaptées pour personnes handicapées et les accueils collectifs de mineurs avec hébergement / nuitée, au regard des incendies.",
+      "en": "27 July: the préfète has banned adapted holiday stays for disabled people and collective children’s stays with overnight accommodation, because of the fires.",
+      "es": "27 de julio: la préfète ha prohibido las estancias de vacaciones adaptadas para personas con discapacidad y los acogimientos colectivos de menores con pernocta, debido a los incendios.",
+      "de": "27. Juli: Die Präfektin hat angepasste Ferienaufenthalte für Menschen mit Behinderung sowie kollektive Kinderbetreuung mit Übernachtung wegen der Brände untersagt.",
+      "nl": "27 juli: de prefecte heeft aangepaste vakantieverblijven voor personen met een handicap en collectieve kinderopvang met overnachting verboden vanwege de branden."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-27T08:00:00+02:00"
+  },
+  {
+    "id": "point-situation-26-juillet-22h",
+    "text": {
+      "fr": "26 juillet (22h) : la préfète confirme 42 000 ha brûlés, près de 220 000 personnes évacuées dans 23 communes, et 84 sapeurs-pompiers blessés. Aucune victime parmi la population.",
+      "en": "26 July (10pm): the préfète confirms 42,000 ha burned, nearly 220,000 people evacuated across 23 communes, and 84 firefighters injured. No civilian fatalities.",
+      "es": "26 de julio (22:00): la préfète confirma 42.000 ha quemadas, cerca de 220.000 personas evacuadas en 23 municipios y 84 bomberos heridos. Ninguna víctima mortal entre la población.",
+      "de": "26. Juli (22 Uhr): Die Präfektin bestätigt 42.000 ha Brandfläche, fast 220.000 Evakuierte in 23 Gemeinden und 84 verletzte Feuerwehrleute. Keine Todesopfer unter der Bevölkerung.",
+      "nl": "26 juli (22.00 uur): de prefecte bevestigt 42.000 ha verbrand, bijna 220.000 geëvacueerden in 23 gemeenten en 84 gewonde brandweerlieden. Geen dodelijke burgerslachtoffers."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-26T22:00:00+02:00"
+  },
+  {
+    "id": "point-situation-26-juillet-13h",
+    "text": {
+      "fr": "26 juillet (13h) : après une nuit difficile marquée par une reprise du feu, la préfète indique que la météo du jour est moins défavorable et permet aux secours de reprendre l'offensive. L'incendie a parcouru 42 000 hectares depuis le 22 juillet.",
+      "en": "26 July (1pm): after a difficult night with the fire flaring up again, the préfète reports today's weather is less unfavourable, allowing firefighters to go back on the offensive. The fire has burned 42,000 hectares since 22 July.",
+      "es": "26 de julio (13:00): tras una noche difícil marcada por una reactivación del fuego, la préfète indica que el tiempo de hoy es menos desfavorable y permite a los servicios de emergencia retomar la ofensiva. El incendio ha arrasado 42.000 hectáreas desde el 22 de julio.",
+      "de": "26. Juli (13 Uhr): Nach einer schwierigen Nacht mit erneutem Auflodern des Feuers teilt die Präfektin mit, dass das Wetter heute weniger ungünstig ist und den Einsatzkräften erlaubt, wieder in die Offensive zu gehen. Der Brand hat seit dem 22. Juli 42.000 Hektar verwüstet.",
+      "nl": "26 juli (13.00 uur): na een moeilijke nacht waarin het vuur weer oplaaide, meldt de prefecte dat het weer vandaag minder ongunstig is, waardoor de hulpdiensten het offensief kunnen hervatten. De brand heeft sinds 22 juli 42.000 hectare verwoest."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-26T13:00:00+02:00"
+  },
+  {
+    "id": "evacuation-marcheprime-cestas-25-juillet",
+    "text": {
+      "fr": "25 juillet (soir) : face à la reprise du feu, la préfète a ordonné l'évacuation immédiate de nouveaux secteurs menacés à Marcheprime, Le Barp, Biganos, Mios et Cestas.",
+      "en": "25 July (evening): as the fire flared up again, the préfète ordered the immediate evacuation of newly threatened sectors in Marcheprime, Le Barp, Biganos, Mios and Cestas.",
+      "es": "25 de julio (noche): ante la reactivación del fuego, la préfète ordenó la evacuación inmediata de nuevos sectores amenazados en Marcheprime, Le Barp, Biganos, Mios y Cestas.",
+      "de": "25. Juli (abends): Angesichts des erneut auflodernden Feuers ordnete die Präfektin die sofortige Evakuierung neu bedrohter Gebiete in Marcheprime, Le Barp, Biganos, Mios und Cestas an.",
+      "nl": "25 juli (avond): omdat het vuur weer oplaaide, gaf de prefecte opdracht tot onmiddellijke evacuatie van nieuw bedreigde sectoren in Marcheprime, Le Barp, Biganos, Mios en Cestas."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-25T21:00:00+02:00"
+  },
+  {
+    "id": "fr-alert-25-juillet",
+    "text": {
+      "fr": "25 juillet : la préfète a déclenché FR-Alert pour l'évacuation immédiate de secteurs de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle et Saint-Jean-d'Illac.",
+      "en": "25 July: the préfète triggered FR-Alert ordering the immediate evacuation of sectors in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle and Saint-Jean-d'Illac.",
+      "es": "25 de julio: la préfète activó FR-Alert para ordenar la evacuación inmediata de sectores de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle y Saint-Jean-d'Illac.",
+      "de": "25. Juli: Die Präfektin löste FR-Alert aus und ordnete die sofortige Evakuierung von Gebieten in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle und Saint-Jean-d'Illac an.",
+      "nl": "25 juli: de prefecte activeerde FR-Alert voor de onmiddellijke evacuatie van sectoren in Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle en Saint-Jean-d'Illac."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
+    "verifiedAt": "2026-07-29T00:40:00+02:00",
+    "occurredAt": "2026-07-25T12:00:00+02:00"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-29-night-point-22h30",
+    "date": "2026-07-29T00:40:00+02:00",
+    "summary": {
+      "fr": "Point préfecture 22h30 (28/07) : feu stabilisé mais actif ; 110 pompiers blessés ; 2 700 pompiers / 23 aériens ; assouplissement des manifestations au nord de la Garonne ; e-mail logistique entreprises ; consignes ARS au retour.",
+      "en": "Préfecture 10:30pm briefing (28/07): fire stabilised but active; 110 injured firefighters; 2,700 firefighters / 23 aircraft; events eased north of the Garonne; business logistics email; ARS return health guidance.",
+      "es": "Parte 22:30 de la prefectura (28/07): fuego estabilizado pero activo; 110 bomberos heridos; 2.700 bomberos / 23 aéreos; eventos aliviados al norte del Garona; e-mail logística empresas; consignas ARS al retorno.",
+      "de": "Präfektur-Lagebericht 22:30 (28.07.): Feuer stabilisiert aber aktiv; 110 verletzte Feuerwehrleute; 2.700 Feuerwehr / 23 Luftmittel; Veranstaltungen nördlich der Garonne gelockert; Logistik-E-Mail für Unternehmen; ARS-Rückkehrhinweise.",
+      "nl": "Prefectuurbericht 22.30 uur (28/07): vuur gestabiliseerd maar actief; 110 gewonde brandweerlieden; 2.700 brandweer / 23 luchtmiddelen; evenementen versoepeld ten noorden van de Garonne; logistiek e-mail bedrijven; ARS-advies bij terugkeer."
+    }
+  },
+  {
     "id": "2026-07-28-evening-retour-haillan",
     "date": "2026-07-28T20:05:00+02:00",
     "summary": {

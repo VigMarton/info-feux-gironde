@@ -24,8 +24,8 @@
       "nl": "Bekijk de opvanginformatie"
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -38,22 +38,22 @@
       "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
     },
     "description": {
-      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire des établissements de soins et médico-sociaux.",
-      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and is coordinating the medical evacuation of care facilities.",
-      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria departamental y coordina la evacuación sanitaria de los centros médicos y sociosanitarios.",
-      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan („plan blanc\") ausgelöst und koordiniert die medizinische Evakuierung von Pflege- und Sozialeinrichtungen.",
-      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan voor ziekenhuizen geactiveerd en coördineert de medische evacuatie van zorginstellingen."
+      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire des établissements de soins et médico-sociaux. Pour les personnes autorisées à rentrer (ex. Eysines, Mérignac, Le Haillan), l'ARS publie aussi des consignes sanitaires au retour.",
+      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and is coordinating medical evacuation of care facilities. For people authorised to return (e.g. Eysines, Mérignac, Le Haillan), the ARS also publishes health guidance for returning home.",
+      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria departamental y coordina la evacuación sanitaria. Para quienes pueden volver (p. ej. Eysines, Mérignac, Le Haillan), la ARS publica también consignas sanitarias al regreso.",
+      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (z. B. Eysines, Mérignac, Le Haillan) gibt die ARS auch Gesundheitsempfehlungen für die Rückkehr heraus.",
+      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (bijv. Eysines, Mérignac, Le Haillan) publiceert de ARS ook gezondheidsadviezen bij terugkeer."
     },
     "actionLabel": {
-      "fr": "Lire le communiqué de l'ARS",
-      "en": "Read the ARS press release",
-      "es": "Leer el comunicado de la ARS",
-      "de": "Pressemitteilung der ARS lesen",
-      "nl": "Lees het persbericht van de ARS"
+      "fr": "Lire les consignes ARS (retour / fumées)",
+      "en": "Read ARS guidance (return / smoke)",
+      "es": "Leer consignas ARS (retorno / humo)",
+      "de": "ARS-Empfehlungen lesen (Rückkehr / Rauch)",
+      "nl": "Lees ARS-adviezen (terugkeer / rook)"
     },
-    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
-    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -108,8 +108,8 @@
       "nl": "Bel 0 800 719 912"
     },
     "phone": "0 800 719 912",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-28T20:05:00+02:00"
+    "verifiedAt": "2026-07-29T00:40:00+02:00"
   }
 ]
