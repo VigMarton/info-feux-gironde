@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-28-evening-retour-haillan",
+    "date": "2026-07-28T20:05:00+02:00",
+    "summary": {
+      "fr": "Retour autorisé (préfecture) pour les habitants d'Eysines, Mérignac et Le Haillan — avec vigilance et risque de nouvelle évacuation. Pas de nouveau point de situation chiffré depuis 13h ; centres d'accueil PDF du 27/07 toujours en vigueur.",
+      "en": "Return authorised (préfecture) for residents of Eysines, Mérignac and Le Haillan — with vigilance and possible re-evacuation. No newer numbered situation briefing since 1pm; 27/07 reception-centre PDF still current.",
+      "es": "Retorno autorizado (prefectura) para habitantes de Eysines, Mérignac y Le Haillan — con vigilancia y posible nueva evacuación. Sin nuevo parte numérico desde las 13:00; PDF de centros del 27/07 aún vigente.",
+      "de": "Rückkehr erlaubt (Präfektur) für Einwohner von Eysines, Mérignac und Le Haillan — mit Vorsicht und möglicher erneuter Evakuierung. Kein neuer Zahlen-Lagebericht seit 13 Uhr; Aufnahmezentren-PDF vom 27.07. weiterhin gültig.",
+      "nl": "Terugkeer toegestaan (prefectuur) voor inwoners van Eysines, Mérignac en Le Haillan — met waakzaamheid en mogelijke her-evacuatie. Geen nieuw cijferbericht sinds 13.00 uur; opvang-pdf van 27/07 nog geldig."
+    }
+  },
+  {
     "id": "2026-07-28-afternoon-point-13h",
     "date": "2026-07-28T15:05:00+02:00",
     "summary": {

@@ -21,9 +21,9 @@ export async function loadHubData() {
   const areaEntries = killSwitch ? [] : await getCollection("areas");
   /** Newest first — matches préfecture evacuation timeline (reversed). */
   const areaTimelineOrder = [
+    "haillan-eysines-merignac-extra-rocade",
     "lacanau-campings-tourisme",
     "marcheprime-le-barp-biganos-mios-cestas",
-    "haillan-eysines-merignac-extra-rocade",
     "st-aubin-st-medard-martignas-st-jean-dillac",
     "cap-ferret-peninsula-villages",
     "le-porge-saumos-le-temple-lege-cap-ferret",
