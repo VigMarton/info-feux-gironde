@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-29-evening-bm-reverify",
+    "date": "2026-07-29T21:45:00+02:00",
+    "summary": {
+      "fr": "Soirée : pas de nouveau point préfecture après 15h30 ; mise à jour Bordeaux Métropole (29/07) — recensement bénévoles suspendu, collecte dons toujours suspendue, hébergement temporaire URHLM ; re-vérification fraîcheur.",
+      "en": "Evening: no new préfecture briefing after 3:30pm; Bordeaux Métropole update (29/07) — volunteer signup suspended, goods collection still suspended, URHLM temporary housing; freshness re-verify.",
+      "es": "Noche: sin nuevo parte de prefectura tras las 15:30; actualización Bordeaux Métropole (29/07) — registro de voluntarios suspendido, donaciones aún suspendidas, alojamiento temporal URHLM; re-verificación de frescura.",
+      "de": "Abend: kein neuer Präfektur-Lagebericht nach 15:30; Bordeaux-Métropole-Update (29.07.) — Freiwilligen-Erfassung ausgesetzt, Sachspenden weiter ausgesetzt, URHLM-Übergangsunterkunft; Frische-Nachprüfung.",
+      "nl": "Avond: geen nieuw prefectuurbericht na 15.30 uur; update Bordeaux Métropole (29/07) — vrijwilligersregistratie opgeschort, goederencollecte nog opgeschort, tijdelijk onderdak URHLM; versheidsherbevestiging."
+    }
+  },
+  {
     "id": "2026-07-29-afternoon-point-15h30",
     "date": "2026-07-29T17:55:00+02:00",
     "summary": {

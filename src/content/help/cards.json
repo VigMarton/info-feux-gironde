@@ -9,11 +9,11 @@
       "nl": "Materiaal doneren"
     },
     "description": {
-      "fr": "Au 28 juillet, Bordeaux Métropole indique que la collecte de dons est suspendue : les besoins immédiats sont couverts. Ne déposez rien au Parc des Expositions. Pour un don d'argent, il n'y a pas de cagnotte métropolitaine — privilégiez les CCAS des communes touchées ou les associations (Croix-Rouge, Secours populaire…). Suivez la page officielle si la collecte reprend.",
-      "en": "As of 28 July, Bordeaux Métropole says goods collection is suspended: immediate needs are covered. Do not drop anything off at the Exhibition Centre. There is no official Métropole cash fund — prefer CCAS of affected communes or associations (Red Cross, Secours populaire…). Check the official page if collection resumes.",
-      "es": "A 28 de julio, Bordeaux Métropole indica que la recogida de donaciones está suspendida: las necesidades inmediatas están cubiertas. No deje nada en el Parque de Exposiciones. No hay hucha oficial de la Métropole — priorice los CCAS de los municipios afectados o asociaciones (Cruz Roja, Secours populaire…). Consulte la página oficial si se reanuda la recogida.",
-      "de": "Stand 28. Juli: Bordeaux Métropole meldet, dass die Sachspendenannahme ausgesetzt ist — der Sofortbedarf ist gedeckt. Bringen Sie nichts zum Ausstellungszentrum. Es gibt keine offizielle Métropole-Spendenkasse — bevorzugen Sie CCAS betroffener Gemeinden oder Verbände (Rotes Kreuz, Secours populaire…). Offizielle Seite prüfen, falls die Sammlung wieder aufgenommen wird.",
-      "nl": "Op 28 juli meldt Bordeaux Métropole dat de goederencollecte is opgeschort: de acute behoeften zijn gedekt. Breng niets naar het beursgebouw. Er is geen officiële Métropole-geldinzameling — geef bij voorkeur aan CCAS van getroffen gemeenten of verenigingen (Rode Kruis, Secours populaire…). Check de officiële pagina als de collecte hervat wordt."
+      "fr": "Au 29 juillet, Bordeaux Métropole indique que la collecte de dons est toujours suspendue : les besoins immédiats sont couverts. Ne déposez rien au Parc des Expositions. Pas de cagnotte métropolitaine — privilégiez les CCAS des communes touchées ou les associations (Croix-Rouge, Secours populaire…). Les denrées collectées sont redistribuées (Parc Expo, pompiers, colis « 5 jours », CCAS).",
+      "en": "As of 29 July, Bordeaux Métropole says goods collection remains suspended: immediate needs are covered. Do not drop anything off at the Exhibition Centre. No Métropole cash fund — prefer CCAS of affected communes or associations (Red Cross, Secours populaire…). Collected goods are being redistributed (Exhibition Centre, firefighters, “5-day” packs, CCAS).",
+      "es": "A 29 de julio, Bordeaux Métropole indica que la recogida de donaciones sigue suspendida: las necesidades inmediatas están cubiertas. No deje nada en el Parque de Exposiciones. No hay hucha de la Métropole — priorice los CCAS o asociaciones (Cruz Roja, Secours populaire…). Los bienes recogidos se redistribuyen (Parc Expo, bomberos, paquetes «5 días», CCAS).",
+      "de": "Stand 29. Juli: Bordeaux Métropole meldet, dass die Sachspendenannahme weiterhin ausgesetzt ist — Sofortbedarf gedeckt. Nichts zum Ausstellungszentrum bringen. Keine Métropole-Spendenkasse — CCAS oder Verbände (Rotes Kreuz, Secours populaire…) bevorzugen. Gesammelte Güter werden weiterverteilt (Parc Expo, Feuerwehr, „5-Tage“-Pakete, CCAS).",
+      "nl": "Op 29 juli meldt Bordeaux Métropole dat de goederencollecte nog steeds is opgeschort: acute behoeften zijn gedekt. Breng niets naar het beursgebouw. Geen Métropole-geldinzameling — geef bij voorkeur aan CCAS of verenigingen (Rode Kruis, Secours populaire…). Ingezamelde goederen worden herverdeeld (Parc Expo, brandweer, «5 dagen»-pakketten, CCAS)."
     },
     "actionLabel": {
       "fr": "Lire la page Bordeaux Métropole",
@@ -24,7 +24,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "volunteer",
@@ -36,51 +36,51 @@
       "nl": "Vrijwilliger worden"
     },
     "description": {
-      "fr": "Au 28 juillet, Bordeaux Métropole indique que les besoins immédiats en bénévoles sont couverts. Ne vous présentez pas au Parc des Expositions. Votre soutien pourra être sollicité plus tard selon l'évolution. Les entreprises/associations : numéro vert 0 800 006 090 (8h30–21h) ou, pour dons matériels/moyens/services vers la préfecture, pref33-logistique@gironde.gouv.fr.",
-      "en": "As of 28 July, Bordeaux Métropole says immediate volunteer needs are covered. Do not show up at the Exhibition Centre. Support may be requested later as the situation evolves. Businesses/associations: green line 0 800 006 090 (8:30am–9pm) or, for material/means/services offers to the préfecture, pref33-logistique@gironde.gouv.fr.",
-      "es": "A 28 de julio, Bordeaux Métropole indica que las necesidades inmediatas de voluntariado están cubiertas. No se presente en el Parque de Exposiciones. Su apoyo podrá solicitarse más adelante. Empresas/asociaciones: número verde 0 800 006 090 (8:30–21:00) o, para ofertas de material/medios/servicios a la prefectura, pref33-logistique@gironde.gouv.fr.",
-      "de": "Stand 28. Juli: Bordeaux Métropole meldet, dass der Sofortbedarf an Freiwilligen gedeckt ist. Erscheinen Sie nicht am Ausstellungszentrum. Unterstützung kann später angefragt werden. Unternehmen/Verbände: Grüne Hotline 0 800 006 090 (8:30–21:00 Uhr) oder für Sach-/Mittel-/Serviceangebote an die Präfektur pref33-logistique@gironde.gouv.fr.",
-      "nl": "Op 28 juli meldt Bordeaux Métropole dat de acute behoefte aan vrijwilligers is gedekt. Meld u niet bij het beursgebouw. Uw steun kan later worden gevraagd. Bedrijven/verenigingen: groen nummer 0 800 006 090 (8.30–21.00 uur) of, voor materiaal/middelen/diensten aan de prefectuur, pref33-logistique@gironde.gouv.fr."
+      "fr": "Au 29 juillet, Bordeaux Métropole suspend le recensement des bénévoles (plus de 10 000 inscrits). La majorité des personnes au Parc des Expositions sont parties ou sur le départ : ne vous présentez pas sur place. Le soutien pourra être sollicité plus tard. Entreprises : numéro vert 0 800 006 090 (8h30–21h) ; dons matériels/moyens/services vers la préfecture : pref33-logistique@gironde.gouv.fr.",
+      "en": "As of 29 July, Bordeaux Métropole has suspended volunteer registration (more than 10,000 signed up). Most people at the Exhibition Centre have left or are leaving: do not show up on site. Support may be requested later. Businesses: green line 0 800 006 090 (8:30am–9pm); material/means/services to the préfecture: pref33-logistique@gironde.gouv.fr.",
+      "es": "A 29 de julio, Bordeaux Métropole suspende el registro de voluntarios (más de 10.000 inscritos). La mayoría de las personas en el Parque de Exposiciones se han ido o están de salida: no se presente. El apoyo podrá solicitarse más adelante. Empresas: número verde 0 800 006 090 (8:30–21:00); material/medios/servicios a la prefectura: pref33-logistique@gironde.gouv.fr.",
+      "de": "Stand 29. Juli: Bordeaux Métropole setzt die Freiwilligen-Erfassung aus (über 10.000 Eingetragene). Die Mehrheit am Ausstellungszentrum ist gegangen oder im Aufbruch: nicht vor Ort erscheinen. Unterstützung kann später angefragt werden. Unternehmen: Grüne Hotline 0 800 006 090 (8:30–21:00); Sach-/Mittel-/Serviceangebote an die Präfektur: pref33-logistique@gironde.gouv.fr.",
+      "nl": "Op 29 juli schort Bordeaux Métropole de vrijwilligersregistratie op (meer dan 10.000 ingeschreven). De meesten op het beursgebouw zijn vertrokken of op weg: meld u niet ter plaatse. Steun kan later worden gevraagd. Bedrijven: groen nummer 0 800 006 090 (8.30–21.00 uur); materiaal/middelen/diensten aan de prefectuur: pref33-logistique@gironde.gouv.fr."
     },
     "actionLabel": {
-      "fr": "Voir Bordeaux Métropole / point préfecture",
-      "en": "See Bordeaux Métropole / préfecture briefing",
-      "es": "Ver Bordeaux Métropole / parte de la prefectura",
-      "de": "Bordeaux Métropole / Präfektur-Lagebericht ansehen",
-      "nl": "Bekijk Bordeaux Métropole / prefectuurbericht"
-    },
-    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "phone": "0 800 006 090",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
-  },
-  {
-    "id": "offer-housing",
-    "title": {
-      "fr": "Proposer un hébergement",
-      "en": "Offer housing",
-      "es": "Ofrecer alojamiento",
-      "de": "Unterkunft anbieten",
-      "nl": "Onderdak aanbieden"
-    },
-    "description": {
-      "fr": "Bordeaux Métropole recueille les offres d'hébergement (formulaire / numéro vert 0 800 006 090, 8h30–21h). Héberger quelqu'un engage votre responsabilité (accès digne aux sanitaires et à une cuisine).",
-      "en": "Bordeaux Métropole collects housing offers (form / green line 0 800 006 090, 8:30am–9pm). Hosting someone is your responsibility (dignified access to sanitation and a kitchen).",
-      "es": "Bordeaux Métropole recoge las ofertas de alojamiento (formulario / número verde 0 800 006 090, 8:30–21:00). Alojar a alguien es su responsabilidad (acceso digno a servicios sanitarios y a una cocina).",
-      "de": "Bordeaux Métropole erfasst Unterkunftsangebote (Formular / grüne Hotline 0 800 006 090, 8:30–21:00 Uhr). Die Aufnahme einer Person liegt in Ihrer Verantwortung (würdiger Zugang zu Sanitäranlagen und einer Küche).",
-      "nl": "Bordeaux Métropole verzamelt aanbiedingen voor onderdak (formulier / groen nummer 0 800 006 090, 8.30–21.00 uur). Iemand onderdak bieden is uw eigen verantwoordelijkheid (waardige toegang tot sanitair en een keuken)."
-    },
-    "actionLabel": {
-      "fr": "Proposer un hébergement (Métropole)",
-      "en": "Offer housing (Métropole)",
-      "es": "Ofrecer alojamiento (Métropole)",
-      "de": "Unterkunft anbieten (Métropole)",
-      "nl": "Onderdak aanbieden (Métropole)"
+      "fr": "Voir Bordeaux Métropole",
+      "en": "See Bordeaux Métropole",
+      "es": "Ver Bordeaux Métropole",
+      "de": "Bordeaux Métropole ansehen",
+      "nl": "Bekijk Bordeaux Métropole"
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
+  },
+  {
+    "id": "offer-housing",
+    "title": {
+      "fr": "Hébergement temporaire",
+      "en": "Temporary housing",
+      "es": "Alojamiento temporal",
+      "de": "Vorübergehende Unterkunft",
+      "nl": "Tijdelijk onderdak"
+    },
+    "description": {
+      "fr": "Évacués sans solution : pôle hébergement à l'entrée du hall du Parc des Expositions ; l'Union régionale HLM Nouvelle-Aquitaine propose jusqu'à 10 nuits gratuites (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Pour proposer un logement : numéro vert Métropole 0 800 006 090 (8h30–21h).",
+      "en": "Evacuees without a place: housing desk at the Exhibition Centre hall entrance; regional HLM union offers up to 10 free nights (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9am–6pm). To offer housing: Métropole green line 0 800 006 090 (8:30am–9pm).",
+      "es": "Evacuados sin solución: mostrador de alojamiento a la entrada del hall del Parque de Exposiciones; la unión HLM regional ofrece hasta 10 noches gratis (500 plazas) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Para ofrecer alojamiento: número verde Métropole 0 800 006 090 (8:30–21:00).",
+      "de": "Evakuierte ohne Lösung: Unterkunftsstelle am Halleneingang des Ausstellungszentrums; regionale HLM-Union bietet bis zu 10 kostenlose Nächte (500 Plätze) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 Uhr). Unterkunft anbieten: Métropole-Hotline 0 800 006 090 (8:30–21:00 Uhr).",
+      "nl": "Geëvacueerden zonder oplossing: huisvestingsbalie bij de hal-ingang van het beursgebouw; regionale HLM-unie biedt tot 10 gratis nachten (500 plaatsen) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 uur). Onderdak aanbieden: Métropole-groen nummer 0 800 006 090 (8.30–21.00 uur)."
+    },
+    "actionLabel": {
+      "fr": "Voir les consignes Bordeaux Métropole",
+      "en": "See Bordeaux Métropole guidance",
+      "es": "Ver consignas Bordeaux Métropole",
+      "de": "Hinweise von Bordeaux Métropole ansehen",
+      "nl": "Bekijk richtlijnen Bordeaux Métropole"
+    },
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "phone": "0 800 006 090",
+    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "red-cross-support",
@@ -107,6 +107,6 @@
     },
     "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
     "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   }
 ]

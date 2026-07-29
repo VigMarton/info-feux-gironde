@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -35,7 +35,7 @@
       "nl": "42.000 hectare (op 29/07, 15.30 uur — ongewijzigd sinds 48 u)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -54,7 +54,7 @@
       "nl": "Meer dan 224.000 (waarvan ~60.000 met terugkeertoestemming: Eysines, Mérignac, Le Haillan)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -73,7 +73,7 @@
       "nl": "2.700 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.400 interne veiligheidstroepen"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -92,6 +92,6 @@
       "nl": "126 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T17:55:00+02:00"
+    "verifiedAt": "2026-07-29T21:45:00+02:00"
   }
 ]
