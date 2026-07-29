@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-29-afternoon-point-15h30",
+    "date": "2026-07-29T17:55:00+02:00",
+    "summary": {
+      "fr": "Point préfecture 15h30 (29/07) : feu toujours stabilisé ; 42 000 ha inchangés ; plus de 224 000 évacués ; 126 pompiers blessés ; 24 moyens aériens ; arrêté manifestations rive droite/gauche ; activité partielle entreprises ; FAQ 16h (dérogations circulation).",
+      "en": "Préfecture 3:30pm briefing (29/07): fire still stabilised; 42,000 ha unchanged; more than 224,000 evacuated; 126 injured firefighters; 24 aircraft; right/left-bank events order; short-time work for businesses; FAQ 4pm (access exemptions).",
+      "es": "Parte 15:30 de la prefectura (29/07): fuego aún estabilizado; 42.000 ha sin cambio; más de 224.000 evacuados; 126 bomberos heridos; 24 aéreos; decreto eventos orilla derecha/izquierda; actividad parcial empresas; FAQ 16h (exenciones circulación).",
+      "de": "Präfektur-Lagebericht 15:30 (29.07.): Feuer weiter stabilisiert; 42.000 ha unverändert; mehr als 224.000 Evakuierte; 126 verletzte Feuerwehrleute; 24 Luftmittel; Erlass Veranstaltungen rechtes/linkes Ufer; Kurzarbeit Betriebe; FAQ 16 Uhr (Verkehrsbefreiungen).",
+      "nl": "Prefectuurbericht 15.30 uur (29/07): vuur nog gestabiliseerd; 42.000 ha ongewijzigd; meer dan 224.000 geëvacueerden; 126 gewonde brandweerlieden; 24 luchtmiddelen; besluit evenementen rechter-/linkeroever; gedeeltelijke werkloosheid bedrijven; FAQ 16.00 uur (ontheffingen verkeer)."
+    }
+  },
+  {
     "id": "2026-07-29-morning-faq-reverify",
     "date": "2026-07-29T11:35:00+02:00",
     "summary": {

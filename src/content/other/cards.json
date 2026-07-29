@@ -24,8 +24,8 @@
       "nl": "Bekijk de opvanginformatie"
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -52,8 +52,8 @@
       "nl": "Lees ARS-adviezen (terugkeer / rook)"
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "La circulation est fortement perturbée dans les zones touchées. Consultez Inforoutes Gironde avant tout déplacement (fermetures et déviations évoluent).",
-      "en": "Traffic is heavily disrupted in the affected areas. Check Gironde Inforoutes before travelling (closures and diversions change).",
-      "es": "La circulación está muy perturbada en las zonas afectadas. Consulte Inforoutes Gironde antes de desplazarse (cierres y desvíos cambian).",
-      "de": "Der Verkehr in den betroffenen Gebieten ist stark gestört. Prüfen Sie vor der Fahrt Inforoutes Gironde (Sperrungen und Umleitungen ändern sich).",
-      "nl": "Het verkeer is zwaar verstoord in de getroffen gebieden. Raadpleeg Inforoutes Gironde vóór vertrek (afsluitingen en omleidingen wijzigen)."
+      "fr": "La circulation est fortement perturbée dans les zones touchées. Consultez Inforoutes Gironde / la carte préfecture avant tout déplacement. Demandes de dérogation pour circuler en zone évacuée (raisons impérieuses) : pref-derogation@gironde.gouv.fr (FAQ préfecture du 29/07, 16h).",
+      "en": "Traffic is heavily disrupted in the affected areas. Check Gironde Inforoutes / the préfecture map before travelling. Access exemption requests for evacuated zones (compelling reasons): pref-derogation@gironde.gouv.fr (préfecture FAQ, 29/07 4pm).",
+      "es": "La circulación está muy perturbada en las zonas afectadas. Consulte Inforoutes Gironde / el mapa de la prefectura antes de desplazarse. Solicitudes de exención para circular en zona evacuada (razones imperiosas): pref-derogation@gironde.gouv.fr (FAQ prefectura 29/07, 16h).",
+      "de": "Der Verkehr in den betroffenen Gebieten ist stark gestört. Prüfen Sie vor der Fahrt Inforoutes Gironde / die Präfekturkarte. Anträge auf Ausnahme für Evakuierungszonen (zwingende Gründe): pref-derogation@gironde.gouv.fr (FAQ Präfektur 29.07., 16 Uhr).",
+      "nl": "Het verkeer is zwaar verstoord in de getroffen gebieden. Raadpleeg Inforoutes Gironde / de prefectuurkaart vóór vertrek. Ontheffingsaanvragen voor evacuatiezones (dwingende redenen): pref-derogation@gironde.gouv.fr (FAQ prefectuur 29/07, 16.00 uur)."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-29T11:35:00+02:00"
+    "verifiedAt": "2026-07-29T17:55:00+02:00"
   }
 ]

@@ -1,5 +1,47 @@
 [
   {
+    "id": "point-situation-29-juillet-15h30",
+    "text": {
+      "fr": "29 juillet (15h30) : feu toujours stabilisé ; reprises nocturnes (camp de Souge, Arès, Le Temple) traitées ; nouveaux foyers le matin à Sainte-Hélène, Saint-Jean-d'Illac et Lanton en cours de traitement. Surface toujours 42 000 ha (inchangée 48 h) ; plus de 224 000 évacués ; ~60 000 retours (Eysines, Mérignac, Le Haillan) ; 126 pompiers blessés ; 2 700 pompiers / 24 aériens. Objectif 127 km de coupes tactiques atteint ; sécurisation de 240 km de lisières. Canicule orange depuis 12h.",
+      "en": "29 July (3:30pm): fire still stabilised; overnight flare-ups (Camp de Souge, Arès, Le Temple) treated; morning outbreaks at Sainte-Hélène, Saint-Jean-d'Illac and Lanton being treated. Area still 42,000 ha (unchanged 48h); more than 224,000 evacuated; ~60,000 returns (Eysines, Mérignac, Le Haillan); 126 firefighters injured; 2,700 firefighters / 24 aircraft. 127 km tactical firebreaks objective reached; securing 240 km of edges. Orange heatwave alert since noon.",
+      "es": "29 de julio (15:30): fuego aún estabilizado; rebrotes nocturnos (camp de Souge, Arès, Le Temple) tratados; nuevos focos por la mañana en Sainte-Hélène, Saint-Jean-d'Illac y Lanton en tratamiento. Superficie aún 42.000 ha (sin cambio 48 h); más de 224.000 evacuados; ~60.000 retornos (Eysines, Mérignac, Le Haillan); 126 bomberos heridos; 2.700 bomberos / 24 aéreos. Objetivo 127 km de cortafuegos alcanzado; securización de 240 km de linderos. Ola de calor naranja desde las 12h.",
+      "de": "29. Juli (15:30): Feuer weiterhin stabilisiert; nächtliche Wiederaufflammungen (Camp de Souge, Arès, Le Temple) behandelt; morgendliche Herde in Sainte-Hélène, Saint-Jean-d'Illac und Lanton in Behandlung. Fläche weiter 42.000 ha (48 Std. unverändert); mehr als 224.000 Evakuierte; ~60.000 Rückkehrer (Eysines, Mérignac, Le Haillan); 126 verletzte Feuerwehrleute; 2.700 Feuerwehr / 24 Luftmittel. Ziel 127 km taktische Schneisen erreicht; Sicherung von 240 km Rändern. Orangene Hitzewarnung seit 12 Uhr.",
+      "nl": "29 juli (15.30 uur): vuur nog gestabiliseerd; nachtelijke heropvlammingen (kamp Souge, Arès, Le Temple) behandeld; ochtendhaarden in Sainte-Hélène, Saint-Jean-d'Illac en Lanton in behandeling. Oppervlak nog 42.000 ha (48 u ongewijzigd); meer dan 224.000 geëvacueerden; ~60.000 terugkeerders (Eysines, Mérignac, Le Haillan); 126 gewonde brandweerlieden; 2.700 brandweer / 24 luchtmiddelen. Doel 127 km tactische brandgangen bereikt; beveiliging van 240 km randen. Oranje hittegolf sinds 12.00 uur."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
+    "occurredAt": "2026-07-29T15:30:00+02:00"
+  },
+  {
+    "id": "manifestations-rive-droite-gauche-29-juillet",
+    "text": {
+      "fr": "29 juillet : nouvel arrêté — manifestations festives, sportives et culturelles autorisées sur la rive droite de la Garonne (sans mobiliser les secours ; interdites dans les espaces végétalisés). Sur la rive gauche : interdites sauf autorisation préfectorale au cas par cas.",
+      "en": "29 July: new order — festive, sports and cultural events allowed on the right bank of the Garonne (must not draw on emergency services; banned in vegetated areas). On the left bank: banned except case-by-case préfecture authorisation.",
+      "es": "29 de julio: nuevo decreto — eventos festivos, deportivos y culturales autorizados en la orilla derecha del Garona (sin movilizar socorros; prohibidos en espacios vegetados). En la orilla izquierda: prohibidos salvo autorización prefectural caso por caso.",
+      "de": "29. Juli: neuer Erlass — Fest-/Sport-/Kulturveranstaltungen am rechten Garonne-Ufer erlaubt (ohne Inanspruchnahme der Rettungsdienste; in bewachsenen Flächen verboten). Am linken Ufer: verboten außer Einzelfallgenehmigung der Präfektur.",
+      "nl": "29 juli: nieuw besluit — feestelijke, sportieve en culturele evenementen toegestaan op de rechteroever van de Garonne (zonder inzet van hulpdiensten; verboden in begroeide zones). Op de linkeroever: verboden behalve prefecturale toestemming geval per geval."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
+    "occurredAt": "2026-07-29T15:25:00+02:00"
+  },
+  {
+    "id": "activite-partielle-entreprises-29-juillet",
+    "text": {
+      "fr": "29 juillet : activité partielle ouverte de droit aux entreprises en zone évacuée et à celles du département touchées par l'incendie (575 demandes en cours ; délais d'instruction réduits à 5 jours pour les sinistrés). Contact DDETS : 05 47 47 47 47 / ddets-activite-partielle@gironde.gouv.fr. Dérogations de circulation en zone évacuée : pref-derogation@gironde.gouv.fr.",
+      "en": "29 July: short-time work (activité partielle) opened by right for businesses in evacuated zones and those in the département hit by the fire (575 applications in progress; instruction cut to 5 days for affected firms). Contact DDETS: 05 47 47 47 47 / ddets-activite-partielle@gironde.gouv.fr. Access exemptions in evacuated zones: pref-derogation@gironde.gouv.fr.",
+      "es": "29 de julio: actividad parcial abierta de derecho a empresas en zona evacuada y a las del departamento afectadas (575 solicitudes en curso; plazos de instrucción reducidos a 5 días). Contacto DDETS: 05 47 47 47 47 / ddets-activite-partielle@gironde.gouv.fr. Exenciones de circulación en zona evacuada: pref-derogation@gironde.gouv.fr.",
+      "de": "29. Juli: Kurzarbeit (activité partielle) kraft Gesetzes für Betriebe in Evakuierungszonen und betroffene Betriebe im Département (575 Anträge in Bearbeitung; Bearbeitungsfrist 5 Tage für Geschädigte). Kontakt DDETS: 05 47 47 47 47 / ddets-activite-partielle@gironde.gouv.fr. Verkehrsbefreiungen in Evakuierungszonen: pref-derogation@gironde.gouv.fr.",
+      "nl": "29 juli: gedeeltelijke werkloosheid (activité partielle) van rechtswege voor bedrijven in evacuatiezones en getroffen bedrijven in het departement (575 aanvragen in behandeling; instructietermijn 5 dagen voor gedupeerden). Contact DDETS: 05 47 47 47 47 / ddets-activite-partielle@gironde.gouv.fr. Ontheffingen verkeer in evacuatiezone: pref-derogation@gironde.gouv.fr."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
+    "occurredAt": "2026-07-29T15:20:00+02:00"
+  },
+  {
     "id": "point-situation-28-juillet-22h30",
     "text": {
       "fr": "28 juillet (22h30) : feu stabilisé mais toujours actif ; 14 reprises traitées dans la journée ; 121 km de coupes tactiques. Surface 42 000 ha ; plus de 220 000 évacués ; 110 pompiers blessés ; 2 700 pompiers et 23 moyens aériens. En soirée, foyers encore actifs au camp de Souge, Grand Crohot et Lanton. Météo du 29 défavorable (canicule orange dès 12h, vents ~40 km/h O→E).",
@@ -10,7 +52,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T22:30:00+02:00"
   },
   {
@@ -24,35 +66,35 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T22:25:00+02:00"
   },
   {
     "id": "retour-eysines-merignac-haillan-28-juillet",
     "text": {
-      "fr": "28 juillet : la préfète autorise le retour pour Eysines, Le Haillan et Mérignac (extra-rocade). Rester vigilants, respecter les zones interdites, et se préparer à une éventuelle nouvelle évacuation.",
-      "en": "28 July: the préfète authorises return for Eysines, Le Haillan and Mérignac (outside the ring road). Stay vigilant, respect restricted zones, and be ready for a possible new evacuation.",
-      "es": "28 de julio: la préfète autoriza el retorno de Eysines, Le Haillan y Mérignac (fuera de la circunvalación). Mantener la vigilancia, respetar las zonas prohibidas y prepararse ante una posible nueva evacuación.",
-      "de": "28. Juli: Die Präfektin erlaubt die Rückkehr für Eysines, Le Haillan und Mérignac (außerhalb des Rings). Wachsam bleiben, Sperrzonen beachten und auf eine mögliche erneute Evakuierung vorbereitet sein.",
-      "nl": "28 juli: de prefecte staat terugkeer toe voor Eysines, Le Haillan en Mérignac (buiten de ringweg). Blijf waakzaam, respecteer verboden zones en bereid u voor op een mogelijke nieuwe evacuatie."
+      "fr": "28–29 juillet : retour autorisé pour Eysines, Le Haillan et Mérignac (extra-rocade selon FAQ) — environ 60 000 personnes d'après le point 15h30 du 29/07. Rester vigilants, respecter les zones interdites, et se préparer à une éventuelle nouvelle évacuation.",
+      "en": "28–29 July: return authorised for Eysines, Le Haillan and Mérignac (outside the ring road per FAQ) — about 60,000 people per the 29/07 3:30pm briefing. Stay vigilant, respect restricted zones, and be ready for a possible new evacuation.",
+      "es": "28–29 de julio: retorno autorizado para Eysines, Le Haillan y Mérignac (fuera de la circunvalación según FAQ) — unas 60.000 personas según el parte 15:30 del 29/07. Mantener la vigilancia, respetar zonas prohibidas y prepararse ante una posible nueva evacuación.",
+      "de": "28.–29. Juli: Rückkehr für Eysines, Le Haillan und Mérignac (außerhalb des Rings laut FAQ) erlaubt — rund 60.000 Personen laut Lagebericht 15:30 vom 29.07. Wachsam bleiben, Sperrzonen beachten und auf mögliche erneute Evakuierung vorbereitet sein.",
+      "nl": "28–29 juli: terugkeer toegestaan voor Eysines, Le Haillan en Mérignac (buiten de ringweg volgens FAQ) — ongeveer 60.000 mensen volgens het bericht 15.30 uur van 29/07. Blijf waakzaam, respecteer verboden zones en bereid u voor op een mogelijke nieuwe evacuatie."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T22:20:00+02:00"
   },
   {
     "id": "pas-de-retour-avant-feu-fixe",
     "text": {
-      "fr": "28 juillet : retour autorisé pour Eysines, Le Haillan et Mérignac (extra-rocade) ; pour les autres communes évacuées, attendre l'autorisation explicite de la préfecture.",
-      "en": "28 July: return authorised for Eysines, Le Haillan and Mérignac (outside the ring road); for other evacuated communes, wait for explicit préfecture authorisation.",
-      "es": "28 de julio: retorno autorizado para Eysines, Le Haillan y Mérignac (fuera de la circunvalación); en los demás municipios evacuados, esperar la autorización explícita de la prefectura.",
-      "de": "28. Juli: Rückkehr für Eysines, Le Haillan und Mérignac (außerhalb des Rings) erlaubt; in den übrigen evakuierten Gemeinden auf ausdrückliche Präfekturgenehmigung warten.",
-      "nl": "28 juli: terugkeer toegestaan voor Eysines, Le Haillan en Mérignac (buiten de ringweg); voor andere geëvacueerde gemeenten wachten op expliciete toestemming van de prefectuur."
+      "fr": "29 juillet : retour autorisé pour Eysines, Le Haillan et Mérignac (extra-rocade) ; pour les autres communes évacuées, attendre l'autorisation explicite de la préfecture. Le feu reste actif et non fixé (FAQ 16h).",
+      "en": "29 July: return authorised for Eysines, Le Haillan and Mérignac (outside the ring road); for other evacuated communes, wait for explicit préfecture authorisation. The fire remains active and not fixed (FAQ 4pm).",
+      "es": "29 de julio: retorno autorizado para Eysines, Le Haillan y Mérignac (fuera de la circunvalación); en los demás municipios evacuados, esperar la autorización explícita de la prefectura. El fuego sigue activo y no fijado (FAQ 16h).",
+      "de": "29. Juli: Rückkehr für Eysines, Le Haillan und Mérignac (außerhalb des Rings) erlaubt; in den übrigen evakuierten Gemeinden auf ausdrückliche Präfekturgenehmigung warten. Das Feuer bleibt aktiv und nicht fixiert (FAQ 16 Uhr).",
+      "nl": "29 juli: terugkeer toegestaan voor Eysines, Le Haillan en Mérignac (buiten de ringweg); voor andere geëvacueerde gemeenten wachten op expliciete toestemming van de prefectuur. Het vuur blijft actief en niet vastgelegd (FAQ 16.00 uur)."
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T22:15:00+02:00"
   },
   {
@@ -66,7 +108,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T13:00:00+02:00"
   },
   {
@@ -80,7 +122,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T12:55:00+02:00"
   },
   {
@@ -94,7 +136,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T11:00:00+02:00"
   },
   {
@@ -108,7 +150,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-28T08:00:00+02:00"
   },
   {
@@ -122,7 +164,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-27T22:30:00+02:00"
   },
   {
@@ -136,7 +178,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-27T16:00:00+02:00"
   },
   {
@@ -150,7 +192,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-27T14:00:00+02:00"
   },
   {
@@ -164,7 +206,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-27T09:00:00+02:00"
   },
   {
@@ -178,7 +220,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-27T08:00:00+02:00"
   },
   {
@@ -192,7 +234,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-26T22:00:00+02:00"
   },
   {
@@ -206,7 +248,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-26T13:00:00+02:00"
   },
   {
@@ -220,7 +262,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-25T21:00:00+02:00"
   },
   {
@@ -234,7 +276,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-29T11:35:00+02:00",
+    "verifiedAt": "2026-07-29T17:55:00+02:00",
     "occurredAt": "2026-07-25T12:00:00+02:00"
   }
 ]
