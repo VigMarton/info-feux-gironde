@@ -28,6 +28,8 @@ export async function loadHubData() {
     "marcheprime-le-barp-biganos-mios-cestas",
     "st-aubin-st-medard-martignas-st-jean-dillac",
     "cap-ferret-peninsula-villages",
+    "ares-andernos-audenge-lanton",
+    "sainte-helene-salaunes",
     "le-porge-saumos-le-temple-lege-cap-ferret",
   ] as const;
   const areas = areaEntries

@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-29-morning-faq-reverify",
+    "date": "2026-07-29T11:35:00+02:00",
+    "summary": {
+      "fr": "Re-vérification matin : pas de nouveau point préfecture du 29/07 ; précision retour Mérignac (extra-rocade) ; ajout communes FAQ manquantes (Arès, Andernos, Audenge, Lanton, Sainte-Hélène, Salaunes) ; horaires CUMP 9h–17h ; chiffres du 22h30 (28/07) toujours le dernier bilan officiel.",
+      "en": "Morning re-check: no new 29/07 préfecture briefing; clarified Mérignac return (outside ring road); added missing FAQ communes (Arès, Andernos, Audenge, Lanton, Sainte-Hélène, Salaunes); CUMP hours 9am–5pm; 28/07 10:30pm figures still the latest official toll.",
+      "es": "Revisión matinal: sin nuevo parte del 29/07; precisión retorno Mérignac (fuera de circunvalación); municipios FAQ añadidos; horario CUMP 9–17h; cifras del 22:30 (28/07) siguen siendo el último balance oficial.",
+      "de": "Morgendliche Nachprüfung: kein neuer Lagebericht vom 29.07.; Rückkehr Mérignac (außerhalb Ring) präzisiert; fehlende FAQ-Gemeinden ergänzt; CUMP 9–17 Uhr; Zahlen vom 22:30 (28.07.) weiterhin jüngste offizielle Bilanz.",
+      "nl": "Ochtendherbevestiging: geen nieuw prefectuurbericht van 29/07; terugkeer Mérignac (buiten ringweg) verduidelijkt; ontbrekende FAQ-gemeenten toegevoegd; CUMP 9–17 uur; cijfers van 22.30 (28/07) nog steeds laatste officiële balans."
+    }
+  },
+  {
     "id": "2026-07-29-night-point-22h30",
     "date": "2026-07-29T00:40:00+02:00",
     "summary": {

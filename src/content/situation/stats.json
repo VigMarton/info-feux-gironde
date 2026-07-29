@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-29T00:40:00+02:00"
+    "verifiedAt": "2026-07-29T11:35:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -35,7 +35,7 @@
       "nl": "42.000 hectare (op 28/07, 22:30 uur)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T00:40:00+02:00"
+    "verifiedAt": "2026-07-29T11:35:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -54,7 +54,7 @@
       "nl": "Meer dan 220.000"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T00:40:00+02:00"
+    "verifiedAt": "2026-07-29T11:35:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -73,7 +73,7 @@
       "nl": "2.700 brandweerlieden, 23 luchtmiddelen, 1.500 militairen, 1.440 interne veiligheidstroepen"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T00:40:00+02:00"
+    "verifiedAt": "2026-07-29T11:35:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -92,6 +92,6 @@
       "nl": "110 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-29T00:40:00+02:00"
+    "verifiedAt": "2026-07-29T11:35:00+02:00"
   }
 ]
