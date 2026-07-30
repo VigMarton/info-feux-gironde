@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "30 juillet : réouverture de l'A63 dans les deux sens à partir de 14h (CP préfecture). La circulation reste perturbée ailleurs — consultez Inforoutes Gironde / la carte préfecture. Dérogations zone évacuée (raisons impérieuses) : pref-derogation@gironde.gouv.fr.",
-      "en": "30 July: A63 reopens both ways from 2pm (préfecture CP). Traffic remains disrupted elsewhere — check Gironde Inforoutes / the préfecture map. Evacuated-zone access exemptions (compelling reasons): pref-derogation@gironde.gouv.fr.",
-      "es": "30 de julio: reapertura de la A63 en ambos sentidos a partir de las 14h (CP prefectura). La circulación sigue perturbada en otros sitios — consulte Inforoutes Gironde / el mapa prefectural. Exenciones zona evacuada (razones imperiosas): pref-derogation@gironde.gouv.fr.",
-      "de": "30. Juli: A63 ab 14 Uhr in beiden Richtungen wieder offen (CP Präfektur). Verkehr bleibt anderswo gestört — Inforoutes Gironde / Präfekturkarte prüfen. Ausnahmen Evakuierungszone (zwingende Gründe): pref-derogation@gironde.gouv.fr.",
-      "nl": "30 juli: A63 vanaf 14.00 uur weer open in beide richtingen (CP prefectuur). Verkeer blijft elders verstoord — raadpleeg Inforoutes Gironde / de prefectuurkaart. Ontheffingen evacuatiezone (dwingende redenen): pref-derogation@gironde.gouv.fr."
+      "fr": "30 juillet (16h) : A63 rouverte dans les deux sens depuis 14h — bretelles d'entrée/sortie entre les échangeurs 25 et 23 fermées jusqu'à nouvel ordre ; aires des Gargails et de Cestas fermées dans les deux sens. Consultez Inforoutes / la carte préfecture. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
+      "en": "30 July (4pm): A63 open both ways since 2pm — entry/exit ramps between junctions 25 and 23 closed until further notice; Gargails and Cestas rest areas closed both ways. Check Inforoutes / the préfecture map. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
+      "es": "30 de julio (16h): A63 abierta en ambos sentidos desde las 14h — rampas entre intercambios 25 y 23 cerradas hasta nuevo aviso; áreas Gargails y Cestas cerradas en ambos sentidos. Consulte Inforoutes / el mapa prefectural. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
+      "de": "30. Juli (16 Uhr): A63 seit 14 Uhr in beiden Richtungen offen — Auffahrten zwischen Anschlussstellen 25 und 23 bis auf Weiteres gesperrt; Rastplätze Gargails und Cestas in beiden Richtungen geschlossen. Inforoutes / Präfekturkarte prüfen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
+      "nl": "30 juli (16.00 uur): A63 sinds 14.00 uur open in beide richtingen — afritten tussen knooppunten 25 en 23 gesloten tot nader order; rustplaatsen Gargails en Cestas in beide richtingen gesloten. Raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-dans-9-nouvelles-communes-et-reouverture-de-l-autoroute-A63",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-30T11:40:00+02:00"
+    "verifiedAt": "2026-07-30T19:30:00+02:00"
   }
 ]

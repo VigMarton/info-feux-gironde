@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-30-afternoon-point-16h",
+    "date": "2026-07-30T19:30:00+02:00",
+    "summary": {
+      "fr": "Point préfecture 16h (30/07) : feu stabilisé, 42 000 ha ; 144 000 retours autorisés ; 231 blessés ; 1 250 FSI ; A63 ouverte avec bretelles 23–25 et aires fermées ; attestation d'évacuation en ligne.",
+      "en": "Préfecture 4pm briefing (30/07): fire stabilised, 42,000 ha; 144,000 authorised returns; 231 injured; 1,250 FSI; A63 open with junctions 23–25 ramps and rest areas closed; online evacuation attestation.",
+      "es": "Parte 16h prefectura (30/07): fuego estabilizado, 42.000 ha; 144.000 retornos autorizados; 231 heridos; 1.250 FSI; A63 abierta con rampas 23–25 y áreas cerradas; atestado de evacuación en línea.",
+      "de": "Präfektur-Lagebericht 16 Uhr (30.07.): Feuer stabilisiert, 42.000 ha; 144.000 Rückkehrerlaubnisse; 231 Verletzte; 1.250 FSI; A63 offen mit gesperrten Rampen 23–25 und Rastplätzen; Online-Evakuierungsbescheinigung.",
+      "nl": "Prefectuurbericht 16.00 uur (30/07): vuur gestabiliseerd, 42.000 ha; 144.000 terugkeertoestemmingen; 231 gewonden; 1.250 FSI; A63 open met gesloten afritten 23–25 en rustplaatsen; online evacuatieattest."
+    }
+  },
+  {
     "id": "2026-07-30-morning-returns-a63",
     "date": "2026-07-30T11:40:00+02:00",
     "summary": {
