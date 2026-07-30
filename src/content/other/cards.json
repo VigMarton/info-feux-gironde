@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -38,11 +38,11 @@
       "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
     },
     "description": {
-      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire des établissements de soins et médico-sociaux. Pour les personnes autorisées à rentrer (Eysines, Le Haillan, Mérignac extra-rocade), l'ARS publie aussi des consignes sanitaires au retour.",
-      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and is coordinating medical evacuation of care facilities. For people authorised to return (Eysines, Le Haillan, Mérignac outside the ring road), the ARS also publishes health guidance for returning home.",
-      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria departamental y coordina la evacuación sanitaria. Para quienes pueden volver (Eysines, Le Haillan, Mérignac fuera de la circunvalación), la ARS publica también consignas sanitarias al regreso.",
-      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (Eysines, Le Haillan, Mérignac außerhalb des Rings) gibt die ARS auch Gesundheitsempfehlungen für die Rückkehr heraus.",
-      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (Eysines, Le Haillan, Mérignac buiten de ringweg) publiceert de ARS ook gezondheidsadviezen bij terugkeer."
+      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire. Pour les personnes autorisées à rentrer (12 communes au 30/07 — voir FAQ / Situation), l'ARS publie des consignes sanitaires au retour.",
+      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and coordinates medical evacuation. For people authorised to return (12 communes as of 30/07 — see FAQ / Situation), the ARS publishes health guidance for returning home.",
+      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria y coordina la evacuación sanitaria. Para quienes pueden volver (12 municipios a 30/07 — ver FAQ / Situation), la ARS publica consignas sanitarias al regreso.",
+      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (12 Gemeinden Stand 30.07. — siehe FAQ / Situation) gibt die ARS Gesundheitsempfehlungen für die Rückkehr heraus.",
+      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (12 gemeenten op 30/07 — zie FAQ / Situation) publiceert de ARS gezondheidsadviezen bij terugkeer."
     },
     "actionLabel": {
       "fr": "Lire les consignes ARS (retour / fumées)",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "La circulation est fortement perturbée dans les zones touchées. Consultez Inforoutes Gironde / la carte préfecture avant tout déplacement. Demandes de dérogation pour circuler en zone évacuée (raisons impérieuses) : pref-derogation@gironde.gouv.fr (FAQ préfecture du 29/07, 16h).",
-      "en": "Traffic is heavily disrupted in the affected areas. Check Gironde Inforoutes / the préfecture map before travelling. Access exemption requests for evacuated zones (compelling reasons): pref-derogation@gironde.gouv.fr (préfecture FAQ, 29/07 4pm).",
-      "es": "La circulación está muy perturbada en las zonas afectadas. Consulte Inforoutes Gironde / el mapa de la prefectura antes de desplazarse. Solicitudes de exención para circular en zona evacuada (razones imperiosas): pref-derogation@gironde.gouv.fr (FAQ prefectura 29/07, 16h).",
-      "de": "Der Verkehr in den betroffenen Gebieten ist stark gestört. Prüfen Sie vor der Fahrt Inforoutes Gironde / die Präfekturkarte. Anträge auf Ausnahme für Evakuierungszonen (zwingende Gründe): pref-derogation@gironde.gouv.fr (FAQ Präfektur 29.07., 16 Uhr).",
-      "nl": "Het verkeer is zwaar verstoord in de getroffen gebieden. Raadpleeg Inforoutes Gironde / de prefectuurkaart vóór vertrek. Ontheffingsaanvragen voor evacuatiezones (dwingende redenen): pref-derogation@gironde.gouv.fr (FAQ prefectuur 29/07, 16.00 uur)."
+      "fr": "30 juillet : réouverture de l'A63 dans les deux sens à partir de 14h (CP préfecture). La circulation reste perturbée ailleurs — consultez Inforoutes Gironde / la carte préfecture. Dérogations zone évacuée (raisons impérieuses) : pref-derogation@gironde.gouv.fr.",
+      "en": "30 July: A63 reopens both ways from 2pm (préfecture CP). Traffic remains disrupted elsewhere — check Gironde Inforoutes / the préfecture map. Evacuated-zone access exemptions (compelling reasons): pref-derogation@gironde.gouv.fr.",
+      "es": "30 de julio: reapertura de la A63 en ambos sentidos a partir de las 14h (CP prefectura). La circulación sigue perturbada en otros sitios — consulte Inforoutes Gironde / el mapa prefectural. Exenciones zona evacuada (razones imperiosas): pref-derogation@gironde.gouv.fr.",
+      "de": "30. Juli: A63 ab 14 Uhr in beiden Richtungen wieder offen (CP Präfektur). Verkehr bleibt anderswo gestört — Inforoutes Gironde / Präfekturkarte prüfen. Ausnahmen Evakuierungszone (zwingende Gründe): pref-derogation@gironde.gouv.fr.",
+      "nl": "30 juli: A63 vanaf 14.00 uur weer open in beide richtingen (CP prefectuur). Verkeer blijft elders verstoord — raadpleeg Inforoutes Gironde / de prefectuurkaart. Ontheffingen evacuatiezone (dwingende redenen): pref-derogation@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-dans-9-nouvelles-communes-et-reouverture-de-l-autoroute-A63",
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -165,6 +165,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   }
 ]

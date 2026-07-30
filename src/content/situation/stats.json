@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,14 +28,14 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (au 29/07, 15h30 — inchangée depuis 48 h)",
-      "en": "42,000 hectares (as of 29/07, 3:30pm — unchanged for 48 hours)",
-      "es": "42.000 hectáreas (a 29/07, 15:30 — sin cambio en 48 h)",
-      "de": "42.000 Hektar (Stand 29.07., 15:30 Uhr — seit 48 Std. unverändert)",
-      "nl": "42.000 hectare (op 29/07, 15.30 uur — ongewijzigd sinds 48 u)"
+      "fr": "42 000 hectares (au 29/07, 23h — inchangée depuis 48 h)",
+      "en": "42,000 hectares (as of 29/07, 11pm — unchanged for 48 hours)",
+      "es": "42.000 hectáreas (a 29/07, 23:00 — sin cambio en 48 h)",
+      "de": "42.000 Hektar (Stand 29.07., 23 Uhr — seit 48 Std. unverändert)",
+      "nl": "42.000 hectare (op 29/07, 23.00 uur — ongewijzigd sinds 48 u)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,14 +47,14 @@
       "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
     },
     "value": {
-      "fr": "Plus de 224 000 (dont ~60 000 autorisés à rentrer : Eysines, Mérignac, Le Haillan)",
-      "en": "More than 224,000 (incl. ~60,000 authorised to return: Eysines, Mérignac, Le Haillan)",
-      "es": "Más de 224.000 (incl. ~60.000 autorizados a volver: Eysines, Mérignac, Le Haillan)",
-      "de": "Mehr als 224.000 (davon ~60.000 mit Rückkehrerlaubnis: Eysines, Mérignac, Le Haillan)",
-      "nl": "Meer dan 224.000 (waarvan ~60.000 met terugkeertoestemming: Eysines, Mérignac, Le Haillan)"
+      "fr": "224 000 (point 23h) ; retours autorisés ~60 000 (28/07) + 84 000 (30/07)",
+      "en": "224,000 (11pm briefing); returns authorised ~60,000 (28/07) + 84,000 (30/07)",
+      "es": "224.000 (parte 23h); retornos autorizados ~60.000 (28/07) + 84.000 (30/07)",
+      "de": "224.000 (23-Uhr-Bericht); Rückkehr erlaubt ~60.000 (28.07.) + 84.000 (30.07.)",
+      "nl": "224.000 (bericht 23.00 uur); terugkeer toegestaan ~60.000 (28/07) + 84.000 (30/07)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-dans-9-nouvelles-communes-et-reouverture-de-l-autoroute-A63",
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -66,14 +66,14 @@
       "nl": "Ingezette hulpmiddelen"
     },
     "value": {
-      "fr": "2 700 sapeurs-pompiers, 24 moyens aériens, 1 500 militaires, 1 400 forces de sécurité intérieure",
-      "en": "2,700 firefighters, 24 aircraft, 1,500 soldiers, 1,400 internal security forces",
-      "es": "2.700 bomberos, 24 medios aéreos, 1.500 militares, 1.400 fuerzas de seguridad interior",
-      "de": "2.700 Feuerwehrleute, 24 Luftfahrzeuge, 1.500 Soldaten, 1.400 innere Sicherheitskräfte",
-      "nl": "2.700 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.400 interne veiligheidstroepen"
+      "fr": "3 300 sapeurs-pompiers, 24 moyens aériens, 1 500 militaires, 1 400 forces de sécurité intérieure",
+      "en": "3,300 firefighters, 24 aircraft, 1,500 soldiers, 1,400 internal security forces",
+      "es": "3.300 bomberos, 24 medios aéreos, 1.500 militares, 1.400 fuerzas de seguridad interior",
+      "de": "3.300 Feuerwehrleute, 24 Luftfahrzeuge, 1.500 Soldaten, 1.400 innere Sicherheitskräfte",
+      "nl": "3.300 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.400 interne veiligheidstroepen"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -85,13 +85,13 @@
       "nl": "Voorlopige balans (mensen en materieel)"
     },
     "value": {
-      "fr": "126 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
-      "en": "126 firefighters injured since the start; 240 homes destroyed",
-      "es": "126 bomberos heridos desde el inicio; 240 viviendas destruidas",
-      "de": "126 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
-      "nl": "126 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
+      "fr": "230 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
+      "en": "230 firefighters injured since the start; 240 homes destroyed",
+      "es": "230 bomberos heridos desde el inicio; 240 viviendas destruidas",
+      "de": "230 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
+      "nl": "230 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-29T21:45:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet",
+    "verifiedAt": "2026-07-30T11:40:00+02:00"
   }
 ]

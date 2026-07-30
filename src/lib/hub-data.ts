@@ -23,13 +23,12 @@ export async function loadHubData() {
   const areaEntries = killSwitch ? [] : await getCollection("areas");
   /** Newest first — matches préfecture evacuation timeline (reversed). */
   const areaTimelineOrder = [
+    "retour-9-communes-30-juillet",
     "haillan-eysines-merignac-extra-rocade",
+    "marcheprime-biganos",
     "lacanau-campings-tourisme",
-    "marcheprime-le-barp-biganos-mios-cestas",
-    "st-aubin-st-medard-martignas-st-jean-dillac",
-    "cap-ferret-peninsula-villages",
     "ares-andernos-audenge-lanton",
-    "sainte-helene-salaunes",
+    "cap-ferret-peninsula-villages",
     "le-porge-saumos-le-temple-lege-cap-ferret",
   ] as const;
   const areas = areaEntries

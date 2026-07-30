@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-30-morning-returns-a63",
+    "date": "2026-07-30T11:40:00+02:00",
+    "summary": {
+      "fr": "Point 23h (29/07) appliqué (3 300 pompiers, 230 blessés) ; retour immédiat dans 9 communes + A63 dès 14h (30/07) ; FAQ 10h : listes évacuation/retour mises à jour.",
+      "en": "Applied 11pm briefing (29/07: 3,300 firefighters, 230 injured); immediate return in 9 communes + A63 from 2pm (30/07); FAQ 10am: evacuation/return lists updated.",
+      "es": "Aplicado parte 23h (29/07: 3.300 bomberos, 230 heridos); retorno inmediato en 9 municipios + A63 desde las 14h (30/07); FAQ 10h: listas evacuación/retorno actualizadas.",
+      "de": "23-Uhr-Bericht (29.07.: 3.300 Feuerwehr, 230 Verletzte) übernommen; Sofortrückkehr in 9 Gemeinden + A63 ab 14 Uhr (30.07.); FAQ 10 Uhr: Evakuierungs-/Rückkehrlisten aktualisiert.",
+      "nl": "Bericht 23.00 uur (29/07: 3.300 brandweer, 230 gewonden) toegepast; onmiddellijke terugkeer in 9 gemeenten + A63 vanaf 14.00 uur (30/07); FAQ 10.00 uur: evacuatie-/terugkeerlijsten bijgewerkt."
+    }
+  },
+  {
     "id": "2026-07-29-evening-bm-reverify",
     "date": "2026-07-29T21:45:00+02:00",
     "summary": {
