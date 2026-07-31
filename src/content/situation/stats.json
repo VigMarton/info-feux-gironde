@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -35,7 +35,7 @@
       "nl": "42.000 hectare (op 30/07, 20.00 uur — ongewijzigd)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,14 +47,14 @@
       "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
     },
     "value": {
-      "fr": "224 000 évacués ; 144 000 autorisés à revenir (point 20h)",
-      "en": "224,000 evacuated; 144,000 authorised to return (8pm briefing)",
-      "es": "224.000 evacuados; 144.000 autorizados a volver (parte 20h)",
-      "de": "224.000 Evakuierte; 144.000 mit Rückkehrerlaubnis (20-Uhr-Bericht)",
-      "nl": "224.000 geëvacueerden; 144.000 met terugkeertoestemming (bericht 20.00 uur)"
+      "fr": "224 000 évacués ; 144 000 retours (30/07) + Biganos, Audenge (sauf Lubec/La Pointe), Lacanau tourisme (31/07 12h) — total non recalculé dans le CP",
+      "en": "224,000 evacuated; 144,000 returns (30/07) + Biganos, Audenge (except Lubec/La Pointe), Lacanau tourism (31/07 noon) — no new total in the CP",
+      "es": "224.000 evacuados; 144.000 retornos (30/07) + Biganos, Audenge (salvo Lubec/La Pointe), turismo Lacanau (31/07 12h) — total no recalculado en el CP",
+      "de": "224.000 Evakuierte; 144.000 Rückkehrer (30.07.) + Biganos, Audenge (außer Lubec/La Pointe), Lacanau-Tourismus (31.07. 12 Uhr) — keine neue Gesamtsumme im CP",
+      "nl": "224.000 geëvacueerden; 144.000 terugkeerders (30/07) + Biganos, Audenge (behalve Lubec/La Pointe), Lacanau-toerisme (31/07 12.00 uur) — geen nieuw totaal in het CP"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -73,7 +73,7 @@
       "nl": "3.300 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.250 FSI, 7 waterkanonnen, 6 motorpompen, 10 Centaure (gendarmerie)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -92,6 +92,6 @@
       "nl": "267 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   }
 ]

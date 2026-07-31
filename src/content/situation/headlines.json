@@ -1,5 +1,19 @@
 [
   {
+    "id": "retour-biganos-audenge-lacanau-31-juillet",
+    "text": {
+      "fr": "31 juillet (12h) : réintégration autorisée pour Biganos, Audenge (sauf Lubec et La Pointe) et les campings / tourisme de Lacanau. Itinéraire obligatoire A63 → A660 → échangeur 2 Biganos → RD3. RD1250 (Pierroton–Argentières) et RD106 (Saint-Jean-d'Illac–Lège) fermées ; accès Marcheprime interdit (pieds de feu). FAQ mise à jour ; feu toujours actif et non fixé.",
+      "en": "31 July (noon): return authorised for Biganos, Audenge (except Lubec and La Pointe) and Lacanau campsites / tourism. Mandatory route A63 → A660 → junction 2 Biganos → RD3. RD1250 (Pierroton–Argentières) and RD106 (Saint-Jean-d'Illac–Lège) closed; Marcheprime access forbidden (active fire feet). FAQ updated; fire still active and not fixed.",
+      "es": "31 de julio (12h): reintegración autorizada para Biganos, Audenge (salvo Lubec y La Pointe) y campings / turismo de Lacanau. Itinerario obligatorio A63 → A660 → intercambio 2 Biganos → RD3. RD1250 (Pierroton–Argentières) y RD106 (Saint-Jean-d'Illac–Lège) cerradas; acceso a Marcheprime prohibido (pies de fuego). FAQ actualizada; fuego aún activo y no fijado.",
+      "de": "31. Juli (12 Uhr): Rückkehr erlaubt für Biganos, Audenge (außer Lubec und La Pointe) und Camping/Tourismus Lacanau. Pflichtroute A63 → A660 → Anschlussstelle 2 Biganos → RD3. RD1250 (Pierroton–Argentières) und RD106 (Saint-Jean-d'Illac–Lège) gesperrt; Zugang Marcheprime verboten (aktive Brandfüße). FAQ aktualisiert; Feuer weiter aktiv und nicht fixiert.",
+      "nl": "31 juli (12.00 uur): terugkeer toegestaan voor Biganos, Audenge (behalve Lubec en La Pointe) en campings / toerisme Lacanau. Verplicht traject A63 → A660 → knooppunt 2 Biganos → RD3. RD1250 (Pierroton–Argentières) en RD106 (Saint-Jean-d'Illac–Lège) gesloten; toegang Marcheprime verboden (actieve brandhaarden). FAQ bijgewerkt; vuur nog actief en niet vastgezet."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
+    "occurredAt": "2026-07-31T12:00:00+02:00"
+  },
+  {
     "id": "point-situation-30-juillet-20h",
     "text": {
       "fr": "30 juillet (20h) : feu stabilisé — « première journée d'optimisme ». À 19h, deux points actifs (sud Lacanau ; Cap Ferret vers Claouey, inaccessible terre/mer). Surface 42 000 ha ; 144 000 retours autorisés ; 267 pompiers blessés ; 3 300 pompiers / 24 aériens / 1 250 FSI / 7 lanceurs / 6 motopompes / 10 centaures. A63 rouverte depuis 14h sauf bretelles 23. Attestations d'évacuation par commune sur le site préfecture.",
@@ -10,7 +24,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-30T20:00:00+02:00"
   },
   {
@@ -24,7 +38,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-30T16:00:00+02:00"
   },
   {
@@ -38,7 +52,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-30T10:00:00+02:00"
   },
   {
@@ -52,7 +66,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-29T23:00:00+02:00"
   },
   {
@@ -66,7 +80,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-29T15:30:00+02:00"
   },
   {
@@ -80,7 +94,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-29T15:25:00+02:00"
   },
   {
@@ -94,7 +108,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-29T15:20:00+02:00"
   },
   {
@@ -108,7 +122,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T22:30:00+02:00"
   },
   {
@@ -122,7 +136,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T22:25:00+02:00"
   },
   {
@@ -136,7 +150,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T22:20:00+02:00"
   },
   {
@@ -150,7 +164,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-30T10:00:00+02:00"
   },
   {
@@ -164,7 +178,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T13:00:00+02:00"
   },
   {
@@ -178,7 +192,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T12:55:00+02:00"
   },
   {
@@ -192,7 +206,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T11:00:00+02:00"
   },
   {
@@ -206,7 +220,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-28T08:00:00+02:00"
   },
   {
@@ -220,7 +234,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-27T22:30:00+02:00"
   },
   {
@@ -234,7 +248,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-27T16:00:00+02:00"
   },
   {
@@ -248,7 +262,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-27T14:00:00+02:00"
   },
   {
@@ -262,7 +276,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-27T09:00:00+02:00"
   },
   {
@@ -276,7 +290,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-27T08:00:00+02:00"
   },
   {
@@ -290,7 +304,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-26T22:00:00+02:00"
   },
   {
@@ -304,7 +318,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-26T13:00:00+02:00"
   },
   {
@@ -318,7 +332,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-25T21:00:00+02:00"
   },
   {
@@ -332,7 +346,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-07-31T10:15:00+02:00",
+    "verifiedAt": "2026-07-31T13:50:00+02:00",
     "occurredAt": "2026-07-25T12:00:00+02:00"
   }
 ]

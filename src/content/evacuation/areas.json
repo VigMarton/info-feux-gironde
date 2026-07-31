@@ -1,93 +1,106 @@
 [
   {
+    "id": "retour-biganos-audenge-lacanau-31-juillet",
+    "commune": "Biganos ; Audenge (sauf Lubec et La Pointe) ; Lacanau (campings / tourisme)",
+    "description": {
+      "fr": "31 juillet dès 12h : réintégration autorisée pour Biganos, Audenge (sauf Lubec et La Pointe — trop proches d'un foyer actif), et les campings, résidences de tourisme, villages vacances et parcs de loisirs de Lacanau. Itinéraire obligatoire depuis Bordeaux : A63 direction Bayonne, puis A660 direction Arcachon, sortie échangeur 2 (Biganos), RD3. Vigilance ; nouvelle évacuation possible.",
+      "en": "31 July from noon: return authorised for Biganos, Audenge (except Lubec and La Pointe — too close to an active fire), and Lacanau campsites, tourist residences, holiday villages and leisure parks. Mandatory route from Bordeaux: A63 toward Bayonne, then A660 toward Arcachon, exit junction 2 (Biganos), RD3. Stay vigilant; re-evacuation possible.",
+      "es": "31 de julio desde las 12h: reintegración autorizada para Biganos, Audenge (salvo Lubec y La Pointe — demasiado cerca de un foco activo) y campings, residencias turísticas, pueblos de vacaciones y parques de ocio de Lacanau. Itinerario obligatorio desde Burdeos: A63 hacia Bayona, luego A660 hacia Arcachon, salida intercambio 2 (Biganos), RD3. Vigilancia; posible nueva evacuación.",
+      "de": "31. Juli ab 12 Uhr: Rückkehr erlaubt für Biganos, Audenge (außer Lubec und La Pointe — zu nah an aktivem Herd) sowie Campingplätze, Ferienwohnanlagen, Feriendörfer und Freizeitparks von Lacanau. Pflichtroute ab Bordeaux: A63 Richtung Bayonne, dann A660 Richtung Arcachon, Ausfahrt Anschlussstelle 2 (Biganos), RD3. Wachsamkeit; erneute Evakuierung möglich.",
+      "nl": "31 juli vanaf 12.00 uur: terugkeer toegestaan voor Biganos, Audenge (behalve Lubec en La Pointe — te dicht bij een actieve haard) en campings, toeristische residences, vakantiedorpen en pretparken van Lacanau. Verplicht traject vanaf Bordeaux: A63 richting Bayonne, dan A660 richting Arcachon, afrit knooppunt 2 (Biganos), RD3. Waakzaamheid; her-evacuatie mogelijk."
+    },
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
+  },
+  {
     "id": "retour-9-communes-30-juillet",
     "commune": "Mios, Le Barp, Cestas, Saint-Jean-d'Illac, Martignas-sur-Jalle, Saint-Médard-en-Jalles, Saint-Aubin-de-Médoc, Salaunes, Sainte-Hélène",
     "description": {
-      "fr": "30 juillet : réintégration immédiate autorisée pour ces 9 communes (84 000 habitants), en plus d'Eysines, Mérignac et Le Haillan (depuis le 28/07). Rester vigilants, respecter les zones interdites, téléphone allumé, se préparer à une éventuelle nouvelle évacuation.",
-      "en": "30 July: immediate return authorised for these 9 communes (84,000 residents), in addition to Eysines, Mérignac and Le Haillan (since 28/07). Stay vigilant, respect restricted zones, keep phones on, and be ready for a possible new evacuation.",
-      "es": "30 de julio: reintegración inmediata autorizada para estos 9 municipios (84.000 habitantes), además de Eysines, Mérignac y Le Haillan (desde el 28/07). Mantener la vigilancia, respetar zonas prohibidas, teléfono encendido y prepararse ante una posible nueva evacuación.",
-      "de": "30. Juli: Sofortige Rückkehr für diese 9 Gemeinden erlaubt (84.000 Einwohner), zusätzlich zu Eysines, Mérignac und Le Haillan (seit 28.07.). Wachsam bleiben, Sperrzonen beachten, Telefon anlassen und auf mögliche erneute Evakuierung vorbereitet sein.",
-      "nl": "30 juli: onmiddellijke terugkeer toegestaan voor deze 9 gemeenten (84.000 inwoners), naast Eysines, Mérignac en Le Haillan (sinds 28/07). Blijf waakzaam, respecteer verboden zones, houd de telefoon aan en bereid u voor op een mogelijke nieuwe evacuatie."
+      "fr": "30 juillet : réintégration immédiate autorisée pour ces 9 communes, en plus d'Eysines, Mérignac et Le Haillan (depuis le 28/07). Rester vigilants, respecter les zones interdites, téléphone allumé, se préparer à une éventuelle nouvelle évacuation.",
+      "en": "30 July: immediate return authorised for these 9 communes, in addition to Eysines, Mérignac and Le Haillan (since 28/07). Stay vigilant, respect restricted zones, keep phones on, and be ready for a possible new evacuation.",
+      "es": "30 de julio: reintegración inmediata autorizada para estos 9 municipios, además de Eysines, Mérignac y Le Haillan (desde el 28/07). Mantener la vigilancia, respetar zonas prohibidas, teléfono encendido y prepararse ante una posible nueva evacuación.",
+      "de": "30. Juli: Sofortige Rückkehr für diese 9 Gemeinden erlaubt, zusätzlich zu Eysines, Mérignac und Le Haillan (seit 28.07.). Wachsam bleiben, Sperrzonen beachten, Telefon anlassen und auf mögliche erneute Evakuierung vorbereitet sein.",
+      "nl": "30 juli: onmiddellijke terugkeer toegestaan voor deze 9 gemeenten, naast Eysines, Mérignac en Le Haillan (sinds 28/07). Blijf waakzaam, respecteer verboden zones, houd de telefoon aan en bereid u voor op een mogelijke nieuwe evacuatie."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-dans-9-nouvelles-communes-et-reouverture-de-l-autoroute-A63",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "haillan-eysines-merignac-extra-rocade",
     "commune": "Le Haillan, Eysines (extra-rocade), Mérignac (extra-rocade)",
     "description": {
-      "fr": "Évacués le 25 juillet. Retour autorisé depuis le 28 juillet (FAQ 30/07, 10h : Eysines et Mérignac en extra-rocade ; Le Haillan). Rester vigilants et se préparer à une éventuelle nouvelle évacuation.",
-      "en": "Evacuated on 25 July. Return authorised since 28 July (FAQ 30/07 10am: Eysines and Mérignac outside the ring road; Le Haillan). Stay vigilant and be ready for a possible new evacuation.",
-      "es": "Evacuados el 25 de julio. Retorno autorizado desde el 28 de julio (FAQ 30/07, 10h: Eysines y Mérignac fuera de la circunvalación; Le Haillan). Mantener la vigilancia y prepararse ante una posible nueva evacuación.",
-      "de": "Am 25. Juli evakuiert. Rückkehr seit 28. Juli erlaubt (FAQ 30.07., 10 Uhr: Eysines und Mérignac außerhalb des Rings; Le Haillan). Wachsam bleiben und auf mögliche erneute Evakuierung vorbereitet sein.",
-      "nl": "Geëvacueerd op 25 juli. Terugkeer toegestaan sinds 28 juli (FAQ 30/07, 10.00 uur: Eysines en Mérignac buiten de ringweg; Le Haillan). Blijf waakzaam en bereid u voor op een mogelijke nieuwe evacuatie."
+      "fr": "Évacués le 25 juillet. Retour autorisé depuis le 28 juillet (FAQ 31/07, 12h : Eysines et Mérignac en extra-rocade ; Le Haillan). Rester vigilants et se préparer à une éventuelle nouvelle évacuation.",
+      "en": "Evacuated on 25 July. Return authorised since 28 July (FAQ 31/07 noon: Eysines and Mérignac outside the ring road; Le Haillan). Stay vigilant and be ready for a possible new evacuation.",
+      "es": "Evacuados el 25 de julio. Retorno autorizado desde el 28 de julio (FAQ 31/07, 12h: Eysines y Mérignac fuera de la circunvalación; Le Haillan). Mantener la vigilancia y prepararse ante una posible nueva evacuación.",
+      "de": "Am 25. Juli evakuiert. Rückkehr seit 28. Juli erlaubt (FAQ 31.07., 12 Uhr: Eysines und Mérignac außerhalb des Rings; Le Haillan). Wachsam bleiben und auf mögliche erneute Evakuierung vorbereitet sein.",
+      "nl": "Geëvacueerd op 25 juli. Terugkeer toegestaan sinds 28 juli (FAQ 31/07, 12.00 uur: Eysines en Mérignac buiten de ringweg; Le Haillan). Blijf waakzaam en bereid u voor op een mogelijke nieuwe evacuatie."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
-    "id": "marcheprime-biganos",
-    "commune": "Marcheprime, Biganos",
+    "id": "marcheprime",
+    "commune": "Marcheprime",
     "description": {
-      "fr": "Encore listées parmi les communes en évacuation préventive (FAQ préfecture du 30/07, 10h). Le Barp, Mios et Cestas (évacués avec elles le 25/07) ont un retour autorisé depuis le 30/07. Retour uniquement si la préfecture l'autorise explicitement.",
-      "en": "Still listed among communes under preventive evacuation (préfecture FAQ, 30/07 10am). Le Barp, Mios and Cestas (evacuated with them on 25/07) have return authorised since 30/07. Return only if the préfecture explicitly authorises it.",
-      "es": "Aún listadas entre los municipios en evacuación preventiva (FAQ prefectura 30/07, 10h). Le Barp, Mios y Cestas (evacuados con ellas el 25/07) tienen retorno autorizado desde el 30/07. Retorno solo si la prefectura lo autoriza explícitamente.",
-      "de": "Weiterhin unter vorsorglicher Evakuierung geführt (FAQ Präfektur 30.07., 10 Uhr). Le Barp, Mios und Cestas (mit ihnen am 25.07. evakuiert) dürfen seit 30.07. zurückkehren. Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
-      "nl": "Nog vermeld onder preventieve evacuatie (FAQ prefectuur 30/07, 10.00 uur). Le Barp, Mios en Cestas (met hen geëvacueerd op 25/07) mogen sinds 30/07 terugkeren. Terugkeer alleen na expliciete toestemming van de prefectuur."
+      "fr": "Encore en évacuation préventive (FAQ 31/07, 12h). Accès à la commune interdit — pieds de feu encore actifs (CP 31/07). Retour uniquement si la préfecture l'autorise explicitement.",
+      "en": "Still under preventive evacuation (FAQ 31/07 noon). Access to the commune forbidden — active fire feet remain (CP 31/07). Return only if the préfecture explicitly authorises it.",
+      "es": "Aún en evacuación preventiva (FAQ 31/07, 12h). Acceso a la comuna prohibido — pies de fuego aún activos (CP 31/07). Retorno solo si la prefectura lo autoriza explícitamente.",
+      "de": "Weiterhin unter vorsorglicher Evakuierung (FAQ 31.07., 12 Uhr). Zugang zur Gemeinde verboten — noch aktive Brandfüße (CP 31.07.). Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
+      "nl": "Nog onder preventieve evacuatie (FAQ 31/07, 12.00 uur). Toegang tot de gemeente verboden — nog actieve brandhaarden (CP 31/07). Terugkeer alleen na expliciete toestemming van de prefectuur."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
-    "id": "lacanau-campings-tourisme",
-    "commune": "Lacanau (campings, résidences de tourisme, villages vacances, parcs de loisirs)",
+    "id": "audenge-lubec-pointe",
+    "commune": "Audenge — quartiers Lubec et La Pointe",
     "description": {
-      "fr": "Évacuation ordonnée le 28 juillet pour les campings, résidences de tourisme, villages vacances et parcs de loisirs de Lacanau Océan et des deux rives (~4 000 personnes) — pas toute la population communale. Toujours listée en évacuation (FAQ 30/07, 10h).",
-      "en": "Evacuation ordered on 28 July for campsites, tourist residences, holiday villages and leisure parks in Lacanau Océan and both shores (~4,000 people) — not the whole commune. Still listed as evacuated (FAQ 30/07 10am).",
-      "es": "Evacuación ordenada el 28 de julio para campings, residencias turísticas, pueblos de vacaciones y parques de ocio de Lacanau Océan y ambas orillas (~4.000 personas) — no toda la población municipal. Aún listada en evacuación (FAQ 30/07, 10h).",
-      "de": "Am 28. Juli Evakuierung von Campingplätzen, Ferienwohnanlagen, Feriendörfern und Freizeitparks in Lacanau Océan und an beiden Ufern (~4.000 Personen) — nicht die gesamte Gemeinde. Weiterhin als evakuiert geführt (FAQ 30.07., 10 Uhr).",
-      "nl": "Op 28 juli evacuatie bevolen voor campings, toeristische residences, vakantiedorpen en pretparken in Lacanau Océan en beide oevers (~4.000 personen) — niet de hele gemeente. Nog vermeld als geëvacueerd (FAQ 30/07, 10.00 uur)."
+      "fr": "Ces deux quartiers restent interdits d'accès / en évacuation (FAQ et CP 31/07, 12h) — trop proches d'un foyer encore actif. Le reste d'Audenge a un retour autorisé depuis 12h.",
+      "en": "These two districts remain access-forbidden / evacuated (FAQ and CP 31/07 noon) — too close to an still-active fire. The rest of Audenge has return authorised since noon.",
+      "es": "Estos dos barrios siguen con acceso prohibido / en evacuación (FAQ y CP 31/07, 12h) — demasiado cerca de un foco aún activo. El resto de Audenge tiene retorno autorizado desde las 12h.",
+      "de": "Diese zwei Viertel bleiben zugangsgesperrt / evakuiert (FAQ und CP 31.07., 12 Uhr) — zu nah an noch aktivem Herd. Der Rest von Audenge darf seit 12 Uhr zurückkehren.",
+      "nl": "Deze twee wijken blijven toegangsverboden / geëvacueerd (FAQ en CP 31/07, 12.00 uur) — te dicht bij een nog actieve haard. De rest van Audenge mag sinds 12.00 uur terugkeren."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
-    "id": "ares-andernos-audenge-lanton",
-    "commune": "Arès, Andernos-les-Bains, Audenge, Lanton",
+    "id": "ares-andernos-lanton",
+    "commune": "Arès, Andernos-les-Bains, Lanton",
     "description": {
-      "fr": "Communes du bassin d'Arcachon encore listées en évacuation préventive (FAQ préfecture du 30/07, 10h). Retour uniquement si la préfecture l'autorise explicitement.",
-      "en": "Arcachon basin communes still listed under preventive evacuation (préfecture FAQ, 30/07 10am). Return only if the préfecture explicitly authorises it.",
-      "es": "Municipios de la bahía de Arcachón aún listados en evacuación preventiva (FAQ prefectura 30/07, 10h). Retorno solo si la prefectura lo autoriza explícitamente.",
-      "de": "Gemeinden am Becken von Arcachon weiterhin unter vorsorglicher Evakuierung (FAQ Präfektur 30.07., 10 Uhr). Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
-      "nl": "Gemeenten van het Bassin d'Arcachon nog vermeld onder preventieve evacuatie (FAQ prefectuur 30/07, 10.00 uur). Terugkeer alleen na expliciete toestemming van de prefectuur."
+      "fr": "Encore listées en évacuation préventive (FAQ préfecture du 31/07, 12h). Retour uniquement si la préfecture l'autorise explicitement.",
+      "en": "Still listed under preventive evacuation (préfecture FAQ, 31/07 noon). Return only if the préfecture explicitly authorises it.",
+      "es": "Aún listadas en evacuación preventiva (FAQ prefectura 31/07, 12h). Retorno solo si la prefectura lo autoriza explícitamente.",
+      "de": "Weiterhin unter vorsorglicher Evakuierung (FAQ Präfektur 31.07., 12 Uhr). Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
+      "nl": "Nog vermeld onder preventieve evacuatie (FAQ prefectuur 31/07, 12.00 uur). Terugkeer alleen na expliciete toestemming van de prefectuur."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "le-porge-saumos-le-temple-lege-cap-ferret",
     "commune": "Le Porge, Saumos, Le Temple, Lège-Cap-Ferret",
     "description": {
-      "fr": "Encore listées en évacuation préventive (FAQ préfecture du 30/07, 10h). Retour uniquement si la préfecture l'autorise explicitement.",
-      "en": "Still listed under preventive evacuation (préfecture FAQ, 30/07 10am). Return only if the préfecture explicitly authorises it.",
-      "es": "Aún listadas en evacuación preventiva (FAQ prefectura 30/07, 10h). Retorno solo si la prefectura lo autoriza explícitamente.",
-      "de": "Weiterhin unter vorsorglicher Evakuierung (FAQ Präfektur 30.07., 10 Uhr). Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
-      "nl": "Nog vermeld onder preventieve evacuatie (FAQ prefectuur 30/07, 10.00 uur). Terugkeer alleen na expliciete toestemming van de prefectuur."
+      "fr": "Encore listées en évacuation préventive (FAQ préfecture du 31/07, 12h). Retour uniquement si la préfecture l'autorise explicitement.",
+      "en": "Still listed under preventive evacuation (préfecture FAQ, 31/07 noon). Return only if the préfecture explicitly authorises it.",
+      "es": "Aún listadas en evacuación preventiva (FAQ prefectura 31/07, 12h). Retorno solo si la prefectura lo autoriza explícitamente.",
+      "de": "Weiterhin unter vorsorglicher Evakuierung (FAQ Präfektur 31.07., 12 Uhr). Rückkehr nur nach ausdrücklicher Präfekturgenehmigung.",
+      "nl": "Nog vermeld onder preventieve evacuatie (FAQ prefectuur 31/07, 12.00 uur). Terugkeer alleen na expliciete toestemming van de prefectuur."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "cap-ferret-peninsula-villages",
     "commune": "Claouey, Le Four, Les Jacquets, Petit Piquey, Grand Piquey (presqu'île du Cap-Ferret)",
     "description": {
-      "fr": "Évacués le 24 juillet (FR-Alert). Lège-Cap-Ferret reste listée en évacuation (FAQ 30/07, 10h) — pas de retour autorisé pour ces villages. Retour uniquement sur autorisation préfectorale explicite.",
-      "en": "Evacuated on 24 July (FR-Alert). Lège-Cap-Ferret remains listed as evacuated (FAQ 30/07 10am) — no authorised return for these villages. Return only with explicit préfecture authorisation.",
-      "es": "Evacuados el 24 de julio (FR-Alert). Lège-Cap-Ferret sigue listada en evacuación (FAQ 30/07, 10h) — sin retorno autorizado para estos pueblos. Retorno solo con autorización prefectural explícita.",
-      "de": "Am 24. Juli evakuiert (FR-Alert). Lège-Cap-Ferret weiterhin als evakuiert geführt (FAQ 30.07., 10 Uhr) — keine Rückkehrerlaubnis für diese Dörfer. Rückkehr nur mit ausdrücklicher Präfekturgenehmigung.",
-      "nl": "Geëvacueerd op 24 juli (FR-Alert). Lège-Cap-Ferret blijft vermeld als geëvacueerd (FAQ 30/07, 10.00 uur) — geen toegestane terugkeer voor deze dorpen. Terugkeer alleen met expliciete toestemming van de prefectuur."
+      "fr": "Évacués le 24 juillet (FR-Alert). Lège-Cap-Ferret reste listée en évacuation (FAQ 31/07, 12h) — pas de retour autorisé pour ces villages. Retour uniquement sur autorisation préfectorale explicite.",
+      "en": "Evacuated on 24 July (FR-Alert). Lège-Cap-Ferret remains listed as evacuated (FAQ 31/07 noon) — no authorised return for these villages. Return only with explicit préfecture authorisation.",
+      "es": "Evacuados el 24 de julio (FR-Alert). Lège-Cap-Ferret sigue listada en evacuación (FAQ 31/07, 12h) — sin retorno autorizado para estos pueblos. Retorno solo con autorización prefectural explícita.",
+      "de": "Am 24. Juli evakuiert (FR-Alert). Lège-Cap-Ferret weiterhin als evakuiert geführt (FAQ 31.07., 12 Uhr) — keine Rückkehrerlaubnis für diese Dörfer. Rückkehr nur mit ausdrücklicher Präfekturgenehmigung.",
+      "nl": "Geëvacueerd op 24 juli (FR-Alert). Lège-Cap-Ferret blijft vermeld als geëvacueerd (FAQ 31/07, 12.00 uur) — geen toegestane terugkeer voor deze dorpen. Terugkeer alleen met expliciete toestemming van de prefectuur."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   }
 ]

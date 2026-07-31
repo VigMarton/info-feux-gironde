@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -38,11 +38,11 @@
       "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
     },
     "description": {
-      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire. Pour les personnes autorisées à rentrer (12 communes au 30/07 — voir FAQ / Situation), l'ARS publie des consignes sanitaires au retour.",
-      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and coordinates medical evacuation. For people authorised to return (12 communes as of 30/07 — see FAQ / Situation), the ARS publishes health guidance for returning home.",
-      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria y coordina la evacuación sanitaria. Para quienes pueden volver (12 municipios a 30/07 — ver FAQ / Situation), la ARS publica consignas sanitarias al regreso.",
-      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (12 Gemeinden Stand 30.07. — siehe FAQ / Situation) gibt die ARS Gesundheitsempfehlungen für die Rückkehr heraus.",
-      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (12 gemeenten op 30/07 — zie FAQ / Situation) publiceert de ARS gezondheidsadviezen bij terugkeer."
+      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire. Pour les personnes autorisées à rentrer (voir FAQ / Situation — mises à jour 31/07 12h), l'ARS publie des consignes sanitaires au retour.",
+      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and coordinates medical evacuation. For people authorised to return (see FAQ / Situation — updated 31/07 noon), the ARS publishes health guidance for returning home.",
+      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria y coordina la evacuación sanitaria. Para quienes pueden volver (ver FAQ / Situation — actualizado 31/07 12h), la ARS publica consignas sanitarias al regreso.",
+      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (siehe FAQ / Situation — Stand 31.07. 12 Uhr) gibt die ARS Gesundheitsempfehlungen für die Rückkehr heraus.",
+      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (zie FAQ / Situation — bijgewerkt 31/07 12.00 uur) publiceert de ARS gezondheidsadviezen bij terugkeer."
     },
     "actionLabel": {
       "fr": "Lire les consignes ARS (retour / fumées)",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "30 juillet (20h) : A63 rouverte dans les deux sens depuis 14h, sauf les bretelles 23. Autres restrictions possibles — consultez Inforoutes / la carte préfecture. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
-      "en": "30 July (8pm): A63 open both ways since 2pm, except junction 23 ramps. Other restrictions may apply — check Inforoutes / the préfecture map. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
-      "es": "30 de julio (20h): A63 abierta en ambos sentidos desde las 14h, salvo las rampas 23. Otras restricciones posibles — consulte Inforoutes / el mapa prefectural. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
-      "de": "30. Juli (20 Uhr): A63 seit 14 Uhr in beiden Richtungen offen, außer Rampen 23. Weitere Einschränkungen möglich — Inforoutes / Präfekturkarte prüfen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
-      "nl": "30 juli (20.00 uur): A63 sinds 14.00 uur open in beide richtingen, behalve afritten 23. Andere beperkingen mogelijk — raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
+      "fr": "31 juillet : retour Biganos/Audenge/Lacanau tourisme — itinéraire obligatoire A63 → A660 → échangeur 2 → RD3. A63 ouverte (sauf bretelles 23 au point 20h). RD1250 Pierroton–Argentières et RD106 Saint-Jean-d'Illac–Lège fermées ; accès Marcheprime interdit. Consultez Inforoutes / la carte préfecture. Dérogations : pref-derogation@gironde.gouv.fr.",
+      "en": "31 July: return to Biganos/Audenge/Lacanau tourism — mandatory route A63 → A660 → junction 2 → RD3. A63 open (except junction 23 ramps per 8pm briefing). RD1250 Pierroton–Argentières and RD106 Saint-Jean-d'Illac–Lège closed; Marcheprime access forbidden. Check Inforoutes / the préfecture map. Exemptions: pref-derogation@gironde.gouv.fr.",
+      "es": "31 de julio: retorno Biganos/Audenge/turismo Lacanau — itinerario obligatorio A63 → A660 → intercambio 2 → RD3. A63 abierta (salvo rampas 23 según parte 20h). RD1250 Pierroton–Argentières y RD106 Saint-Jean-d'Illac–Lège cerradas; acceso Marcheprime prohibido. Consulte Inforoutes / el mapa prefectural. Exenciones: pref-derogation@gironde.gouv.fr.",
+      "de": "31. Juli: Rückkehr Biganos/Audenge/Lacanau-Tourismus — Pflichtroute A63 → A660 → Anschlussstelle 2 → RD3. A63 offen (außer Rampen 23 laut 20-Uhr-Bericht). RD1250 Pierroton–Argentières und RD106 Saint-Jean-d'Illac–Lège gesperrt; Zugang Marcheprime verboten. Inforoutes / Präfekturkarte prüfen. Ausnahmen: pref-derogation@gironde.gouv.fr.",
+      "nl": "31 juli: terugkeer Biganos/Audenge/Lacanau-toerisme — verplicht traject A63 → A660 → knooppunt 2 → RD3. A63 open (behalve afritten 23 volgens bericht 20.00 uur). RD1250 Pierroton–Argentières en RD106 Saint-Jean-d'Illac–Lège gesloten; toegang Marcheprime verboden. Raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen: pref-derogation@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -165,7 +165,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -193,6 +193,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-31T10:15:00+02:00"
+    "verifiedAt": "2026-07-31T13:50:00+02:00"
   }
 ]
