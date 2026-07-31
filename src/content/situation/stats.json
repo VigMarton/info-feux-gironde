@@ -16,7 +16,7 @@
       "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-30T19:30:00+02:00"
+    "verifiedAt": "2026-07-31T10:15:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,14 +28,14 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (au 30/07, 16h — inchangée)",
-      "en": "42,000 hectares (as of 30/07, 4pm — unchanged)",
-      "es": "42.000 hectáreas (a 30/07, 16:00 — sin cambio)",
-      "de": "42.000 Hektar (Stand 30.07., 16 Uhr — unverändert)",
-      "nl": "42.000 hectare (op 30/07, 16.00 uur — ongewijzigd)"
+      "fr": "42 000 hectares (au 30/07, 20h — inchangée)",
+      "en": "42,000 hectares (as of 30/07, 8pm — unchanged)",
+      "es": "42.000 hectáreas (a 30/07, 20:00 — sin cambio)",
+      "de": "42.000 Hektar (Stand 30.07., 20 Uhr — unverändert)",
+      "nl": "42.000 hectare (op 30/07, 20.00 uur — ongewijzigd)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-07-30T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
+    "verifiedAt": "2026-07-31T10:15:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,14 +47,14 @@
       "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
     },
     "value": {
-      "fr": "224 000 évacués ; 144 000 autorisés à revenir (point 16h)",
-      "en": "224,000 evacuated; 144,000 authorised to return (4pm briefing)",
-      "es": "224.000 evacuados; 144.000 autorizados a volver (parte 16h)",
-      "de": "224.000 Evakuierte; 144.000 mit Rückkehrerlaubnis (16-Uhr-Bericht)",
-      "nl": "224.000 geëvacueerden; 144.000 met terugkeertoestemming (bericht 16.00 uur)"
+      "fr": "224 000 évacués ; 144 000 autorisés à revenir (point 20h)",
+      "en": "224,000 evacuated; 144,000 authorised to return (8pm briefing)",
+      "es": "224.000 evacuados; 144.000 autorizados a volver (parte 20h)",
+      "de": "224.000 Evakuierte; 144.000 mit Rückkehrerlaubnis (20-Uhr-Bericht)",
+      "nl": "224.000 geëvacueerden; 144.000 met terugkeertoestemming (bericht 20.00 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-07-30T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
+    "verifiedAt": "2026-07-31T10:15:00+02:00"
   },
   {
     "id": "moyens-mobilises",
@@ -66,14 +66,14 @@
       "nl": "Ingezette hulpmiddelen"
     },
     "value": {
-      "fr": "3 300 sapeurs-pompiers, 24 moyens aériens, 1 500 militaires, 1 250 forces de sécurité intérieure, 7 engins lanceurs d'eau",
-      "en": "3,300 firefighters, 24 aircraft, 1,500 soldiers, 1,250 internal security forces, 7 water-throwing vehicles",
-      "es": "3.300 bomberos, 24 medios aéreos, 1.500 militares, 1.250 fuerzas de seguridad interior, 7 lanzadores de agua",
-      "de": "3.300 Feuerwehrleute, 24 Luftfahrzeuge, 1.500 Soldaten, 1.250 innere Sicherheitskräfte, 7 Wasserwerfer",
-      "nl": "3.300 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.250 interne veiligheidstroepen, 7 waterkanonnen"
+      "fr": "3 300 sapeurs-pompiers, 24 moyens aériens, 1 500 militaires, 1 250 FSI, 7 lanceurs d'eau, 6 motopompes, 10 centaures (gendarmerie)",
+      "en": "3,300 firefighters, 24 aircraft, 1,500 soldiers, 1,250 FSI, 7 water-throwers, 6 motor pumps, 10 gendarmerie Centaure vehicles",
+      "es": "3.300 bomberos, 24 medios aéreos, 1.500 militares, 1.250 FSI, 7 lanzadores de agua, 6 motobombas, 10 Centaure (gendarmería)",
+      "de": "3.300 Feuerwehrleute, 24 Luftfahrzeuge, 1.500 Soldaten, 1.250 FSI, 7 Wasserwerfer, 6 Motopumpen, 10 Centaure (Gendarmerie)",
+      "nl": "3.300 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.250 FSI, 7 waterkanonnen, 6 motorpompen, 10 Centaure (gendarmerie)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-07-30T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
+    "verifiedAt": "2026-07-31T10:15:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -85,13 +85,13 @@
       "nl": "Voorlopige balans (mensen en materieel)"
     },
     "value": {
-      "fr": "231 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
-      "en": "231 firefighters injured since the start; 240 homes destroyed",
-      "es": "231 bomberos heridos desde el inicio; 240 viviendas destruidas",
-      "de": "231 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
-      "nl": "231 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
+      "fr": "267 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
+      "en": "267 firefighters injured since the start; 240 homes destroyed",
+      "es": "267 bomberos heridos desde el inicio; 240 viviendas destruidas",
+      "de": "267 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
+      "nl": "267 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-07-30T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
+    "verifiedAt": "2026-07-31T10:15:00+02:00"
   }
 ]

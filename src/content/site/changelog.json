@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-07-31-morning-point-20h",
+    "date": "2026-07-31T10:15:00+02:00",
+    "summary": {
+      "fr": "Point préfecture 20h (30/07) : feu stabilisé ; 267 blessés ; foyers sud Lacanau / Cap Ferret ; A63 sauf bretelles 23 ; FAQ 20h inchangée sur les listes ; attestations d'évacuation en ligne.",
+      "en": "Préfecture 8pm briefing (30/07): fire stabilised; 267 injured; spots south Lacanau / Cap Ferret; A63 except junction 23 ramps; FAQ 8pm lists unchanged; online evacuation attestations.",
+      "es": "Parte 20h prefectura (30/07): fuego estabilizado; 267 heridos; focos sur Lacanau / Cap Ferret; A63 salvo rampas 23; FAQ 20h listas sin cambio; atestados de evacuación en línea.",
+      "de": "Präfektur-Lagebericht 20 Uhr (30.07.): Feuer stabilisiert; 267 Verletzte; Herde Süden Lacanau / Cap Ferret; A63 außer Rampen 23; FAQ 20 Uhr Listen unverändert; Online-Evakuierungsbescheinigungen.",
+      "nl": "Prefectuurbericht 20.00 uur (30/07): vuur gestabiliseerd; 267 gewonden; haarden zuid Lacanau / Cap Ferret; A63 behalve afritten 23; FAQ 20.00 uur lijsten ongewijzigd; online evacuatieattesten."
+    }
+  },
+  {
     "id": "2026-07-30-afternoon-point-16h",
     "date": "2026-07-30T19:30:00+02:00",
     "summary": {
