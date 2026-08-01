@@ -10,22 +10,22 @@
       "nl": "Huisdieren"
     },
     "description": {
-      "fr": "Un espace dédié aux animaux existe au Parc des Expositions de Bordeaux-Lac. Pour besoins de prise en charge non satisfaits ou offres d'aide (animaux de compagnie / élevage), la préfecture indique : incendie33.animaux@gironde.gouv.fr.",
-      "en": "A dedicated pet area exists at the Bordeaux-Lac Exhibition Centre. For unmet care needs or offers of help (pets / livestock), the préfecture gives: incendie33.animaux@gironde.gouv.fr.",
-      "es": "Hay un espacio dedicado a animales en el Parque de Exposiciones de Bordeaux-Lac. Para necesidades de acogida no cubiertas u ofertas de ayuda (compañía / ganado), la prefectura indica: incendie33.animaux@gironde.gouv.fr.",
-      "de": "Im Ausstellungszentrum Bordeaux-Lac gibt es einen eigenen Tierbereich. Für ungedeckten Betreuungsbedarf oder Hilfeangebote (Haustiere / Nutztiere) nennt die Präfektur: incendie33.animaux@gironde.gouv.fr.",
-      "nl": "Er is een speciale ruimte voor dieren in het beursgebouw van Bordeaux-Lac. Voor ongedekte opvangbehoeften of hulpaanbiedingen (huisdieren / vee) geeft de prefectuur: incendie33.animaux@gironde.gouv.fr."
+      "fr": "Le Parc des Expositions de Bordeaux-Lac est fermé depuis le soir du 31/07. Pour besoins de prise en charge non satisfaits ou offres d'aide (animaux de compagnie / élevage) : incendie33.animaux@gironde.gouv.fr.",
+      "en": "The Bordeaux-Lac Exhibition Centre has been closed since the evening of 31/07. For unmet care needs or offers of help (pets / livestock): incendie33.animaux@gironde.gouv.fr.",
+      "es": "El Parque de Exposiciones de Bordeaux-Lac está cerrado desde la noche del 31/07. Para necesidades de acogida no cubiertas u ofertas de ayuda (compañía / ganado): incendie33.animaux@gironde.gouv.fr.",
+      "de": "Das Ausstellungszentrum Bordeaux-Lac ist seit dem Abend des 31.07. geschlossen. Für ungedeckten Betreuungsbedarf oder Hilfeangebote (Haustiere / Nutztiere): incendie33.animaux@gironde.gouv.fr.",
+      "nl": "Het beursgebouw Bordeaux-Lac is gesloten sinds de avond van 31/07. Voor ongedekte opvangbehoeften of hulpaanbiedingen (huisdieren / vee): incendie33.animaux@gironde.gouv.fr."
     },
     "actionLabel": {
-      "fr": "Voir les informations d'accueil",
-      "en": "See reception information",
-      "es": "Ver la información de acogida",
-      "de": "Informationen zur Aufnahme ansehen",
-      "nl": "Bekijk de opvanginformatie"
+      "fr": "Voir la page Bordeaux Métropole",
+      "en": "See the Bordeaux Métropole page",
+      "es": "Ver la página de Bordeaux Métropole",
+      "de": "Seite von Bordeaux Métropole ansehen",
+      "nl": "Bekijk de pagina van Bordeaux Métropole"
     },
-    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "31 juillet : retour Biganos/Audenge/Lacanau tourisme — itinéraire obligatoire A63 → A660 → échangeur 2 → RD3. A63 ouverte (sauf bretelles 23 au point 20h). RD1250 Pierroton–Argentières et RD106 Saint-Jean-d'Illac–Lège fermées ; accès Marcheprime interdit. Consultez Inforoutes / la carte préfecture. Dérogations : pref-derogation@gironde.gouv.fr.",
-      "en": "31 July: return to Biganos/Audenge/Lacanau tourism — mandatory route A63 → A660 → junction 2 → RD3. A63 open (except junction 23 ramps per 8pm briefing). RD1250 Pierroton–Argentières and RD106 Saint-Jean-d'Illac–Lège closed; Marcheprime access forbidden. Check Inforoutes / the préfecture map. Exemptions: pref-derogation@gironde.gouv.fr.",
-      "es": "31 de julio: retorno Biganos/Audenge/turismo Lacanau — itinerario obligatorio A63 → A660 → intercambio 2 → RD3. A63 abierta (salvo rampas 23 según parte 20h). RD1250 Pierroton–Argentières y RD106 Saint-Jean-d'Illac–Lège cerradas; acceso Marcheprime prohibido. Consulte Inforoutes / el mapa prefectural. Exenciones: pref-derogation@gironde.gouv.fr.",
-      "de": "31. Juli: Rückkehr Biganos/Audenge/Lacanau-Tourismus — Pflichtroute A63 → A660 → Anschlussstelle 2 → RD3. A63 offen (außer Rampen 23 laut 20-Uhr-Bericht). RD1250 Pierroton–Argentières und RD106 Saint-Jean-d'Illac–Lège gesperrt; Zugang Marcheprime verboten. Inforoutes / Präfekturkarte prüfen. Ausnahmen: pref-derogation@gironde.gouv.fr.",
-      "nl": "31 juli: terugkeer Biganos/Audenge/Lacanau-toerisme — verplicht traject A63 → A660 → knooppunt 2 → RD3. A63 open (behalve afritten 23 volgens bericht 20.00 uur). RD1250 Pierroton–Argentières en RD106 Saint-Jean-d'Illac–Lège gesloten; toegang Marcheprime verboden. Raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen: pref-derogation@gironde.gouv.fr."
+      "fr": "1er août : A63 ouverte sauf bretelle 23 (point 20h30). Circulation ferroviaire au sud de Bordeaux rouverte. Restrictions encore possibles — consultez Inforoutes / la carte préfecture. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
+      "en": "1 August: A63 open except junction 23 ramp (8:30pm briefing). Rail south of Bordeaux reopened. Other restrictions may apply — check Inforoutes / the préfecture map. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
+      "es": "1 de agosto: A63 abierta salvo rampa 23 (parte 20:30). Circulación ferroviaria al sur de Burdeos reabierta. Otras restricciones posibles — consulte Inforoutes / el mapa prefectural. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
+      "de": "1. August: A63 offen außer Rampe 23 (20:30-Bericht). Bahn südlich Bordeaux wieder offen. Weitere Einschränkungen möglich — Inforoutes / Präfekturkarte prüfen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
+      "nl": "1 augustus: A63 open behalve afrit 23 (bericht 20.30 uur). Treinverkeer ten zuiden van Bordeaux weer open. Andere beperkingen mogelijk — raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -165,7 +165,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -193,6 +193,6 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   }
 ]

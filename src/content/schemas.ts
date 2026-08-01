@@ -125,7 +125,8 @@ export const shelterDirectoryEntrySchema = z
 
 export const shelterDirectorySchema = z
   .object({
-    pdfUrl: z.string().url(),
+    /** Official PDF when published; otherwise omit and use sourceUrl (HTML list). */
+    pdfUrl: z.string().url().optional(),
     officialAsOf: localizedText,
     entries: z.array(shelterDirectoryEntrySchema).min(1),
     ...verifiable,

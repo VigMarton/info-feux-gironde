@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-01-evening-fixed-returns-rouge",
+    "date": "2026-08-01T21:15:00+02:00",
+    "summary": {
+      "fr": "Catch-up : vigilance rouge ; feu fixé (sauf Cap Ferret / sud Lacanau) ; retours Andernos/Lanton + Arès/Marcheprime/Saumos/Temple/Lubec ; seuls Lège et Le Porge encore évacués ; centres 1/08 ; PEX fermé ; CIP 8h30–19h30.",
+      "en": "Catch-up: vigilance rouge; fire fixed (except Cap Ferret / south Lacanau); returns Andernos/Lanton + Arès/Marcheprime/Saumos/Temple/Lubec; only Lège and Le Porge still evacuated; centres 1/08; PEX closed; CIP 8:30am–7:30pm.",
+      "es": "Puesta al día: vigilancia roja; fuego fijado (salvo Cap Ferret / sur Lacanau); retornos Andernos/Lanton + Arès/Marcheprime/Saumos/Temple/Lubec; solo Lège y Le Porge aún evacuados; centros 1/08; PEX cerrado; CIP 8:30–19:30.",
+      "de": "Nachzug: Vigilance rouge; Feuer fixiert (außer Cap Ferret / Süden Lacanau); Rückkehr Andernos/Lanton + Arès/Marcheprime/Saumos/Temple/Lubec; nur Lège und Le Porge weiter evakuiert; Zentren 1.08.; PEX geschlossen; CIP 8:30–19:30.",
+      "nl": "Inhaal: vigilance rouge; vuur vastgezet (behalve Cap Ferret / zuid Lacanau); terugkeer Andernos/Lanton + Arès/Marcheprime/Saumos/Temple/Lubec; alleen Lège en Le Porge nog geëvacueerd; centra 1/08; PEX gesloten; CIP 8.30–19.30 uur."
+    }
+  },
+  {
     "id": "2026-07-31-noon-returns-biganos-audenge-lacanau",
     "date": "2026-07-31T13:50:00+02:00",
     "summary": {

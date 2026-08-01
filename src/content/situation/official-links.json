@@ -26,11 +26,11 @@
   {
     "id": "centres-accueil-liste",
     "label": {
-      "fr": "Liste et adresses des centres d'accueil (préfecture, PDF mis à jour régulièrement)",
-      "en": "List and addresses of reception centres (préfecture, regularly updated PDF)",
-      "es": "Lista y direcciones de los centros de acogida (prefectura, PDF actualizado regularmente)",
-      "de": "Liste und Adressen der Aufnahmezentren (Präfektur, regelmäßig aktualisiertes PDF)",
-      "nl": "Lijst en adressen van de opvangcentra (prefectuur, regelmatig bijgewerkte pdf)"
+      "fr": "Liste et adresses des centres d'accueil (préfecture, mise à jour 1er août après-midi)",
+      "en": "List and addresses of reception centres (préfecture, updated 1 August afternoon)",
+      "es": "Lista y direcciones de los centros de acogida (prefectura, actualizada 1 de agosto tarde)",
+      "de": "Liste und Adressen der Aufnahmezentren (Präfektur, Stand 1. August nachmittags)",
+      "nl": "Lijst en adressen van de opvangcentra (prefectuur, bijgewerkt 1 augustus 's middags)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
     "tier": 0
@@ -38,11 +38,11 @@
   {
     "id": "cellule-information-public",
     "label": {
-      "fr": "Cellule d'information du public — 09 70 80 90 40 (24h/24, tapez 1 pour la Gironde)",
-      "en": "Public information line — 09 70 80 90 40 (24/7, press 1 for Gironde)",
-      "es": "Línea de información al público — 09 70 80 90 40 (24 horas, pulse 1 para la Gironda)",
-      "de": "Bürgertelefon — 09 70 80 90 40 (24 Stunden, Taste 1 für die Gironde)",
-      "nl": "Publieksinformatielijn — 09 70 80 90 40 (24/7, toets 1 voor de Gironde)"
+      "fr": "Cellule d'information du public — 09 70 80 90 40 (8h30–19h30, FAQ 1/08)",
+      "en": "Public information line — 09 70 80 90 40 (8:30am–7:30pm, FAQ 1/08)",
+      "es": "Línea de información al público — 09 70 80 90 40 (8:30–19:30, FAQ 1/08)",
+      "de": "Bürgertelefon — 09 70 80 90 40 (8:30–19:30, FAQ 1.08.)",
+      "nl": "Publieksinformatielijn — 09 70 80 90 40 (8.30–19.30 uur, FAQ 1/08)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Cellule-d-information-du-public",
     "tier": 0

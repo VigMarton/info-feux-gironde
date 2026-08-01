@@ -9,11 +9,11 @@
       "nl": "Materiaal doneren"
     },
     "description": {
-      "fr": "Au 31 juillet, Bordeaux Métropole indique que la collecte de dons est toujours suspendue : les besoins immédiats sont couverts. Ne déposez rien au Parc des Expositions. Pas de cagnotte métropolitaine — privilégiez les CCAS des communes touchées ou les associations (Croix-Rouge, Secours populaire…). Les denrées collectées sont redistribuées (Parc Expo, pompiers, colis « 5 jours », CCAS).",
-      "en": "As of 31 July, Bordeaux Métropole says goods collection remains suspended: immediate needs are covered. Do not drop anything off at the Exhibition Centre. No Métropole cash fund — prefer CCAS of affected communes or associations (Red Cross, Secours populaire…). Collected goods are being redistributed (Exhibition Centre, firefighters, “5-day” packs, CCAS).",
-      "es": "A 31 de julio, Bordeaux Métropole indica que la recogida de donaciones sigue suspendida: las necesidades inmediatas están cubiertas. No deje nada en el Parque de Exposiciones. No hay hucha de la Métropole — priorice los CCAS o asociaciones (Cruz Roja, Secours populaire…). Los bienes recogidos se redistribuyen (Parc Expo, bomberos, paquetes «5 días», CCAS).",
-      "de": "Stand 31. Juli: Bordeaux Métropole meldet, dass die Sachspendenannahme weiterhin ausgesetzt ist — Sofortbedarf gedeckt. Nichts zum Ausstellungszentrum bringen. Keine Métropole-Spendenkasse — CCAS oder Verbände (Rotes Kreuz, Secours populaire…) bevorzugen. Gesammelte Güter werden weiterverteilt (Parc Expo, Feuerwehr, „5-Tage“-Pakete, CCAS).",
-      "nl": "Op 31 juli meldt Bordeaux Métropole dat de goederencollecte nog steeds is opgeschort: acute behoeften zijn gedekt. Breng niets naar het beursgebouw. Geen Métropole-geldinzameling — geef bij voorkeur aan CCAS of verenigingen (Rode Kruis, Secours populaire…). Ingezamelde goederen worden herverdeeld (Parc Expo, brandweer, «5 dagen»-pakketten, CCAS)."
+      "fr": "Collecte de dons toujours suspendue (Bordeaux Métropole). Le Parc des Expositions est fermé depuis le soir du 31/07. Pas de cagnotte métropolitaine — privilégiez les CCAS des communes touchées ou les associations (Croix-Rouge, Secours populaire…). ",
+      "en": "Goods collection still suspended (Bordeaux Métropole). The Exhibition Centre has been closed since the evening of 31/07. No Métropole cash fund — prefer CCAS of affected communes or associations (Red Cross, Secours populaire…). ",
+      "es": "Recogida de donaciones aún suspendida (Bordeaux Métropole). El Parque de Exposiciones está cerrado desde la noche del 31/07. No hay hucha de la Métropole — priorice CCAS o asociaciones (Cruz Roja, Secours populaire…). ",
+      "de": "Sachspendenannahme weiter ausgesetzt (Bordeaux Métropole). Das Ausstellungszentrum ist seit dem Abend des 31.07. geschlossen. Keine Métropole-Spendenkasse — CCAS oder Verbände (Rotes Kreuz, Secours populaire…) bevorzugen. ",
+      "nl": "Goederencollecte nog opgeschort (Bordeaux Métropole). Het beursgebouw is gesloten sinds de avond van 31/07. Geen Métropole-geldinzameling — geef bij voorkeur aan CCAS of verenigingen (Rode Kruis, Secours populaire…). "
     },
     "actionLabel": {
       "fr": "Lire la page Bordeaux Métropole",
@@ -24,7 +24,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "volunteer",
@@ -36,11 +36,11 @@
       "nl": "Vrijwilliger worden"
     },
     "description": {
-      "fr": "Au 31 juillet, Bordeaux Métropole suspend le recensement des bénévoles (plus de 10 000 inscrits). La majorité des personnes au Parc des Expositions sont parties ou sur le départ : ne vous présentez pas sur place. Le soutien pourra être sollicité plus tard. Entreprises : numéro vert 0 800 006 090 (8h30–21h) ; dons matériels/moyens/services vers la préfecture : pref33-logistique@gironde.gouv.fr.",
-      "en": "As of 31 July, Bordeaux Métropole has suspended volunteer registration (more than 10,000 signed up). Most people at the Exhibition Centre have left or are leaving: do not show up on site. Support may be requested later. Businesses: green line 0 800 006 090 (8:30am–9pm); material/means/services to the préfecture: pref33-logistique@gironde.gouv.fr.",
-      "es": "A 31 de julio, Bordeaux Métropole suspende el registro de voluntarios (más de 10.000 inscritos). La mayoría de las personas en el Parque de Exposiciones se han ido o están de salida: no se presente. El apoyo podrá solicitarse más adelante. Empresas: número verde 0 800 006 090 (8:30–21:00); material/medios/servicios a la prefectura: pref33-logistique@gironde.gouv.fr.",
-      "de": "Stand 31. Juli: Bordeaux Métropole setzt die Freiwilligen-Erfassung aus (über 10.000 Eingetragene). Die Mehrheit am Ausstellungszentrum ist gegangen oder im Aufbruch: nicht vor Ort erscheinen. Unterstützung kann später angefragt werden. Unternehmen: Grüne Hotline 0 800 006 090 (8:30–21:00); Sach-/Mittel-/Serviceangebote an die Präfektur: pref33-logistique@gironde.gouv.fr.",
-      "nl": "Op 31 juli schort Bordeaux Métropole de vrijwilligersregistratie op (meer dan 10.000 ingeschreven). De meesten op het beursgebouw zijn vertrokken of op weg: meld u niet ter plaatse. Steun kan later worden gevraagd. Bedrijven: groen nummer 0 800 006 090 (8.30–21.00 uur); materiaal/middelen/diensten aan de prefectuur: pref33-logistique@gironde.gouv.fr."
+      "fr": "Recensement des bénévoles suspendu. Le Parc des Expositions est fermé depuis le soir du 31/07 — ne vous présentez pas sur place. Entreprises : 0 800 006 090 ; dons matériels/moyens/services : pref33-logistique@gironde.gouv.fr.",
+      "en": "Volunteer registration suspended. The Exhibition Centre has been closed since the evening of 31/07 — do not show up on site. Businesses: 0 800 006 090; material/means/services: pref33-logistique@gironde.gouv.fr.",
+      "es": "Registro de voluntarios suspendido. El Parque de Exposiciones está cerrado desde la noche del 31/07 — no se presente. Empresas: 0 800 006 090; material/medios/servicios: pref33-logistique@gironde.gouv.fr.",
+      "de": "Freiwilligen-Erfassung ausgesetzt. Das Ausstellungszentrum ist seit dem Abend des 31.07. geschlossen — nicht vor Ort erscheinen. Unternehmen: 0 800 006 090; Sach-/Mittel-/Serviceangebote: pref33-logistique@gironde.gouv.fr.",
+      "nl": "Vrijwilligersregistratie opgeschort. Het beursgebouw is gesloten sinds de avond van 31/07 — meld u niet ter plaatse. Bedrijven: 0 800 006 090; materiaal/middelen/diensten: pref33-logistique@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Voir Bordeaux Métropole",
@@ -52,7 +52,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "offer-housing",
@@ -64,11 +64,11 @@
       "nl": "Tijdelijk onderdak"
     },
     "description": {
-      "fr": "Évacués sans solution : pôle hébergement à l'entrée du hall du Parc des Expositions ; l'Union régionale HLM Nouvelle-Aquitaine propose jusqu'à 10 nuits gratuites (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Pour proposer un logement : numéro vert Métropole 0 800 006 090 (8h30–21h).",
-      "en": "Evacuees without a place: housing desk at the Exhibition Centre hall entrance; regional HLM union offers up to 10 free nights (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9am–6pm). To offer housing: Métropole green line 0 800 006 090 (8:30am–9pm).",
-      "es": "Evacuados sin solución: mostrador de alojamiento a la entrada del hall del Parque de Exposiciones; la unión HLM regional ofrece hasta 10 noches gratis (500 plazas) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Para ofrecer alojamiento: número verde Métropole 0 800 006 090 (8:30–21:00).",
-      "de": "Evakuierte ohne Lösung: Unterkunftsstelle am Halleneingang des Ausstellungszentrums; regionale HLM-Union bietet bis zu 10 kostenlose Nächte (500 Plätze) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 Uhr). Unterkunft anbieten: Métropole-Hotline 0 800 006 090 (8:30–21:00 Uhr).",
-      "nl": "Geëvacueerden zonder oplossing: huisvestingsbalie bij de hal-ingang van het beursgebouw; regionale HLM-unie biedt tot 10 gratis nachten (500 plaatsen) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 uur). Onderdak aanbieden: Métropole-groen nummer 0 800 006 090 (8.30–21.00 uur)."
+      "fr": "Le Parc des Expositions est fermé (31/07 soir). L'Union régionale HLM Nouvelle-Aquitaine propose jusqu'à 10 nuits gratuites (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Numéro vert Métropole : 0 800 006 090. Centres d'accueil : liste préfecture du 1er août.",
+      "en": "The Exhibition Centre is closed (evening of 31/07). Regional HLM union offers up to 10 free nights (500 places) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9am–6pm). Métropole green line: 0 800 006 090. Reception centres: préfecture list of 1 August.",
+      "es": "El Parque de Exposiciones está cerrado (noche del 31/07). La unión HLM regional ofrece hasta 10 noches gratis (500 plazas) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9h–18h). Número verde Métropole: 0 800 006 090. Centros de acogida: lista prefectura del 1 de agosto.",
+      "de": "Das Ausstellungszentrum ist geschlossen (Abend 31.07.). Regionale HLM-Union bietet bis zu 10 kostenlose Nächte (500 Plätze) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 Uhr). Métropole-Hotline: 0 800 006 090. Aufnahmezentren: Präfekturliste vom 1. August.",
+      "nl": "Het beursgebouw is gesloten (avond 31/07). Regionale HLM-unie biedt tot 10 gratis nachten (500 plaatsen) — 07 43 95 26 96 / 07 43 92 04 69 / incendies.urhlm@union-habitat.org (9–18 uur). Métropole-groen nummer: 0 800 006 090. Opvangcentra: prefectuurlijst van 1 augustus."
     },
     "actionLabel": {
       "fr": "Voir les consignes Bordeaux Métropole",
@@ -80,7 +80,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "red-cross-support",
@@ -88,7 +88,7 @@
       "fr": "Soutien de la Croix-Rouge française",
       "en": "Red Cross France support",
       "es": "Apoyo de la Cruz Roja Francesa",
-      "de": "Unterstützung durch das Französische Rote Kreuz",
+      "de": "Unterstützung des Französischen Roten Kreuzes",
       "nl": "Steun van het Franse Rode Kruis"
     },
     "description": {
@@ -107,6 +107,6 @@
     },
     "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
     "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   }
 ]

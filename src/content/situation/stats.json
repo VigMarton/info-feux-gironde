@@ -9,14 +9,14 @@
       "nl": "Waarschuwingsniveau bosbrand"
     },
     "value": {
-      "fr": "Vigilance noire (feux de forêt)",
-      "en": "Vigilance noire (highest wildfire alert level)",
-      "es": "Vigilance noire (nivel máximo de alerta por incendio forestal)",
-      "de": "Vigilance noire (höchste Waldbrand-Warnstufe)",
-      "nl": "Vigilance noire (hoogste waarschuwingsniveau voor bosbranden)"
+      "fr": "Vigilance rouge / très élevé (niveau 4/5) — depuis le 31/07",
+      "en": "Vigilance rouge / very high (level 4/5) — since 31/07",
+      "es": "Vigilancia roja / muy alto (nivel 4/5) — desde el 31/07",
+      "de": "Vigilance rouge / sehr hoch (Stufe 4/5) — seit 31.07.",
+      "nl": "Vigilance rouge / zeer hoog (niveau 4/5) — sinds 31/07"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-31-juillet-en-Gironde",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,70 +28,70 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (au 30/07, 20h — inchangée)",
-      "en": "42,000 hectares (as of 30/07, 8pm — unchanged)",
-      "es": "42.000 hectáreas (a 30/07, 20:00 — sin cambio)",
-      "de": "42.000 Hektar (Stand 30.07., 20 Uhr — unverändert)",
-      "nl": "42.000 hectare (op 30/07, 20.00 uur — ongewijzigd)"
+      "fr": "42 000 hectares (au 31/07, 20h30 — inchangée)",
+      "en": "42,000 hectares (as of 31/07, 8:30pm — unchanged)",
+      "es": "42.000 hectáreas (a 31/07, 20:30 — sin cambio)",
+      "de": "42.000 Hektar (Stand 31.07., 20:30 — unverändert)",
+      "nl": "42.000 hectare (op 31/07, 20.30 uur — ongewijzigd)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "personnes-evacuees",
     "label": {
-      "fr": "Personnes évacuées à titre préventif (depuis le 22 juillet)",
-      "en": "People preventively evacuated (since 22 July)",
-      "es": "Personas evacuadas de forma preventiva (desde el 22 de julio)",
-      "de": "Vorsorglich evakuierte Personen (seit 22. Juli)",
-      "nl": "Preventief geëvacueerde mensen (sinds 22 juli)"
+      "fr": "Personnes évacuées / retours autorisés",
+      "en": "People evacuated / authorised returns",
+      "es": "Personas evacuadas / retornos autorizados",
+      "de": "Evakuierte / Rückkehrerlaubnisse",
+      "nl": "Geëvacueerden / terugkeertoestemmingen"
     },
     "value": {
-      "fr": "224 000 évacués ; 144 000 retours (30/07) + Biganos, Audenge (sauf Lubec/La Pointe), Lacanau tourisme (31/07 12h) — total non recalculé dans le CP",
-      "en": "224,000 evacuated; 144,000 returns (30/07) + Biganos, Audenge (except Lubec/La Pointe), Lacanau tourism (31/07 noon) — no new total in the CP",
-      "es": "224.000 evacuados; 144.000 retornos (30/07) + Biganos, Audenge (salvo Lubec/La Pointe), turismo Lacanau (31/07 12h) — total no recalculado en el CP",
-      "de": "224.000 Evakuierte; 144.000 Rückkehrer (30.07.) + Biganos, Audenge (außer Lubec/La Pointe), Lacanau-Tourismus (31.07. 12 Uhr) — keine neue Gesamtsumme im CP",
-      "nl": "224.000 geëvacueerden; 144.000 terugkeerders (30/07) + Biganos, Audenge (behalve Lubec/La Pointe), Lacanau-toerisme (31/07 12.00 uur) — geen nieuw totaal in het CP"
+      "fr": "Plus de 220 000 évacués ; 198 000 retours (31/07 20h30) + Arès, Marcheprime, Saumos, Le Temple, Lubec/La Pointe (1/08). Encore évacués (FAQ 16h) : Lège-Cap-Ferret et Le Porge",
+      "en": "More than 220,000 evacuated; 198,000 returns (31/07 8:30pm) + Arès, Marcheprime, Saumos, Le Temple, Lubec/La Pointe (1/08). Still evacuated (FAQ 4pm): Lège-Cap-Ferret and Le Porge",
+      "es": "Más de 220.000 evacuados; 198.000 retornos (31/07 20:30) + Arès, Marcheprime, Saumos, Le Temple, Lubec/La Pointe (1/08). Aún evacuados (FAQ 16h): Lège-Cap-Ferret y Le Porge",
+      "de": "Mehr als 220.000 Evakuierte; 198.000 Rückkehrer (31.07. 20:30) + Arès, Marcheprime, Saumos, Le Temple, Lubec/La Pointe (1.08.). Weiter evakuiert (FAQ 16 Uhr): Lège-Cap-Ferret und Le Porge",
+      "nl": "Meer dan 220.000 geëvacueerden; 198.000 terugkeerders (31/07 20.30 uur) + Arès, Marcheprime, Saumos, Le Temple, Lubec/La Pointe (1/08). Nog geëvacueerd (FAQ 16.00 uur): Lège-Cap-Ferret en Le Porge"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
-    "id": "moyens-mobilises",
+    "id": "situation-feu",
     "label": {
-      "fr": "Moyens de secours mobilisés",
-      "en": "Emergency resources deployed",
-      "es": "Medios de emergencia movilizados",
-      "de": "Eingesetzte Einsatzkräfte",
-      "nl": "Ingezette hulpmiddelen"
+      "fr": "Situation du feu (FAQ préfecture)",
+      "en": "Fire status (préfecture FAQ)",
+      "es": "Situación del fuego (FAQ prefectura)",
+      "de": "Feuerlage (FAQ Präfektur)",
+      "nl": "Vuursituatie (FAQ prefectuur)"
     },
     "value": {
-      "fr": "3 300 sapeurs-pompiers, 24 moyens aériens, 1 500 militaires, 1 250 FSI, 7 lanceurs d'eau, 6 motopompes, 10 centaures (gendarmerie)",
-      "en": "3,300 firefighters, 24 aircraft, 1,500 soldiers, 1,250 FSI, 7 water-throwers, 6 motor pumps, 10 gendarmerie Centaure vehicles",
-      "es": "3.300 bomberos, 24 medios aéreos, 1.500 militares, 1.250 FSI, 7 lanzadores de agua, 6 motobombas, 10 Centaure (gendarmería)",
-      "de": "3.300 Feuerwehrleute, 24 Luftfahrzeuge, 1.500 Soldaten, 1.250 FSI, 7 Wasserwerfer, 6 Motopumpen, 10 Centaure (Gendarmerie)",
-      "nl": "3.300 brandweerlieden, 24 luchtmiddelen, 1.500 militairen, 1.250 FSI, 7 waterkanonnen, 6 motorpompen, 10 Centaure (gendarmerie)"
+      "fr": "Fixé (pas éteint) — sauf 2 points chauds actifs : Cap Ferret et cordon dunaire sud Lacanau (FAQ 1/08 16h)",
+      "en": "Fixed (not extinguished) — except 2 active hot spots: Cap Ferret and dune ridge south of Lacanau (FAQ 1/08 4pm)",
+      "es": "Fijado (no extinguido) — salvo 2 puntos calientes activos: Cap Ferret y cordón dunar sur Lacanau (FAQ 1/08 16h)",
+      "de": "Fixiert (nicht gelöscht) — außer 2 aktive Hotspots: Cap Ferret und Dünenzug südlich Lacanau (FAQ 1.08. 16 Uhr)",
+      "nl": "Vastgezet (niet geblust) — behalve 2 actieve hotspots: Cap Ferret en duinrug zuid Lacanau (FAQ 1/08 16.00 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   },
   {
     "id": "bilan-provisoire",
     "label": {
-      "fr": "Bilan provisoire (humain et matériel)",
-      "en": "Provisional toll (human and material)",
-      "es": "Balance provisional (humano y material)",
-      "de": "Vorläufige Bilanz (Personen- und Sachschäden)",
-      "nl": "Voorlopige balans (mensen en materieel)"
+      "fr": "Bilan provisoire (humain)",
+      "en": "Provisional toll (human)",
+      "es": "Balance provisional (humano)",
+      "de": "Vorläufige Bilanz (Personen)",
+      "nl": "Voorlopige balans (mensen)"
     },
     "value": {
-      "fr": "267 sapeurs-pompiers blessés depuis le début ; 240 habitations détruites",
-      "en": "267 firefighters injured since the start; 240 homes destroyed",
-      "es": "267 bomberos heridos desde el inicio; 240 viviendas destruidas",
-      "de": "267 verletzte Feuerwehrleute seit Beginn; 240 Wohnhäuser zerstört",
-      "nl": "267 gewonde brandweerlieden sinds het begin; 240 woningen verwoest"
+      "fr": "264 sapeurs-pompiers pris en charge par les services de santé (point 31/07 20h30)",
+      "en": "264 firefighters treated by health services (31/07 8:30pm briefing)",
+      "es": "264 bomberos atendidos por los servicios de salud (parte 31/07 20:30)",
+      "de": "264 Feuerwehrleute durch Gesundheitsdienste versorgt (Lagebericht 31.07. 20:30)",
+      "nl": "264 brandweerlieden door gezondheidsdiensten opgevangen (bericht 31/07 20.30 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-07-31T13:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30",
+    "verifiedAt": "2026-08-01T21:15:00+02:00"
   }
 ]

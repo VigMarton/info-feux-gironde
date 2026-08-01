@@ -1,28 +1,20 @@
 {
   "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-  "pdfUrl": "https://www.gironde.gouv.fr/contenu/telechargement/87723/660193/file/Centres%20d'accueil%20MAJ%202026-07-27.pdf",
   "officialAsOf": {
-    "fr": "Liste préfecture actualisée le lundi 27 juillet 2026 matin",
-    "en": "Préfecture list updated Monday 27 July 2026 morning",
-    "es": "Lista de la prefectura actualizada el lunes 27 de julio de 2026 por la mañana",
-    "de": "Präfekturliste aktualisiert am Montag, 27. Juli 2026, morgens",
-    "nl": "Prefectuurlijst bijgewerkt op maandag 27 juli 2026 's ochtends"
+    "fr": "Liste préfecture actualisée le samedi 1er août 2026 après-midi",
+    "en": "Préfecture list updated Saturday 1 August 2026 afternoon",
+    "es": "Lista de la prefectura actualizada el sábado 1 de agosto de 2026 por la tarde",
+    "de": "Präfekturliste aktualisiert am Samstag, 1. August 2026, nachmittags",
+    "nl": "Prefectuurlijst bijgewerkt op zaterdag 1 augustus 2026 's middags"
   },
-  "verifiedAt": "2026-07-31T13:50:00+02:00",
+  "verifiedAt": "2026-08-01T21:15:00+02:00",
   "entries": [
     { "id": "la-teste-salle-turpin", "commune": "LA TESTE DE BUCH", "place": "Salle Turpin" },
-    { "id": "la-teste-salle-cather", "commune": "LA TESTE DE BUCH", "place": "Salle Cather" },
-    { "id": "la-teste-salle-coubertin", "commune": "LA TESTE DE BUCH", "place": "Salle Coubertin" },
-    { "id": "la-teste-parc-expositions", "commune": "LA TESTE DE BUCH", "place": "Parc des Expositions" },
-    { "id": "la-teste-salle-fetes-cazaux", "commune": "LA TESTE DE BUCH", "place": "Salle des fêtes Cazaux" },
-    { "id": "lacanau-albert-francois", "commune": "LACANAU", "place": "21 Rue Albert François (lieu de transit)" },
-    { "id": "bordeaux-parc-expositions", "commune": "BORDEAUX", "place": "Parc des expositions hall 1, 2 et 3" },
-    { "id": "lormont-accueil-communal", "commune": "LORMONT", "place": "Centre d'accueil communal - centre d'accueil de jour" },
-    { "id": "gujan-mestras-lycee-mer", "commune": "GUJAN-MESTRAS", "place": "Lycée" },
-    { "id": "agen-parc-expositions", "commune": "AGEN", "place": "Parc des Expositions" },
-    { "id": "salles-place-mairie", "commune": "SALLES", "place": "1 place de la mairie" },
-    { "id": "arcachon-palais-congres", "commune": "ARCACHON", "place": "Palais des Congrès" },
-    { "id": "louchats-salle-fetes", "commune": "LOUCHATS", "place": "Salle des fêtes" },
-    { "id": "hostens-la-bergerie", "commune": "HOSTENS", "place": "La Bergerie" }
+    { "id": "lacanau-albert-francois", "commune": "LACANAU", "place": "21 rue Albert François" },
+    { "id": "lormont-gerontologie-chu", "commune": "LORMONT", "place": "Ancien bâtiment du Centre de gérontologie du CHU" },
+    { "id": "hostens-camping", "commune": "HOSTENS", "place": "Le camping" },
+    { "id": "le-teich-polyvalente-lekla", "commune": "LE TEICH", "place": "Salle polyvalente et salle de spectacle Lekla" },
+    { "id": "latresne-aerocampus", "commune": "LATRESNE", "place": "Aerocampus" },
+    { "id": "belin-beliet-gymnase", "commune": "BELIN-BÉLIET", "place": "Gymnase municipal, 29 rue Aliénor" }
   ]
 }
