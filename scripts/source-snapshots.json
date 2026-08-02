@@ -1,122 +1,167 @@
 {
-  "https://www.gironde.gouv.fr/": {
-    "hash": "1d15b1dbdef8a5bb",
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-31-juillet-en-Gironde": {
+    "hash": "dd761f6a705ca0c6",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:58.237Z"
+    "checkedAt": "2026-08-02T07:12:44.769Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30": {
+    "hash": "b6fa4265299dced6",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:44.961Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie": {
+    "hash": "34cccea29560ed92",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:45.161Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-4-nouvelles-communes": {
+    "hash": "2c908d9ea41e2a55",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:45.356Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-2-nouvelles-communes-Andernos-les-bains-et-Lanton": {
+    "hash": "da7f0b3b0b918a8b",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:45.512Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes": {
+    "hash": "e61c268f9c2ca6db",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:45.697Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h": {
+    "hash": "c4e31f5ac05f789a",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:45.857Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet": {
+    "hash": "67ecfcadd66bfcf3",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:46.045Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet": {
+    "hash": "227bf595113a09b1",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:46.238Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet": {
+    "hash": "1dab0d942d80a0e8",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:46.414Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet": {
+    "hash": "9f84b1d5fcd406f9",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:46.587Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet": {
-    "hash": "1fdff6fa06c6fbf4",
+    "hash": "d048835fd3000d11",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:58.597Z"
-  },
-  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-les-habitants-d-Eysines-Merignac-Le-Haillan": {
-    "hash": "d88c0b494e44bc9f",
-    "status": 200,
-    "checkedAt": "2026-07-28T22:21:58.801Z"
+    "checkedAt": "2026-08-02T07:12:46.760Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances": {
-    "hash": "ad3e7819e0f4c28e",
+    "hash": "e5e15396f6e9ca20",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.031Z"
+    "checkedAt": "2026-08-02T07:12:47.127Z"
+  },
+  "https://www.gironde.gouv.fr/": {
+    "hash": "9e9d5197ed4c9805",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:47.912Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet": {
-    "hash": "1a25382d8dddaf46",
+    "hash": "4879bf680a1359ca",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.243Z"
+    "checkedAt": "2026-08-02T07:12:48.160Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet": {
-    "hash": "9666b8f49a984438",
+    "hash": "33af94da888a5e84",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.378Z"
+    "checkedAt": "2026-08-02T07:12:48.376Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil": {
-    "hash": "f5188994e1f1aac5",
+    "hash": "992b8ccdbe77d8d0",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.563Z"
+    "checkedAt": "2026-08-02T07:12:48.700Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde": {
-    "hash": "e9c12aeeba3f8f8d",
+    "hash": "7066d3e3acb6d880",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.754Z"
+    "checkedAt": "2026-08-02T07:12:48.880Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet": {
-    "hash": "f313066e9720315f",
+    "hash": "cad7acefc335ac3f",
     "status": 200,
-    "checkedAt": "2026-07-28T22:21:59.989Z"
+    "checkedAt": "2026-08-02T07:12:49.559Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet": {
-    "hash": "cc1ac12c6909a682",
+    "hash": "46014674f2384ae6",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:00.195Z"
+    "checkedAt": "2026-08-02T07:12:50.163Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas": {
-    "hash": "2ce62c9759339047",
+    "hash": "95403a6ddcd8ccb8",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:00.456Z"
+    "checkedAt": "2026-08-02T07:12:50.481Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes": {
-    "hash": "3499f2b0500cb1e4",
+    "hash": "063f86d3ecd365e2",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:00.719Z"
+    "checkedAt": "2026-08-02T07:12:50.813Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026": {
-    "hash": "95bbb83761f92d02",
+    "hash": "78bb7af12bf36f1f",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:00.931Z"
+    "checkedAt": "2026-08-02T07:12:51.004Z"
   },
   "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Cellule-d-information-du-public": {
-    "hash": "bba5fbfc25fb407b",
+    "hash": "c6012c458cf29498",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:01.176Z"
+    "checkedAt": "2026-08-02T07:12:51.738Z"
   },
-  "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees": {
-    "hash": "4c9614ab5be68f3d",
+  "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement": {
+    "hash": "9f7aad0afe4e7ae5",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:01.350Z"
+    "checkedAt": "2026-08-02T07:12:51.941Z"
   },
   "https://meteofrance.com/meteo-des-forets": {
-    "hash": "ae94316cd73bd3ce",
+    "hash": "f4d335b8663a69b4",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:01.465Z"
+    "checkedAt": "2026-08-02T07:12:52.070Z"
   },
   "https://www.atmo-nouvelleaquitaine.org/": {
-    "hash": "c3167b0e23cd5d53",
+    "hash": "fbd225e7f0d20847",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:01.926Z"
-  },
-  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-foret-declenchement-de-FR-Alert": {
-    "hash": "dc055e07d3c952f9",
-    "status": 200,
-    "checkedAt": "2026-07-28T22:22:02.103Z"
-  },
-  "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-cours-point-de-situation-a-21h30": {
-    "hash": "dc257c3ff551c57a",
-    "status": 200,
-    "checkedAt": "2026-07-28T22:22:02.268Z"
-  },
-  "https://www.gironde.gouv.fr/contenu/telechargement/87723/660193/file/Centres%20d'accueil%20MAJ%202026-07-27.pdf": {
-    "hash": "dff28511c2067ad7",
-    "status": 200,
-    "checkedAt": "2026-07-28T22:22:02.432Z"
+    "checkedAt": "2026-08-02T07:12:52.514Z"
   },
   "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes": {
     "hash": "ccd2a2fc42955bf8",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:03.480Z"
+    "checkedAt": "2026-08-02T07:12:52.712Z"
   },
-  "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-incendies-en-gironde-et-dans-les-landes-information-sur-les-evacuations": {
-    "hash": "270d40d38e8658f9",
+  "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et": {
+    "hash": "ed5d9390809382b2",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:03.538Z"
+    "checkedAt": "2026-08-02T07:12:52.783Z"
   },
   "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations": {
-    "hash": "cebf8559b31f33e8",
+    "hash": "ac1aaed0457cdda5",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:03.556Z"
+    "checkedAt": "2026-08-02T07:12:52.807Z"
   },
   "https://www.gironde.fr/deplacements/inforoutes": {
-    "hash": "6836b7d1ab11670b",
+    "hash": "f830db957eb970f0",
     "status": 200,
-    "checkedAt": "2026-07-28T22:22:03.650Z"
+    "checkedAt": "2026-08-02T07:12:52.951Z"
+  },
+  "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles": {
+    "hash": "a66e9760d341e712",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:53.157Z"
+  },
+  "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees": {
+    "hash": "9f7aad0afe4e7ae5",
+    "status": 200,
+    "checkedAt": "2026-08-02T07:12:53.397Z"
   }
 }

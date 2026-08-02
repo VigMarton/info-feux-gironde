@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-02-morning-point-1-aout-20h",
+    "date": "2026-08-02T09:30:00+02:00",
+    "summary": {
+      "fr": "Point 1/08 20h : feu fixé (sauf Cap Ferret / sud Lacanau) ; 208 000 retours ; 21 communes ; Lège et Le Porge encore évacués ; +330 pompiers blessés ; 252 bâtiments >20 m² ; CIP 8h30–19h30 ; sinistres jusqu'au 31/08.",
+      "en": "1/08 8pm briefing: fire fixed (except Cap Ferret / south Lacanau); 208,000 returns; 21 communes; Lège and Le Porge still evacuated; 330+ injured firefighters; 252 buildings >20 m²; CIP 8:30am–7:30pm; claims until 31/08.",
+      "es": "Parte 1/08 20h: fuego fijado (salvo Cap Ferret / sur Lacanau); 208.000 retornos; 21 municipios; Lège y Le Porge aún evacuados; +330 bomberos heridos; 252 edificios >20 m²; CIP 8:30–19:30; siniestros hasta 31/08.",
+      "de": "Lagebericht 1.08. 20 Uhr: Feuer fixiert (außer Cap Ferret / Süden Lacanau); 208.000 Rückkehrer; 21 Gemeinden; Lège und Le Porge weiter evakuiert; 330+ verletzte Feuerwehr; 252 Gebäude >20 m²; CIP 8:30–19:30; Schäden bis 31.08.",
+      "nl": "Bericht 1/08 20.00 uur: vuur vastgezet (behalve Cap Ferret / zuid Lacanau); 208.000 terugkeerders; 21 gemeenten; Lège en Le Porge nog geëvacueerd; 330+ gewonde brandweer; 252 gebouwen >20 m²; CIP 8.30–19.30 uur; schade tot 31/08."
+    }
+  },
+  {
     "id": "2026-08-01-evening-fixed-returns-rouge",
     "date": "2026-08-01T21:15:00+02:00",
     "summary": {

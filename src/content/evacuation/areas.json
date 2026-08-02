@@ -3,27 +3,27 @@
     "id": "lege-cap-ferret-le-porge",
     "commune": "Lège-Cap-Ferret, Le Porge",
     "description": {
-      "fr": "Seules communes encore en évacuation préventive (FAQ préfecture du 1er août 16h). Points chauds encore actifs sur la presqu'île du Cap Ferret et le cordon dunaire au sud de Lacanau. Retour uniquement si la préfecture l'autorise explicitement. Plages aménagées de ces communes non accessibles (FAQ).",
-      "en": "Only communes still under preventive evacuation (préfecture FAQ, 1 August 4pm). Hot spots still active on the Cap Ferret peninsula and the dune ridge south of Lacanau. Return only if the préfecture explicitly authorises it. Developed beaches in these communes not accessible (FAQ).",
-      "es": "Únicos municipios aún en evacuación preventiva (FAQ prefectura 1 de agosto 16h). Puntos calientes aún activos en la península del Cap Ferret y el cordón dunar al sur de Lacanau. Retorno solo si la prefectura lo autoriza explícitamente. Playas acondicionadas de estos municipios no accesibles (FAQ).",
-      "de": "Einzige weiterhin vorsorglich evakuierte Gemeinden (FAQ Präfektur 1. August 16 Uhr). Hotspots weiter aktiv auf der Halbinsel Cap Ferret und dem Dünenzug südlich Lacanau. Rückkehr nur nach ausdrücklicher Präfekturgenehmigung. Ausgebaute Strände dieser Gemeinden nicht zugänglich (FAQ).",
-      "nl": "Enige gemeenten nog onder preventieve evacuatie (FAQ prefectuur 1 augustus 16.00 uur). Hotspots nog actief op het schiereiland Cap Ferret en de duinrug ten zuiden van Lacanau. Terugkeer alleen na expliciete toestemming van de prefectuur. Aangelegde stranden van deze gemeenten niet toegankelijk (FAQ)."
+      "fr": "Seules communes encore en évacuation préventive (point préfecture du 1er août 20h). Points chauds encore actifs sur la presqu'île du Cap Ferret et le cordon dunaire au sud de Lacanau. Retour uniquement si la préfecture l'autorise explicitement. Plages aménagées de ces communes non accessibles (FAQ).",
+      "en": "Only communes still under preventive evacuation (préfecture briefing, 1 August 8pm). Hot spots still active on the Cap Ferret peninsula and the dune ridge south of Lacanau. Return only if the préfecture explicitly authorises it. Developed beaches in these communes not accessible (FAQ).",
+      "es": "Únicos municipios aún en evacuación preventiva (parte prefectura 1 de agosto 20h). Puntos calientes aún activos en la península del Cap Ferret y el cordón dunar al sur de Lacanau. Retorno solo si la prefectura lo autoriza explícitamente. Playas acondicionadas de estos municipios no accesibles (FAQ).",
+      "de": "Einzige weiterhin vorsorglich evakuierte Gemeinden (Präfektur-Lagebericht 1. August 20 Uhr). Hotspots weiter aktiv auf der Halbinsel Cap Ferret und dem Dünenzug südlich Lacanau. Rückkehr nur nach ausdrücklicher Präfekturgenehmigung. Ausgebaute Strände dieser Gemeinden nicht zugänglich (FAQ).",
+      "nl": "Enige gemeenten nog onder preventieve evacuatie (prefectuurbericht 1 augustus 20.00 uur). Hotspots nog actief op het schiereiland Cap Ferret en de duinrug ten zuiden van Lacanau. Terugkeer alleen na expliciete toestemming van de prefectuur. Aangelegde stranden van deze gemeenten niet toegankelijk (FAQ)."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "retour-ares-marcheprime-saumos-temple-1-aout",
     "commune": "Arès, Marcheprime, Saumos, Le Temple ; Audenge (Lubec et La Pointe)",
     "description": {
-      "fr": "1er août : réintégration autorisée pour Arès, Marcheprime, Saumos, Le Temple, et les quartiers Lubec et La Pointe à Audenge. Consulter la carte / Inforoutes pour la circulation. Vigilance ; respecter les zones interdites.",
-      "en": "1 August: return authorised for Arès, Marcheprime, Saumos, Le Temple, and Lubec and La Pointe districts in Audenge. Check the map / Inforoutes for traffic. Stay vigilant; respect restricted zones.",
-      "es": "1 de agosto: reintegración autorizada para Arès, Marcheprime, Saumos, Le Temple, y los barrios Lubec y La Pointe en Audenge. Consulte el mapa / Inforoutes para la circulación. Vigilancia; respetar zonas prohibidas.",
-      "de": "1. August: Rückkehr erlaubt für Arès, Marcheprime, Saumos, Le Temple sowie die Viertel Lubec und La Pointe in Audenge. Karte / Inforoutes für Verkehr prüfen. Wachsamkeit; Sperrzonen beachten.",
-      "nl": "1 augustus: terugkeer toegestaan voor Arès, Marcheprime, Saumos, Le Temple, en de wijken Lubec en La Pointe in Audenge. Raadpleeg de kaart / Inforoutes voor verkeer. Waakzaamheid; respecteer verboden zones."
+      "fr": "1er août : réintégration autorisée pour Arès, Marcheprime, Saumos, Le Temple, et les quartiers Lubec et La Pointe à Audenge (point 20h : 21 communes / 208 000 retours au total). Consulter Inforoutes / carte préfecture. Vigilance ; respecter les zones interdites.",
+      "en": "1 August: return authorised for Arès, Marcheprime, Saumos, Le Temple, and Lubec and La Pointe districts in Audenge (8pm briefing: 21 communes / 208,000 returns total). Check Inforoutes / préfecture map. Stay vigilant; respect restricted zones.",
+      "es": "1 de agosto: reintegración autorizada para Arès, Marcheprime, Saumos, Le Temple, y los barrios Lubec y La Pointe en Audenge (parte 20h: 21 municipios / 208.000 retornos en total). Consulte Inforoutes / mapa prefectural. Vigilancia; respetar zonas prohibidas.",
+      "de": "1. August: Rückkehr erlaubt für Arès, Marcheprime, Saumos, Le Temple sowie die Viertel Lubec und La Pointe in Audenge (20-Uhr-Bericht: 21 Gemeinden / 208.000 Rückkehrer insgesamt). Inforoutes / Präfekturkarte prüfen. Wachsamkeit; Sperrzonen beachten.",
+      "nl": "1 augustus: terugkeer toegestaan voor Arès, Marcheprime, Saumos, Le Temple, en de wijken Lubec en La Pointe in Audenge (bericht 20.00 uur: 21 gemeenten / 208.000 terugkeerders totaal). Raadpleeg Inforoutes / prefectuurkaart. Waakzaamheid; respecteer verboden zones."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-4-nouvelles-communes",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "retour-andernos-lanton-31-juillet",
@@ -36,7 +36,7 @@
       "nl": "31 juli vanaf 16.00 uur: terugkeer toegestaan. Toen aangegeven traject: A63 → A660 → knooppunt 2 Biganos → RD3. Raadpleeg Inforoutes / prefectuurkaart voor actuele wegstatus."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-2-nouvelles-communes-Andernos-les-bains-et-Lanton",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "retour-biganos-audenge-lacanau-31-juillet",
@@ -49,7 +49,7 @@
       "nl": "31 juli vanaf 12.00 uur: terugkeer voor Biganos, Audenge (Lubec/La Pointe toegestaan op 1/08) en campings / toerisme Lacanau. FAQ 1/08: terugkeer bevestigd."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "retour-communes-28-30-juillet",
@@ -62,6 +62,6 @@
       "nl": "Terugkeer toegestaan op 28 en 30 juli (bevestigd FAQ 1/08). Blijf waakzaam; respecteer verboden zones en bosbeperkingen (vigilance rouge)."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   }
 ]

@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +122,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "1er août : A63 ouverte sauf bretelle 23 (point 20h30). Circulation ferroviaire au sud de Bordeaux rouverte. Restrictions encore possibles — consultez Inforoutes / la carte préfecture. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
-      "en": "1 August: A63 open except junction 23 ramp (8:30pm briefing). Rail south of Bordeaux reopened. Other restrictions may apply — check Inforoutes / the préfecture map. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
-      "es": "1 de agosto: A63 abierta salvo rampa 23 (parte 20:30). Circulación ferroviaria al sur de Burdeos reabierta. Otras restricciones posibles — consulte Inforoutes / el mapa prefectural. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
-      "de": "1. August: A63 offen außer Rampe 23 (20:30-Bericht). Bahn südlich Bordeaux wieder offen. Weitere Einschränkungen möglich — Inforoutes / Präfekturkarte prüfen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
-      "nl": "1 augustus: A63 open behalve afrit 23 (bericht 20.30 uur). Treinverkeer ten zuiden van Bordeaux weer open. Andere beperkingen mogelijk — raadpleeg Inforoutes / de prefectuurkaart. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
+      "fr": "Restrictions encore possibles près des zones d'intervention — consultez Inforoutes / la carte préfecture (lien dans le point 1/08 20h). Prudence sur les axes avec véhicules de secours et agriculteurs. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
+      "en": "Restrictions may still apply near intervention zones — check Inforoutes / the préfecture map (linked in the 1/08 8pm briefing). Caution on roads with emergency and farm vehicles. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
+      "es": "Restricciones aún posibles cerca de zonas de intervención — consulte Inforoutes / el mapa prefectural (enlace en el parte 1/08 20h). Prudencia en ejes con vehículos de emergencia y agricultores. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
+      "de": "Einschränkungen nahe Einsatzzonen weiter möglich — Inforoutes / Präfekturkarte prüfen (Link im Lagebericht 1.08. 20 Uhr). Vorsicht auf Achsen mit Einsatz- und Landwirtschaftsfahrzeugen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
+      "nl": "Beperkingen nabij interventiezones nog mogelijk — raadpleeg Inforoutes / de prefectuurkaart (link in bericht 1/08 20.00 uur). Voorzichtigheid op assen met hulpdiensten en landbouwvoertuigen. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -150,11 +150,11 @@
       "nl": "Attest van evacuatiebevel"
     },
     "description": {
-      "fr": "La préfecture met à disposition une attestation d'ordre d'évacuation par commune (date et heure de l'ordre). Téléchargez le PDF de votre commune sur la page officielle « informations utiles ».",
-      "en": "The préfecture provides a per-commune evacuation order attestation (date and time of the order). Download your commune’s PDF from the official “useful information” page.",
-      "es": "La prefectura ofrece un atestado de orden de evacuación por municipio (fecha y hora de la orden). Descargue el PDF de su municipio en la página oficial «informaciones útiles».",
-      "de": "Die Präfektur stellt eine Evakuierungsbescheinigung je Gemeinde bereit (Datum und Uhrzeit der Anordnung). Laden Sie das PDF Ihrer Gemeinde auf der offiziellen Seite „nützliche Informationen“ herunter.",
-      "nl": "De prefectuur biedt per gemeente een attest van evacuatiebevel (datum en uur van het bevel). Download de PDF van uw gemeente op de officiële pagina «nuttige informatie»."
+      "fr": "Attestations d'ordre d'évacuation pour les 23 communes concernées (remboursements assurances) sur le site préfecture. Déclarations de sinistre prolongées jusqu'au 31 août (point 1/08 20h).",
+      "en": "Evacuation order attestations for the 23 communes concerned (insurance reimbursements) on the préfecture site. Insurance claims extended to 31 August (1/08 8pm briefing).",
+      "es": "Atestados de orden de evacuación para los 23 municipios concernidos (reembolsos seguros) en el sitio prefectural. Declaraciones de siniestro prolongadas hasta el 31 de agosto (parte 1/08 20h).",
+      "de": "Evakuierungsbescheinigungen für die 23 betroffenen Gemeinden (Versicherungsersätze) auf der Präfekturseite. Schadenmeldungen bis 31. August verlängert (Lagebericht 1.08. 20 Uhr).",
+      "nl": "Attesten van evacuatiebevel voor de 23 betrokken gemeenten (vergoedingen verzekering) op de prefectuursite. Schademeldingen verlengd tot 31 augustus (bericht 1/08 20.00 uur)."
     },
     "actionLabel": {
       "fr": "Télécharger les attestations (préfecture)",
@@ -164,8 +164,8 @@
       "nl": "Attesten downloaden (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -178,21 +178,21 @@
       "nl": "Toeristen en vakantiegangers"
     },
     "description": {
-      "fr": "En vacances ou en camping (ex. Lacanau le 28/07) : gardez votre téléphone allumé pour FR-Alert, suivez les consignes, évacuez sans délai si demandé, et ne vous fiez pas uniquement aux réseaux sociaux. Le Parc des Expositions de Bordeaux-Lac est une solution de dernier recours si vous n'avez pas d'autre endroit où aller.",
-      "en": "On holiday or camping (e.g. Lacanau on 28/07): keep your phone on for FR-Alert, follow instructions, evacuate immediately if asked, and don't rely on social media alone. The Bordeaux-Lac Exhibition Centre is a last resort if you have nowhere else to go.",
-      "es": "Si está de vacaciones o en camping (p. ej. Lacanau el 28/07): mantenga el teléfono encendido para FR-Alert, siga las consignas, evacúe sin demora si se lo indican, y no confíe solo en las redes. El Parque de Exposiciones de Bordeaux-Lac es un último recurso si no tiene otro lugar.",
-      "de": "Im Urlaub oder auf dem Campingplatz (z. B. Lacanau am 28.07.): Telefon für FR-Alert eingeschaltet lassen, Anweisungen befolgen, bei Aufforderung sofort evakuieren und sich nicht allein auf soziale Medien verlassen. Das Ausstellungszentrum Bordeaux-Lac ist eine letzte Möglichkeit.",
-      "nl": "Op vakantie of op de camping (bijv. Lacanau op 28/07): laat uw telefoon aan voor FR-Alert, volg de instructies, evacueer meteen als dat wordt gevraagd, en vertrouw niet alleen op sociale media. Het beursgebouw Bordeaux-Lac is een laatste redmiddel."
+      "fr": "Colonies de vacances et séjours adaptés à nouveau autorisés sauf dans les communes encore évacuées (Lège-Cap-Ferret, Le Porge — point 1/08 20h). Gardez le téléphone allumé pour FR-Alert. Le Parc des Expositions est fermé ; centres d'accueil : liste préfecture du 1er août.",
+      "en": "Holiday camps and adapted stays authorised again except in still-evacuated communes (Lège-Cap-Ferret, Le Porge — 1/08 8pm briefing). Keep your phone on for FR-Alert. Exhibition Centre closed; reception centres: préfecture list of 1 August.",
+      "es": "Colonias y estancias adaptadas de nuevo autorizadas salvo en municipios aún evacuados (Lège-Cap-Ferret, Le Porge — parte 1/08 20h). Mantenga el teléfono encendido para FR-Alert. Parque de Exposiciones cerrado; centros de acogida: lista prefectura del 1 de agosto.",
+      "de": "Ferienkolonien und angepasste Aufenthalte wieder erlaubt außer in weiter evakuierten Gemeinden (Lège-Cap-Ferret, Le Porge — Lagebericht 1.08. 20 Uhr). Telefon für FR-Alert anlassen. Ausstellungszentrum geschlossen; Aufnahmezentren: Präfekturliste vom 1. August.",
+      "nl": "Vakantiekampen en aangepaste verblijven weer toegestaan behalve in nog geëvacueerde gemeenten (Lège-Cap-Ferret, Le Porge — bericht 1/08 20.00 uur). Houd telefoon aan voor FR-Alert. Beursgebouw gesloten; opvangcentra: prefectuurlijst van 1 augustus."
     },
     "actionLabel": {
-      "fr": "Voir la page Bordeaux Métropole (anglais disponible)",
-      "en": "See the Bordeaux Métropole page (English available)",
-      "es": "Ver la página de Bordeaux Métropole (disponible en inglés)",
-      "de": "Seite von Bordeaux Métropole ansehen (auch auf Englisch verfügbar)",
-      "nl": "Bekijk de pagina van Bordeaux Métropole (ook in het Engels beschikbaar)"
+      "fr": "Voir le point préfecture du 1er août 20h",
+      "en": "See the 1 August 8pm préfecture briefing",
+      "es": "Ver el parte prefectural del 1 de agosto 20h",
+      "de": "Lagebericht Präfektur 1. August 20 Uhr ansehen",
+      "nl": "Bekijk het prefectuurbericht van 1 augustus 20.00 uur"
     },
-    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees",
-    "verifiedAt": "2026-08-01T21:15:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-02T09:30:00+02:00"
   }
 ]
