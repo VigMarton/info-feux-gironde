@@ -1,20 +1,16 @@
 {
   "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
   "officialAsOf": {
-    "fr": "Liste préfecture actualisée le samedi 1er août 2026 après-midi",
-    "en": "Préfecture list updated Saturday 1 August 2026 afternoon",
-    "es": "Lista de la prefectura actualizada el sábado 1 de agosto de 2026 por la tarde",
-    "de": "Präfekturliste aktualisiert am Samstag, 1. August 2026, nachmittags",
-    "nl": "Prefectuurlijst bijgewerkt op zaterdag 1 augustus 2026 's middags"
+    "fr": "Liste préfecture actualisée le 2 août 2026 (3 centres restants)",
+    "en": "Préfecture list updated 2 August 2026 (3 centres remaining)",
+    "es": "Lista de la prefectura actualizada el 2 de agosto de 2026 (3 centros restantes)",
+    "de": "Präfekturliste aktualisiert am 2. August 2026 (3 verbleibende Zentren)",
+    "nl": "Prefectuurlijst bijgewerkt op 2 augustus 2026 (3 resterende centra)"
   },
-  "verifiedAt": "2026-08-02T09:30:00+02:00",
+  "verifiedAt": "2026-08-04T06:15:00+02:00",
   "entries": [
-    { "id": "la-teste-salle-turpin", "commune": "LA TESTE DE BUCH", "place": "Salle Turpin" },
     { "id": "lacanau-albert-francois", "commune": "LACANAU", "place": "21 rue Albert François" },
     { "id": "lormont-gerontologie-chu", "commune": "LORMONT", "place": "Ancien bâtiment du Centre de gérontologie du CHU" },
-    { "id": "hostens-camping", "commune": "HOSTENS", "place": "Le camping" },
-    { "id": "le-teich-polyvalente-lekla", "commune": "LE TEICH", "place": "Salle polyvalente et salle de spectacle Lekla" },
-    { "id": "latresne-aerocampus", "commune": "LATRESNE", "place": "Aerocampus" },
-    { "id": "belin-beliet-gymnase", "commune": "BELIN-BÉLIET", "place": "Gymnase municipal, 29 rue Aliénor" }
+    { "id": "hostens-camping", "commune": "HOSTENS", "place": "Le camping" }
   ]
 }

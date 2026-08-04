@@ -16,7 +16,7 @@
       "nl": "Vigilance rouge / zeer hoog (niveau 4/5) — sinds 31/07"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-31-juillet-en-Gironde",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -28,14 +28,14 @@
       "nl": "Verbrand oppervlak (brand Saumos, sinds 22 juli)"
     },
     "value": {
-      "fr": "42 000 hectares (point 1/08 20h — inchangée)",
-      "en": "42,000 hectares (1/08 8pm briefing — unchanged)",
-      "es": "42.000 hectáreas (parte 1/08 20h — sin cambio)",
-      "de": "42.000 Hektar (Lagebericht 1.08. 20 Uhr — unverändert)",
-      "nl": "42.000 hectare (bericht 1/08 20.00 uur — ongewijzigd)"
+      "fr": "42 000 hectares (point 1/08 20h — dernière figure officielle citée)",
+      "en": "42,000 hectares (1/08 8pm briefing — latest cited official figure)",
+      "es": "42.000 hectáreas (parte 1/08 20h — última cifra oficial citada)",
+      "de": "42.000 Hektar (Lagebericht 1.08. 20 Uhr — zuletzt genannte offizielle Zahl)",
+      "nl": "42.000 hectare (bericht 1/08 20.00 uur — laatste geciteerde officiële cijfer)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,33 +47,33 @@
       "nl": "Geëvacueerden / terugkeertoestemmingen"
     },
     "value": {
-      "fr": "208 000 retours autorisés (1/08 20h) dans 21 communes. Encore évacués : Lège-Cap-Ferret et Le Porge",
-      "en": "208,000 authorised returns (1/08 8pm) across 21 communes. Still evacuated: Lège-Cap-Ferret and Le Porge",
-      "es": "208.000 retornos autorizados (1/08 20h) en 21 municipios. Aún evacuados: Lège-Cap-Ferret y Le Porge",
-      "de": "208.000 Rückkehrerlaubnisse (1.08. 20 Uhr) in 21 Gemeinden. Weiter evakuiert: Lège-Cap-Ferret und Le Porge",
-      "nl": "208.000 terugkeertoestemmingen (1/08 20.00 uur) in 21 gemeenten. Nog geëvacueerd: Lège-Cap-Ferret en Le Porge"
+      "fr": "Encore évacuée (FAQ 3/08 17h40) : la seule Presqu'île de Lège-Cap-Ferret. Retours 2/08 : Lège bourg, Le Porge village (hors Ferron / Plein Soleil). Campings nommément rouverts le 3/08 (voir préfecture).",
+      "en": "Still evacuated (FAQ 3/08 5:40pm): Cap Ferret peninsula only. Returns 2/08: Lège bourg, Le Porge village (except Ferron / Plein Soleil). Named campsites reopened 3/08 (see préfecture).",
+      "es": "Aún evacuada (FAQ 3/08 17:40): solo la península de Lège-Cap-Ferret. Retornos 2/08: Lège bourg, Le Porge pueblo (salvo Ferron / Plein Soleil). Campings nombrados reabiertos el 3/08 (ver prefectura).",
+      "de": "Weiter evakuiert (FAQ 3.08. 17:40): nur Halbinsel Cap Ferret. Rückkehr 2.08.: Lège bourg, Le Porge Dorf (außer Ferron / Plein Soleil). Genannte Campings am 3.08. wieder geöffnet (siehe Präfektur).",
+      "nl": "Nog geëvacueerd (FAQ 3/08 17.40 uur): alleen schiereiland Cap Ferret. Terugkeer 2/08: Lège bourg, Le Porge dorp (behalve Ferron / Plein Soleil). Genoemde campings heropend op 3/08 (zie prefectuur)."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "situation-feu",
     "label": {
-      "fr": "Situation du feu (préfecture)",
-      "en": "Fire status (préfecture)",
-      "es": "Situación del fuego (prefectura)",
-      "de": "Feuerlage (Präfektur)",
-      "nl": "Vuursituatie (prefectuur)"
+      "fr": "Situation du feu (FAQ préfecture)",
+      "en": "Fire status (préfecture FAQ)",
+      "es": "Situación del fuego (FAQ prefectura)",
+      "de": "Feuerlage (FAQ Präfektur)",
+      "nl": "Vuursituatie (FAQ prefectuur)"
     },
     "value": {
-      "fr": "Fixé (pas éteint) — sauf points chauds actifs : Cap Ferret et cordon dunaire sud Lacanau (point 1/08 20h)",
-      "en": "Fixed (not extinguished) — except active hot spots: Cap Ferret and dune ridge south of Lacanau (1/08 8pm briefing)",
-      "es": "Fijado (no extinguido) — salvo puntos calientes activos: Cap Ferret y cordón dunar sur Lacanau (parte 1/08 20h)",
-      "de": "Fixiert (nicht gelöscht) — außer aktive Hotspots: Cap Ferret und Dünenzug südlich Lacanau (Lagebericht 1.08. 20 Uhr)",
-      "nl": "Vastgezet (niet geblust) — behalve actieve hotspots: Cap Ferret en duinrug zuid Lacanau (bericht 1/08 20.00 uur)"
+      "fr": "Fixé (pas éteint) — sauf 2 points chauds actifs : Cap Ferret et cordon dunaire sud Lacanau (FAQ 3/08 17h40)",
+      "en": "Fixed (not extinguished) — except 2 active hot spots: Cap Ferret and dune ridge south of Lacanau (FAQ 3/08 5:40pm)",
+      "es": "Fijado (no extinguido) — salvo 2 puntos calientes activos: Cap Ferret y cordón dunar sur Lacanau (FAQ 3/08 17:40)",
+      "de": "Fixiert (nicht gelöscht) — außer 2 aktive Hotspots: Cap Ferret und Dünenzug südlich Lacanau (FAQ 3.08. 17:40)",
+      "nl": "Vastgezet (niet geblust) — behalve 2 actieve hotspots: Cap Ferret en duinrug zuid Lacanau (FAQ 3/08 17.40 uur)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -85,13 +85,13 @@
       "nl": "Voorlopige balans (mensen / materieel)"
     },
     "value": {
-      "fr": "Aucun mort ni blessé parmi la population ; plus de 330 pompiers blessés ; 252 bâtiments >20 m² détruits (provisoire, point 1/08 20h)",
-      "en": "No deaths or injuries among the population; more than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional, 1/08 8pm briefing)",
-      "es": "Ningún muerto ni herido entre la población; más de 330 bomberos heridos; 252 edificios >20 m² destruidos (provisional, parte 1/08 20h)",
-      "de": "Keine Toten oder Verletzten in der Bevölkerung; mehr als 330 verletzte Feuerwehrleute; 252 Gebäude >20 m² zerstört (vorläufig, Lagebericht 1.08. 20 Uhr)",
-      "nl": "Geen doden of gewonden onder de bevolking; meer dan 330 gewonde brandweerlieden; 252 gebouwen >20 m² verwoest (voorlopig, bericht 1/08 20.00 uur)"
+      "fr": "Aucun mort ni blessé parmi la population ; plus de 330 pompiers blessés ; 252 bâtiments >20 m² détruits (provisoire, point 1/08 20h — dernière synthèse citée)",
+      "en": "No deaths or injuries among the population; more than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional, 1/08 8pm briefing — latest cited summary)",
+      "es": "Ningún muerto ni herido entre la población; más de 330 bomberos heridos; 252 edificios >20 m² destruidos (provisional, parte 1/08 20h — última síntesis citada)",
+      "de": "Keine Toten oder Verletzten in der Bevölkerung; mehr als 330 verletzte Feuerwehrleute; 252 Gebäude >20 m² zerstört (vorläufig, Lagebericht 1.08. 20 Uhr — zuletzt genannte Zusammenfassung)",
+      "nl": "Geen doden of gewonden onder de bevolking; meer dan 330 gewonde brandweerlieden; 252 gebouwen >20 m² verwoest (voorlopig, bericht 1/08 20.00 uur — laatst geciteerde samenvatting)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   }
 ]

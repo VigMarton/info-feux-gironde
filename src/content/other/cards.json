@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -38,22 +38,22 @@
       "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
     },
     "description": {
-      "fr": "L'ARS Nouvelle-Aquitaine a déclenché le plan blanc départemental et coordonne l'évacuation sanitaire. Pour les personnes autorisées à rentrer (voir FAQ / Situation — mises à jour 31/07 12h), l'ARS publie des consignes sanitaires au retour.",
-      "en": "The Nouvelle-Aquitaine health agency (ARS) has triggered the departmental emergency hospital plan and coordinates medical evacuation. For people authorised to return (see FAQ / Situation — updated 31/07 noon), the ARS publishes health guidance for returning home.",
-      "es": "La agencia sanitaria regional (ARS) de Nouvelle-Aquitaine ha activado el plan de emergencia hospitalaria y coordina la evacuación sanitaria. Para quienes pueden volver (ver FAQ / Situation — actualizado 31/07 12h), la ARS publica consignas sanitarias al regreso.",
-      "de": "Die Gesundheitsbehörde ARS Nouvelle-Aquitaine hat den departementalen Krankenhaus-Notfallplan ausgelöst und koordiniert die medizinische Evakuierung. Für Rückkehrer (siehe FAQ / Situation — Stand 31.07. 12 Uhr) gibt die ARS Gesundheitsempfehlungen für die Rückkehr heraus.",
-      "nl": "De regionale gezondheidsdienst (ARS) Nouvelle-Aquitaine heeft het departementale noodplan geactiveerd en coördineert medische evacuatie. Voor wie mag terugkeren (zie FAQ / Situation — bijgewerkt 31/07 12.00 uur) publiceert de ARS gezondheidsadviezen bij terugkeer."
+      "fr": "L'ARS coordonne les retours des personnes vulnérables évacuées d'établissements (première vague depuis le 3 août — FAQ). Contactez la direction de l'établissement. Personnes vulnérables à domicile : Conseil départemental 05 56 99 66 99 (tapez 1) / dgas-crisespublicsvulnerables@gironde.fr (8h–20h).",
+      "en": "The ARS coordinates returns of vulnerable people evacuated from care facilities (first wave since 3 August — FAQ). Contact the facility management. Vulnerable people at home: Conseil départemental 05 56 99 66 99 (press 1) / dgas-crisespublicsvulnerables@gironde.fr (8am–8pm).",
+      "es": "La ARS coordina los retornos de personas vulnerables evacuadas de establecimientos (primera oleada desde el 3 de agosto — FAQ). Contacte la dirección del centro. Vulnerables a domicilio: Consejo departamental 05 56 99 66 99 (pulse 1) / dgas-crisespublicsvulnerables@gironde.fr (8h–20h).",
+      "de": "Die ARS koordiniert die Rückkehr schutzbedürftiger Personen aus Einrichtungen (erste Welle seit 3. August — FAQ). Einrichtungsleitung kontaktieren. Schutzbedürftige zu Hause: Département 05 56 99 66 99 (Taste 1) / dgas-crisespublicsvulnerables@gironde.fr (8–20 Uhr).",
+      "nl": "De ARS coördineert de terugkeer van kwetsbare mensen uit instellingen (eerste golf sinds 3 augustus — FAQ). Neem contact op met de directie. Kwetsbaren thuis: departement 05 56 99 66 99 (toets 1) / dgas-crisespublicsvulnerables@gironde.fr (8–20 uur)."
     },
     "actionLabel": {
-      "fr": "Lire les consignes ARS (retour / fumées)",
-      "en": "Read ARS guidance (return / smoke)",
-      "es": "Leer consignas ARS (retorno / humo)",
-      "de": "ARS-Empfehlungen lesen (Rückkehr / Rauch)",
-      "nl": "Lees ARS-adviezen (terugkeer / rook)"
+      "fr": "Lire la FAQ préfecture (personnes vulnérables)",
+      "en": "Read the préfecture FAQ (vulnerable people)",
+      "es": "Leer la FAQ prefectural (personas vulnerables)",
+      "de": "FAQ der Präfektur lesen (Schutzbedürftige)",
+      "nl": "Lees de FAQ van de prefectuur (kwetsbaren)"
     },
-    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-2026-feux-de-foret-en-gironde-et-dans-les-landes-recommandations-sanitaires-et",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
     "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -136,8 +136,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -164,8 +164,8 @@
       "nl": "Attesten downloaden (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -178,21 +178,21 @@
       "nl": "Toeristen en vakantiegangers"
     },
     "description": {
-      "fr": "Colonies de vacances et séjours adaptés à nouveau autorisés sauf dans les communes encore évacuées (Lège-Cap-Ferret, Le Porge — point 1/08 20h). Gardez le téléphone allumé pour FR-Alert. Le Parc des Expositions est fermé ; centres d'accueil : liste préfecture du 1er août.",
-      "en": "Holiday camps and adapted stays authorised again except in still-evacuated communes (Lège-Cap-Ferret, Le Porge — 1/08 8pm briefing). Keep your phone on for FR-Alert. Exhibition Centre closed; reception centres: préfecture list of 1 August.",
-      "es": "Colonias y estancias adaptadas de nuevo autorizadas salvo en municipios aún evacuados (Lège-Cap-Ferret, Le Porge — parte 1/08 20h). Mantenga el teléfono encendido para FR-Alert. Parque de Exposiciones cerrado; centros de acogida: lista prefectura del 1 de agosto.",
-      "de": "Ferienkolonien und angepasste Aufenthalte wieder erlaubt außer in weiter evakuierten Gemeinden (Lège-Cap-Ferret, Le Porge — Lagebericht 1.08. 20 Uhr). Telefon für FR-Alert anlassen. Ausstellungszentrum geschlossen; Aufnahmezentren: Präfekturliste vom 1. August.",
-      "nl": "Vakantiekampen en aangepaste verblijven weer toegestaan behalve in nog geëvacueerde gemeenten (Lège-Cap-Ferret, Le Porge — bericht 1/08 20.00 uur). Houd telefoon aan voor FR-Alert. Beursgebouw gesloten; opvangcentra: prefectuurlijst van 1 augustus."
+      "fr": "3 août : certains campings de Lège-Cap-Ferret nommément rouverts (voir communiqué). Presqu'île encore en évacuation (FAQ). Gardez le téléphone allumé pour FR-Alert. PEX fermé ; centres d'accueil : liste préfecture (3 sites).",
+      "en": "3 August: some Lège-Cap-Ferret campsites named as reopened (see release). Peninsula still evacuated (FAQ). Keep your phone on for FR-Alert. Exhibition Centre closed; reception centres: préfecture list (3 sites).",
+      "es": "3 de agosto: algunos campings de Lège-Cap-Ferret nombrados reabiertos (ver comunicado). Península aún evacuada (FAQ). Mantenga el teléfono encendido para FR-Alert. Parque de Exposiciones cerrado; centros: lista prefectura (3 sitios).",
+      "de": "3. August: einige Campings in Lège-Cap-Ferret namentlich wieder geöffnet (siehe Mitteilung). Halbinsel weiter evakuiert (FAQ). Telefon für FR-Alert anlassen. Ausstellungszentrum geschlossen; Aufnahmezentren: Präfekturliste (3 Standorte).",
+      "nl": "3 augustus: sommige campings in Lège-Cap-Ferret met naam heropend (zie bericht). Schiereiland nog geëvacueerd (FAQ). Houd telefoon aan voor FR-Alert. Beursgebouw gesloten; opvangcentra: prefectuurlijst (3 locaties)."
     },
     "actionLabel": {
-      "fr": "Voir le point préfecture du 1er août 20h",
-      "en": "See the 1 August 8pm préfecture briefing",
-      "es": "Ver el parte prefectural del 1 de agosto 20h",
-      "de": "Lagebericht Präfektur 1. August 20 Uhr ansehen",
-      "nl": "Bekijk het prefectuurbericht van 1 augustus 20.00 uur"
+      "fr": "Voir le communiqué campings (3 août)",
+      "en": "See the campsites release (3 August)",
+      "es": "Ver el comunicado campings (3 agosto)",
+      "de": "Camping-Mitteilung ansehen (3. August)",
+      "nl": "Bekijk het campingbericht (3 augustus)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reouverture-de-plusieurs-campings-et-poursuite-des-consignes-de-vigilance",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reouverture-de-plusieurs-campings-et-poursuite-des-consignes-de-vigilance",
+    "verifiedAt": "2026-08-04T06:15:00+02:00"
   }
 ]

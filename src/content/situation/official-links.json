@@ -2,13 +2,13 @@
   {
     "id": "prefecture-communiques",
     "label": {
-      "fr": "Communiqués de presse de la préfecture de la Gironde",
-      "en": "Gironde préfecture press releases",
-      "es": "Comunicados de prensa de la prefectura de la Gironda",
-      "de": "Pressemitteilungen der Präfektur der Gironde",
-      "nl": "Persberichten van de prefectuur van de Gironde"
+      "fr": "Communiqués de presse de la préfecture (août 2026)",
+      "en": "Préfecture press releases (August 2026)",
+      "es": "Comunicados de prensa de la prefectura (agosto 2026)",
+      "de": "Pressemitteilungen der Präfektur (August 2026)",
+      "nl": "Persberichten van de prefectuur (augustus 2026)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026",
     "tier": 0
   },
   {
@@ -26,11 +26,11 @@
   {
     "id": "centres-accueil-liste",
     "label": {
-      "fr": "Liste et adresses des centres d'accueil (préfecture, mise à jour 1er août après-midi)",
-      "en": "List and addresses of reception centres (préfecture, updated 1 August afternoon)",
-      "es": "Lista y direcciones de los centros de acogida (prefectura, actualizada 1 de agosto tarde)",
-      "de": "Liste und Adressen der Aufnahmezentren (Präfektur, Stand 1. August nachmittags)",
-      "nl": "Lijst en adressen van de opvangcentra (prefectuur, bijgewerkt 1 augustus 's middags)"
+      "fr": "Liste et adresses des centres d'accueil (préfecture, 3 centres — maj 2 août)",
+      "en": "List and addresses of reception centres (préfecture, 3 centres — updated 2 August)",
+      "es": "Lista y direcciones de los centros de acogida (prefectura, 3 centros — act. 2 agosto)",
+      "de": "Liste und Adressen der Aufnahmezentren (Präfektur, 3 Zentren — Stand 2. August)",
+      "nl": "Lijst en adressen van de opvangcentra (prefectuur, 3 centra — bijgewerkt 2 augustus)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
     "tier": 0
@@ -38,13 +38,25 @@
   {
     "id": "cellule-information-public",
     "label": {
-      "fr": "Cellule d'information du public — 09 70 80 90 40 (8h30–19h30, point 1/08 20h)",
-      "en": "Public information line — 09 70 80 90 40 (8:30am–7:30pm, 1/08 8pm briefing)",
-      "es": "Línea de información al público — 09 70 80 90 40 (8:30–19:30, parte 1/08 20h)",
-      "de": "Bürgertelefon — 09 70 80 90 40 (8:30–19:30, Lagebericht 1.08. 20 Uhr)",
-      "nl": "Publieksinformatielijn — 09 70 80 90 40 (8.30–19.30 uur, bericht 1/08 20.00 uur)"
+      "fr": "Cellule d'information du public — 09 70 80 90 40 (9h–17h, FAQ 3/08)",
+      "en": "Public information line — 09 70 80 90 40 (9am–5pm, FAQ 3/08)",
+      "es": "Línea de información al público — 09 70 80 90 40 (9h–17h, FAQ 3/08)",
+      "de": "Bürgertelefon — 09 70 80 90 40 (9–17 Uhr, FAQ 3.08.)",
+      "nl": "Publieksinformatielijn — 09 70 80 90 40 (9–17 uur, FAQ 3/08)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "tier": 0
+  },
+  {
+    "id": "france-services-victimes-porge",
+    "label": {
+      "fr": "Maison France Services Victimes — Le Porge (groupe scolaire), 9h–18h",
+      "en": "France Services Victims centre — Le Porge (school), 9am–6pm",
+      "es": "Maison France Services Victimes — Le Porge (grupo escolar), 9h–18h",
+      "de": "Maison France Services Victimes — Le Porge (Schule), 9–18 Uhr",
+      "nl": "Maison France Services Victimes — Le Porge (school), 9–18 uur"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Ouverture-d-un-centre-d-accueil-France-Services-Victimes-au-Porge",
     "tier": 0
   },
   {

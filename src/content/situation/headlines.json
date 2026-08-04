@@ -1,30 +1,86 @@
 [
   {
-    "id": "point-situation-1-aout-20h",
+    "id": "faq-3-aout-presquile-seulement",
     "text": {
-      "fr": "1er août (20h) : feu fixé sauf Cap Ferret et cordon dunaire sud Lacanau. 42 000 ha ; 208 000 retours (21 communes) ; Lège-Cap-Ferret et Le Porge encore évacués. Plus de 330 pompiers blessés ; 252 bâtiments >20 m² détruits (provisoire). Aucun mort ni blessé parmi la population. CIP 8h30–19h30. Déclarations de sinistre prolongées jusqu'au 31/08.",
-      "en": "1 August (8pm): fire fixed except Cap Ferret and dune ridge south of Lacanau. 42,000 ha; 208,000 returns (21 communes); Lège-Cap-Ferret and Le Porge still evacuated. More than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional). No deaths or injuries among the population. Info line 8:30am–7:30pm. Insurance claims extended to 31/08.",
-      "es": "1 de agosto (20h): fuego fijado salvo Cap Ferret y cordón dunar sur Lacanau. 42.000 ha; 208.000 retornos (21 municipios); Lège-Cap-Ferret y Le Porge aún evacuados. Más de 330 bomberos heridos; 252 edificios >20 m² destruidos (provisional). Ningún muerto ni herido entre la población. CIP 8:30–19:30. Declaraciones de siniestro prolongadas hasta el 31/08.",
-      "de": "1. August (20 Uhr): Feuer fixiert außer Cap Ferret und Dünenzug südlich Lacanau. 42.000 ha; 208.000 Rückkehrer (21 Gemeinden); Lège-Cap-Ferret und Le Porge weiter evakuiert. Mehr als 330 verletzte Feuerwehrleute; 252 Gebäude >20 m² zerstört (vorläufig). Keine Toten oder Verletzten in der Bevölkerung. CIP 8:30–19:30. Schadenmeldungen bis 31.08. verlängert.",
-      "nl": "1 augustus (20.00 uur): vuur vastgezet behalve Cap Ferret en duinrug zuid Lacanau. 42.000 ha; 208.000 terugkeerders (21 gemeenten); Lège-Cap-Ferret en Le Porge nog geëvacueerd. Meer dan 330 gewonde brandweerlieden; 252 gebouwen >20 m² verwoest (voorlopig). Geen doden of gewonden onder de bevolking. CIP 8.30–19.30 uur. Schademeldingen verlengd tot 31/08."
+      "fr": "3 août (FAQ 17h40) : seule la Presqu'île de Lège-Cap-Ferret reste en évacuation préventive. Retours confirmés : Lège bourg, Le Porge (liste FAQ). Feu toujours fixé sauf Cap Ferret / sud Lacanau. CIP : 09 70 80 90 40 de 9h à 17h.",
+      "en": "3 August (FAQ 5:40pm): only the Cap Ferret peninsula remains under preventive evacuation. Confirmed returns: Lège bourg, Le Porge (FAQ list). Fire still fixed except Cap Ferret / south Lacanau. Info line: 09 70 80 90 40 from 9am to 5pm.",
+      "es": "3 de agosto (FAQ 17:40): solo la península de Lège-Cap-Ferret sigue en evacuación preventiva. Retornos confirmados: Lège bourg, Le Porge (lista FAQ). Fuego aún fijado salvo Cap Ferret / sur Lacanau. CIP: 09 70 80 90 40 de 9h a 17h.",
+      "de": "3. August (FAQ 17:40): nur die Halbinsel Cap Ferret bleibt vorsorglich evakuiert. Bestätigte Rückkehr: Lège bourg, Le Porge (FAQ-Liste). Feuer weiter fixiert außer Cap Ferret / Süden Lacanau. Infotelefon: 09 70 80 90 40 von 9–17 Uhr.",
+      "nl": "3 augustus (FAQ 17.40 uur): alleen het schiereiland Cap Ferret blijft preventief geëvacueerd. Bevestigde terugkeer: Lège bourg, Le Porge (FAQ-lijst). Vuur nog vastgezet behalve Cap Ferret / zuid Lacanau. Infolijn: 09 70 80 90 40 van 9–17 uur."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
+    "occurredAt": "2026-08-03T17:40:00+02:00"
+  },
+  {
+    "id": "campings-reouverture-3-aout",
+    "text": {
+      "fr": "3 août : réouverture de campings à Lège-Cap-Ferret (Lège bourg : La Pinède, La Prairie ; Claouey : Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers ; Piquey : Le Truc Vert). Confirmer sur le communiqué avant tout déplacement.",
+      "en": "3 August: campsite reopenings in Lège-Cap-Ferret (Lège bourg: La Pinède, La Prairie; Claouey: Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers; Piquey: Le Truc Vert). Confirm on the official release before travelling.",
+      "es": "3 de agosto: reapertura de campings en Lège-Cap-Ferret (Lège bourg: La Pinède, La Prairie; Claouey: Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers; Piquey: Le Truc Vert). Confirme en el comunicado oficial antes de desplazarse.",
+      "de": "3. August: Wiedereröffnung von Campings in Lège-Cap-Ferret (Lège bourg: La Pinède, La Prairie; Claouey: Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers; Piquey: Le Truc Vert). Vor Anreise offizielle Mitteilung prüfen.",
+      "nl": "3 augustus: heropening van campings in Lège-Cap-Ferret (Lège bourg: La Pinède, La Prairie; Claouey: Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers; Piquey: Le Truc Vert). Bevestig via het officiële bericht vóór vertrek."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reouverture-de-plusieurs-campings-et-poursuite-des-consignes-de-vigilance",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
+    "occurredAt": "2026-08-03T14:00:00+02:00"
+  },
+  {
+    "id": "france-services-victimes-porge-3-aout",
+    "text": {
+      "fr": "3 août : ouverture d'une Maison France Services Victimes au Porge (groupe scolaire), tous les jours de 9h à 18h — accompagnement sinistrés (assurances, CAF, emploi, fiscalité, droit…).",
+      "en": "3 August: France Services Victims centre opens in Le Porge (school complex), daily 9am–6pm — support for those affected (insurance, CAF, employment, tax, legal rights…).",
+      "es": "3 de agosto: apertura de una Maison France Services Victimes en Le Porge (grupo escolar), todos los días de 9h a 18h — acompañamiento a afectados (seguros, CAF, empleo, fiscalidad, derecho…).",
+      "de": "3. August: Eröffnung einer Maison France Services Victimes in Le Porge (Schulkomplex), täglich 9–18 Uhr — Begleitung Betroffener (Versicherung, CAF, Arbeit, Steuern, Recht…).",
+      "nl": "3 augustus: opening van een Maison France Services Victimes in Le Porge (schoolcomplex), dagelijks 9–18 uur — begeleiding getroffenen (verzekering, CAF, werk, fiscaliteit, recht…)."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Ouverture-d-un-centre-d-accueil-France-Services-Victimes-au-Porge",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
+    "occurredAt": "2026-08-03T14:00:00+02:00"
+  },
+  {
+    "id": "retour-lege-porge-2-aout",
+    "text": {
+      "fr": "2 août : réintégration Lège bourg et Le Porge village dès 14h (hors Ferron et Plein Soleil — déminage) ; lieux-dits Mistre et Andrauts (Lacanau) dès 14h. Campings / habitats légers exclus sauf campings nommément rouverts le 3/08. FAQ 3/08 : Presqu'île encore évacuée.",
+      "en": "2 August: return for Lège bourg and Le Porge village from 2pm (except Ferron and Plein Soleil — demining); Mistre and Andrauts (Lacanau) from 2pm. Campsites / light habitats excluded except campsites named as reopened on 3/08. FAQ 3/08: peninsula still evacuated.",
+      "es": "2 de agosto: reintegración Lège bourg y Le Porge pueblo desde las 14h (salvo Ferron y Plein Soleil — desminado); Mistre y Andrauts (Lacanau) desde las 14h. Campings / hábitats ligeros excluidos salvo campings nombrados reabiertos el 3/08. FAQ 3/08: península aún evacuada.",
+      "de": "2. August: Rückkehr Lège bourg und Le Porge Dorf ab 14 Uhr (außer Ferron und Plein Soleil — Entminung); Mistre und Andrauts (Lacanau) ab 14 Uhr. Campings / leichte Behausungen ausgeschlossen außer am 3.08. namentlich wieder geöffnete Campings. FAQ 3.08.: Halbinsel weiter evakuiert.",
+      "nl": "2 augustus: terugkeer Lège bourg en Le Porge dorp vanaf 14.00 uur (behalve Ferron en Plein Soleil — ontmijning); Mistre en Andrauts (Lacanau) vanaf 14.00 uur. Campings / lichte woningen uitgesloten behalve campings die op 3/08 met naam heropend zijn. FAQ 3/08: schiereiland nog geëvacueerd."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-les-communes-de-Lege-Cap-Ferret-et-du-Porge",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
+    "occurredAt": "2026-08-02T14:00:00+02:00"
+  },
+  {
+    "id": "point-situation-1-aout-20h",
+    "text": {
+      "fr": "1er août (20h) : feu fixé sauf Cap Ferret et cordon dunaire sud Lacanau. 42 000 ha ; 208 000 retours (21 communes) ; Lège-Cap-Ferret et Le Porge encore évacués. Plus de 330 pompiers blessés ; 252 bâtiments >20 m² détruits (provisoire). Aucun mort ni blessé parmi la population. CIP alors 8h30–19h30. Déclarations de sinistre prolongées jusqu'au 31/08.",
+      "en": "1 August (8pm): fire fixed except Cap Ferret and dune ridge south of Lacanau. 42,000 ha; 208,000 returns (21 communes); Lège-Cap-Ferret and Le Porge still evacuated. More than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional). No deaths or injuries among the population. Info line then 8:30am–7:30pm. Insurance claims extended to 31/08.",
+      "es": "1 de agosto (20h): fuego fijado salvo Cap Ferret y cordón dunar sur Lacanau. 42.000 ha; 208.000 retornos (21 municipios); Lège-Cap-Ferret y Le Porge aún evacuados. Más de 330 bomberos heridos; 252 edificios >20 m² destruidos (provisional). Ningún muerto ni herido entre la población. CIP entonces 8:30–19:30. Declaraciones de siniestro prolongadas hasta el 31/08.",
+      "de": "1. August (20 Uhr): Feuer fixiert außer Cap Ferret und Dünenzug südlich Lacanau. 42.000 ha; 208.000 Rückkehrer (21 Gemeinden); Lège-Cap-Ferret und Le Porge weiter evakuiert. Mehr als 330 verletzte Feuerwehrleute; 252 Gebäude >20 m² zerstört (vorläufig). Keine Toten oder Verletzten in der Bevölkerung. CIP damals 8:30–19:30. Schadenmeldungen bis 31.08. verlängert.",
+      "nl": "1 augustus (20.00 uur): vuur vastgezet behalve Cap Ferret en duinrug zuid Lacanau. 42.000 ha; 208.000 terugkeerders (21 gemeenten); Lège-Cap-Ferret en Le Porge nog geëvacueerd. Meer dan 330 gewonde brandweerlieden; 252 gebouwen >20 m² verwoest (voorlopig). Geen doden of gewonden onder de bevolking. CIP toen 8.30–19.30 uur. Schademeldingen verlengd tot 31/08."
+    },
+    "sourceName": "Préfecture de la Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-08-01T20:00:00+02:00"
   },
   {
     "id": "feu-fixe-faq-1-aout",
     "text": {
-      "fr": "1er août (FAQ 16h) : l'incendie est désormais fixé (pas éteint), sauf 2 points chauds actifs — Cap Ferret et cordon dunaire sud Lacanau. Encore évacués : Lège-Cap-Ferret et Le Porge. Vigilance rouge. CIP : 09 70 80 90 40 de 8h30 à 19h30 (confirmé point 20h).",
-      "en": "1 August (FAQ 4pm): the fire is now fixed (not extinguished), except 2 active hot spots — Cap Ferret and dune ridge south of Lacanau. Still evacuated: Lège-Cap-Ferret and Le Porge. Vigilance rouge. Info line: 09 70 80 90 40 from 8:30am to 7:30pm (confirmed in 8pm briefing).",
-      "es": "1 de agosto (FAQ 16h): el incendio está ahora fijado (no extinguido), salvo 2 puntos calientes activos — Cap Ferret y cordón dunar sur Lacanau. Aún evacuados: Lège-Cap-Ferret y Le Porge. Vigilancia roja. CIP: 09 70 80 90 40 de 8:30 a 19:30 (confirmado en el parte de las 20h).",
-      "de": "1. August (FAQ 16 Uhr): Feuer nun fixiert (nicht gelöscht), außer 2 aktiven Hotspots — Cap Ferret und Dünenzug südlich Lacanau. Weiter evakuiert: Lège-Cap-Ferret und Le Porge. Vigilance rouge. Infotelefon: 09 70 80 90 40 von 8:30–19:30 (im 20-Uhr-Bericht bestätigt).",
-      "nl": "1 augustus (FAQ 16.00 uur): het vuur is nu vastgezet (niet geblust), behalve 2 actieve hotspots — Cap Ferret en duinrug zuid Lacanau. Nog geëvacueerd: Lège-Cap-Ferret en Le Porge. Vigilance rouge. Infolijn: 09 70 80 90 40 van 8.30–19.30 uur (bevestigd in bericht 20.00 uur)."
+      "fr": "1er août (FAQ 16h) : l'incendie est désormais fixé (pas éteint), sauf 2 points chauds actifs — Cap Ferret et cordon dunaire sud Lacanau. Encore évacués à cette date : Lège-Cap-Ferret et Le Porge. Vigilance rouge.",
+      "en": "1 August (FAQ 4pm): the fire is now fixed (not extinguished), except 2 active hot spots — Cap Ferret and dune ridge south of Lacanau. Still evacuated at that time: Lège-Cap-Ferret and Le Porge. Vigilance rouge.",
+      "es": "1 de agosto (FAQ 16h): el incendio está ahora fijado (no extinguido), salvo 2 puntos calientes activos — Cap Ferret y cordón dunar sur Lacanau. Aún evacuados en esa fecha: Lège-Cap-Ferret y Le Porge. Vigilancia roja.",
+      "de": "1. August (FAQ 16 Uhr): Feuer nun fixiert (nicht gelöscht), außer 2 aktiven Hotspots — Cap Ferret und Dünenzug südlich Lacanau. Damals weiter evakuiert: Lège-Cap-Ferret und Le Porge. Vigilance rouge.",
+      "nl": "1 augustus (FAQ 16.00 uur): het vuur is nu vastgezet (niet geblust), behalve 2 actieve hotspots — Cap Ferret en duinrug zuid Lacanau. Toen nog geëvacueerd: Lège-Cap-Ferret en Le Porge. Vigilance rouge."
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-08-01T16:00:00+02:00"
   },
   {
@@ -37,8 +93,8 @@
       "nl": "1 augustus: terugkeer toegestaan voor Arès, Marcheprime, Saumos, Le Temple, en Audenge (Lubec en La Pointe). Totaal 21 gemeenten heringericht; 208.000 terugkeerders (bericht 20.00 uur)."
     },
     "sourceName": "Préfecture de la Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-4-nouvelles-communes",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-08-01T12:00:00+02:00"
   },
   {
@@ -52,7 +108,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Gironde-Point-de-situation-ce-vendredi-31-juillet-a-20h30",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-31T20:30:00+02:00"
   },
   {
@@ -66,7 +122,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-2-nouvelles-communes-Andernos-les-bains-et-Lanton",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-31T16:00:00+02:00"
   },
   {
@@ -80,7 +136,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-31-juillet-en-Gironde",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-31T12:00:00+02:00"
   },
   {
@@ -94,7 +150,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-31T12:00:00+02:00"
   },
   {
@@ -108,7 +164,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-30T20:00:00+02:00"
   },
   {
@@ -122,7 +178,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-16h-ce-jeudi-30-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-30T16:00:00+02:00"
   },
   {
@@ -136,7 +192,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Point-de-situation-ce-jeudi-30-juillet-a-20h",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-30T10:00:00+02:00"
   },
   {
@@ -150,7 +206,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-23h00-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-29T23:00:00+02:00"
   },
   {
@@ -164,7 +220,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-29T15:30:00+02:00"
   },
   {
@@ -178,7 +234,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-29T15:25:00+02:00"
   },
   {
@@ -192,7 +248,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-29T15:20:00+02:00"
   },
   {
@@ -206,7 +262,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T22:30:00+02:00"
   },
   {
@@ -220,7 +276,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-mardi-28-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T22:25:00+02:00"
   },
   {
@@ -234,7 +290,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-15h30-ce-mercredi-29-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T22:20:00+02:00"
   },
   {
@@ -248,7 +304,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-30T10:00:00+02:00"
   },
   {
@@ -262,7 +318,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T13:00:00+02:00"
   },
   {
@@ -276,7 +332,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-mardi-28-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T12:55:00+02:00"
   },
   {
@@ -290,7 +346,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Lacanau-evacuations-des-campings-des-residences-de-tourisme-et-des-villages-vacances",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T11:00:00+02:00"
   },
   {
@@ -304,7 +360,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-28T08:00:00+02:00"
   },
   {
@@ -318,7 +374,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-27T22:30:00+02:00"
   },
   {
@@ -332,7 +388,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h30-ce-lundi-27-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-27T16:00:00+02:00"
   },
   {
@@ -346,7 +402,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-14h00-ce-lundi-27-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-27T14:00:00+02:00"
   },
   {
@@ -360,7 +416,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-27T09:00:00+02:00"
   },
   {
@@ -374,7 +430,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Arretes-d-interdiction-pris-par-la-prefete-de-la-Gironde",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-27T08:00:00+02:00"
   },
   {
@@ -388,7 +444,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-22h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-26T22:00:00+02:00"
   },
   {
@@ -402,7 +458,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-point-de-situation-a-13h00-ce-dimanche-26-juillet",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-26T13:00:00+02:00"
   },
   {
@@ -416,7 +472,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Evacuations-des-communes-de-Marcheprime-Le-Barp-Biganos-Mios-Cestas",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-25T21:00:00+02:00"
   },
   {
@@ -430,7 +486,7 @@
     },
     "sourceName": "Préfecture de la Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-en-Gironde-declenchement-de-FR-Alert-pour-l-evacuation-des-nouvelles-communes",
-    "verifiedAt": "2026-08-02T09:30:00+02:00",
+    "verifiedAt": "2026-08-04T06:15:00+02:00",
     "occurredAt": "2026-07-25T12:00:00+02:00"
   }
 ]
