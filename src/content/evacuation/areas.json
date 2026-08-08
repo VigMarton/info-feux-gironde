@@ -1,29 +1,29 @@
 [
   {
-    "id": "lege-cap-ferret-presquile",
-    "commune": "Presqu'île de Lège-Cap-Ferret",
+    "id": "zones-brulees-interdites",
+    "commune": "Secteurs impactés par les incendies",
     "description": {
-      "fr": "Seule zone encore en évacuation préventive (FAQ préfecture du 3 août 17h40). Points chauds encore actifs sur la presqu'île. Retour uniquement si la préfecture l'autorise. Exception 3/08 : certains campings nommément rouverts (La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers, Le Truc Vert) — confirmer sur le communiqué officiel avant de se déplacer.",
-      "en": "Only zone still under preventive evacuation (préfecture FAQ, 3 August 5:40pm). Hot spots still active on the peninsula. Return only if the préfecture authorises it. Exception 3/08: named campsites reopened (La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers, Le Truc Vert) — confirm on the official release before travelling.",
-      "es": "Única zona aún en evacuación preventiva (FAQ prefectura 3 de agosto 17:40). Puntos calientes aún activos en la península. Retorno solo si la prefectura lo autoriza. Excepción 3/08: campings nombrados reabiertos (La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers, Le Truc Vert) — confirme en el comunicado oficial antes de desplazarse.",
-      "de": "Einzige Zone weiter unter vorsorglicher Evakuierung (FAQ Präfektur 3. August 17:40). Hotspots weiter aktiv auf der Halbinsel. Rückkehr nur nach Präfekturgenehmigung. Ausnahme 3.08.: genannte Campings wieder geöffnet (La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers, Le Truc Vert) — vor Anreise offizielle Mitteilung prüfen.",
-      "nl": "Enige zone nog onder preventieve evacuatie (FAQ prefectuur 3 augustus 17.40 uur). Hotspots nog actief op het schiereiland. Terugkeer alleen na toestemming van de prefectuur. Uitzondering 3/08: genoemde campings heropend (La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers, Le Truc Vert) — bevestig via het officiële bericht vóór vertrek."
+      "fr": "Accès interdit aux secteurs directement impactés par les incendies, sauf personnes dûment autorisées (chute d'arbres, fumerons). Vigilance rouge depuis le 8/08 12h — respecter les restrictions forestières.",
+      "en": "Access forbidden to sectors directly impacted by the fires, except duly authorised persons (falling trees, hot spots). Vigilance rouge since 8/08 noon — respect forest restrictions.",
+      "es": "Acceso prohibido a los sectores directamente afectados por los incendios, salvo personas debidamente autorizadas (caída de árboles, fumerolas). Vigilancia roja desde el 8/08 12h — respetar restricciones forestales.",
+      "de": "Zugang zu direkt vom Brand betroffenen Sektoren verboten, außer berechtigte Personen (Baumsturz, Hotspots). Vigilance rouge seit 8.08. 12 Uhr — Forstbeschränkungen beachten.",
+      "nl": "Toegang tot rechtstreeks door brand getroffen sectoren verboden, behalve bevoegde personen (vallende bomen, hotspots). Vigilance rouge sinds 8/08 12.00 uur — respecteer bosbeperkingen."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-8-aout-en-Gironde",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
-    "id": "retour-lege-bourg-le-porge-2-aout",
-    "commune": "Lège bourg ; Le Porge (village) ; Lacanau (Mistre, Andrauts)",
+    "id": "retour-lege-porge-complet-3-aout",
+    "commune": "Lège-Cap-Ferret ; Le Porge (y compris Ferron et Plein Soleil)",
     "description": {
-      "fr": "2 août : réintégration à 14h pour Lège bourg et Le Porge village (hors Le Ferron et Plein Soleil — déminage). Aussi lieux-dits Mistre et Andrauts (Lacanau) dès 14h. Hors campings / habitats légers sauf campings nommément rouverts le 3/08. Presqu'île : encore évacuée (FAQ 3/08).",
-      "en": "2 August: return from 2pm for Lège bourg and Le Porge village (except Le Ferron and Plein Soleil — demining). Also Mistre and Andrauts (Lacanau) from 2pm. Excludes campsites / light habitats except campsites named as reopened on 3/08. Peninsula: still evacuated (FAQ 3/08).",
-      "es": "2 de agosto: reintegración desde las 14h para Lège bourg y Le Porge pueblo (salvo Le Ferron y Plein Soleil — desminado). También Mistre y Andrauts (Lacanau) desde las 14h. Fuera campings / hábitats ligeros salvo campings nombrados reabiertos el 3/08. Península: aún evacuada (FAQ 3/08).",
-      "de": "2. August: Rückkehr ab 14 Uhr für Lège bourg und Le Porge Dorf (außer Le Ferron und Plein Soleil — Entminung). Auch Mistre und Andrauts (Lacanau) ab 14 Uhr. Außer Campings / leichte Behausungen außer am 3.08. namentlich wieder geöffnete Campings. Halbinsel: weiter evakuiert (FAQ 3.08.).",
-      "nl": "2 augustus: terugkeer vanaf 14.00 uur voor Lège bourg en Le Porge dorp (behalve Le Ferron en Plein Soleil — ontmijning). Ook Mistre en Andrauts (Lacanau) vanaf 14.00 uur. Behalve campings / lichte woningen, tenzij campings die op 3/08 met naam heropend zijn. Schiereiland: nog geëvacueerd (FAQ 3/08)."
+      "fr": "3 août : réintégration des deux dernières communes évacuées. Quartiers Ferron et Plein Soleil (Le Porge) rouverts le soir après déminage (>400 obus récupérés). Campings Lège nommément rouverts le 3/08 ; Grigne et domaine Jenny (Le Porge) : évacués dès 5/08 10h, vacanciers dès 8/08.",
+      "en": "3 August: return authorised for the last two evacuated communes. Ferron and Plein Soleil (Le Porge) reopened that evening after demining (>400 shells recovered). Named Lège campsites reopened 3/08; Grigne and Jenny estate (Le Porge): evacuees from 5/08 10am, holidaymakers from 8/08.",
+      "es": "3 de agosto: reintegración de los dos últimos municipios evacuados. Barrios Ferron y Plein Soleil (Le Porge) reabiertos esa noche tras el desminado (>400 proyectiles recuperados). Campings de Lège nombrados reabiertos el 3/08; Grigne y dominio Jenny (Le Porge): evacuados desde 5/08 10h, vacacionistas desde 8/08.",
+      "de": "3. August: Rückkehr in die letzten beiden evakuierten Gemeinden. Viertel Ferron und Plein Soleil (Le Porge) am Abend nach Entminung wieder offen (>400 Granaten geborgen). Genannte Lège-Campings am 3.08. wieder offen; Grigne und Domaine Jenny (Le Porge): Evakuierte ab 5.08. 10 Uhr, Urlauber ab 8.08.",
+      "nl": "3 augustus: terugkeer naar de laatste twee geëvacueerde gemeenten. Wijken Ferron en Plein Soleil (Le Porge) die avond heropend na ontmijning (>400 granaten geborgen). Genoemde Lège-campings heropend op 3/08; Grigne en domaine Jenny (Le Porge): geëvacueerden vanaf 5/08 10.00 uur, vakantiegangers vanaf 8/08."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-les-communes-de-Lege-Cap-Ferret-et-du-Porge",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "retour-ares-marcheprime-saumos-temple-1-aout",
@@ -36,45 +36,45 @@
       "nl": "1 augustus: terugkeer toegestaan voor Arès, Marcheprime, Saumos, Le Temple, en de wijken Lubec en La Pointe in Audenge. Raadpleeg Inforoutes / prefectuurkaart. Waakzaamheid; respecteer verboden zones."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-4-nouvelles-communes",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "retour-andernos-lanton-31-juillet",
     "commune": "Andernos-les-Bains, Lanton",
     "description": {
-      "fr": "31 juillet dès 16h : réintégration autorisée. Itinéraire indiqué à l'époque : A63 → A660 → échangeur 2 Biganos → RD3. Consulter Inforoutes / carte préfecture pour l'état actuel des routes.",
-      "en": "31 July from 4pm: return authorised. Route indicated at the time: A63 → A660 → junction 2 Biganos → RD3. Check Inforoutes / préfecture map for current road status.",
-      "es": "31 de julio desde las 16h: reintegración autorizada. Itinerario indicado entonces: A63 → A660 → intercambio 2 Biganos → RD3. Consulte Inforoutes / mapa prefectural para el estado actual de las carreteras.",
-      "de": "31. Juli ab 16 Uhr: Rückkehr erlaubt. Damals angegebene Route: A63 → A660 → Anschlussstelle 2 Biganos → RD3. Inforoutes / Präfekturkarte für aktuellen Straßenstatus prüfen.",
-      "nl": "31 juli vanaf 16.00 uur: terugkeer toegestaan. Toen aangegeven traject: A63 → A660 → knooppunt 2 Biganos → RD3. Raadpleeg Inforoutes / prefectuurkaart voor actuele wegstatus."
+      "fr": "31 juillet dès 16h : réintégration autorisée. Consulter Inforoutes / carte préfecture pour l'état actuel des routes.",
+      "en": "31 July from 4pm: return authorised. Check Inforoutes / préfecture map for current road status.",
+      "es": "31 de julio desde las 16h: reintegración autorizada. Consulte Inforoutes / mapa prefectural para el estado actual de las carreteras.",
+      "de": "31. Juli ab 16 Uhr: Rückkehr erlaubt. Inforoutes / Präfekturkarte für aktuellen Straßenstatus prüfen.",
+      "nl": "31 juli vanaf 16.00 uur: terugkeer toegestaan. Raadpleeg Inforoutes / prefectuurkaart voor actuele wegstatus."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-2-nouvelles-communes-Andernos-les-bains-et-Lanton",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "retour-biganos-audenge-lacanau-31-juillet",
     "commune": "Biganos ; Audenge (commune) ; Lacanau (campings / tourisme)",
     "description": {
-      "fr": "31 juillet dès 12h : réintégration pour Biganos, Audenge et campings / tourisme de Lacanau. FAQ 3/08 : retours confirmés dans la liste officielle.",
-      "en": "31 July from noon: return for Biganos, Audenge and Lacanau campsites / tourism. FAQ 3/08: returns confirmed on the official list.",
-      "es": "31 de julio desde las 12h: reintegración para Biganos, Audenge y campings / turismo de Lacanau. FAQ 3/08: retornos confirmados en la lista oficial.",
-      "de": "31. Juli ab 12 Uhr: Rückkehr für Biganos, Audenge und Camping/Tourismus Lacanau. FAQ 3.08.: Rückkehr auf der offiziellen Liste bestätigt.",
-      "nl": "31 juli vanaf 12.00 uur: terugkeer voor Biganos, Audenge en campings / toerisme Lacanau. FAQ 3/08: terugkeer bevestigd op de officiële lijst."
+      "fr": "31 juillet dès 12h : réintégration pour Biganos, Audenge et campings / tourisme de Lacanau. Retours confirmés ; rester vigilants.",
+      "en": "31 July from noon: return for Biganos, Audenge and Lacanau campsites / tourism. Returns confirmed; stay vigilant.",
+      "es": "31 de julio desde las 12h: reintegración para Biganos, Audenge y campings / turismo de Lacanau. Retornos confirmados; mantener la vigilancia.",
+      "de": "31. Juli ab 12 Uhr: Rückkehr für Biganos, Audenge und Camping/Tourismus Lacanau. Rückkehr bestätigt; wachsam bleiben.",
+      "nl": "31 juli vanaf 12.00 uur: terugkeer voor Biganos, Audenge en campings / toerisme Lacanau. Terugkeer bevestigd; blijf waakzaam."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Incendie-de-Saumos-Reintegration-autorisee-dans-de-nouvelles-communes",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "retour-communes-28-30-juillet",
     "commune": "Eysines, Mérignac, Le Haillan, Mios, Le Barp, Cestas, Saint-Jean-d'Illac, Martignas-sur-Jalle, Saint-Médard-en-Jalles, Saint-Aubin-de-Médoc, Salaunes, Sainte-Hélène",
     "description": {
-      "fr": "Retours autorisés les 28 et 30 juillet (confirmés FAQ 3/08). Rester vigilants ; respecter les zones interdites et les restrictions forestières (vigilance rouge).",
-      "en": "Returns authorised on 28 and 30 July (confirmed FAQ 3/08). Stay vigilant; respect restricted zones and forest restrictions (vigilance rouge).",
-      "es": "Retornos autorizados el 28 y 30 de julio (confirmados FAQ 3/08). Mantener la vigilancia; respetar zonas prohibidas y restricciones forestales (vigilancia roja).",
-      "de": "Rückkehr am 28. und 30. Juli erlaubt (FAQ 3.08. bestätigt). Wachsam bleiben; Sperrzonen und Forstbeschränkungen beachten (Vigilance rouge).",
-      "nl": "Terugkeer toegestaan op 28 en 30 juli (bevestigd FAQ 3/08). Blijf waakzaam; respecteer verboden zones en bosbeperkingen (vigilance rouge)."
+      "fr": "Retours autorisés les 28 et 30 juillet. Rester vigilants ; respecter les zones interdites et les restrictions forestières (vigilance rouge depuis le 8/08).",
+      "en": "Returns authorised on 28 and 30 July. Stay vigilant; respect restricted zones and forest restrictions (vigilance rouge since 8/08).",
+      "es": "Retornos autorizados el 28 y 30 de julio. Mantener la vigilancia; respetar zonas prohibidas y restricciones forestales (vigilancia roja desde el 8/08).",
+      "de": "Rückkehr am 28. und 30. Juli erlaubt. Wachsam bleiben; Sperrzonen und Forstbeschränkungen beachten (Vigilance rouge seit 8.08.).",
+      "nl": "Terugkeer toegestaan op 28 en 30 juli. Blijf waakzaam; respecteer verboden zones en bosbeperkingen (vigilance rouge sinds 8/08)."
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   }
 ]

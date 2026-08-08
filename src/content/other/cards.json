@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -66,22 +66,22 @@
       "nl": "Rook en luchtkwaliteit"
     },
     "description": {
-      "fr": "Un épisode de pollution aux particules PM10 lié aux fumées est en cours (suivi Atmo Nouvelle-Aquitaine). L'ARS recommande de limiter le temps à l'extérieur, de garder portes et fenêtres fermées, d'éviter les efforts physiques en plein air et de surveiller les personnes vulnérables ; le port d'un masque FFP2/FFP3 est fortement recommandé en cas d'exposition aux fumées.",
-      "en": "A PM10 particle pollution episode linked to the smoke is ongoing (Atmo Nouvelle-Aquitaine monitoring). The ARS recommends limiting time outdoors, keeping doors and windows closed, avoiding outdoor physical exertion and watching over vulnerable people; an FFP2/FFP3 mask is strongly recommended when exposed to smoke.",
-      "es": "Hay un episodio de contaminación por partículas PM10 vinculado al humo (seguimiento de Atmo Nouvelle-Aquitaine). La ARS recomienda limitar el tiempo al aire libre, mantener puertas y ventanas cerradas, evitar el esfuerzo físico al aire libre y vigilar a las personas vulnerables; se recomienda encarecidamente una mascarilla FFP2/FFP3 en caso de exposición al humo.",
-      "de": "Ein mit dem Rauch verbundenes PM10-Partikelverschmutzungsepisode läuft (Überwachung durch Atmo Nouvelle-Aquitaine). Die ARS empfiehlt, die Zeit im Freien zu begrenzen, Türen und Fenster geschlossen zu halten, körperliche Anstrengung im Freien zu vermeiden und auf gefährdete Personen zu achten; bei Rauchbelastung wird eine FFP2/FFP3-Maske dringend empfohlen.",
-      "nl": "Er is een PM10-fijnstofvervuilingsepisode door de rook gaande (opvolging Atmo Nouvelle-Aquitaine). De ARS adviseert minder tijd buiten, deuren en ramen dicht, geen zware inspanning in de open lucht en extra aandacht voor kwetsbare personen; bij blootstelling aan rook wordt een FFP2/FFP3-masker sterk aangeraden."
+      "fr": "7 août (préfecture) : qualité de l'air bonne ; aucune alerte PM liée aux incendies depuis le 2/08 (Atmo). Dégradations ponctuelles possibles liées à l'ozone estival. Suivre Atmo / ARS pour les recommandations du jour.",
+      "en": "7 August (préfecture): air quality good; no fire-related PM alert since 2/08 (Atmo). Local ozone peaks possible in summer. Check Atmo / ARS for daily guidance.",
+      "es": "7 de agosto (prefectura): calidad del aire buena; sin alerta PM por incendios desde el 2/08 (Atmo). Posibles picos locales de ozono estival. Consulte Atmo / ARS para las recomendaciones del día.",
+      "de": "7. August (Präfektur): Luftqualität gut; keine brandbedingte PM-Warnung seit 2.08. (Atmo). Lokale Sommer-Ozonspitzen möglich. Atmo / ARS für Tagesempfehlungen prüfen.",
+      "nl": "7 augustus (prefectuur): luchtkwaliteit goed; geen brandgerelateerde PM-waarschuwing sinds 2/08 (Atmo). Lokale zomerse ozonpieken mogelijk. Raadpleeg Atmo / ARS voor dagadvies."
     },
     "actionLabel": {
-      "fr": "Lire les recommandations sanitaires de l'ARS",
-      "en": "Read the ARS health recommendations",
-      "es": "Leer las recomendaciones sanitarias de la ARS",
-      "de": "Gesundheitsempfehlungen der ARS lesen",
-      "nl": "Lees de gezondheidsadviezen van de ARS"
+      "fr": "Voir le communiqué qualité air / eaux (7 août)",
+      "en": "See air / water quality release (7 August)",
+      "es": "Ver el comunicado calidad aire / aguas (7 agosto)",
+      "de": "Mitteilung Luft-/Wasserqualität ansehen (7. August)",
+      "nl": "Bekijk bericht lucht-/waterkwaliteit (7 augustus)"
     },
-    "url": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "sourceUrl": "https://www.nouvelle-aquitaine.ars.sante.fr/feux-de-forets-impact-sanitaire-et-recommandations",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -137,7 +137,7 @@
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -150,11 +150,11 @@
       "nl": "Attest van evacuatiebevel"
     },
     "description": {
-      "fr": "Attestations d'ordre d'évacuation pour les 23 communes concernées (remboursements assurances) sur le site préfecture. Déclarations de sinistre prolongées jusqu'au 31 août (point 1/08 20h).",
-      "en": "Evacuation order attestations for the 23 communes concerned (insurance reimbursements) on the préfecture site. Insurance claims extended to 31 August (1/08 8pm briefing).",
-      "es": "Atestados de orden de evacuación para los 23 municipios concernidos (reembolsos seguros) en el sitio prefectural. Declaraciones de siniestro prolongadas hasta el 31 de agosto (parte 1/08 20h).",
-      "de": "Evakuierungsbescheinigungen für die 23 betroffenen Gemeinden (Versicherungsersätze) auf der Präfekturseite. Schadenmeldungen bis 31. August verlängert (Lagebericht 1.08. 20 Uhr).",
-      "nl": "Attesten van evacuatiebevel voor de 23 betrokken gemeenten (vergoedingen verzekering) op de prefectuursite. Schademeldingen verlengd tot 31 augustus (bericht 1/08 20.00 uur)."
+      "fr": "Attestations d'évacuation et de réintégration sur la page « informations utiles » de la préfecture. Alerte démarchage abusif (6/08) : ne signez rien sous pression ; SignalConso 0809 540 550.",
+      "en": "Evacuation and return attestations on the préfecture “useful information” page. Abusive soliciting alert (6/08): do not sign under pressure; SignalConso 0809 540 550.",
+      "es": "Atestados de evacuación y reintegración en la página «informaciones útiles» de la prefectura. Alerta captación abusiva (6/08): no firme bajo presión; SignalConso 0809 540 550.",
+      "de": "Evakuierungs- und Rückkehrbescheinigungen auf der Präfekturseite „nützliche Informationen“. Warnung aggressive Werbung (6.08.): nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
+      "nl": "Evacuatie- en terugkeerattesten op de prefectuurpagina «nuttige informatie». Waarschuwing misleidende acquisitie (6/08): onderteken niets onder druk; SignalConso 0809 540 550."
     },
     "actionLabel": {
       "fr": "Télécharger les attestations (préfecture)",
@@ -164,8 +164,8 @@
       "nl": "Attesten downloaden (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/La-prefecture-de-la-Gironde-alerte-sur-les-demarchages-abusifs-aupres-des-sinistres-des-incendies",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -178,21 +178,21 @@
       "nl": "Toeristen en vakantiegangers"
     },
     "description": {
-      "fr": "3 août : certains campings de Lège-Cap-Ferret nommément rouverts (voir communiqué). Presqu'île encore en évacuation (FAQ). Gardez le téléphone allumé pour FR-Alert. PEX fermé ; centres d'accueil : liste préfecture (3 sites).",
-      "en": "3 August: some Lège-Cap-Ferret campsites named as reopened (see release). Peninsula still evacuated (FAQ). Keep your phone on for FR-Alert. Exhibition Centre closed; reception centres: préfecture list (3 sites).",
-      "es": "3 de agosto: algunos campings de Lège-Cap-Ferret nombrados reabiertos (ver comunicado). Península aún evacuada (FAQ). Mantenga el teléfono encendido para FR-Alert. Parque de Exposiciones cerrado; centros: lista prefectura (3 sitios).",
-      "de": "3. August: einige Campings in Lège-Cap-Ferret namentlich wieder geöffnet (siehe Mitteilung). Halbinsel weiter evakuiert (FAQ). Telefon für FR-Alert anlassen. Ausstellungszentrum geschlossen; Aufnahmezentren: Präfekturliste (3 Standorte).",
-      "nl": "3 augustus: sommige campings in Lège-Cap-Ferret met naam heropend (zie bericht). Schiereiland nog geëvacueerd (FAQ). Houd telefoon aan voor FR-Alert. Beursgebouw gesloten; opvangcentra: prefectuurlijst (3 locaties)."
+      "fr": "Retours autorisés sur Lège-Cap-Ferret et Le Porge (3/08). Campings nommément rouverts (Lège 3/08 ; Grigne / Jenny au Porge : évacués dès 5/08, vacanciers dès 8/08). Zones brûlées interdites. Vigilance rouge depuis le 8/08. Gardez le téléphone allumé pour FR-Alert.",
+      "en": "Returns authorised in Lège-Cap-Ferret and Le Porge (3/08). Named campsites reopened (Lège 3/08; Grigne / Jenny in Le Porge: evacuees from 5/08, holidaymakers from 8/08). Burned zones forbidden. Vigilance rouge since 8/08. Keep your phone on for FR-Alert.",
+      "es": "Retornos autorizados en Lège-Cap-Ferret y Le Porge (3/08). Campings nombrados reabiertos (Lège 3/08; Grigne / Jenny en Le Porge: evacuados desde 5/08, vacacionistas desde 8/08). Zonas quemadas prohibidas. Vigilancia roja desde el 8/08. Mantenga el teléfono encendido para FR-Alert.",
+      "de": "Rückkehr in Lège-Cap-Ferret und Le Porge erlaubt (3.08.). Genannte Campings wieder offen (Lège 3.08.; Grigne / Jenny in Le Porge: Evakuierte ab 5.08., Urlauber ab 8.08.). Brandzonen verboten. Vigilance rouge seit 8.08. Telefon für FR-Alert anlassen.",
+      "nl": "Terugkeer toegestaan in Lège-Cap-Ferret en Le Porge (3/08). Genoemde campings heropend (Lège 3/08; Grigne / Jenny in Le Porge: geëvacueerden vanaf 5/08, vakantiegangers vanaf 8/08). Verbrande zones verboden. Vigilance rouge sinds 8/08. Houd telefoon aan voor FR-Alert."
     },
     "actionLabel": {
-      "fr": "Voir le communiqué campings (3 août)",
-      "en": "See the campsites release (3 August)",
-      "es": "Ver el comunicado campings (3 agosto)",
-      "de": "Camping-Mitteilung ansehen (3. August)",
-      "nl": "Bekijk het campingbericht (3 augustus)"
+      "fr": "Voir le point préfecture du 3 août",
+      "en": "See the 3 August préfecture briefing",
+      "es": "Ver el parte prefectural del 3 de agosto",
+      "de": "Lagebericht Präfektur 3. August ansehen",
+      "nl": "Bekijk het prefectuurbericht van 3 augustus"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reouverture-de-plusieurs-campings-et-poursuite-des-consignes-de-vigilance",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-Reouverture-de-plusieurs-campings-et-poursuite-des-consignes-de-vigilance",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   }
 ]

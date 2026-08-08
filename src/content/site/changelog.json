@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-08-evening-rouge-returns-complete",
+    "date": "2026-08-08T21:45:00+02:00",
+    "summary": {
+      "fr": "Catch-up : vigilance rouge dès 8/08 12h ; retours complets Lège/Le Porge (3/08) ; feu fixé / frange littorale ; air/eau OK (7/08) ; alerte démarchage ; Grigne/Jenny ; centres inchangés (3).",
+      "en": "Catch-up: vigilance rouge from 8/08 noon; full Lège/Le Porge returns (3/08); fire fixed / coastal fringe; air/water OK (7/08); soliciting alert; Grigne/Jenny; centres unchanged (3).",
+      "es": "Puesta al día: vigilancia roja desde 8/08 12h; retornos completos Lège/Le Porge (3/08); fuego fijado / franja litoral; aire/agua OK (7/08); alerta captación; Grigne/Jenny; centros sin cambio (3).",
+      "de": "Nachzug: Vigilance rouge ab 8.08. 12 Uhr; vollständige Rückkehr Lège/Le Porge (3.08.); Feuer fixiert / Küstenstreifen; Luft/Wasser OK (7.08.); Werbe-Warnung; Grigne/Jenny; Zentren unverändert (3).",
+      "nl": "Inhaal: vigilance rouge vanaf 8/08 12.00 uur; volledige terugkeer Lège/Le Porge (3/08); vuur vastgezet / kuststrook; lucht/water OK (7/08); acquisitiewaarschuwing; Grigne/Jenny; centra ongewijzigd (3)."
+    }
+  },
+  {
     "id": "2026-08-04-morning-faq-3-aout-returns-centres",
     "date": "2026-08-04T06:15:00+02:00",
     "summary": {

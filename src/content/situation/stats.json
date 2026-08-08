@@ -9,14 +9,14 @@
       "nl": "Waarschuwingsniveau bosbrand"
     },
     "value": {
-      "fr": "Vigilance rouge / très élevé (niveau 4/5) — depuis le 31/07",
-      "en": "Vigilance rouge / very high (level 4/5) — since 31/07",
-      "es": "Vigilancia roja / muy alto (nivel 4/5) — desde el 31/07",
-      "de": "Vigilance rouge / sehr hoch (Stufe 4/5) — seit 31.07.",
-      "nl": "Vigilance rouge / zeer hoog (niveau 4/5) — sinds 31/07"
+      "fr": "Vigilance rouge / très élevé (niveau 4/5) — depuis le 8/08 12h (après orange du 4/08)",
+      "en": "Vigilance rouge / very high (level 4/5) — since 8/08 noon (after orange from 4/08)",
+      "es": "Vigilancia roja / muy alto (nivel 4/5) — desde el 8/08 12h (tras naranja del 4/08)",
+      "de": "Vigilance rouge / sehr hoch (Stufe 4/5) — seit 8.08. 12 Uhr (nach Orange ab 4.08.)",
+      "nl": "Vigilance rouge / zeer hoog (niveau 4/5) — sinds 8/08 12.00 uur (na oranje vanaf 4/08)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-31-juillet-en-Gironde",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Risque-feux-de-foret-passage-en-vigilance-ROUGE-a-compter-du-8-aout-en-Gironde",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "surface-brulee",
@@ -35,7 +35,7 @@
       "nl": "42.000 hectare (bericht 1/08 20.00 uur — laatste geciteerde officiële cijfer)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "personnes-evacuees",
@@ -47,33 +47,33 @@
       "nl": "Geëvacueerden / terugkeertoestemmingen"
     },
     "value": {
-      "fr": "Encore évacuée (FAQ 3/08 17h40) : la seule Presqu'île de Lège-Cap-Ferret. Retours 2/08 : Lège bourg, Le Porge village (hors Ferron / Plein Soleil). Campings nommément rouverts le 3/08 (voir préfecture).",
-      "en": "Still evacuated (FAQ 3/08 5:40pm): Cap Ferret peninsula only. Returns 2/08: Lège bourg, Le Porge village (except Ferron / Plein Soleil). Named campsites reopened 3/08 (see préfecture).",
-      "es": "Aún evacuada (FAQ 3/08 17:40): solo la península de Lège-Cap-Ferret. Retornos 2/08: Lège bourg, Le Porge pueblo (salvo Ferron / Plein Soleil). Campings nombrados reabiertos el 3/08 (ver prefectura).",
-      "de": "Weiter evakuiert (FAQ 3.08. 17:40): nur Halbinsel Cap Ferret. Rückkehr 2.08.: Lège bourg, Le Porge Dorf (außer Ferron / Plein Soleil). Genannte Campings am 3.08. wieder geöffnet (siehe Präfektur).",
-      "nl": "Nog geëvacueerd (FAQ 3/08 17.40 uur): alleen schiereiland Cap Ferret. Terugkeer 2/08: Lège bourg, Le Porge dorp (behalve Ferron / Plein Soleil). Genoemde campings heropend op 3/08 (zie prefectuur)."
+      "fr": "Réintégration des deux dernières communes (Lège-Cap-Ferret et Le Porge) autorisée le 3/08, y compris Ferron / Plein Soleil après déminage. Zones brûlées toujours interdites sauf personnes autorisées.",
+      "en": "Return to the last two communes (Lège-Cap-Ferret and Le Porge) authorised on 3/08, including Ferron / Plein Soleil after demining. Burned zones still forbidden except authorised persons.",
+      "es": "Reintegración de los dos últimos municipios (Lège-Cap-Ferret y Le Porge) autorizada el 3/08, incluidos Ferron / Plein Soleil tras el desminado. Zonas quemadas aún prohibidas salvo personas autorizadas.",
+      "de": "Rückkehr in die letzten beiden Gemeinden (Lège-Cap-Ferret und Le Porge) am 3.08. erlaubt, inkl. Ferron / Plein Soleil nach Entminung. Brandzonen weiter verboten außer berechtigte Personen.",
+      "nl": "Terugkeer naar de laatste twee gemeenten (Lège-Cap-Ferret en Le Porge) toegestaan op 3/08, inclusief Ferron / Plein Soleil na ontmijning. Verbrande zones nog verboden behalve bevoegde personen."
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "situation-feu",
     "label": {
-      "fr": "Situation du feu (FAQ préfecture)",
-      "en": "Fire status (préfecture FAQ)",
-      "es": "Situación del fuego (FAQ prefectura)",
-      "de": "Feuerlage (FAQ Präfektur)",
-      "nl": "Vuursituatie (FAQ prefectuur)"
+      "fr": "Situation du feu (préfecture)",
+      "en": "Fire status (préfecture)",
+      "es": "Situación del fuego (prefectura)",
+      "de": "Feuerlage (Präfektur)",
+      "nl": "Vuursituatie (prefectuur)"
     },
     "value": {
-      "fr": "Fixé (pas éteint) — sauf 2 points chauds actifs : Cap Ferret et cordon dunaire sud Lacanau (FAQ 3/08 17h40)",
-      "en": "Fixed (not extinguished) — except 2 active hot spots: Cap Ferret and dune ridge south of Lacanau (FAQ 3/08 5:40pm)",
-      "es": "Fijado (no extinguido) — salvo 2 puntos calientes activos: Cap Ferret y cordón dunar sur Lacanau (FAQ 3/08 17:40)",
-      "de": "Fixiert (nicht gelöscht) — außer 2 aktive Hotspots: Cap Ferret und Dünenzug südlich Lacanau (FAQ 3.08. 17:40)",
-      "nl": "Vastgezet (niet geblust) — behalve 2 actieve hotspots: Cap Ferret en duinrug zuid Lacanau (FAQ 3/08 17.40 uur)"
+      "fr": "Fixé ; demeure actif sur la frange littorale — moyens mobilisés sur les fumerolles (point 3/08)",
+      "en": "Fixed; still active on the coastal fringe — resources mobilised on hot spots (3/08 briefing)",
+      "es": "Fijado; sigue activo en la franja litoral — medios movilizados sobre fumerolas (parte 3/08)",
+      "de": "Fixiert; weiter aktiv am Küstenstreifen — Mittel gegen Hotspots mobilisiert (Lagebericht 3.08.)",
+      "nl": "Vastgezet; nog actief op de kuststrook — middelen ingezet op hotspots (bericht 3/08)"
     },
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   },
   {
     "id": "bilan-provisoire",
@@ -86,12 +86,12 @@
     },
     "value": {
       "fr": "Aucun mort ni blessé parmi la population ; plus de 330 pompiers blessés ; 252 bâtiments >20 m² détruits (provisoire, point 1/08 20h — dernière synthèse citée)",
-      "en": "No deaths or injuries among the population; more than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional, 1/08 8pm briefing — latest cited summary)",
+      "en": "No deaths or injuries among the population; more than 330 firefighters injured; 252 buildings >20 m² destroyed (provisional, 1/08 8pm — latest cited summary)",
       "es": "Ningún muerto ni herido entre la población; más de 330 bomberos heridos; 252 edificios >20 m² destruidos (provisional, parte 1/08 20h — última síntesis citada)",
       "de": "Keine Toten oder Verletzten in der Bevölkerung; mehr als 330 verletzte Feuerwehrleute; 252 Gebäude >20 m² zerstört (vorläufig, Lagebericht 1.08. 20 Uhr — zuletzt genannte Zusammenfassung)",
       "nl": "Geen doden of gewonden onder de bevolking; meer dan 330 gewonde brandweerlieden; 252 gebouwen >20 m² verwoest (voorlopig, bericht 1/08 20.00 uur — laatst geciteerde samenvatting)"
     },
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-04T06:15:00+02:00"
+    "verifiedAt": "2026-08-08T21:45:00+02:00"
   }
 ]

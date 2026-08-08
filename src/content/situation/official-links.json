@@ -36,27 +36,27 @@
     "tier": 0
   },
   {
-    "id": "cellule-information-public",
+    "id": "france-services-victimes-porge",
     "label": {
-      "fr": "Cellule d'information du public — 09 70 80 90 40 (9h–17h, FAQ 3/08)",
-      "en": "Public information line — 09 70 80 90 40 (9am–5pm, FAQ 3/08)",
-      "es": "Línea de información al público — 09 70 80 90 40 (9h–17h, FAQ 3/08)",
-      "de": "Bürgertelefon — 09 70 80 90 40 (9–17 Uhr, FAQ 3.08.)",
-      "nl": "Publieksinformatielijn — 09 70 80 90 40 (9–17 uur, FAQ 3/08)"
+      "fr": "Maison France Services Victimes — Le Porge (école, chemin de Gleysaou), 9h–18h",
+      "en": "France Services Victims centre — Le Porge (school, chemin de Gleysaou), 9am–6pm",
+      "es": "Maison France Services Victimes — Le Porge (escuela, chemin de Gleysaou), 9h–18h",
+      "de": "Maison France Services Victimes — Le Porge (Schule, chemin de Gleysaou), 9–18 Uhr",
+      "nl": "Maison France Services Victimes — Le Porge (school, chemin de Gleysaou), 9–18 uur"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Ouverture-d-un-centre-d-accueil-France-Services-Victimes-au-Porge",
     "tier": 0
   },
   {
-    "id": "france-services-victimes-porge",
+    "id": "faq-incendie",
     "label": {
-      "fr": "Maison France Services Victimes — Le Porge (groupe scolaire), 9h–18h",
-      "en": "France Services Victims centre — Le Porge (school), 9am–6pm",
-      "es": "Maison France Services Victimes — Le Porge (grupo escolar), 9h–18h",
-      "de": "Maison France Services Victimes — Le Porge (Schule), 9–18 Uhr",
-      "nl": "Maison France Services Victimes — Le Porge (school), 9–18 uur"
+      "fr": "Foire aux questions incendie (préfecture)",
+      "en": "Wildfire FAQ (préfecture)",
+      "es": "Preguntas frecuentes incendio (prefectura)",
+      "de": "FAQ Waldbrand (Präfektur)",
+      "nl": "Veelgestelde vragen brand (prefectuur)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Ouverture-d-un-centre-d-accueil-France-Services-Victimes-au-Porge",
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "tier": 0
   },
   {
