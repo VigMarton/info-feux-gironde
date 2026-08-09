@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-09-freshness-reverify",
+    "date": "2026-08-09T19:35:00+02:00",
+    "summary": {
+      "fr": "Re-vérification fraîcheur : aucun nouveau communiqué Tier-0 du 9/08 ; vigilance rouge 8/08 et faits du catch-up 3–8/08 confirmés.",
+      "en": "Freshness re-verify: no new Tier-0 release on 9/08; vigilance rouge 8/08 and 3–8/08 catch-up facts confirmed.",
+      "es": "Reverificación de frescura: sin comunicado Tier-0 nuevo el 9/08; vigilancia roja 8/08 y hechos del catch-up 3–8/08 confirmados.",
+      "de": "Frischheits-Reverifizierung: kein neues Tier-0-Kommuniqué am 9.08.; Vigilance rouge 8.08. und Catch-up 3.–8.08. bestätigt.",
+      "nl": "Freshness-hercontrole: geen nieuw Tier-0-bericht op 9/08; vigilance rouge 8/08 en catch-up 3–8/08 bevestigd."
+    }
+  },
+  {
     "id": "2026-08-08-evening-rouge-returns-complete",
     "date": "2026-08-08T21:45:00+02:00",
     "summary": {
