@@ -50,11 +50,11 @@
   {
     "id": "faq-incendie",
     "label": {
-      "fr": "Foire aux questions incendie (préfecture)",
-      "en": "Wildfire FAQ (préfecture)",
-      "es": "Preguntas frecuentes incendio (prefectura)",
-      "de": "FAQ Waldbrand (Präfektur)",
-      "nl": "Veelgestelde vragen brand (prefectuur)"
+      "fr": "Foire aux questions incendie (préfecture — maj 10 août 10h)",
+      "en": "Wildfire FAQ (préfecture — updated 10 August 10am)",
+      "es": "Preguntas frecuentes incendio (prefectura — act. 10 agosto 10h)",
+      "de": "FAQ Waldbrand (Präfektur — Stand 10. August 10 Uhr)",
+      "nl": "Veelgestelde vragen brand (prefectuur — bijgewerkt 10 augustus 10.00 uur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "tier": 0

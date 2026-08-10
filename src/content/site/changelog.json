@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-11-freshness-reverify",
+    "date": "2026-08-11T01:15:00+02:00",
+    "summary": {
+      "fr": "Re-vérification fraîcheur : FAQ / hub préfecture republished 10/08 (pas de nouveau communiqué Tier-0) ; vigilance rouge et faits 3–8/08 confirmés ; centres inchangés (3).",
+      "en": "Freshness re-verify: FAQ / préfecture hub republished 10/08 (no new Tier-0 release); vigilance rouge and 3–8/08 facts confirmed; centres unchanged (3).",
+      "es": "Reverificación de frescura: FAQ / hub prefectura republicados 10/08 (sin comunicado Tier-0 nuevo); vigilancia roja y hechos 3–8/08 confirmados; centros sin cambio (3).",
+      "de": "Frischheits-Reverifizierung: FAQ / Präfektur-Hub neu veröffentlicht 10.08. (kein neues Tier-0); Vigilance rouge und Fakten 3.–8.08. bestätigt; Zentren unverändert (3).",
+      "nl": "Freshness-hercontrole: FAQ / prefectuur-hub opnieuw gepubliceerd 10/08 (geen nieuw Tier-0); vigilance rouge en feiten 3–8/08 bevestigd; centra ongewijzigd (3)."
+    }
+  },
+  {
     "id": "2026-08-09-freshness-reverify",
     "date": "2026-08-09T19:35:00+02:00",
     "summary": {
