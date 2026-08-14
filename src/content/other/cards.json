@@ -25,7 +25,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -53,7 +53,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
@@ -81,7 +81,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "psychological-support",
@@ -109,7 +109,7 @@
     },
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -137,7 +137,7 @@
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -150,11 +150,11 @@
       "nl": "Attest van evacuatiebevel"
     },
     "description": {
-      "fr": "Attestations d'évacuation et de réintégration sur la page « informations utiles » de la préfecture. Alerte démarchage abusif (6/08) : ne signez rien sous pression ; SignalConso 0809 540 550.",
-      "en": "Evacuation and return attestations on the préfecture “useful information” page. Abusive soliciting alert (6/08): do not sign under pressure; SignalConso 0809 540 550.",
-      "es": "Atestados de evacuación y reintegración en la página «informaciones útiles» de la prefectura. Alerta captación abusiva (6/08): no firme bajo presión; SignalConso 0809 540 550.",
-      "de": "Evakuierungs- und Rückkehrbescheinigungen auf der Präfekturseite „nützliche Informationen“. Warnung aggressive Werbung (6.08.): nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
-      "nl": "Evacuatie- en terugkeerattesten op de prefectuurpagina «nuttige informatie». Waarschuwing misleidende acquisitie (6/08): onderteken niets onder druk; SignalConso 0809 540 550."
+      "fr": "Attestations d'évacuation et de réintégration, et livret d'accompagnement (PDF maj 13/08), sur la page « informations utiles » de la préfecture. Alerte démarchage abusif (6/08) : ne signez rien sous pression ; SignalConso 0809 540 550.",
+      "en": "Evacuation and return attestations, plus the residents’ support booklet (PDF updated 13/08), on the préfecture “useful information” page. Abusive soliciting alert (6/08): do not sign under pressure; SignalConso 0809 540 550.",
+      "es": "Atestados de evacuación y reintegración, y folleto de acompañamiento (PDF act. 13/08), en la página «informaciones útiles» de la prefectura. Alerta captación abusiva (6/08): no firme bajo presión; SignalConso 0809 540 550.",
+      "de": "Evakuierungs- und Rückkehrbescheinigungen sowie Informationsheft (PDF Stand 13.08.) auf der Präfekturseite „nützliche Informationen“. Warnung aggressive Werbung (6.08.): nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
+      "nl": "Evacuatie- en terugkeerattesten plus informatieboekje (PDF bijgewerkt 13/08) op de prefectuurpagina «nuttige informatie». Waarschuwing misleidende acquisitie (6/08): onderteken niets onder druk; SignalConso 0809 540 550."
     },
     "actionLabel": {
       "fr": "Télécharger les attestations (préfecture)",
@@ -165,7 +165,7 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/La-prefecture-de-la-Gironde-alerte-sur-les-demarchages-abusifs-aupres-des-sinistres-des-incendies",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -193,6 +193,6 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
-    "verifiedAt": "2026-08-11T01:15:00+02:00"
+    "verifiedAt": "2026-08-14T19:30:00+02:00"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-14-freshness-reverify",
+    "date": "2026-08-14T19:30:00+02:00",
+    "summary": {
+      "fr": "Re-vérification : vigilance rouge confirmée (11/08, feux d'artifice privés et publics interdits) ; canicule orange (12/08) ; sécheresse / livret 13/08 en lien-out ; pas de nouveau point feu chiffré ; centres inchangés (3).",
+      "en": "Re-verify: red wildfire alert confirmed (11/08, private and public fireworks banned); orange heatwave (12/08); drought / 13/08 booklet as link-outs; no new numbered fire briefing; centres unchanged (3).",
+      "es": "Reverificación: vigilancia roja confirmada (11/08, fuegos artificiales privados y públicos prohibidos); canícula naranja (12/08); sequía / folleto 13/08 en enlace; sin nuevo parte numérico del fuego; centros sin cambio (3).",
+      "de": "Reverifizierung: Vigilance rouge bestätigt (11.08., privates und öffentliches Feuerwerk verboten); orange Hitze (12.08.); Dürre / Heft 13.08. als Link; kein neuer Zahlen-Lagebericht; Zentren unverändert (3).",
+      "nl": "Hercontrole: vigilance rouge bevestigd (11/08, privé- en publiek vuurwerk verboden); oranje hitte (12/08); droogte / boekje 13/08 als link; geen nieuw cijferbericht over het vuur; centra ongewijzigd (3)."
+    }
+  },
+  {
     "id": "2026-08-11-freshness-reverify",
     "date": "2026-08-11T01:15:00+02:00",
     "summary": {
