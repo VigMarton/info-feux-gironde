@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-08-25-archive-mode",
+    "date": "2026-08-25T18:50:00+02:00",
+    "summary": {
+      "fr": "Passage en archive : plus de chiffres ni listes de centres. Liens officiels : vigilance orange 20/08, sinistre jusqu'au 31/08, hub préfecture maj 21/08. Pas de déclaration « feu éteint ».",
+      "en": "Switched to archive: no live figures or centre lists. Official links: orange alert 20/08, claims until 31/08, préfecture hub updated 21/08. No “fire out” claim.",
+      "es": "Paso a archivo: sin cifras ni listas de centros. Enlaces oficiales: vigilancia naranja 20/08, siniestro hasta 31/08, hub prefectura act. 21/08. Sin declaración de «fuego apagado».",
+      "de": "Archivmodus: keine Zahlen und keine Zentrumslisten. Offizielle Links: Orange 20.08., Schäden bis 31.08., Präfektur-Hub Stand 21.08. Keine Aussage „Feuer aus“.",
+      "nl": "Archiefmodus: geen live cijfers of centralijsten. Officiële links: oranje 20/08, schade tot 31/08, prefectuur-hub bijgewerkt 21/08. Geen claim «vuur gedoofd»."
+    }
+  },
+  {
     "id": "2026-08-14-freshness-reverify",
     "date": "2026-08-14T19:30:00+02:00",
     "summary": {

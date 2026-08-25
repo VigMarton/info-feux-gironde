@@ -10,22 +10,22 @@
       "nl": "Huisdieren"
     },
     "description": {
-      "fr": "Le Parc des Expositions de Bordeaux-Lac est fermé depuis le soir du 31/07. Pour besoins de prise en charge non satisfaits ou offres d'aide (animaux de compagnie / élevage) : incendie33.animaux@gironde.gouv.fr.",
-      "en": "The Bordeaux-Lac Exhibition Centre has been closed since the evening of 31/07. For unmet care needs or offers of help (pets / livestock): incendie33.animaux@gironde.gouv.fr.",
-      "es": "El Parque de Exposiciones de Bordeaux-Lac está cerrado desde la noche del 31/07. Para necesidades de acogida no cubiertas u ofertas de ayuda (compañía / ganado): incendie33.animaux@gironde.gouv.fr.",
-      "de": "Das Ausstellungszentrum Bordeaux-Lac ist seit dem Abend des 31.07. geschlossen. Für ungedeckten Betreuungsbedarf oder Hilfeangebote (Haustiere / Nutztiere): incendie33.animaux@gironde.gouv.fr.",
-      "nl": "Het beursgebouw Bordeaux-Lac is gesloten sinds de avond van 31/07. Voor ongedekte opvangbehoeften of hulpaanbiedingen (huisdieren / vee): incendie33.animaux@gironde.gouv.fr."
+      "fr": "Pour les besoins de prise en charge ou les offres d'aide (animaux de compagnie / élevage), la préfecture indique : incendie33.animaux@gironde.gouv.fr. Confirmez sur la FAQ officielle.",
+      "en": "For unmet care needs or offers of help (pets / livestock), the préfecture lists: incendie33.animaux@gironde.gouv.fr. Confirm on the official FAQ.",
+      "es": "Para necesidades de acogida u ofertas de ayuda (compañía / ganado), la prefectura indica: incendie33.animaux@gironde.gouv.fr. Confirme en la FAQ oficial.",
+      "de": "Für Betreuungsbedarf oder Hilfeangebote (Haustiere / Nutztiere) nennt die Präfektur: incendie33.animaux@gironde.gouv.fr. Auf der offiziellen FAQ bestätigen.",
+      "nl": "Voor opvangbehoeften of hulpaanbiedingen (huisdieren / vee) noemt de prefectuur: incendie33.animaux@gironde.gouv.fr. Bevestig via de officiële FAQ."
     },
     "actionLabel": {
-      "fr": "Voir la page Bordeaux Métropole",
-      "en": "See the Bordeaux Métropole page",
-      "es": "Ver la página de Bordeaux Métropole",
-      "de": "Seite von Bordeaux Métropole ansehen",
-      "nl": "Bekijk de pagina van Bordeaux Métropole"
+      "fr": "Lire la FAQ préfecture",
+      "en": "Read the préfecture FAQ",
+      "es": "Leer la FAQ prefectural",
+      "de": "FAQ der Präfektur lesen",
+      "nl": "Lees de FAQ van de prefectuur"
     },
-    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "vulnerable-medical",
@@ -38,11 +38,11 @@
       "nl": "Kwetsbare mensen, zorginstellingen, medische zorg"
     },
     "description": {
-      "fr": "L'ARS coordonne les retours des personnes vulnérables évacuées d'établissements (première vague depuis le 3 août — FAQ). Contactez la direction de l'établissement. Personnes vulnérables à domicile : Conseil départemental 05 56 99 66 99 (tapez 1) / dgas-crisespublicsvulnerables@gironde.fr (8h–20h).",
-      "en": "The ARS coordinates returns of vulnerable people evacuated from care facilities (first wave since 3 August — FAQ). Contact the facility management. Vulnerable people at home: Conseil départemental 05 56 99 66 99 (press 1) / dgas-crisespublicsvulnerables@gironde.fr (8am–8pm).",
-      "es": "La ARS coordina los retornos de personas vulnerables evacuadas de establecimientos (primera oleada desde el 3 de agosto — FAQ). Contacte la dirección del centro. Vulnerables a domicilio: Consejo departamental 05 56 99 66 99 (pulse 1) / dgas-crisespublicsvulnerables@gironde.fr (8h–20h).",
-      "de": "Die ARS koordiniert die Rückkehr schutzbedürftiger Personen aus Einrichtungen (erste Welle seit 3. August — FAQ). Einrichtungsleitung kontaktieren. Schutzbedürftige zu Hause: Département 05 56 99 66 99 (Taste 1) / dgas-crisespublicsvulnerables@gironde.fr (8–20 Uhr).",
-      "nl": "De ARS coördineert de terugkeer van kwetsbare mensen uit instellingen (eerste golf sinds 3 augustus — FAQ). Neem contact op met de directie. Kwetsbaren thuis: departement 05 56 99 66 99 (toets 1) / dgas-crisespublicsvulnerables@gironde.fr (8–20 uur)."
+      "fr": "Contacts listés sur la FAQ préfecture (maj 10/08) : direction de l'établissement ; à domicile, Conseil départemental 05 56 99 66 99 (tapez 1) / dgas-crisespublicsvulnerables@gironde.fr. Confirmez sur la FAQ.",
+      "en": "Contacts listed on the préfecture FAQ (updated 10/08): facility management; at home, Conseil départemental 05 56 99 66 99 (press 1) / dgas-crisespublicsvulnerables@gironde.fr. Confirm on the FAQ.",
+      "es": "Contactos en la FAQ prefectural (act. 10/08): dirección del centro; a domicilio, Consejo departamental 05 56 99 66 99 (pulse 1) / dgas-crisespublicsvulnerables@gironde.fr. Confirme en la FAQ.",
+      "de": "Kontakte in der Präfektur-FAQ (Stand 10.08.): Einrichtungsleitung; zu Hause Département 05 56 99 66 99 (Taste 1) / dgas-crisespublicsvulnerables@gironde.fr. In der FAQ bestätigen.",
+      "nl": "Contacten op de prefectuur-FAQ (bijgewerkt 10/08): directie van de instelling; thuis, departement 05 56 99 66 99 (toets 1) / dgas-crisespublicsvulnerables@gironde.fr. Bevestig via de FAQ."
     },
     "actionLabel": {
       "fr": "Lire la FAQ préfecture (personnes vulnérables)",
@@ -53,63 +53,64 @@
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "smoke-air-quality-advice",
     "category": "medical",
     "title": {
-      "fr": "Fumées et qualité de l'air",
-      "en": "Smoke and air quality",
-      "es": "Humo y calidad del aire",
-      "de": "Rauch und Luftqualität",
-      "nl": "Rook en luchtkwaliteit"
+      "fr": "Qualité de l'air",
+      "en": "Air quality",
+      "es": "Calidad del aire",
+      "de": "Luftqualität",
+      "nl": "Luchtkwaliteit"
     },
     "description": {
-      "fr": "7 août (préfecture) : qualité de l'air bonne ; aucune alerte PM liée aux incendies depuis le 2/08 (Atmo). Dégradations ponctuelles possibles liées à l'ozone estival. Suivre Atmo / ARS pour les recommandations du jour.",
-      "en": "7 August (préfecture): air quality good; no fire-related PM alert since 2/08 (Atmo). Local ozone peaks possible in summer. Check Atmo / ARS for daily guidance.",
-      "es": "7 de agosto (prefectura): calidad del aire buena; sin alerta PM por incendios desde el 2/08 (Atmo). Posibles picos locales de ozono estival. Consulte Atmo / ARS para las recomendaciones del día.",
-      "de": "7. August (Präfektur): Luftqualität gut; keine brandbedingte PM-Warnung seit 2.08. (Atmo). Lokale Sommer-Ozonspitzen möglich. Atmo / ARS für Tagesempfehlungen prüfen.",
-      "nl": "7 augustus (prefectuur): luchtkwaliteit goed; geen brandgerelateerde PM-waarschuwing sinds 2/08 (Atmo). Lokale zomerse ozonpieken mogelijk. Raadpleeg Atmo / ARS voor dagadvies."
+      "fr": "Nous n'affichons pas d'indice du jour. Consultez Atmo Nouvelle-Aquitaine et les recommandations de l'ARS pour la situation actuelle.",
+      "en": "We do not show a daily index. Check Atmo Nouvelle-Aquitaine and ARS guidance for the current situation.",
+      "es": "No mostramos un índice del día. Consulte Atmo Nouvelle-Aquitaine y las recomendaciones de la ARS.",
+      "de": "Wir zeigen keinen Tagesindex. Atmo Nouvelle-Aquitaine und ARS-Empfehlungen für die aktuelle Lage prüfen.",
+      "nl": "Wij tonen geen dagelijkse index. Raadpleeg Atmo Nouvelle-Aquitaine en de ARS voor de actuele situatie."
     },
     "actionLabel": {
-      "fr": "Voir le communiqué qualité air / eaux (7 août)",
-      "en": "See air / water quality release (7 August)",
-      "es": "Ver el comunicado calidad aire / aguas (7 agosto)",
-      "de": "Mitteilung Luft-/Wasserqualität ansehen (7. August)",
-      "nl": "Bekijk bericht lucht-/waterkwaliteit (7 augustus)"
+      "fr": "Voir Atmo Nouvelle-Aquitaine",
+      "en": "See Atmo Nouvelle-Aquitaine",
+      "es": "Ver Atmo Nouvelle-Aquitaine",
+      "de": "Atmo Nouvelle-Aquitaine ansehen",
+      "nl": "Bekijk Atmo Nouvelle-Aquitaine"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Bonne-qualite-des-eaux-et-de-l-air-en-Gironde",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "url": "https://www.atmo-nouvelleaquitaine.org/",
+    "sourceUrl": "https://www.atmo-nouvelleaquitaine.org/",
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "psychological-support",
     "category": "medical",
     "title": {
-      "fr": "Soutien psychologique d'urgence",
-      "en": "Emergency psychological support",
-      "es": "Apoyo psicológico de emergencia",
-      "de": "Psychologische Notfallunterstützung",
-      "nl": "Psychologische noodhulp"
+      "fr": "Soutien psychologique",
+      "en": "Psychological support",
+      "es": "Apoyo psicológico",
+      "de": "Psychologische Unterstützung",
+      "nl": "Psychologische steun"
     },
     "description": {
-      "fr": "Une cellule d'urgence médico-psychologique (CUMP) est ouverte pour les personnes affectées par les incendies (0 800 719 912, 9h–17h d'après la FAQ préfecture).",
-      "en": "An emergency medical-psychological support line (CUMP) is open for people affected by the fires (0 800 719 912, 9am–5pm per the préfecture FAQ).",
-      "es": "Se ha abierto una unidad de emergencia médico-psicológica (CUMP) para las personas afectadas (0 800 719 912, 9h–17h según la FAQ de la prefectura).",
-      "de": "Für die von den Bränden betroffenen Menschen steht eine medizinisch-psychologische Notfalleinheit (CUMP) zur Verfügung (0 800 719 912, 9–17 Uhr laut Präfektur-FAQ).",
-      "nl": "Er is een medisch-psychologische noodeenheid (CUMP) geopend voor getroffenen (0 800 719 912, 9–17 uur volgens de prefectuur-FAQ)."
+      "fr": "La FAQ préfecture (maj 10/08) liste une cellule CUMP au 0 800 719 912. Confirmez horaires et disponibilité sur la FAQ. Urgence vitale : 15 / 18 / 112.",
+      "en": "The préfecture FAQ (updated 10/08) lists a CUMP line at 0 800 719 912. Confirm hours on the FAQ. Life-threatening emergency: 15 / 18 / 112.",
+      "es": "La FAQ prefectural (act. 10/08) indica una línea CUMP al 0 800 719 912. Confirme horarios en la FAQ. Urgencia vital: 15 / 18 / 112.",
+      "de": "Die Präfektur-FAQ (Stand 10.08.) nennt eine CUMP-Leitung 0 800 719 912. Zeiten in der FAQ bestätigen. Lebensgefahr: 15 / 18 / 112.",
+      "nl": "De prefectuur-FAQ (bijgewerkt 10/08) noemt een CUMP-lijn 0 800 719 912. Bevestig uren via de FAQ. Levensbedreigende nood: 15 / 18 / 112."
     },
     "actionLabel": {
-      "fr": "Appeler le 0 800 719 912 (9h–17h)",
-      "en": "Call 0 800 719 912 (9am–5pm)",
-      "es": "Llamar al 0 800 719 912 (9h–17h)",
-      "de": "0 800 719 912 anrufen (9–17 Uhr)",
-      "nl": "Bel 0 800 719 912 (9–17 uur)"
+      "fr": "Lire la FAQ (CUMP)",
+      "en": "Read the FAQ (CUMP)",
+      "es": "Leer la FAQ (CUMP)",
+      "de": "FAQ lesen (CUMP)",
+      "nl": "Lees de FAQ (CUMP)"
     },
+    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "phone": "0 800 719 912",
     "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "transport-road-info",
@@ -122,11 +123,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "Restrictions encore possibles près des zones d'intervention — consultez Inforoutes / la carte préfecture (lien dans le point 1/08 20h). Prudence sur les axes avec véhicules de secours et agriculteurs. Dérogations zone évacuée : pref-derogation@gironde.gouv.fr.",
-      "en": "Restrictions may still apply near intervention zones — check Inforoutes / the préfecture map (linked in the 1/08 8pm briefing). Caution on roads with emergency and farm vehicles. Evacuated-zone exemptions: pref-derogation@gironde.gouv.fr.",
-      "es": "Restricciones aún posibles cerca de zonas de intervención — consulte Inforoutes / el mapa prefectural (enlace en el parte 1/08 20h). Prudencia en ejes con vehículos de emergencia y agricultores. Exenciones zona evacuada: pref-derogation@gironde.gouv.fr.",
-      "de": "Einschränkungen nahe Einsatzzonen weiter möglich — Inforoutes / Präfekturkarte prüfen (Link im Lagebericht 1.08. 20 Uhr). Vorsicht auf Achsen mit Einsatz- und Landwirtschaftsfahrzeugen. Ausnahmen Evakuierungszone: pref-derogation@gironde.gouv.fr.",
-      "nl": "Beperkingen nabij interventiezones nog mogelijk — raadpleeg Inforoutes / de prefectuurkaart (link in bericht 1/08 20.00 uur). Voorzichtigheid op assen met hulpdiensten en landbouwvoertuigen. Ontheffingen evacuatiezone: pref-derogation@gironde.gouv.fr."
+      "fr": "Consultez Inforoutes Gironde pour les fermetures. Le communiqué du 20/08 rappelle que la présence humaine reste interdite dans les secteurs impactés par les incendies.",
+      "en": "Check Gironde Inforoutes for closures. The 20/08 communiqué states that human presence remains forbidden in sectors affected by the fires.",
+      "es": "Consulte Inforoutes Gironde para los cierres. El comunicado del 20/08 recuerda que la presencia humana sigue prohibida en los sectores afectados por los incendios.",
+      "de": "Inforoutes Gironde für Sperrungen prüfen. Die Mitteilung vom 20.08. hält fest, dass menschlicher Aufenthalt in den betroffenen Sektoren verboten bleibt.",
+      "nl": "Raadpleeg Inforoutes Gironde voor afsluitingen. Het bericht van 20/08 stelt dat menselijke aanwezigheid in door de branden getroffen sectoren verboden blijft."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -136,63 +137,63 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-ce-samedi-1er-aout-a-20h",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "evacuation-attestation",
     "category": "documents",
     "title": {
-      "fr": "Attestation d'ordre d'évacuation",
-      "en": "Evacuation order attestation",
-      "es": "Atestado de orden de evacuación",
-      "de": "Bescheinigung der Evakuierungsanordnung",
-      "nl": "Attest van evacuatiebevel"
+      "fr": "Attestations, livret et déclaration de sinistre",
+      "en": "Attestations, booklet and insurance claims",
+      "es": "Atestados, folleto y declaración de siniestro",
+      "de": "Bescheinigungen, Heft und Schadensmeldung",
+      "nl": "Attesten, boekje en schadeaangifte"
     },
     "description": {
-      "fr": "Attestations d'évacuation et de réintégration, et livret d'accompagnement (PDF maj 13/08), sur la page « informations utiles » de la préfecture. Alerte démarchage abusif (6/08) : ne signez rien sous pression ; SignalConso 0809 540 550.",
-      "en": "Evacuation and return attestations, plus the residents’ support booklet (PDF updated 13/08), on the préfecture “useful information” page. Abusive soliciting alert (6/08): do not sign under pressure; SignalConso 0809 540 550.",
-      "es": "Atestados de evacuación y reintegración, y folleto de acompañamiento (PDF act. 13/08), en la página «informaciones útiles» de la prefectura. Alerta captación abusiva (6/08): no firme bajo presión; SignalConso 0809 540 550.",
-      "de": "Evakuierungs- und Rückkehrbescheinigungen sowie Informationsheft (PDF Stand 13.08.) auf der Präfekturseite „nützliche Informationen“. Warnung aggressive Werbung (6.08.): nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
-      "nl": "Evacuatie- en terugkeerattesten plus informatieboekje (PDF bijgewerkt 13/08) op de prefectuurpagina «nuttige informatie». Waarschuwing misleidende acquisitie (6/08): onderteken niets onder druk; SignalConso 0809 540 550."
+      "fr": "Attestations et livret : page « informations utiles » (maj 21/08). Délai exceptionnel de déclaration de sinistre jusqu'au 31 août 2026 (communiqué 20/08). Démarchage abusif : ne signez rien sous pression ; SignalConso 0809 540 550.",
+      "en": "Attestations and booklet: “useful information” page (updated 21/08). Exceptional insurance-claim deadline 31 August 2026 (20/08 release). Abusive soliciting: do not sign under pressure; SignalConso 0809 540 550.",
+      "es": "Atestados y folleto: página «informaciones útiles» (act. 21/08). Plazo excepcional de siniestro hasta el 31 de agosto de 2026 (comunicado 20/08). Captación abusiva: no firme bajo presión; SignalConso 0809 540 550.",
+      "de": "Bescheinigungen und Heft: Seite „nützliche Informationen“ (Stand 21.08.). Außerordentliche Schadensfrist 31. August 2026 (Mitteilung 20.08.). Aggressive Werbung: nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
+      "nl": "Attesten en boekje: pagina «nuttige informatie» (bijgewerkt 21/08). Uitzonderlijke schadeaangiftetermijn 31 augustus 2026 (bericht 20/08). Misleidende acquisitie: onderteken niets onder druk; SignalConso 0809 540 550."
     },
     "actionLabel": {
-      "fr": "Télécharger les attestations (préfecture)",
-      "en": "Download attestations (préfecture)",
-      "es": "Descargar atestados (prefectura)",
-      "de": "Bescheinigungen herunterladen (Präfektur)",
-      "nl": "Attesten downloaden (prefectuur)"
+      "fr": "Page informations utiles (préfecture)",
+      "en": "Useful-information page (préfecture)",
+      "es": "Página de información útil (prefectura)",
+      "de": "Seite nützliche Informationen (Präfektur)",
+      "nl": "Pagina nuttige informatie (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/La-prefecture-de-la-Gironde-alerte-sur-les-demarchages-abusifs-aupres-des-sinistres-des-incendies",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Rappel-du-delai-de-declaration-de-sinistre-pour-les-victimes-des-incendies-en-Gironde",
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "tourists-info",
     "category": "tourists",
     "title": {
-      "fr": "Touristes et vacanciers",
-      "en": "Tourists and holidaymakers",
-      "es": "Turistas y visitantes",
-      "de": "Touristen und Urlauber",
-      "nl": "Toeristen en vakantiegangers"
+      "fr": "Accès aux massifs et zones brûlées",
+      "en": "Access to forests and burned areas",
+      "es": "Acceso a macizos y zonas quemadas",
+      "de": "Zugang zu Wäldern und Brandflächen",
+      "nl": "Toegang tot bossen en verbrande zones"
     },
     "description": {
-      "fr": "Retours autorisés sur Lège-Cap-Ferret et Le Porge (3/08). Campings nommément rouverts (Lège 3/08 ; Grigne / Jenny au Porge : évacués dès 5/08, vacanciers dès 8/08). Zones brûlées interdites. Vigilance rouge depuis le 8/08. Gardez le téléphone allumé pour FR-Alert.",
-      "en": "Returns authorised in Lège-Cap-Ferret and Le Porge (3/08). Named campsites reopened (Lège 3/08; Grigne / Jenny in Le Porge: evacuees from 5/08, holidaymakers from 8/08). Burned zones forbidden. Vigilance rouge since 8/08. Keep your phone on for FR-Alert.",
-      "es": "Retornos autorizados en Lège-Cap-Ferret y Le Porge (3/08). Campings nombrados reabiertos (Lège 3/08; Grigne / Jenny en Le Porge: evacuados desde 5/08, vacacionistas desde 8/08). Zonas quemadas prohibidas. Vigilancia roja desde el 8/08. Mantenga el teléfono encendido para FR-Alert.",
-      "de": "Rückkehr in Lège-Cap-Ferret und Le Porge erlaubt (3.08.). Genannte Campings wieder offen (Lège 3.08.; Grigne / Jenny in Le Porge: Evakuierte ab 5.08., Urlauber ab 8.08.). Brandzonen verboten. Vigilance rouge seit 8.08. Telefon für FR-Alert anlassen.",
-      "nl": "Terugkeer toegestaan in Lège-Cap-Ferret en Le Porge (3/08). Genoemde campings heropend (Lège 3/08; Grigne / Jenny in Le Porge: geëvacueerden vanaf 5/08, vakantiegangers vanaf 8/08). Verbrande zones verboden. Vigilance rouge sinds 8/08. Houd telefoon aan voor FR-Alert."
+      "fr": "Depuis le 20/08, vigilance feux de forêt orange jusqu'à nouvel ordre. La présence humaine reste interdite dans les secteurs impactés. Consultez le communiqué et FR-Alert — nous n'indiquons pas si un camping ou une commune est « ouverte ».",
+      "en": "Since 20/08, forest-fire alert is orange until further notice. Human presence remains forbidden in affected sectors. Check the communiqué and FR-Alert — we do not say whether a campsite or commune is “open”.",
+      "es": "Desde el 20/08, vigilancia naranja de incendios hasta nuevo aviso. La presencia humana sigue prohibida en los sectores afectados. Consulte el comunicado y FR-Alert — no indicamos si un camping o municipio está «abierto».",
+      "de": "Seit 20.08. Waldbrandwarnung Orange bis auf Weiteres. Menschlicher Aufenthalt in betroffenen Sektoren bleibt verboten. Mitteilung und FR-Alert prüfen — wir sagen nicht, ob ein Camping oder eine Gemeinde „offen“ ist.",
+      "nl": "Sinds 20/08 is de bosbrandwaarschuwing oranje tot nader order. Menselijke aanwezigheid in getroffen sectoren blijft verboden. Raadpleeg het bericht en FR-Alert — wij zeggen niet of een camping of gemeente «open» is."
     },
     "actionLabel": {
-      "fr": "Voir le point préfecture du 3 août",
-      "en": "See the 3 August préfecture briefing",
-      "es": "Ver el parte prefectural del 3 de agosto",
-      "de": "Lagebericht Präfektur 3. August ansehen",
-      "nl": "Bekijk het prefectuurbericht van 3 augustus"
+      "fr": "Lire le communiqué vigilance orange (20 août)",
+      "en": "Read the orange-alert release (20 August)",
+      "es": "Leer el comunicado de vigilancia naranja (20 agosto)",
+      "de": "Orange-Warnung lesen (20. August)",
+      "nl": "Lees het oranje-waarschuwingsbericht (20 augustus)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Incendie-de-Saumos-point-de-situation-du-lundi-3-aout",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   }
 ]

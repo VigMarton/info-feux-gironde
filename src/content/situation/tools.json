@@ -85,11 +85,11 @@
       "nl": "Opvangcentra"
     },
     "hint": {
-      "fr": "Liste et adresses (PDF préfecture)",
-      "en": "List and addresses (préfecture PDF)",
-      "es": "Lista y direcciones (PDF de la prefectura)",
-      "de": "Liste und Adressen (PDF der Präfektur)",
-      "nl": "Lijst en adressen (pdf van de prefectuur)"
+      "fr": "Page préfecture — confirmer avant de se déplacer",
+      "en": "Préfecture page — confirm before travelling",
+      "es": "Página prefectura — confirme antes de desplazarse",
+      "de": "Präfekturseite — vor der Fahrt bestätigen",
+      "nl": "Prefectuurpagina — bevestig vóór vertrek"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
     "tier": 0
@@ -104,13 +104,13 @@
       "nl": "Persberichten prefectuur"
     },
     "hint": {
-      "fr": "Derniers points de situation officiels",
-      "en": "Latest official situation briefings",
-      "es": "Últimos puntos de situación oficiales",
-      "de": "Neueste offizielle Lageberichte",
-      "nl": "Laatste officiële situatieberichten"
+      "fr": "Communiqués officiels (août 2026)",
+      "en": "Official press releases (August 2026)",
+      "es": "Comunicados oficiales (agosto 2026)",
+      "de": "Offizielle Mitteilungen (August 2026)",
+      "nl": "Officiële persberichten (augustus 2026)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026",
     "tier": 0
   }
 ]

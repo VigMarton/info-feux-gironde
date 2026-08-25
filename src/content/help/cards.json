@@ -9,11 +9,11 @@
       "nl": "Materiaal doneren"
     },
     "description": {
-      "fr": "Collecte de dons toujours suspendue (Bordeaux Métropole). Le Parc des Expositions est fermé depuis le soir du 31/07. Pas de cagnotte métropolitaine — privilégiez les CCAS des communes touchées ou les associations (Croix-Rouge, Secours populaire…). ",
-      "en": "Goods collection still suspended (Bordeaux Métropole). The Exhibition Centre has been closed since the evening of 31/07. No Métropole cash fund — prefer CCAS of affected communes or associations (Red Cross, Secours populaire…). ",
-      "es": "Recogida de donaciones aún suspendida (Bordeaux Métropole). El Parque de Exposiciones está cerrado desde la noche del 31/07. No hay hucha de la Métropole — priorice CCAS o asociaciones (Cruz Roja, Secours populaire…). ",
-      "de": "Sachspendenannahme weiter ausgesetzt (Bordeaux Métropole). Das Ausstellungszentrum ist seit dem Abend des 31.07. geschlossen. Keine Métropole-Spendenkasse — CCAS oder Verbände (Rotes Kreuz, Secours populaire…) bevorzugen. ",
-      "nl": "Goederencollecte nog opgeschort (Bordeaux Métropole). Het beursgebouw is gesloten sinds de avond van 31/07. Geen Métropole-geldinzameling — geef bij voorkeur aan CCAS of verenigingen (Rode Kruis, Secours populaire…). "
+      "fr": "Ne vous présentez pas avec des dons sans consigne officielle. Consultez Bordeaux Métropole et les CCAS / associations agréées (Croix-Rouge, Secours populaire…) avant d'agir.",
+      "en": "Do not drop off goods without official guidance. Check Bordeaux Métropole and local CCAS / accredited associations (Red Cross, Secours populaire…) first.",
+      "es": "No se presente con donaciones sin consignas oficiales. Consulte Bordeaux Métropole y los CCAS / asociaciones acreditadas (Cruz Roja, Secours populaire…) antes de actuar.",
+      "de": "Keine Sachspenden ohne offizielle Anweisung abgeben. Zuerst Bordeaux Métropole und CCAS / anerkannte Verbände (Rotes Kreuz, Secours populaire…) prüfen.",
+      "nl": "Kom niet langs met goederen zonder officiële instructie. Raadpleeg eerst Bordeaux Métropole en CCAS / erkende verenigingen (Rode Kruis, Secours populaire…)."
     },
     "actionLabel": {
       "fr": "Lire la page Bordeaux Métropole",
@@ -24,7 +24,7 @@
     },
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "volunteer",
@@ -36,11 +36,11 @@
       "nl": "Vrijwilliger worden"
     },
     "description": {
-      "fr": "Recensement des bénévoles suspendu. Le Parc des Expositions est fermé depuis le soir du 31/07 — ne vous présentez pas sur place. Entreprises : 0 800 006 090 ; dons matériels/moyens/services : pref33-logistique@gironde.gouv.fr.",
-      "en": "Volunteer registration suspended. The Exhibition Centre has been closed since the evening of 31/07 — do not show up on site. Businesses: 0 800 006 090; material/means/services: pref33-logistique@gironde.gouv.fr.",
-      "es": "Registro de voluntarios suspendido. El Parque de Exposiciones está cerrado desde la noche del 31/07 — no se presente. Empresas: 0 800 006 090; material/medios/servicios: pref33-logistique@gironde.gouv.fr.",
-      "de": "Freiwilligen-Erfassung ausgesetzt. Das Ausstellungszentrum ist seit dem Abend des 31.07. geschlossen — nicht vor Ort erscheinen. Unternehmen: 0 800 006 090; Sach-/Mittel-/Serviceangebote: pref33-logistique@gironde.gouv.fr.",
-      "nl": "Vrijwilligersregistratie opgeschort. Het beursgebouw is gesloten sinds de avond van 31/07 — meld u niet ter plaatse. Bedrijven: 0 800 006 090; materiaal/middelen/diensten: pref33-logistique@gironde.gouv.fr."
+      "fr": "Ne vous présentez pas comme bénévole non sollicité. Les besoins sont coordonnés par les autorités et associations agréées. Entreprises : numéro vert Métropole 0 800 006 090 ; dons de moyens : pref33-logistique@gironde.gouv.fr.",
+      "en": "Do not self-deploy as an unsolicited volunteer. Needs are coordinated by authorities and accredited associations. Businesses: Métropole green line 0 800 006 090; offers of means: pref33-logistique@gironde.gouv.fr.",
+      "es": "No se presente como voluntario no solicitado. Las necesidades las coordinan las autoridades y asociaciones acreditadas. Empresas: número verde Métropole 0 800 006 090; medios: pref33-logistique@gironde.gouv.fr.",
+      "de": "Nicht unaufgefordert als Freiwillige/r erscheinen. Bedarf koordinieren Behörden und anerkannte Verbände. Unternehmen: Métropole-Hotline 0 800 006 090; Mittelangebote: pref33-logistique@gironde.gouv.fr.",
+      "nl": "Meld u niet als ongevraagd vrijwilliger. Behoeften worden gecoördineerd door autoriteiten en erkende verenigingen. Bedrijven: Métropole-groen nummer 0 800 006 090; middelen: pref33-logistique@gironde.gouv.fr."
     },
     "actionLabel": {
       "fr": "Voir Bordeaux Métropole",
@@ -52,23 +52,23 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "offer-housing",
     "title": {
-      "fr": "Hébergement temporaire",
-      "en": "Temporary housing",
-      "es": "Alojamiento temporal",
-      "de": "Vorübergehende Unterkunft",
-      "nl": "Tijdelijk onderdak"
+      "fr": "Hébergement et accompagnement",
+      "en": "Housing and support",
+      "es": "Alojamiento y acompañamiento",
+      "de": "Unterkunft und Begleitung",
+      "nl": "Huisvesting en begeleiding"
     },
     "description": {
-      "fr": "Le Parc des Expositions est fermé (31/07 soir). Maison France Services Victimes au Porge (groupe scolaire, 9h–18h). URHLM : jusqu'à 10 nuits — 07 43 95 26 96 / 07 43 92 04 69. Numéro vert Métropole : 0 800 006 090. Centres d'accueil : 3 sites (liste préfecture).",
-      "en": "Exhibition Centre closed (evening of 31/07). France Services Victims centre in Le Porge (school, 9am–6pm). URHLM: up to 10 nights — 07 43 95 26 96 / 07 43 92 04 69. Métropole green line: 0 800 006 090. Reception centres: 3 sites (préfecture list).",
-      "es": "Parque de Exposiciones cerrado (noche del 31/07). Maison France Services Victimes en Le Porge (grupo escolar, 9h–18h). URHLM: hasta 10 noches — 07 43 95 26 96 / 07 43 92 04 69. Número verde Métropole: 0 800 006 090. Centros: 3 sitios (lista prefectura).",
-      "de": "Ausstellungszentrum geschlossen (Abend 31.07.). Maison France Services Victimes in Le Porge (Schule, 9–18 Uhr). URHLM: bis 10 Nächte — 07 43 95 26 96 / 07 43 92 04 69. Métropole-Hotline: 0 800 006 090. Aufnahmezentren: 3 Standorte (Präfekturliste).",
-      "nl": "Beursgebouw gesloten (avond 31/07). Maison France Services Victimes in Le Porge (school, 9–18 uur). URHLM: tot 10 nachten — 07 43 95 26 96 / 07 43 92 04 69. Métropole-groen nummer: 0 800 006 090. Opvangcentra: 3 locaties (prefectuurlijst)."
+      "fr": "Pour le relogement et l'accompagnement : page Bordeaux Métropole (0 800 006 090) et Maison France Services Victimes au Porge (voir communiqué préfecture). Confirmez horaires et modalités sur la source officielle.",
+      "en": "For rehousing and support: Bordeaux Métropole page (0 800 006 090) and France Services Victims in Le Porge (see préfecture release). Confirm hours and arrangements on the official source.",
+      "es": "Para realojamiento y acompañamiento: página Bordeaux Métropole (0 800 006 090) y Maison France Services Victimes en Le Porge (comunicado prefectura). Confirme horarios en la fuente oficial.",
+      "de": "Für Unterbringung und Begleitung: Seite Bordeaux Métropole (0 800 006 090) und France Services Victimes in Le Porge (Mitteilung der Präfektur). Zeiten auf der offiziellen Quelle bestätigen.",
+      "nl": "Voor herhuisvesting en begeleiding: pagina Bordeaux Métropole (0 800 006 090) en France Services Victimes in Le Porge (bericht prefectuur). Bevestig uren op de officiële bron."
     },
     "actionLabel": {
       "fr": "Voir les consignes Bordeaux Métropole",
@@ -80,7 +80,7 @@
     "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
     "phone": "0 800 006 090",
     "sourceUrl": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   },
   {
     "id": "red-cross-support",
@@ -92,21 +92,21 @@
       "nl": "Steun van het Franse Rode Kruis"
     },
     "description": {
-      "fr": "La Croix-Rouge arme des centres d'hébergement d'urgence et apporte un soutien psychologique aux personnes évacuées.",
-      "en": "Red Cross France staffs emergency shelters and provides psychological support to evacuees.",
-      "es": "La Cruz Roja gestiona centros de alojamiento de emergencia y ofrece apoyo psicológico a las personas evacuadas.",
-      "de": "Das Rote Kreuz betreibt Notunterkünfte und bietet den Evakuierten psychologische Unterstützung.",
-      "nl": "Het Rode Kruis bemant noodopvangcentra en biedt psychologische ondersteuning aan geëvacueerden."
+      "fr": "La Croix-Rouge publie ses actions en Gironde et dans les Landes sur son site. Consultez cette page pour les consignes actuelles — nous n'affichons pas de statut opérationnel.",
+      "en": "Red Cross France publishes its Gironde and Landes work on its site. Check that page for current guidance — we do not show operational status.",
+      "es": "La Cruz Roja publica su acción en Gironda y Las Landas en su web. Consulte esa página para las consignas actuales — no mostramos un estado operativo.",
+      "de": "Das Rote Kreuz veröffentlicht seine Arbeit in der Gironde und den Landes auf seiner Website. Aktuelle Hinweise dort prüfen — wir zeigen keinen Einsatzstatus.",
+      "nl": "Het Rode Kruis publiceert zijn werk in de Gironde en de Landes op zijn site. Raadpleeg die pagina voor actuele richtlijnen — wij tonen geen operationele status."
     },
     "actionLabel": {
-      "fr": "En savoir plus sur leur mobilisation",
-      "en": "Learn more about their response",
-      "es": "Más información sobre su despliegue",
-      "de": "Mehr über ihren Einsatz erfahren",
-      "nl": "Meer weten over hun inzet"
+      "fr": "Voir la page Croix-Rouge",
+      "en": "See the Red Cross page",
+      "es": "Ver la página de la Cruz Roja",
+      "de": "Seite des Roten Kreuzes ansehen",
+      "nl": "Bekijk de pagina van het Rode Kruis"
     },
     "url": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
     "sourceUrl": "https://www.croix-rouge.fr/incendies/evacuations-massives-et-flammes-indomptables-que-faisons-nous-en-gironde-et-dans-les-landes",
-    "verifiedAt": "2026-08-14T19:30:00+02:00"
+    "verifiedAt": "2026-08-25T18:50:00+02:00"
   }
 ]

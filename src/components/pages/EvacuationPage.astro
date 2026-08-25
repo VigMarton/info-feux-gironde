@@ -21,6 +21,7 @@ const title = `${t(locale, "section.evacuation.title")} — ${t(locale, "site.ti
     <h2 id="evacuation-heading"><SectionIcon name="evacuation" />{t(locale, "section.evacuation.title")}</h2>
     <p>{t(locale, "section.evacuation.intro")}</p>
     <p class="confirm-notice">{t(locale, "section.evacuation.confirmNotice")}</p>
+    {data.killSwitch && <p class="confirm-notice">{t(locale, "section.evacuation.archiveNotice")}</p>}
 
     {
       data.areas.length > 0 && (
@@ -31,15 +32,19 @@ const title = `${t(locale, "section.evacuation.title")} — ${t(locale, "site.ti
       )
     }
 
-    <h3>{t(locale, "section.evacuation.sheltersHeading")}</h3>
-    <p class="confirm-notice">{t(locale, "section.evacuation.noCapacityNotice")}</p>
-    <div class="card-list">
-      {
-        data.shelters.map((shelter) => (
-          <ShelterCard locale={locale} shelter={shelter} hideNotes={data.killSwitch} />
-        ))
-      }
-    </div>
-    <ShelterDirectory locale={locale} directory={data.shelterDirectory} />
+    {
+      !data.killSwitch && (
+        <Fragment>
+          <h3>{t(locale, "section.evacuation.sheltersHeading")}</h3>
+          <p class="confirm-notice">{t(locale, "section.evacuation.noCapacityNotice")}</p>
+          <div class="card-list">
+            {data.shelters.map((shelter) => (
+              <ShelterCard locale={locale} shelter={shelter} hideNotes={false} />
+            ))}
+          </div>
+          <ShelterDirectory locale={locale} directory={data.shelterDirectory} />
+        </Fragment>
+      )
+    }
   </section>
 </BaseLayout>

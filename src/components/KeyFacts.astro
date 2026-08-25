@@ -18,11 +18,24 @@ interface Props {
 }
 
 const { locale, alertStat, latestHeadline, killSwitch } = Astro.props;
-const hasContent = !killSwitch && (alertStat || latestHeadline);
+const hasLiveFacts = !killSwitch && (alertStat || latestHeadline);
 ---
 
 {
-  hasContent && (
+  killSwitch && (
+    <div class="key-facts" role="note" aria-label={t(locale, "keyFacts.ariaLabel")}>
+      <p class="key-facts__eyebrow">{t(locale, "keyFacts.archiveEyebrow")}</p>
+      <p class="key-facts__headline">{t(locale, "banner.killSwitchNotice")}</p>
+      <div class="key-facts__actions">
+        <a href={localePath(locale, "situation")}>{t(locale, "keyFacts.jumpSituation")}</a>
+        <a href={localePath(locale, "other")}>{t(locale, "keyFacts.jumpDocuments")}</a>
+      </div>
+    </div>
+  )
+}
+
+{
+  hasLiveFacts && (
     <div class="key-facts" role="note" aria-label={t(locale, "keyFacts.ariaLabel")}>
       <p class="key-facts__eyebrow">{t(locale, "keyFacts.eyebrow")}</p>
       {alertStat && <p class="key-facts__alert">{alertStat.value[locale]}</p>}
