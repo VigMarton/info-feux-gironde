@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-09-29-closing-summary",
+    "date": "2026-09-29T22:45:00+02:00",
+    "summary": {
+      "fr": "Clôture : feu de Saumos éteint (préfecture, 28/09) ; vigilance jaune ; secteurs incendiés toujours interdits. Liens septembre (reconstruction, santé, activité partielle). Plus de mention « orange jusqu'à nouvel ordre ».",
+      "en": "Closing: Saumos fire declared out (préfecture, 28/09); yellow alert; burned sectors still forbidden. September links (reconstruction, health, partial activity). Removed “orange until further notice”.",
+      "es": "Cierre: fuego de Saumos extinguido (prefectura, 28/09); vigilancia amarilla; sectores quemados aún prohibidos. Enlaces de septiembre. Retirado «naranja hasta nuevo aviso».",
+      "de": "Abschluss: Feuer von Saumos gelöscht (Präfektur, 28.09.); Warnstufe Gelb; Brandsektoren weiter verboten. September-Links. „Orange bis auf Weiteres“ entfernt.",
+      "nl": "Afsluiting: brand van Saumos geblust (prefectuur, 28/09); gele waarschuwing; verbrande sectoren nog verboden. Septemberlinks. «Oranje tot nader order» verwijderd."
+    }
+  },
+  {
     "id": "2026-08-25-archive-mode",
     "date": "2026-08-25T18:50:00+02:00",
     "summary": {

@@ -1,48 +1,84 @@
 [
   {
-    "id": "prefecture-communiques",
+    "id": "feu-saumos-eteint-28-septembre",
     "label": {
-      "fr": "Communiqués de presse de la préfecture (août 2026)",
-      "en": "Préfecture press releases (August 2026)",
-      "es": "Comunicados de prensa de la prefectura (agosto 2026)",
-      "de": "Pressemitteilungen der Präfektur (August 2026)",
-      "nl": "Persberichten van de prefectuur (augustus 2026)"
+      "fr": "28 septembre : le feu de Saumos est éteint (préfecture) — 42 000 ha parcourus, dont 37 296 ha détruits ; 252 bâtiments détruits ; aucune victime",
+      "en": "28 September: the Saumos fire is out (préfecture) — 42,000 ha travelled, of which 37,296 ha destroyed; 252 buildings destroyed; no deaths",
+      "es": "28 de septiembre: el fuego de Saumos está extinguido (prefectura) — 42.000 ha recorridas, de ellas 37.296 ha destruidas; 252 edificios destruidos; ninguna víctima",
+      "de": "28. September: das Feuer von Saumos ist gelöscht (Präfektur) — 42.000 ha durchlaufen, davon 37.296 ha zerstört; 252 Gebäude zerstört; keine Todesopfer",
+      "nl": "28 september: de brand van Saumos is geblust (prefectuur) — 42.000 ha doorlopen, waarvan 37.296 ha vernietigd; 252 gebouwen vernietigd; geen dodelijke slachtoffers"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Le-feu-de-Saumos-est-desormais-eteint",
     "tier": 0
   },
   {
-    "id": "vigilance-orange-20-aout",
+    "id": "vigilance-jaune-28-septembre",
     "label": {
-      "fr": "Vigilance feux de forêt abaissée en orange (préfecture, 20 août — jusqu'à nouvel ordre)",
-      "en": "Wildfire alert lowered to orange (préfecture, 20 August — until further notice)",
-      "es": "Vigilancia de incendios bajada a naranja (prefectura, 20 agosto — hasta nuevo aviso)",
-      "de": "Waldbrandwarnung auf Orange gesenkt (Präfektur, 20. August — bis auf Weiteres)",
-      "nl": "Bosbrandwaarschuwing verlaagd naar oranje (prefectuur, 20 augustus — tot nader order)"
+      "fr": "Vigilance feux de forêt jaune depuis le 28 septembre (niveau 2/5) — secteurs incendiés toujours interdits, sauf intérêt légitime",
+      "en": "Forest-fire alert yellow since 28 September (level 2/5) — burned sectors still forbidden, except a legitimate reason",
+      "es": "Vigilancia amarilla de incendios desde el 28 de septiembre (nivel 2/5) — sectores quemados aún prohibidos, salvo interés legítimo",
+      "de": "Waldbrandwarnung Gelb seit 28. September (Stufe 2/5) — Brandsektoren weiter verboten, außer berechtigtes Interesse",
+      "nl": "Bosbrandwaarschuwing geel sinds 28 september (niveau 2/5) — verbrande sectoren nog verboden, behalve gerechtvaardigd belang"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-JAUNE-a-compter-du-lundi-28-septembre",
     "tier": 0
   },
   {
-    "id": "sinistre-declaration-31-aout",
+    "id": "prefecture-communiques-septembre",
     "label": {
-      "fr": "Déclaration de sinistre : délai exceptionnel jusqu'au 31 août 2026 (préfecture, 20 août)",
-      "en": "Insurance claims: exceptional deadline 31 August 2026 (préfecture, 20 August)",
-      "es": "Declaración de siniestro: plazo excepcional hasta el 31 de agosto de 2026 (prefectura, 20 agosto)",
-      "de": "Schadensmeldung: außerordentliche Frist bis 31. August 2026 (Präfektur, 20. August)",
-      "nl": "Schadeaangifte: uitzonderlijke termijn tot 31 augustus 2026 (prefectuur, 20 augustus)"
+      "fr": "Communiqués de presse de la préfecture (septembre 2026)",
+      "en": "Préfecture press releases (September 2026)",
+      "es": "Comunicados de prensa de la prefectura (septiembre 2026)",
+      "de": "Pressemitteilungen der Präfektur (September 2026)",
+      "nl": "Persberichten van de prefectuur (september 2026)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Rappel-du-delai-de-declaration-de-sinistre-pour-les-victimes-des-incendies-en-Gironde",
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026",
+    "tier": 0
+  },
+  {
+    "id": "reconstruction-7-septembre",
+    "label": {
+      "fr": "Reconstruction : point d'étape de l'État (réunion du 7 septembre)",
+      "en": "Reconstruction: State progress update (meeting of 7 September)",
+      "es": "Reconstrucción: punto de situación del Estado (reunión del 7 de septiembre)",
+      "de": "Wiederaufbau: Zwischenstand des Staates (Sitzung vom 7. September)",
+      "nl": "Herstel: tussenstand van de Staat (bijeenkomst van 7 september)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Incendie-de-Saumos-l-Etat-pleinement-mobilise-pour-accompagner-la-reconstruction-du-territoire",
+    "tier": 0
+  },
+  {
+    "id": "sante-suivi-24-septembre",
+    "label": {
+      "fr": "Santé : renforts médicaux et suivi psychologique (préfecture, 24 septembre)",
+      "en": "Health: medical reinforcements and psychological follow-up (préfecture, 24 September)",
+      "es": "Salud: refuerzos médicos y seguimiento psicológico (prefectura, 24 de septiembre)",
+      "de": "Gesundheit: medizinische Verstärkung und psychologische Begleitung (Präfektur, 24. September)",
+      "nl": "Gezondheid: medische versterking en psychologische opvolging (prefectuur, 24 september)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Incendies-de-Gironde-des-renforts-medicaux-et-une-poursuite-de-l-accompagnement-psychologique",
+    "tier": 0
+  },
+  {
+    "id": "activite-partielle-25-septembre",
+    "label": {
+      "fr": "Entreprises : activité partielle prolongée jusqu'au 4 octobre 2026 (préfecture, 25 septembre)",
+      "en": "Businesses: partial-activity aid extended until 4 October 2026 (préfecture, 25 September)",
+      "es": "Empresas: actividad parcial prolongada hasta el 4 de octubre de 2026 (prefectura, 25 de septiembre)",
+      "de": "Unternehmen: Kurzarbeit bis 4. Oktober 2026 verlängert (Präfektur, 25. September)",
+      "nl": "Bedrijven: deeltijdwerk verlengd tot 4 oktober 2026 (prefectuur, 25 september)"
+    },
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Activite-partielle-delai-accorde-par-l-Etat-aux-entreprises-apres-les-incendies-cet-ete",
     "tier": 0
   },
   {
     "id": "livret-accompagnement-hub",
     "label": {
-      "fr": "Informations utiles, attestations et livret d'accompagnement (préfecture — maj 21 août)",
-      "en": "Useful information, attestations and support booklet (préfecture — updated 21 August)",
-      "es": "Información útil, atestados y folleto de acompañamiento (prefectura — act. 21 agosto)",
-      "de": "Nützliche Informationen, Bescheinigungen und Heft (Präfektur — Stand 21. August)",
-      "nl": "Nuttige informatie, attesten en informatieboekje (prefectuur — bijgewerkt 21 augustus)"
+      "fr": "Attestations et livret d'accompagnement (page préfecture — maj 21 août)",
+      "en": "Attestations and support booklet (préfecture page — updated 21 August)",
+      "es": "Atestados y folleto de acompañamiento (página prefectura — act. 21 agosto)",
+      "de": "Bescheinigungen und Informationsheft (Präfekturseite — Stand 21. August)",
+      "nl": "Attesten en informatieboekje (prefectuurpagina — bijgewerkt 21 augustus)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
     "tier": 0
@@ -50,11 +86,11 @@
   {
     "id": "faq-incendie",
     "label": {
-      "fr": "Foire aux questions incendie (préfecture — maj 10 août 10h)",
-      "en": "Wildfire FAQ (préfecture — updated 10 August 10am)",
-      "es": "Preguntas frecuentes incendio (prefectura — act. 10 agosto 10h)",
-      "de": "FAQ Waldbrand (Präfektur — Stand 10. August 10 Uhr)",
-      "nl": "Veelgestelde vragen brand (prefectuur — bijgewerkt 10 augustus 10.00 uur)"
+      "fr": "Foire aux questions incendie (préfecture)",
+      "en": "Wildfire FAQ (préfecture)",
+      "es": "Preguntas frecuentes incendio (prefectura)",
+      "de": "FAQ Waldbrand (Präfektur)",
+      "nl": "Veelgestelde vragen brand (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Foire-aux-questions/Foire-aux-questions-incendie",
     "tier": 0
@@ -62,25 +98,13 @@
   {
     "id": "france-services-victimes-porge",
     "label": {
-      "fr": "Maison France Services Victimes — Le Porge (école, chemin de Gleysaou), 9h–18h",
-      "en": "France Services Victims centre — Le Porge (school, chemin de Gleysaou), 9am–6pm",
-      "es": "Maison France Services Victimes — Le Porge (escuela, chemin de Gleysaou), 9h–18h",
-      "de": "Maison France Services Victimes — Le Porge (Schule, chemin de Gleysaou), 9–18 Uhr",
-      "nl": "Maison France Services Victimes — Le Porge (school, chemin de Gleysaou), 9–18 uur"
+      "fr": "Maison France Services Victimes au Porge — communiqué d'ouverture (confirmer horaires sur place)",
+      "en": "France Services Victims centre in Le Porge — opening release (confirm hours on site)",
+      "es": "Maison France Services Victimes en Le Porge — comunicado de apertura (confirme horarios in situ)",
+      "de": "Maison France Services Victimes in Le Porge — Eröffnungsmittelung (Zeiten vor Ort bestätigen)",
+      "nl": "Maison France Services Victimes in Le Porge — openingsbericht (bevestig uren ter plaatse)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Ouverture-d-un-centre-d-accueil-France-Services-Victimes-au-Porge",
-    "tier": 0
-  },
-  {
-    "id": "centres-accueil-liste",
-    "label": {
-      "fr": "Centres d'accueil (page préfecture — confirmer avant de se déplacer)",
-      "en": "Reception centres (préfecture page — confirm before travelling)",
-      "es": "Centros de acogida (página prefectura — confirme antes de desplazarse)",
-      "de": "Aufnahmezentren (Präfekturseite — vor der Fahrt bestätigen)",
-      "nl": "Opvangcentra (prefectuurpagina — bevestig vóór vertrek)"
-    },
-    "url": "https://www.gironde.gouv.fr/Actualites/Breves/Incendie-Centres-d-accueil",
     "tier": 0
   },
   {
@@ -96,30 +120,6 @@
     "tier": 0
   },
   {
-    "id": "bordeaux-metropole-accueil",
-    "label": {
-      "fr": "Bordeaux Métropole — relogement et accompagnement — 0 800 006 090",
-      "en": "Bordeaux Métropole — rehousing and support — 0 800 006 090",
-      "es": "Bordeaux Métropole — realojamiento y acompañamiento — 0 800 006 090",
-      "de": "Bordeaux Métropole – Unterbringung und Begleitung – 0 800 006 090",
-      "nl": "Bordeaux Métropole — herhuisvesting en begeleiding — 0 800 006 090"
-    },
-    "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-temps-relogement-laccompagnement",
-    "tier": 1
-  },
-  {
-    "id": "secheresse-restrictions",
-    "label": {
-      "fr": "Sécheresse : arrêtés et restrictions d'eau (préfecture / VigiEau)",
-      "en": "Drought: water-use orders and restrictions (préfecture / VigiEau)",
-      "es": "Sequía: decretos y restricciones de agua (prefectura / VigiEau)",
-      "de": "Dürre: Erlasse und Wassernutzungsbeschränkungen (Präfektur / VigiEau)",
-      "nl": "Droogte: besluiten en waterbeperkingen (prefectuur / VigiEau)"
-    },
-    "url": "https://www.gironde.gouv.fr/Demarches/Reglementation-et-environnement/Secheresse",
-    "tier": 0
-  },
-  {
     "id": "meteo-des-forets",
     "label": {
       "fr": "Météo des forêts (risque de feu)",
@@ -130,17 +130,5 @@
     },
     "url": "https://meteofrance.com/meteo-des-forets",
     "tier": 0
-  },
-  {
-    "id": "atmo-nouvelle-aquitaine",
-    "label": {
-      "fr": "Atmo Nouvelle-Aquitaine — qualité de l'air",
-      "en": "Atmo Nouvelle-Aquitaine — air quality",
-      "es": "Atmo Nouvelle-Aquitaine — calidad del aire",
-      "de": "Atmo Nouvelle-Aquitaine — Luftqualität",
-      "nl": "Atmo Nouvelle-Aquitaine — luchtkwaliteit"
-    },
-    "url": "https://www.atmo-nouvelleaquitaine.org/",
-    "tier": 2
   }
 ]

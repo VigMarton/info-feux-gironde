@@ -123,11 +123,11 @@
       "nl": "Wegen en verkeer"
     },
     "description": {
-      "fr": "Consultez Inforoutes Gironde pour les fermetures. Le communiqué du 20/08 rappelle que la présence humaine reste interdite dans les secteurs impactés par les incendies.",
-      "en": "Check Gironde Inforoutes for closures. The 20/08 communiqué states that human presence remains forbidden in sectors affected by the fires.",
-      "es": "Consulte Inforoutes Gironde para los cierres. El comunicado del 20/08 recuerda que la presencia humana sigue prohibida en los sectores afectados por los incendios.",
-      "de": "Inforoutes Gironde für Sperrungen prüfen. Die Mitteilung vom 20.08. hält fest, dass menschlicher Aufenthalt in den betroffenen Sektoren verboten bleibt.",
-      "nl": "Raadpleeg Inforoutes Gironde voor afsluitingen. Het bericht van 20/08 stelt dat menselijke aanwezigheid in door de branden getroffen sectoren verboden blijft."
+      "fr": "Consultez Inforoutes Gironde pour les fermetures. Depuis le 28/09, la présence reste interdite dans les secteurs incendiés (communiqué vigilance jaune), pas dans l'ensemble des massifs.",
+      "en": "Check Gironde Inforoutes for closures. Since 28/09, presence remains forbidden inside burned sectors (yellow-alert communiqué), not across all forest areas.",
+      "es": "Consulte Inforoutes Gironde para los cierres. Desde el 28/09, la presencia sigue prohibida en los sectores quemados (comunicado de vigilancia amarilla), no en todos los macizos.",
+      "de": "Inforoutes Gironde für Sperrungen prüfen. Seit dem 28.09. bleibt der Aufenthalt in Brandsektoren verboten (Mitteilung Warnstufe Gelb), nicht in allen Waldflächen.",
+      "nl": "Raadpleeg Inforoutes Gironde voor afsluitingen. Sinds 28/09 blijft aanwezigheid verboden in verbrande sectoren (bericht gele waarschuwing), niet in alle bosgebieden."
     },
     "actionLabel": {
       "fr": "Consulter Inforoutes Gironde",
@@ -137,8 +137,8 @@
       "nl": "Raadpleeg Inforoutes Gironde"
     },
     "url": "https://www.gironde.fr/deplacements/inforoutes",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
-    "verifiedAt": "2026-08-25T18:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-JAUNE-a-compter-du-lundi-28-septembre",
+    "verifiedAt": "2026-09-29T22:45:00+02:00"
   },
   {
     "id": "evacuation-attestation",
@@ -151,11 +151,11 @@
       "nl": "Attesten, boekje en schadeaangifte"
     },
     "description": {
-      "fr": "Attestations et livret : page « informations utiles » (maj 21/08). Délai exceptionnel de déclaration de sinistre jusqu'au 31 août 2026 (communiqué 20/08). Démarchage abusif : ne signez rien sous pression ; SignalConso 0809 540 550.",
-      "en": "Attestations and booklet: “useful information” page (updated 21/08). Exceptional insurance-claim deadline 31 August 2026 (20/08 release). Abusive soliciting: do not sign under pressure; SignalConso 0809 540 550.",
-      "es": "Atestados y folleto: página «informaciones útiles» (act. 21/08). Plazo excepcional de siniestro hasta el 31 de agosto de 2026 (comunicado 20/08). Captación abusiva: no firme bajo presión; SignalConso 0809 540 550.",
-      "de": "Bescheinigungen und Heft: Seite „nützliche Informationen“ (Stand 21.08.). Außerordentliche Schadensfrist 31. August 2026 (Mitteilung 20.08.). Aggressive Werbung: nichts unter Druck unterschreiben; SignalConso 0809 540 550.",
-      "nl": "Attesten en boekje: pagina «nuttige informatie» (bijgewerkt 21/08). Uitzonderlijke schadeaangiftetermijn 31 augustus 2026 (bericht 20/08). Misleidende acquisitie: onderteken niets onder druk; SignalConso 0809 540 550."
+      "fr": "Attestations et livret : page « informations utiles » de la préfecture (maj 21/08). Le délai exceptionnel de déclaration annoncé le 20/08 courait jusqu'au 31/08/2026. Pour l'activité partielle des entreprises, voir le communiqué du 25/09 (prolongation jusqu'au 4/10/2026).",
+      "en": "Attestations and booklet: préfecture “useful information” page (updated 21/08). The exceptional claim deadline announced on 20/08 ran until 31/08/2026. For business partial activity, see the 25/09 release (extended until 4/10/2026).",
+      "es": "Atestados y folleto: página «informaciones útiles» de la prefectura (act. 21/08). El plazo excepcional anunciado el 20/08 iba hasta el 31/08/2026. Para la actividad parcial de empresas, vea el comunicado del 25/09 (hasta el 4/10/2026).",
+      "de": "Bescheinigungen und Heft: Präfekturseite „nützliche Informationen“ (Stand 21.08.). Die am 20.08. angekündigte außerordentliche Frist lief bis 31.08.2026. Für Kurzarbeit siehe die Mitteilung vom 25.09. (bis 4.10.2026).",
+      "nl": "Attesten en boekje: prefectuurpagina «nuttige informatie» (bijgewerkt 21/08). De uitzonderlijke termijn van 20/08 liep tot 31/08/2026. Voor deeltijdwerk van bedrijven: zie het bericht van 25/09 (tot 4/10/2026)."
     },
     "actionLabel": {
       "fr": "Page informations utiles (préfecture)",
@@ -165,8 +165,8 @@
       "nl": "Pagina nuttige informatie (prefectuur)"
     },
     "url": "https://www.gironde.gouv.fr/Actualites/Incendie-en-Gironde-toutes-les-informations-utiles",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Rappel-du-delai-de-declaration-de-sinistre-pour-les-victimes-des-incendies-en-Gironde",
-    "verifiedAt": "2026-08-25T18:50:00+02:00"
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Activite-partielle-delai-accorde-par-l-Etat-aux-entreprises-apres-les-incendies-cet-ete",
+    "verifiedAt": "2026-09-29T22:45:00+02:00"
   },
   {
     "id": "tourists-info",
@@ -179,21 +179,21 @@
       "nl": "Toegang tot bossen en verbrande zones"
     },
     "description": {
-      "fr": "Depuis le 20/08, vigilance feux de forêt orange jusqu'à nouvel ordre. La présence humaine reste interdite dans les secteurs impactés. Consultez le communiqué et FR-Alert — nous n'indiquons pas si un camping ou une commune est « ouverte ».",
-      "en": "Since 20/08, forest-fire alert is orange until further notice. Human presence remains forbidden in affected sectors. Check the communiqué and FR-Alert — we do not say whether a campsite or commune is “open”.",
-      "es": "Desde el 20/08, vigilancia naranja de incendios hasta nuevo aviso. La presencia humana sigue prohibida en los sectores afectados. Consulte el comunicado y FR-Alert — no indicamos si un camping o municipio está «abierto».",
-      "de": "Seit 20.08. Waldbrandwarnung Orange bis auf Weiteres. Menschlicher Aufenthalt in betroffenen Sektoren bleibt verboten. Mitteilung und FR-Alert prüfen — wir sagen nicht, ob ein Camping oder eine Gemeinde „offen“ ist.",
-      "nl": "Sinds 20/08 is de bosbrandwaarschuwing oranje tot nader order. Menselijke aanwezigheid in getroffen sectoren blijft verboden. Raadpleeg het bericht en FR-Alert — wij zeggen niet of een camping of gemeente «open» is."
+      "fr": "28 septembre : vigilance feux de forêt jaune (niveau 2/5). La présence libre est de nouveau permise dans les espaces forestiers ordinaires. Elle reste interdite dans les secteurs incendiés, sauf intérêt légitime. Le feu de Saumos est déclaré éteint le même jour. Nous n'indiquons pas si un camping est « ouvert ».",
+      "en": "28 September: forest-fire alert yellow (level 2/5). Free presence is allowed again in ordinary forest areas. It remains forbidden inside burned sectors, except a legitimate reason. The Saumos fire was declared out the same day. We do not say whether a campsite is “open”.",
+      "es": "28 de septiembre: vigilancia amarilla de incendios (nivel 2/5). La presencia libre vuelve a estar permitida en los espacios forestales ordinarios. Sigue prohibida en los sectores quemados, salvo interés legítimo. El fuego de Saumos se declaró extinguido el mismo día. No indicamos si un camping está «abierto».",
+      "de": "28. September: Waldbrandwarnung Gelb (Stufe 2/5). Freier Aufenthalt ist in gewöhnlichen Waldflächen wieder erlaubt. In Brandsektoren bleibt er verboten, außer berechtigtes Interesse. Das Feuer von Saumos wurde am selben Tag für gelöscht erklärt. Wir sagen nicht, ob ein Camping „offen“ ist.",
+      "nl": "28 september: bosbrandwaarschuwing geel (niveau 2/5). Vrije aanwezigheid is weer toegestaan in gewone bosgebieden. In verbrande sectoren blijft ze verboden, behalve gerechtvaardigd belang. De brand van Saumos is dezelfde dag geblust verklaard. Wij zeggen niet of een camping «open» is."
     },
     "actionLabel": {
-      "fr": "Lire le communiqué vigilance orange (20 août)",
-      "en": "Read the orange-alert release (20 August)",
-      "es": "Leer el comunicado de vigilancia naranja (20 agosto)",
-      "de": "Orange-Warnung lesen (20. August)",
-      "nl": "Lees het oranje-waarschuwingsbericht (20 augustus)"
+      "fr": "Lire le communiqué vigilance jaune (28 septembre)",
+      "en": "Read the yellow-alert release (28 September)",
+      "es": "Leer el comunicado de vigilancia amarilla (28 septiembre)",
+      "de": "Gelbe Warnung lesen (28. September)",
+      "nl": "Lees het gele waarschuwingsbericht (28 september)"
     },
-    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
-    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Aout-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-ORANGE-a-compter-du-jeudi-20-aout",
-    "verifiedAt": "2026-08-25T18:50:00+02:00"
+    "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Le-niveau-de-vigilance-feux-de-foret-en-Gironde-abaisse-en-JAUNE-a-compter-du-lundi-28-septembre",
+    "sourceUrl": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Septembre-2026/Le-feu-de-Saumos-est-desormais-eteint",
+    "verifiedAt": "2026-09-29T22:45:00+02:00"
   }
 ]
